@@ -1,5 +1,23 @@
 # Fuentes locales para la traducción
 
+## Compendios de Foundry
+
+Ejecutar como GM mediante una macro de tipo Script:
+
+```js
+const {exportCompendiums} = await import("/modules/translate-dnd5e-dm-2024-es/dev-tools/export/export-compendiums.mjs");
+await exportCompendiums();
+```
+
+Se leen los siete packs con la API de documentos, sin modificar los originales.
+Si Babele ha traducido un pack o documento, la exportación se rechaza: desactivar
+Babele y recargar antes de repetir. Los JSON completos se escriben en `data/`
+mediante FilePicker; el inventario incluye versiones, recuentos y SHA-256.
+La ejecución reemplaza las exportaciones del mismo nombre. El inventario se
+escribe al final y debe verificarse antes de consumir los datos.
+
+## PDF y OCR
+
 Los PDF originales y su texto OCR se guardan en `data/`, excluido de Git.
 Consultar [data/ocr/README.md](data/ocr/README.md) para localizar páginas,
 entender las métricas y reutilizar los resultados.
