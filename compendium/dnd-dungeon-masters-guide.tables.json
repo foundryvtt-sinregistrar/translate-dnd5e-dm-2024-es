@@ -1,0 +1,12 @@
+{
+  "label": "Tablas",
+  "mapping": {
+    "description": "description",
+    "results": {
+      "path": "results",
+      "converter": "dmg2024TableResultsById"
+    }
+  },
+  "folders": {},
+  "entries": {}
+}

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+node_modules/
+.idea/
+.vscode/
+dist/
+tmp/
+dev-tools/export/data/*
+!dev-tools/export/data/.gitkeep
+dev-tools/_informes/

@@ -1,0 +1,20 @@
+{
+  "label": "Bastiones",
+  "mapping": {
+    "description": "system.description.value",
+    "activities": {
+      "path": "system.activities",
+      "converter": "dmg2024ActivitiesById"
+    },
+    "effects": {
+      "path": "effects",
+      "converter": "dmg2024EffectsById"
+    },
+    "advancement": {
+      "path": "system.advancement",
+      "converter": "dmg2024AdvancementById"
+    }
+  },
+  "folders": {},
+  "entries": {}
+}

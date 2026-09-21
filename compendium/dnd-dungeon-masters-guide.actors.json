@@ -1,0 +1,17 @@
+{
+  "label": "Actores",
+  "mapping": {
+    "biography": "system.details.biography.value",
+    "tokenName": "prototypeToken.name",
+    "items": {
+      "path": "items",
+      "converter": "dmg2024ActorItemsById"
+    },
+    "effects": {
+      "path": "effects",
+      "converter": "dmg2024EffectsById"
+    }
+  },
+  "folders": {},
+  "entries": {}
+}

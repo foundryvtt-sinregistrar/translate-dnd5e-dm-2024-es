@@ -1,0 +1,11 @@
+{
+  "label": "Guía del Dungeon Master",
+  "mapping": {
+    "pages": {
+      "path": "pages",
+      "converter": "dmg2024JournalPagesById"
+    }
+  },
+  "folders": {},
+  "entries": {}
+}

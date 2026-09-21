@@ -1,0 +1,62 @@
+{
+  "id": "translate-dnd5e-dm-2024-es",
+  "title": "Translation: DnD5e Dungeon Master's Guide - Spanish Translation (Babele)",
+  "description": "Traducción al español de la Guía del Dungeon Master 2024 mediante Babele. Esqueleto en desarrollo; contenido pendiente de traducir.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "14.368",
+    "verified": "14.368"
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.3",
+          "verified": "6.0.3"
+        }
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.9.1"
+        }
+      },
+      {
+        "id": "dnd-dungeon-masters-guide",
+        "type": "module",
+        "compatibility": {
+          "minimum": "2.0.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/converters.js",
+    "scripts/babele-register.js"
+  ],
+  "authors": [
+    {
+      "name": "foundryvtt-sinregistrar"
+    }
+  ],
+  "url": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es",
+  "bugs": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/issues",
+  "readme": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/blob/main/README.md"
+}
