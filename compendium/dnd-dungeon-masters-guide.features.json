@@ -15,11 +15,101 @@
       "converter": "dmg2024AdvancementById"
     }
   },
-  "folders": {},
+  "folders": {"Creature Traits": "Atributos de criaturas"},
   "entries": {
     "dmgAversionToFir": {
       "name": "Aversión al fuego",
       "description": "<p>Si [[lookup @name]] recibe daño de fuego, tiene desventaja en las tiradas de ataque y las pruebas de característica hasta el final de su siguiente turno.</p>"
+    },
+    "dmgBattleReady00": {
+      "name": "Listo para el combate",
+      "description": "<p>[[lookup @name]] tiene ventaja en las tiradas de iniciativa.</p>"
+    },
+    "dmgBeastWhispere": {
+      "name": "Susurrador de bestias",
+      "description": "<p>[[lookup @name]] puede comunicarse con bestias como si compartieran un idioma.</p>"
+    },
+    "dmgDeathJinx0000": {
+      "name": "Muerte maléfica",
+      "description": "<p>Cuando [[lookup @name]] muere, una criatura aleatoria situada a 10 pies o menos del cadáver de [[lookup @name]] se convierte en el objetivo de un conjuro @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplBane000000]{Perdición} (CD de salvación 13), que se mantiene durante toda su duración.</p>"
+    },
+    "dmgDimensionalDi": {
+      "name": "Disrupción dimensional",
+      "description": "<p>Una energía perjudicial surge de [[lookup @name]] en una emanación de 30 pies. Las demás criaturas no pueden teletransportarse a un espacio de esa zona ni desde él. Cualquier intento de hacerlo se malgasta.</p>",
+      "activities": {"mNTdKjkpB95lo9ti": {"name": "Plantilla de disrupción"}}
+    },
+    "dmgDiscipleOfThe": {
+      "name": "Discípulo de los Nueve Infiernos",
+      "description": "<p>Cuando [[lookup @name]] muere, su cuerpo regurgita un @UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.dmgmobImp0000000]{diablillo} hostil en el mismo espacio.</p>"
+    },
+    "dmgDisintegratio": {
+      "name": "Desintegración",
+      "description": "<p>Cuando [[lookup @name]] muere, su cuerpo y sus posesiones no mágicas se convierten en polvo. Los objetos mágicos que poseyera quedan en su espacio.</p>"
+    },
+    "dmgEmissaryOfJui": {
+      "name": "Emisario de Juiblex",
+      "description": "<p>Cuando [[lookup @name]] muere, su cuerpo regurgita una <strong>gelatina ocre</strong> hostil en el mismo espacio.</p>"
+    },
+    "dmgFeyAncestry00": {
+      "name": "Linaje feérico",
+      "description": "<p>[[lookup @name]] tiene ventaja en las tiradas de salvación que haga para evitar o poner fin al estado &amp;Reference[charmed], y la magia no puede dormirlo.</p>"
+    },
+    "dmgForbiddance00": {
+      "name": "Prohibición",
+      "description": "<p>[[lookup @name]] no puede entrar en una vivienda sin que uno de sus ocupantes lo invite a pasar.</p>"
+    },
+    "dmgGloomShroud00": {
+      "name": "Velo de pesadumbre",
+      "description": "<p>Una energía imperceptible canalizada desde el Páramo Sombrío surge de [[lookup @name]] en una emanación de 20 pies. Las demás criaturas situadas en esa zona tienen desventaja en las pruebas de Carisma y en las tiradas de salvación de Carisma.</p>",
+      "activities": {"HTJL6IVrLZRskYR1": {"name": "Plantilla de emanación"}}
+    },
+    "dmgLight00000000": {
+      "name": "Iluminación",
+      "description": "<p>[[lookup @name]] emite luz brillante en un radio de 10 pies y luz tenue 10 pies más allá. Como acción adicional, [[lookup @name]] puede suprimir esta luz o hacer que vuelva. La luz se extingue si [[lookup @name]] muere.</p>"
+    },
+    "dmgMimicry000000": {
+      "name": "Imitación",
+      "description": "<p>[[lookup @name]] puede imitar sonidos de bestias y voces de humanoides. Una criatura que oiga estos sonidos puede darse cuenta de que son imitaciones si supera una prueba de Sabiduría (Perspicacia) con CD 14.</p>"
+    },
+    "dmgPoisonToleran": {
+      "name": "Tolerancia al veneno",
+      "description": "<p>[[lookup @name]] tiene ventaja en las tiradas de salvación que haga para evitar o poner fin al estado &amp;Reference[Poisoned apply=false].</p>"
+    },
+    "dmgResonantConne": {
+      "name": "Conexión resonante",
+      "description": "<p>[[lookup @name]] tiene una conexión sobrenatural con otra criatura o un objeto y conoce la ruta más directa hacia él, siempre que ambos se encuentren a 1 milla o menos de distancia entre sí.</p>"
+    },
+    "dmgSiegeMonster0": {
+      "name": "Monstruo de asedio",
+      "description": "<p>[[lookup @name]] causa el doble de daño a objetos y estructuras.</p>"
+    },
+    "dmgSlaadHost0000": {
+      "name": "Anfitrión de slaad",
+      "description": "<p>Cuando [[lookup @name]] muere, un <strong>renacuajo slaad</strong> hostil surge de sus entrañas en el mismo espacio.</p>"
+    },
+    "dmgSteadfast0000": {
+      "name": "Resuelto",
+      "description": "<p>[[lookup @name]] tiene inmunidad al estado &amp;Reference[Frightened apply=false] mientras pueda ver a un aliado situado a 30 pies o menos.</p>"
+    },
+    "dmgTelepathicBon": {
+      "name": "Enlace telepático",
+      "description": "<p>[[lookup @name]] está ligado psíquicamente a otra criatura. Mientras ambas estén en el mismo plano de existencia, pueden comunicarse telepáticamente entre sí.</p>"
+    },
+    "dmgTelepathicShr": {
+      "name": "Velo telepático",
+      "description": "<p>[[lookup @name]] es inmune a cualquier efecto que pudiera detectar sus emociones o leer sus pensamientos, así como a los conjuros de la escuela de adivinación. Como acción adicional, [[lookup @name]] puede suprimir este atributo o reactivarlo.</p>"
+    },
+    "dmgVentriloquism": {
+      "name": "Ventriloquía",
+      "description": "<p>Cuando [[lookup @name]] habla, puede elegir un punto situado a 30 pies o menos; su voz emana de ese punto.</p>"
+    },
+    "dmgWarriorsWrath": {
+      "name": "Ira guerrera",
+      "description": "<p>[[lookup @name]] tiene ventaja en las tiradas de ataque cuerpo a cuerpo contra cualquier criatura &amp;Reference[Bloodied].</p>"
+    },
+    "dmgWildTalent000": {
+      "name": "Talento salvaje",
+      "description": "<p>Elige un truco; [[lookup @name]] puede lanzarlo sin componentes de conjuro, utilizando la Inteligencia, la Sabiduría o el Carisma como aptitud mágica.</p>"
     }
   }
 }
