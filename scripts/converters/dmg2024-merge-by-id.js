@@ -24,6 +24,7 @@ export const dmg2024ActivitiesById = mergeById;
 export const dmg2024EffectsById = mergeById;
 export const dmg2024AdvancementById = mergeById;
 export const dmg2024TableResultsById = mergeById;
+export const dmg2024SceneTextById = mergeById;
 
 export function dmg2024JournalPagesById(source, translation) {
   if (!source || !translation || typeof translation !== "object") return source;
@@ -34,6 +35,10 @@ export function dmg2024JournalPagesById(source, translation) {
     const patch = id ? translation[id] : null;
     if (!patch || typeof patch !== "object") continue;
     if (typeof patch.name === "string") page.name = patch.name;
+    if (typeof patch.image?.caption === "string") {
+      page.image ??= {};
+      page.image.caption = patch.image.caption;
+    }
     if (typeof patch.text === "string") {
       if (typeof page.text === "string") page.text = patch.text;
       else {
@@ -60,6 +65,18 @@ export function dmg2024ActorItemsById(source, translation) {
       item.system ??= {};
       item.system.description ??= {};
       item.system.description.value = patch.description;
+    }
+    if (typeof patch.descriptionChat === "string") {
+      item.system ??= {}; item.system.description ??= {};
+      item.system.description.chat = patch.descriptionChat;
+    }
+    if (typeof patch.requirements === "string") {
+      item.system ??= {};
+      item.system.requirements = patch.requirements;
+    }
+    if (typeof patch.unidentifiedDescription === "string") {
+      item.system ??= {}; item.system.unidentified ??= {};
+      item.system.unidentified.description = patch.unidentifiedDescription;
     }
     if (patch.activities) {
       item.system ??= {};

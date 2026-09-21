@@ -4,7 +4,8 @@ import {
   dmg2024AdvancementById,
   dmg2024ActorItemsById,
   dmg2024TableResultsById,
-  dmg2024JournalPagesById
+  dmg2024JournalPagesById,
+  dmg2024SceneTextById
 } from "./converters/dmg2024-merge-by-id.js";
 
 /** Convertidores estructurados de Babele para los documentos de la Guía del Dungeon Master. */
@@ -22,7 +23,8 @@ Hooks.once("babele.init", (babele) => {
       dmg2024AdvancementById,
       dmg2024ActorItemsById,
       dmg2024TableResultsById,
-      dmg2024JournalPagesById
+      dmg2024JournalPagesById,
+      dmg2024SceneTextById
     });
   });
 });
