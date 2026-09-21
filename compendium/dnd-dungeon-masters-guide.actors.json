@@ -13,5 +13,16 @@
     }
   },
   "folders": {},
-  "entries": {}
+  "entries": {
+    "dmg3x5CarpetofFl": {
+      "name": "Alfombra voladora (3 por 5 pies)",
+      "tokenName": "Alfombra voladora",
+      "items": {
+        "jRXMMWyLsf3cPmSP": {
+          "name": "Ajuste de capacidad de carga",
+          "description": "<p>Este objeto sirve para ajustar la capacidad de carga calculada de la alfombra de acuerdo con sus dimensiones.</p>"
+        }
+      }
+    }
+  }
 }

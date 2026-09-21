@@ -8,5 +8,21 @@
     }
   },
   "folders": {},
-  "entries": {}
+  "entries": {
+    "dmgAdventureClim": {
+      "name": "Clímax para aventuras",
+      "results": {
+        "Lei7pLDJJa4lvIom": {"description": "<p>Los aventureros se enfrentan a un villano y a un grupo de secuaces en una batalla a muerte.</p>"},
+        "p2T7hkBlbAequlcI": {"description": "<p>Los aventureros persiguen a un villano mientras esquivan obstáculos diseñados para detenerlos, hasta llegar a una confrontación final en su refugio.</p>"},
+        "rHL6EqN3hxWX2i7k": {"description": "<p>Las acciones de los aventureros o de un villano provocan un suceso catastrófico del que los aventureros deben escapar.</p>"},
+        "TzbC2Kihhegi1PNh": {"description": "<p>Los aventureros se apresuran hasta el lugar donde un villano está culminando su plan maestro y llegan justo cuando está a punto de completarlo.</p>"},
+        "k5gTXu5e4PfxvTIL": {"description": "<p>Un villano y dos o tres lugartenientes realizan rituales por separado en una estancia grande. Los aventureros deben interrumpir todos los rituales.</p>"},
+        "mr6PnHlgdUkbjH2T": {"description": "<p>Un aliado traiciona a los aventureros cuando están a punto de lograr su objetivo. (Usa este clímax con cuidado y no abuses de él).</p>"},
+        "VZr8RLQ1anVHHk5X": {"description": "<p>Se abre un portal a otro plano de existencia. Las criaturas del otro lado lo atraviesan, obligando a los aventureros a cerrar el portal mientras se enfrentan a un villano.</p>"},
+        "YirxDe6vq9dWICq5": {"description": "<p>La mazmorra comienza a derrumbarse mientras un villano intenta escapar en medio del caos.</p>"},
+        "KPwqDIc5uxcVxGXa": {"description": "<p>Los aventureros deben elegir entre perseguir a un villano que huye o salvar a un PNJ que les importa o a un grupo de inocentes.</p>"},
+        "AVhSTqJzzRXt2UY8": {"description": "<p>Justo cuando los personajes creen haber derrotado a la amenaza principal, esta se transforma en un monstruo diferente o adopta una forma más poderosa.</p>"}
+      }
+    }
+  }
 }

@@ -7,5 +7,19 @@
     }
   },
   "folders": {},
-  "entries": {}
+  "entries": {
+    "dmgBringItToAnEn": {
+      "name": "Ponerle fin",
+      "pages": {
+        "Zpgx7bxPIK9052YV": {
+          "name": "Ponerle fin",
+          "text": "<p>La emocionante conclusión de una aventura es el colofón de todo lo que ha sucedido antes. El mejor clímax es aquel que los jugadores ven venir; por ejemplo, si un dragón es el cerebro detrás de toda la actividad perversa de una aventura, hacer que sus secuaces mencionen la naturaleza de su jefe prepara el encuentro culminante que se avecina.</p><p>Aunque el clímax debe depender de los éxitos y fracasos de los personajes hasta ese momento, la tabla Clímax para aventuras ofrece sugerencias para dar forma al final de tu aventura.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgAdventureClim rollable]</p>"
+        },
+        "9f1Ky49qSQIg5TT7": {
+          "name": "Desenlace",
+          "text": "<p>En la mayoría de las historias hay un periodo posterior al clímax en el que se atan los cabos sueltos y todo queda explicado. Una aventura también puede incluir este tipo de desenlace: el momento de descubrir qué tesoro oculta el dragón, una entrega de premios en la que la reina concede medallas a los héroes victoriosos o incluso un periodo de luto por los compañeros que no sobrevivieron a la batalla.</p><p>El desenlace también puede servir para que los jugadores identifiquen cabos sueltos que puedan conducirlos a la siguiente aventura. El apartado @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgPlanAdventure.JournalEntryPage.nlavKBTWZKXEX1oy]{Episodios y series} ofrece sugerencias para tejer estos hilos conductores.</p>"
+        }
+      }
+    }
+  }
 }

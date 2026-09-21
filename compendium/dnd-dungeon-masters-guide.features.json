@@ -16,5 +16,10 @@
     }
   },
   "folders": {},
-  "entries": {}
+  "entries": {
+    "dmgAversionToFir": {
+      "name": "Aversión al fuego",
+      "description": "<p>Si [[lookup @name]] recibe daño de fuego, tiene desventaja en las tiradas de ataque y las pruebas de característica hasta el final de su siguiente turno.</p>"
+    }
+  }
 }

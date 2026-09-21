@@ -4,5 +4,7 @@
     "navigation": "navName"
   },
   "folders": {},
-  "entries": {}
+  "entries": {
+    "dmgBarrowCrypt00": {"name": "Cripta de túmulo", "navigation": "Cripta de túmulo"}
+  }
 }

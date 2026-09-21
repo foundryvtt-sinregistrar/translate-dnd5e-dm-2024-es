@@ -16,5 +16,11 @@
     }
   },
   "folders": {},
-  "entries": {}
+  "entries": {
+    "dmgPotionOfHeali": {
+      "name": "Poción de curación",
+      "description": "<p><em>Poción, común</em></p><p>Recuperas 2d4 + 2 puntos de golpe cuando bebes esta poción.</p><p>Sea cual sea su potencia, el líquido rojo de la poción brilla al agitarlo.</p>\n",
+      "activities": {"ZyWmXem7zzQwFFcF": {"name": "Consumir"}}
+    }
+  }
 }
