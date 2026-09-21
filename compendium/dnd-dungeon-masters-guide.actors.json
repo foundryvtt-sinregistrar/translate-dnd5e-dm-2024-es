@@ -10,9 +10,21 @@
     "effects": {
       "path": "effects",
       "converter": "dmg2024EffectsById"
-    }
+    },
+    "alignment": "system.details.alignment",
+    "creatureType": "system.details.type.custom",
+    "creatureSubtype": "system.details.type.subtype",
+    "languages": "system.traits.languages.custom",
+    "senses": "system.attributes.senses.special",
+    "biographyPublic": "system.details.biography.public"
   },
-  "folders": {},
+  "folders": {
+    "Bastion Defenders": "defensores del bastión",
+    "Magic Items": "Objetos mágicos",
+    "Hazards": "Riesgos",
+    "Traps": "Trampas",
+    "Creatures": "Criaturas"
+  },
   "entries": {
     "dmg3x5CarpetofFl": {
       "name": "Alfombra voladora (3 por 5 pies)",
@@ -22,7 +34,1491 @@
           "name": "Ajuste de capacidad de carga",
           "description": "<p>Este objeto sirve para ajustar la capacidad de carga calculada de la alfombra de acuerdo con sus dimensiones.</p>"
         }
-      }
+      },
+      "effects": {
+        "OOJj1Gc67HwjhG7Q": {
+          "name": "Sobrecargado",
+          "description": "<p>La Fly Speed de la alfombra se reduce a la mitad cuando lleva más de su capacidad normal.</p>"
+        }
+      },
+      "biography": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgCarpetOfFlyin]</p>",
+      "creatureType": "Objeto mágico",
+      "creatureSubtype": "alfombra"
+    },
+    "9EwAqmtAjtg5X7Lx": {
+      "items": {
+        "sSs3hSzkKBMNBgTs": {
+          "name": "Escudo",
+          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+        },
+        "2reHgwNJRFbhmxqA": {
+          "name": "Camisa de cadena",
+          "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+        },
+        "92uVNexE43Z8D18r": {
+          "name": "Lanza",
+          "description": "<section class=\"secret\">\n<p>Ataque de arma de combate o de alcance: +3 para golpear, alcanzar 5 pies o rango 20/60 pies, un objetivo. Pulse: <strong>4 (1d6 + 1) <em>daño por perforación</em></strong> o <strong>5 (1d8 + 1) <em>daño por perforación</em></strong> si se usa con dos manos para hacer un ataque cuerpo a cuerpo.</p></section>\n<p>La Guardia ataca con su lanza.</p>"
+        }
+      },
+      "name": "Defensor del bastión (montado)",
+      "tokenName": "Defensor del bastión (montado)",
+      "alignment": "Cualquier alineamiento",
+      "languages": "cualquier idioma (generalmente común)"
+    },
+    "ACNvyAA9yRo9PJ92": {
+      "items": {
+        "sSs3hSzkKBMNBgTs": {
+          "name": "Escudo",
+          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+        },
+        "2reHgwNJRFbhmxqA": {
+          "name": "Camisa de cadena",
+          "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+        },
+        "92uVNexE43Z8D18r": {
+          "name": "Lanza",
+          "description": "<section class=\"secret\">\n<p>Ataque de arma de combate o de alcance: +3 para golpear, alcanzar 5 pies o rango 20/60 pies, un objetivo. Pulse: <strong>4 (1d6 + 1) <em>daño por perforación</em></strong> o <strong>5 (1d8 + 1) <em>daño por perforación</em></strong> si se usa con dos manos para hacer un ataque cuerpo a cuerpo.</p></section>\n<p>La Guardia ataca con su lanza.</p>"
+        }
+      },
+      "name": "Defensor del bastión (lanza)",
+      "tokenName": "Defensor del bastión (lanza)",
+      "alignment": "Cualquier alineamiento",
+      "languages": "cualquier idioma (generalmente común)"
+    },
+    "BNJCponnrcqBAxpI": {
+      "items": {
+        "4DSwGh4dGIYWtkYo": {
+          "effects": {
+            "oDKrhJVfqMeIsGcR": {
+              "name": "Arma +1"
+            }
+          },
+          "name": "Lance (Cabo de cabra)",
+          "description": "<p>Quitar un cuerno requiere una acción mágica, y las armas desaparecen y los cuernos regresan cuando la cabra vuelve a formarse figura.</p>"
+        },
+        "mIhLaufWGjhGquhq": {
+          "effects": {
+            "dc30bjGKLrSWas7N": {
+              "name": "Arma +2"
+            }
+          },
+          "name": "Espada larga (Cabra de cabra)",
+          "description": "<p>Quitar un cuerno requiere una acción mágica, y las armas desaparecen y los cuernos regresan cuando la cabra vuelve a formarse figura.</p>"
+        },
+        "8V207HOpLGRArQyq": {
+          "name": "Emanación Asustada",
+          "description": "<p>Mientras usted monta la cabra, cualquier criatura hostil que comienza su turno dentro de una Emanación de 30 pies que se origina de la cabra debe tener éxito en un lanzamiento salvador de la sabiduría CD 15 o tener el &amp;Reference[Frightened apply=false] condición por 1 minuto, hasta que ya no está montando la cabra, o hasta que la cabra vuelve a forma de figura. La criatura Asustada repite el salvo al final de cada uno de sus turnos, terminando el efecto sobre sí misma en un éxito. Una vez que tiene éxito en el ahorro, una criatura es inmune a este efecto durante las próximas 24 horas.</p>",
+          "activities": {
+            "GXPK9j0RRLNqZu66": {
+              "activation": {
+                "condition": "La criatura hostil comienza su turno a menos de 30 pies"
+              }
+            }
+          },
+          "effects": {
+            "I5FYr1ocZTySEBIC": {
+              "name": "Asustado",
+              "description": "<p>Los &amp;Reference[Frightened apply=false] criatura repite la [[/save ability=wis dc=15]]{guardar} al final de cada uno de sus turnos, poniendo fin al efecto en sí mismo en un éxito.</p>"
+            }
+          }
+        }
+      },
+      "name": "Cabra del terror",
+      "tokenName": "Cabra del terror",
+      "alignment": "Sin alineamiento"
+    },
+    "JTy2PGDMFDnMf2nt": {
+      "tokenName": "Guardia",
+      "items": {
+        "sSs3hSzkKBMNBgTs": {
+          "name": "Escudo",
+          "description": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Wieling un escudo aumenta su clase de armadura en 2. Sólo puedes beneficiarte de un escudo a la vez.</p>"
+        },
+        "2reHgwNJRFbhmxqA": {
+          "name": "Camisa de cadena",
+          "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+        },
+        "92uVNexE43Z8D18r": {
+          "name": "Lanza",
+          "description": "<section class=\"secret\">\n<p>Ataque de arma de combate o de alcance: +3 para golpear, alcanzar 5 pies o rango 20/60 pies, un objetivo. Pulse: <strong>4 (1d6 + 1) <em>daño por perforación</em></strong> o <strong>5 (1d8 + 1) <em>daño por perforación</em></strong> si se usa con dos manos para hacer un ataque cuerpo a cuerpo.</p></section>\n<p>La Guardia ataca con su lanza.</p>"
+        }
+      },
+      "name": "Defensor del bastión (escudo)",
+      "alignment": "Cualquier alineamiento",
+      "languages": "cualquier idioma (generalmente común)"
+    },
+    "YEFJjrSnvnSBFYOe": {
+      "items": {
+        "YDoOa6D6QDoR2Htu": {
+          "name": "Espada corta",
+          "description": "<section class=\"secret\">\n<p><em>Ataque de arma de cuerpo entero:</em><strong>+4 a golpear,</strong>, <strong>5 pies,</strong> Un objetivo. Pulse: <strong>5 (1d6 + 2) <em>daño por perforación</em></strong>.</p></section>\n<p>El Scout ataca con su espada corta.</p>"
+        },
+        "qnFVVlRzucX7BNga": {
+          "name": "Armadura de cuero",
+          "description": "<p>La coraza y los protectores de hombro de esta armadura están hechos de cuero que ha sido endurecido por ser hervido en aceite. El resto de la armadura está hecha de materiales más suaves y flexibles.</p>"
+        },
+        "PQGwUNCJ7EkJAE8V": {
+          "name": "Audición y vista de Keen",
+          "description": "<p>El explorador tiene ventaja en controles de Sabiduría (Percepción) que dependen de la audición o la vista.</p>"
+        },
+        "YO57HtdvpuGxJANB": {
+          "name": "Multiataque",
+          "description": "<p>El explorador hace dos ataques cuerpo a cuerpo o dos ataques de alcance.</p>"
+        },
+        "E2fYrhLigMeVH09l": {
+          "name": "Arco largo",
+          "description": "<section class=\"secret\">\n<p>Ataque con arma de alcance: +4 para golpear, alcance 150/600 pies, un objetivo. Pulse: <strong>6 (1d8 + 2) <em>daño por perforación</em></strong>.</p></section>\n<p>El Scout ataca con su Longbow.</p>"
+        }
+      },
+      "name": "Defensor del bastión (arco)",
+      "tokenName": "Defensor del bastión (arco)",
+      "alignment": "Cualquier alineamiento",
+      "languages": "cualquier idioma (generalmente común)"
+    },
+    "dmg4x6CarpetofFl": {
+      "name": "Alfombra voladora (4 x 6 pies)",
+      "tokenName": "Alfombra voladora",
+      "items": {
+        "cdo7WnGawlzIo3MD": {
+          "name": "Ajuste de capacidad de carga",
+          "description": "<p>Este objeto sirve para compensar la capacidad de carga calculada de la alfombra de acuerdo con sus dimensiones.</p>"
+        }
+      },
+      "effects": {
+        "2MQnteT8igejUV4G": {
+          "name": "Sobrecargado",
+          "description": "<p>La Fly Speed de la alfombra se reduce a la mitad cuando lleva más de su capacidad normal.</p>"
+        }
+      },
+      "creatureType": "Objeto mágico",
+      "creatureSubtype": "alfombra"
+    },
+    "dmg5x7CarpetofFl": {
+      "name": "Alfombra voladora (5 x 7 pies)",
+      "tokenName": "Alfombra voladora",
+      "effects": {
+        "x31gxhzQK4X86k0a": {
+          "name": "Sobrecargado",
+          "description": "<p>La Fly Speed de la alfombra se reduce a la mitad cuando lleva más de su capacidad normal.</p>"
+        }
+      },
+      "creatureType": "Objeto mágico",
+      "creatureSubtype": "alfombra"
+    },
+    "dmg6x9CarpetofFl": {
+      "name": "Alfombra voladora (6 x 9 pies)",
+      "tokenName": "Alfombra voladora",
+      "items": {
+        "kgZMlH9XtkOvSHqQ": {
+          "name": "Ajuste de capacidad de carga",
+          "description": "<p>Este objeto sirve para compensar la capacidad de carga calculada de la alfombra de acuerdo con sus dimensiones.</p>"
+        }
+      },
+      "effects": {
+        "XDasfDlazbjtYP26": {
+          "name": "Sobrecargado",
+          "description": "<p>La Fly Speed de la alfombra se reduce a la mitad cuando lleva más de su capacidad normal.</p>"
+        }
+      },
+      "creatureType": "Objeto mágico",
+      "creatureSubtype": "alfombra"
+    },
+    "dmgApparatusofKw": {
+      "items": {
+        "fmdWz6RQsUCHneZF": {
+          "name": "Ataque de pinza",
+          "description": "<p>Cada pinza extendida realiza el siguiente ataque cuerpo a cuerpo: +8 al ataque, alcance 5 pies. <em>Impacto:</em> 7 (2d6) de daño contundente.</p>",
+          "requirements": "Lever 4: Arriba"
+        },
+        "tgIjCBtGCZvMu8ij": {
+          "name": "Ataque de agarre",
+          "description": "<p>Cada pinza extendida realiza el siguiente ataque cuerpo a cuerpo: +8 al ataque, alcance 5 pies. <em>Impacto:</em> El objetivo tiene la condición &amp;Reference[Grappled] (CD de escape 15).</p>",
+          "activities": {
+            "yd6hyhKASrfahCB9": {
+              "description": {
+                "chatFlavor": "&Reference[grappled] en el golpe"
+              }
+            },
+            "uXBW1AMdcFYJ3bqQ": {
+              "name": "Comprobación de escape de grapple"
+            }
+          },
+          "requirements": "Lever 4: Abajo"
+        }
+      },
+      "effects": {
+        "D6TOlFQbOM6V0Jv8": {
+          "name": "Patas Extendidas"
+        },
+        "9Sxe5orNBLhYpDwz": {
+          "name": "Pinzas Extendidas"
+        },
+        "xIiZeSr9KPqMrDFq": {
+          "name": "Compuerta Frontal Abierta"
+        },
+        "sj7HGYh5KeLlZhfr": {
+          "name": "Compuertas Laterales Abiertas"
+        },
+        "pvJazR3MqOCj5fq8": {
+          "name": "Escotilla Trasera Abierta"
+        },
+        "rBFF2F7IQteiU8kL": {
+          "name": "Luces Activadas",
+          "description": "<p>Los dispositivos oculares emiten luz brillante en un radio de 30 pies y luz tenue por otros 30 pies.</p>"
+        }
+      },
+      "name": "Aparato de Kwalish",
+      "tokenName": "Aparato de Kwalish",
+      "biography": "<p>Para ser utilizado como vehículo, el @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgApparatusOfKw]{Aparatos} requiere un piloto. Mientras que la escotilla del aparato está cerrada, el compartimiento es hermético y hermético. El compartimento contiene aire suficiente para 10 horas de respiración, dividida por el número de criaturas que respiran en el interior.</p><p>El aparato flota sobre el agua. También puede ir bajo el agua a una profundidad de 900 pies. Por debajo de eso, el vehículo toma 2d6 Bludgeoning daño cada minuto de la presión.</p><p>Una criatura en el compartimiento puede tomar una acción de Uso para mover hasta dos de las palancas del aparato hacia arriba o hacia abajo. Después de cada uso, una palanca vuelve a su posición neutral. Cada palanca, de izquierda a derecha, funciona como se muestra en el aparato de Kwalish <span class=\"no-break\">Levers</span> mesa.</p><table><caption>Aparatos de Levers de Kwalish</caption><thead><tr><td>Lever</td><td>Arriba</td><td>Abajo</td></tr></thead><tbody><tr><td>1</td><td>Las piernas se extienden, permitiendo que el aparato para caminar y nadar.</td><td>Las piernas se retraen, reduciendo la velocidad y la velocidad de natación del aparato a 0 y haciendo que no pueda beneficiarse de bonos a la velocidad.</td></tr><tr><td>2</td><td>El obturador de la ventana se abre.</td><td>El obturador de la ventana se cierra.</td></tr><tr><td>3</td><td>Obturadores laterales abiertos (dos por lado).</td><td>Las persianas laterales se cierran (dos por lado).</td></tr><tr><td>4</td><td>Dos garras se extienden desde la parte delantera del aparato.</td><td>Las garras se retraen.</td></tr><tr><td>5</td><td>Cada garra extendida hace lo siguiente: [[/item fmdWz6RQsUCHneZF]]{ataque cuerpo a cuerpo}: +8 a golpear, llegar a 5 pies. <em>Pulse:</em> 7 (2d6) Daños por desenganche.</td><td>Cada garra extendida hace lo siguiente: [[/item tgIjCBtGCZvMu8ij]]{ataque cuerpo a cuerpo}: +8 a golpear, llegar a 5 pies. <em>Pulse:</em> El objetivo tiene la condición de Grappled (escape CD 15).</td></tr><tr><td>6</td><td>El aparato camina o nada hacia adelante siempre que sus piernas estén extendidas.</td><td>El aparato camina o nada hacia atrás siempre que sus piernas se extienden.</td></tr><tr><td>7</td><td>El aparato gira 90 grados en sentido contrario a las agujas del reloj siempre que sus patas se extienden.</td><td>El aparato gira 90 grados en el sentido de las agujas del reloj siempre que sus patas se extienden.</td></tr><tr><td>8</td><td>Los dispositivos oculares emiten luz brillante en un radio de 30 pies y luz tenue por otros 30 pies.</td><td>La luz se apaga.</td></tr><tr><td>9</td><td>El aparato se hunde hasta 20 pies si está en líquido.</td><td>El aparato se eleva hasta 20 pies si está en líquido.</td></tr><tr><td>10</td><td>La escotilla trasera se abre y se abre.</td><td>La escotilla trasera se cierra y se cierra.</td></tr></tbody></table>"
+    },
+    "dmgAvatarofDeath": {
+      "name": "Avatar de la Muerte",
+      "tokenName": "Avatar de la Muerte",
+      "biography": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDmtSkull00000]{Cráneo (Baraja de muchas cosas)}</p>",
+      "items": {
+        "dmgaoiIncorporea": {
+          "name": "Movimiento incorpóreo",
+          "description": "<p>El avatar puede moverse a través de otras criaturas y objetos como si fueran &amp;Reference[DifficultTerrain]. Sufre 5 (1d10) de daño de Fuerza si termina su turno dentro de <span class=\"no-break\">un objeto.</span></p>",
+          "activities": {
+            "NHizvKWvHz8sNorD": {
+              "name": "Autodaño",
+              "activation": {
+                "condition": "el Avatar pone su turno dentro de un objeto."
+              }
+            }
+          }
+        },
+        "dmgaoiMultiattac": {
+          "description": "<p>El avatar realiza un número de ataques de [[/item .dmgaoiReapingScy]]{Guadaña segadora} igual a la mitad del Bono de competencia del invocador (redondeado hacia arriba).</p><p>[[ceil(@prof/2)]]{Número de ataques}</p>",
+          "activities": {
+            "w5vHZx04p0uYaUWM": {
+              "name": "Acción"
+            }
+          },
+          "name": "Multiataque"
+        },
+        "dmgaoiReapingScy": {
+          "name": "Guadaña segadora",
+          "description": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> impacto automático, alcance 5 pies. <em>Impacto:</em> 7 ( <span class=\"no-break\">1d8 + 3</span> ) de daño cortante más 4 (1d8) de <span class=\"no-break\">daño necrótico</span><span class=\"no-break\">.</span></p>",
+          "activities": {
+            "wVctw0oezV09wwg9": {
+              "name": "Ataque",
+              "description": {
+                "chatFlavor": "Hit automático"
+              }
+            }
+          }
+        }
+      },
+      "alignment": "Neutral malvado",
+      "languages": "Todos los idiomas que conozca quien lo invocó"
+    },
+    "dmgBadger0000000": {
+      "name": "Tejón",
+      "tokenName": "Tejón",
+      "items": {
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +2, hasta 5 pies. <em>Pulse:</em> 1 Daño por perforación.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgBlackBear0000": {
+      "name": "Oso negro",
+      "tokenName": "Oso negro",
+      "items": {
+        "phbaoiRend000000": {
+          "name": "Desgarrar",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +4, hasta 5 pies. <em>Pulse:</em> 5 (1d6 + 2) Daños por rallado.</p>"
+        },
+        "phbaoiMultiattac": {
+          "name": "Multiataque",
+          "description": "<p>El oso hace dos. [[/item Rend]] ataques.</p>",
+          "activities": {
+            "dnd5eactivity000": {
+              "name": "Activar"
+            }
+          }
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgBrownBear0000": {
+      "name": "Oso pardo",
+      "tokenName": "Oso pardo",
+      "items": {
+        "phbaoiMultiattac": {
+          "name": "Multiataque",
+          "description": "<p>El oso lo hace. [[/item Bite]] ataque y uno [[/item Claw]] ataque.</p>",
+          "activities": {
+            "dnd5eactivity000": {
+              "name": "Activar"
+            }
+          }
+        },
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p><em>Rollo de Ataque Melee:</em> +5, hasta 5 pies. <em>Pulse:</em> 7 (1d8 + 3) Daño por perforación.</p>"
+        },
+        "phbaoiClaw000000": {
+          "name": "Garra",
+          "description": "<p><em>Rollo de Ataque Melee: </em>+5, hasta 5 pies. <em>Pulse:</em> 5 (1d4 + 3) Recortar el daño, y el objetivo tiene el &amp;Reference[prone] condición si es enorme o más pequeño.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgCamel00000000": {
+      "name": "Camello",
+      "tokenName": "Camello",
+      "items": {
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +4, hasta 5 pies. <em>Pulse:</em> 4 (1d4 + 2) Daños por desenganche.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgElephant00000": {
+      "name": "Elefante",
+      "tokenName": "Elefante",
+      "items": {
+        "phbaoiTrample000": {
+          "name": "Pisotear",
+          "description": "<p> <em>Dexterity Saving Throw:</em> CD 16, una criatura a menos de 5 pies que tiene la condición de prona. <em>Fallo:</em> 17 (2d10 + 6) Daños en la zona de desenganche. <em>Éxito:</em> Medio daño.</p>",
+          "activities": {
+            "dnd5eactivity000": {
+              "target": {
+                "affects": {
+                  "special": "tiene la condición de prona"
+                }
+              }
+            }
+          },
+          "requirements": "El objetivo es Prone"
+        },
+        "phbaoiMultiattac": {
+          "name": "Multiataque",
+          "description": "<p>El elefante hace dos. [[/item Gore]] ataques.</p>",
+          "activities": {
+            "dnd5eactivity000": {
+              "name": "Activar"
+            }
+          }
+        },
+        "phbaoiGore000000": {
+          "name": "Cornada",
+          "description": "<p><em>Rollo de Ataque Melee: </em>+8, hasta 5 pies. <em>Pulse:</em> 15 (2d8 + 6) Daño por perforación. Si el elefante se movió al menos 20 pies rectos hacia el objetivo inmediatamente antes del golpe, el objetivo también tiene el &amp;Reference[prone] afección.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgFrog000000000": {
+      "name": "Rana",
+      "tokenName": "Rana",
+      "items": {
+        "phbaoiAmphibious": {
+          "name": "Anfibio",
+          "description": "<p> La rana puede respirar aire y agua.</p>"
+        },
+        "phbaoiStandingLe": {
+          "name": "Salto en parado",
+          "description": "<p>El salto largo de la rana es de hasta 10 pies y su salto alto es de hasta 5 pies con o sin un arranque de carrera.</p>"
+        },
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +3, hasta 5 pies. <em>Pulse:</em> 1 Daño por perforación.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgGiantBadger00": {
+      "name": "Tejón gigante",
+      "tokenName": "Tejón gigante",
+      "items": {
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +3, hasta 5 pies. <em>Pulse:</em> 6 (2d4 + 1) Daño por perforación.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgGiantFly00000": {
+      "name": "Mosca gigante",
+      "tokenName": "Mosca gigante",
+      "alignment": "Sin alineamiento"
+    },
+    "dmgGiantGoat0000": {
+      "name": "Cabra gigante",
+      "tokenName": "Cabra gigante",
+      "items": {
+        "phbaoiRam0000000": {
+          "name": "Ariete",
+          "description": "<p><em>Rollo de Ataque Melee:</em> +5, hasta 5 pies. <em>Pulse: </em>6 (1d6 + 3) Daños por desenganche. Si la cabra se movió al menos 20 pies rectos hacia el objetivo inmediatamente antes del golpe, el objetivo toma un extra 5 (2d4) Bludgeoning daño y, si es enorme o más pequeño, tiene el &amp;Reference[prone] afección.</p>",
+          "activities": {
+            "20CCDc94Yf2PWgQv": {
+              "name": "Ataque de carga"
+            }
+          }
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgGiantSpider00": {
+      "name": "Araña gigante",
+      "tokenName": "Araña gigante",
+      "items": {
+        "phbaoiWebRecharg": {
+          "name": "Telaraña",
+          "description": "<p><em>Dexterity Saving Throw:</em> CD 13, una criatura que la araña puede ver a menos de 60 pies. <em>Fallo:</em> El objetivo tiene el &amp;Reference[restrained] condición hasta la destrucción de la telaraña (AC 10; PG 5; Vulnerabilidad al incendio; Inmunidad al veneno y daños psíquicos).</p>"
+        },
+        "phbaoiSpiderClim": {
+          "name": "Escalada de arañas",
+          "description": "<p>La araña puede escalar superficies difíciles, incluso a lo largo de los techos, sin necesidad de hacer un control de capacidad.</p>"
+        },
+        "phbaoiWebWalker0": {
+          "name": "Caminar por telarañas",
+          "description": "<p> La araña ignora las restricciones de movimiento causadas por las telarañas, y conoce la ubicación de cualquier otra criatura en contacto con la misma web.</p>"
+        },
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p><em>Rollo de Ataque Melee: </em>+5, hasta 5 pies. <em>Pulse:</em> 7 (1d8 + 3) Daño por perforación más 7 (2d6) Daño por envenenamiento.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgGiantWeasel00": {
+      "name": "Comadreja gigante",
+      "tokenName": "Comadreja gigante",
+      "items": {
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +5, hasta 5 pies. <em>Pulse:</em> 5 (1d4 + 3) Daño por perforación.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgGoat000000000": {
+      "name": "Cabra",
+      "tokenName": "Cabra",
+      "items": {
+        "phbaoiRam0000000": {
+          "name": "Ariete",
+          "description": "<p><em>Rollo de Ataque Melee: </em>+2, hasta 5 pies. <em>Pulse: </em>1 Daños por bludgeoning, o la cabra causa 2 (1d4) Daños por bludgeoning si se movió al menos 20 pies rectos hacia el blanco inmediatamente antes del impacto.</p>",
+          "activities": {
+            "QeKOvJCSSAjVKXWg": {
+              "name": "Ataque de carga"
+            }
+          }
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgGoatofTraveli": {
+      "name": "Cabra viajera",
+      "tokenName": "Cabra viajera",
+      "items": {
+        "phbaoiHooves0000": {
+          "description": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto:</em> 7 (1d8 + 3) de daño contundente.</p>",
+          "name": "Pezuñas"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgIllusoryCreat": {
+      "name": "Criatura ilusoria",
+      "tokenName": "Criatura ilusoria",
+      "creatureType": "Ilusión"
+    },
+    "dmgImp0000000000": {
+      "name": "Diablillo",
+      "tokenName": "Diablillo",
+      "items": {
+        "phbaoiSting00000": {
+          "name": "Aguijón",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +5, hasta 5 pies. <em>Pulse:</em> 6 (1d6 + 3) Daño por perforación más 7 (2d6) Daño por envenenamiento.</p>"
+        },
+        "phbaoiInvisibili": {
+          "name": "Invisibilidad",
+          "description": "<p>Los moldes de imp [[/item oHafKbzbqYGiL4i1]] en sí mismo, sin necesidad de componentes de conjuro y utilizando Carisma como la habilidad de conjuro.</p><hr /><p>@Embed[.oHafKbzbqYGiL4i1 caption=false]</p>"
+        },
+        "phbaoiShapeShift": {
+          "name": "Cambio de forma",
+          "effects": {
+            "NFMrfbOawWP0jdQ8": {
+              "name": "Forma de Rata"
+            },
+            "Q4RaKl2vHLshyF3B": {
+              "name": "Forma de Cuervo"
+            },
+            "LK7QKDKtjaAzAIIv": {
+              "name": "Forma de Araña"
+            }
+          },
+          "description": "<p> El imp cambia de forma para parecerse a una rata (Velocidad 20 pies), un cuervo (20 pies, Volar 60 pies), o una araña (20 pies, Escalar 20 pies), o regresa a su forma verdadera. Sus estadísticas son las mismas en cada forma, a excepción de su velocidad. Cualquier equipo que lleve o lleve no se transforma.</p>",
+          "activities": {
+            "dnd5eactivity000": {
+              "name": "Cambiar formulario"
+            }
+          }
+        },
+        "oHafKbzbqYGiL4i1": {
+          "name": "Invisibilidad",
+          "effects": {
+            "9svfDetqjhsFP3ey": {
+              "name": "Invisibilidad",
+              "description": "<p>El conjuro termina antes de tiempo inmediatamente después de que el objetivo haga una tirada de ataque, inflija daño o lance un conjuro.</p>"
+            }
+          },
+          "description": "<p>Una criatura que tocas tiene el &amp;Reference[invisible apply=false] condición hasta que el conjuro termine. El conjuro termina temprano inmediatamente después de que el objetivo hace un rollo de ataque, hace daño o lanza un conjuro.</p>",
+          "activities": {
+            "dnd5eactivity000": {
+              "name": "Lanzar"
+            }
+          }
+        },
+        "phbaoiDevilsSigh": {
+          "name": "La vista del Diablo",
+          "description": "<p>La oscuridad mágica no impide la Darkvision del imp.</p>"
+        },
+        "phbaoiMagicResis": {
+          "name": "Resistencia mágica",
+          "description": "<p> El imp tiene ventaja en los lanzamientos de ahorro contra conjuros y otros efectos mágicos.</p>"
+        }
+      },
+      "alignment": "Legal malvado",
+      "creatureSubtype": "Diablo"
+    },
+    "dmgInferno000000": {
+      "items": {
+        "EkAVAvlkEkMiaBDd": {
+          "effects": {
+            "53PUfByuTP1Ek5Vs": {
+              "name": "Ardiendo"
+            }
+          },
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo mortal (niveles 5-10) o peligro de la permeabilidad (niveles 11-16)</em></p><p>Cada vez que un fuego incontrolado se extiende, puede crear un infierno que rápidamente envuelve criaturas, objetos y vegetación.</p><p>Un infierno consta de al menos cuatro cubos de fuego contiguos de 10 pies. Cada uno de los cubos del infierno de 10 pies se puede rociar con 10 galones de agua. La exposición a un viento fuerte durante 1 minuto hace que el infierno crezca, añadiendo [[/r 1d4]] nuevos cubos de 10 pies a su volumen. Un infierno privado de combustible se quema a sí mismo después de 1d10 minutos.</p><p>Un infierno daña cualquier vegetación u objeto que no se lleva ni se lleva que toca, repartiendo 22 (4d10) Daño por incendio inmediatamente y de nuevo al final de cada minuto. Cualquier criatura que entra en el infierno por primera vez en un giro o comienza su turno allí toma 22 (4d10) Daño por incendio y se está quemando.</p>",
+          "activities": {
+            "MgXyRxU0XIzlyMcs": {
+              "name": "Lugar Infierno"
+            }
+          }
+        }
+      },
+      "name": "Infierno",
+      "tokenName": "Infierno",
+      "creatureType": "Riesgo"
+    },
+    "dmgLion000000000": {
+      "name": "León",
+      "tokenName": "León",
+      "items": {
+        "phbaoiRunningLea": {
+          "name": "Salto en carrera",
+          "description": "<p>Con un arranque de 10 pies, el león puede saltar largo hasta 25 pies.</p>"
+        },
+        "phbaoiRoar000000": {
+          "name": "Rugido",
+          "description": "<p><em>Lanza de ahorro de sabiduría:</em> CD 11, una criatura a menos de 15 pies. <em>Fallo:</em> El objetivo tiene el &amp;Reference[frightened apply=false] hasta el comienzo del siguiente turno del león.</p>",
+          "effects": {
+            "0oNa4hABXN7AZ6sk": {
+              "name": "Asustado",
+              "description": "<p>El objetivo tiene el &amp;Reference[frightened apply=false] hasta el comienzo del siguiente turno del león.</p>"
+            }
+          }
+        },
+        "phbaoiRend000000": {
+          "name": "Desgarrar",
+          "description": "<p><em>Rollo de Ataque Melee:</em> +5, hasta 5 pies. <em>Pulse: </em>7 (1d8 + 3) Daños por rallado.</p>"
+        },
+        "phbaoiPackTactic": {
+          "name": "Tácticas de empaquetado",
+          "description": "<p>El león tiene ventaja en un ataque rodar contra una criatura si al menos uno de los aliados del león está a menos de 5 pies de la criatura y el aliado no tiene la condición de Incapacitado.</p>",
+          "requirements": "Aliado a menos de 5 pies del objetivo"
+        },
+        "phbaoiMultiattac": {
+          "name": "Multiataque",
+          "description": "<p>El león hace dos [[/item Rend]] ataques. Puede reemplazar uno de estos ataques con un uso de [[/item Roar]].</p>",
+          "activities": {
+            "dnd5eactivity000": {
+              "name": "Activar"
+            }
+          }
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgMastiff000000": {
+      "name": "Mastín",
+      "tokenName": "Mastín",
+      "items": {
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p><em>Rollo de Ataque Melee:</em> +3, hasta 5 pies. <em>Pulse: </em>4 (1d6 + 1) Piercing daño, y el objetivo tiene el &amp;Reference[prone] condición si es grande o más pequeño.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgMule000000000": {
+      "name": "Mula",
+      "tokenName": "Mula",
+      "items": {
+        "phbaoiBeastofBur": {
+          "name": "Bestia de la Carga",
+          "description": "<p> La mula cuenta como un tamaño más grande para determinar su capacidad de carga.</p>"
+        },
+        "phbaoiHooves0000": {
+          "name": "Pezuñas",
+          "description": "<p><em>Rollo de Ataque Melee:</em> +4, hasta 5 pies. <em>Pulse: </em>4 (1d4 + 2) Daños por desenganche.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgPanther000000": {
+      "name": "Pantera",
+      "tokenName": "Pantera",
+      "items": {
+        "phbaoiMultiattac": {
+          "name": "Multiataque",
+          "description": "<p>La pantera hace uno [[/item Pounce]] ataque y usos [[/item Prowl]].</p>",
+          "activities": {
+            "dnd5eactivity000": {
+              "name": "Activar"
+            }
+          }
+        },
+        "phbaoiPounce0000": {
+          "name": "Salto",
+          "description": "<p><em>Rollo de Ataque Melee:</em> +4, hasta 5 pies. <em>Pulse: </em>4 (1d4 + 2) El daño de la barra, o la pantera reparte 7 (2d4 + 2) El daño de la barra si tenía ventaja en el rollo de ataque.</p>",
+          "activities": {
+            "u6a7AR35PeLyFBw2": {
+              "name": "Ataque de ventaja",
+              "activation": {
+                "condition": "tiene ventaja en este ataque"
+              }
+            }
+          }
+        },
+        "phbaoiProwl00000": {
+          "name": "Acechar",
+          "description": "<p>La pantera se mueve hasta la mitad de su Velocidad sin provocar Ataques de Oportunidad. Al final de este movimiento, la pantera puede tomar la &amp;Reference[hide] acción.</p>",
+          "activities": {
+            "wQz9oa45HwcFYOjf": {
+              "name": "Mover y ocultar"
+            }
+          }
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgPoisonedNeedl": {
+      "items": {
+        "bH8U2XxkNcqIdv3O": {
+          "effects": {
+            "ldbekJ12jczHTj50": {
+              "name": "Aguja envenenada"
+            }
+          },
+          "name": "Trampa de activación",
+          "description": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa de Nuisance (Niveles 1-4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura abre la cerradura de la trampa de forma incorrecta o no desarma la trampa</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantáneo</p><p>Una aguja envenenada está escondida en una cerradura. Cuando una criatura abre la cerradura con cualquier objeto que no sea la llave adecuada, la aguja sale y apuñala a la criatura. La criatura hace un lanzamiento de ahorro de la Constitución CD 11. En una salvada fallida, la criatura toma 5 (1d10) daño venenoso y tiene el &amp;Reference[Poisoned apply=false] condición durante 1 hora. En una salvada exitosa, la criatura recibe la mitad del daño solamente.</p><p><em><strong>Evita.</strong></em> La trampa no se activa si la cerradura se abre utilizando un <em>Toc</em> conjuro o magia similar.</p><p><em><strong>Detectar y desarmar.</strong></em> Como una acción de búsqueda, una criatura puede examinar la cerradura atrapada y hacer un [[/check prc 15]] comprobar, detectar la aguja en una comprobación exitosa. Una vez que se detecta la trampa, un personaje puede tomar una acción para tratar de desarmar la trampa, haciéndolo con un éxito [[/check slt 15]] Comprobado. En un cheque fallido, la criatura dispara la trampa.</p><p><em><strong>En los niveles superiores.</strong></em> Puede escalar la trampa para niveles más altos aumentando el daño y el CD de ahorro, como se muestra en la tabla siguiente.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daño por veneno</p></th><th><p>Guardar CD</p></th><th></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>11 (2d10)</p></td><td><p>13</p></td><td></td></tr><tr><td><p>11–16</p></td><td><p>22 (4d10)</p></td><td><p>15</p></td><td></td></tr><tr><td><p>17–20</p></td><td><p>55 (10d10)</p></td><td><p>17</p></td><td></td></tr></tbody></table></div>",
+          "descriptionChat": "<p>Se activa una trampa.</p>",
+          "activities": {
+            "3HND8XBMiE2tRv0B": {
+              "name": "Activador (1-4)"
+            },
+            "eV1b2cqOvLNS5IVA": {
+              "name": "Activación (5-10)"
+            },
+            "8x5odB2NLLzb9V1g": {
+              "name": "Activación (11-16)"
+            },
+            "dv7tM95NNwiPgZi2": {
+              "name": "Activación (17-20)"
+            }
+          }
+        }
+      },
+      "name": "Trampa de aguja envenenada",
+      "tokenName": "Trampa de aguja envenenada",
+      "creatureType": "Trampa"
+    },
+    "dmgRat0000000000": {
+      "name": "Rata",
+      "tokenName": "Rata",
+      "items": {
+        "phbaoiAgile00000": {
+          "name": "Ágil",
+          "description": "<p> La rata no provoca Oportunidad Ataques cuando se mueve fuera del alcance de un enemigo.</p>"
+        },
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +2, hasta 5 pies. <em>Pulse:</em> 1 Daño por perforación.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgRaven00000000": {
+      "name": "Cuervo",
+      "tokenName": "Cuervo",
+      "items": {
+        "phbaoiBeak000000": {
+          "name": "Pico",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +4, hasta 5 pies. <em>Pulse:</em> 1 Daño por perforación.</p>"
+        },
+        "phbaoiMimicry000": {
+          "name": "Imitación",
+          "description": "<p>El cuervo puede imitar sonidos simples que ha escuchado, como un susurro o chismoso. Un oyente puede discernir los sonidos son imitaciones con un éxito [[/check skill=ins dc=10]] Comprobado.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgRidingHorse00": {
+      "name": "Caballo de monta",
+      "tokenName": "Caballo de monta",
+      "items": {
+        "phbaoiHooves0000": {
+          "description": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto:</em> 7 (1d8 + 3) de daño contundente.</p>",
+          "name": "Pezuñas"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgRockslide0000": {
+      "effects": {
+        "dnd5ebloodied000": {
+          "name": "Ensangrentado"
+        }
+      },
+      "name": "Deslizamiento de rocas",
+      "tokenName": "Deslizamiento de rocas",
+      "items": {
+        "PBozl8VwaT67pZCs": {
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo mortal (niveles 1-4)</em></p><p>Cuando se produce un deslizamiento de rocas, cada criatura en su camino hace un lanzamiento de ahorro CD 15 Dexterity. En un ahorro fallido, una criatura toma 11 (2d10) Bludgeoning daño, tiene el &amp;Reference[Prone apply=false] condición, y se mueve con el deslizamiento de rocas. En una salvada exitosa, una criatura recibe la mitad del daño solamente.</p><p>Cuando el deslizamiento de rocas se detiene, su espacio se convierte en &amp;Reference[Difficult Terrain], y todas las criaturas prone en su espacio están enterradas bajo rocas y escombros. Una criatura enterrada de esta manera tiene la &amp;Reference[Restrained] afección y ha &amp;Reference[Total Cover]. Como una acción, una criatura puede tratar de arrastrarse desde debajo de la pila de rocas. Si la criatura tiene éxito en un control de fuerza CD 15 (Atléticos), ya no está restringida; en cambio, tiene la condición de prona y está sobre la pila de roca. Si el cheque falla, la criatura permanece enterrada y gana 1 &amp;Reference[Exhaustion] nivel.</p><p>Una criatura que no tiene ni el &amp;Reference[Incapacitated apply=false] ni la condición de restricción puede pasar 1 minuto liberando a otra criatura enterrada por el deslizamiento de rocas.</p><p><em><strong>En los niveles superiores.</strong></em> Puede escalar este riesgo para niveles más altos aumentando el daño de Bludgeoning de la siguiente manera: 22 (4d10) en los niveles 5-10, 55 (10d10) en los niveles 11-16 y 99 (18d10) en los niveles 17-20.</p>",
+          "activities": {
+            "xiFMtdYbh63Pzf55": {
+              "name": "Nivel de deslizamiento de rocas 1-4"
+            },
+            "AbhPwjPDfTBUGonU": {
+              "name": "Comprobación de escape"
+            },
+            "WLHTQkVCzwAJIbkA": {
+              "name": "Nivel de deslizamiento de rocas 5-10"
+            },
+            "kIM3MYxw4WBmOFyj": {
+              "name": "Nivel de deslizamiento 11-16"
+            },
+            "ggZF0j2kBQp5v36J": {
+              "name": "Nivel de deslizamiento 17-20"
+            }
+          },
+          "effects": {
+            "IxJxXoCtyz6MhJ4u": {
+              "name": "Bajo las rocas"
+            }
+          }
+        }
+      },
+      "creatureType": "Riesgo"
+    },
+    "dmgSkeleton00000": {
+      "name": "Esqueleto",
+      "tokenName": "Esqueleto",
+      "items": {
+        "phbaoiShortsword": {
+          "name": "Espada corta",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +5, hasta 5 pies. <em>Pulse:</em> 6 (1d6 + 3) Daño por perforación.</p>"
+        },
+        "phbaoiShortbow00": {
+          "name": "Arco corto",
+          "description": "<p><em>Rollo de ataque a distancia: </em>+5, rango 80/320 pies. <em>Pulse:</em> 6 (1d6 + 3) Daño por perforación.</p>"
+        }
+      },
+      "alignment": "Legal malvado"
+    },
+    "dmgTiger00000000": {
+      "name": "Tigre",
+      "tokenName": "Tigre",
+      "items": {
+        "phbaoiMultiattac": {
+          "name": "Multiataque",
+          "description": "<p>El tigre hace uno. [[/item Pounce]] ataque y usos [[/item Prowl]].</p>",
+          "activities": {
+            "dnd5eactivity000": {
+              "name": "Activar"
+            }
+          }
+        },
+        "phbaoiPounce0000": {
+          "name": "Salto",
+          "description": "<p><em>Rollo de Ataque Melee:</em> +5, hasta 5 pies. <em>Pulse: </em>6 (1d6 + 3) Daños en el corte. Si el tigre tenía ventaja en el rollo de ataque, el objetivo toma un extra 3 (1d6) daño de corte y, si es enorme o más pequeño, tiene el &amp;Reference[prone] afección.</p>",
+          "activities": {
+            "Z24TI5GCHsymeIMf": {
+              "name": "Ataque de ventaja",
+              "activation": {
+                "condition": "ataque hecho con Advantage"
+              }
+            }
+          }
+        },
+        "phbaoiProwl00000": {
+          "name": "Acechar",
+          "description": "<p>El tigre se mueve hasta la mitad de su velocidad sin provocar Ataques de Oportunidad. Al final de este movimiento, el tigre puede tomar la &amp;Reference[hide] acción.</p>",
+          "activities": {
+            "Lrw1JpEOduwDOS0x": {
+              "name": "Mover y ocultar"
+            }
+          }
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgWeasel0000000": {
+      "name": "Comadreja",
+      "tokenName": "Comadreja",
+      "items": {
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +5, hasta 5 pies. <em>Pulse:</em> 1 Daño por perforación.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgWebs000000000": {
+      "items": {
+        "L65nbOtdrFFfBMbN": {
+          "effects": {
+            "mjori1CjlRJKSGLY": {
+              "name": "Atrapado en Telaraña"
+            }
+          },
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo de permeabilidad (niveles 1-4)</em></p><p>Las arañas gigantes tejen gruesas y pegajosas telarañas a través de los pasajes y en el fondo de los hoyos para atrapar presas. Estas áreas están llenas de telaraña. &amp;Reference[Difficult Terrain].</p><p>Una criatura que entra en un área llena de telaraña por primera vez en un giro o comienza su turno allí debe tener éxito en un lanzamiento de ahorro CD 12 Dexterity o tener el &amp;Reference[Restrained apply=false] afección. Como una acción, una criatura Restringida por las telarañas puede tratar de escapar de ellos, haciéndolo con un éxito CD 12 Fuerza (Atlética) o Dexterity (Acrobacias) comprobar.</p><p>Cada cubo de telarañas de 10 pies tiene AC 10; PG 15; Vulnerabilidad al daño por incendio; e Inmunidad al daño por Piercing, Veneno y Psíquico.</p>",
+          "activities": {
+            "jJK0Gk52hKRfxksq": {
+              "name": "Comprobación de escape"
+            }
+          }
+        }
+      },
+      "name": "Telarañas",
+      "tokenName": "Telarañas",
+      "creatureType": "Riesgo"
+    },
+    "dmgWolf000000000": {
+      "name": "Lobo",
+      "tokenName": "Lobo",
+      "items": {
+        "phbaoiPackTactic": {
+          "name": "Tácticas de empaquetado",
+          "description": "<p> El lobo tiene ventaja en los rollos de ataque contra una criatura si al menos uno de los aliados del lobo está a menos de 5 pies de la criatura y el aliado no tiene la condición de Incapacitado.</p>",
+          "requirements": "Aliado a menos de 5 pies del objetivo"
+        },
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p><em>Rollo de Ataque Melee:</em> +4, hasta 5 pies. <em>Pulse: </em>5 (1d6 + 2) Piercing daño, y el objetivo tiene el &amp;Reference[prone] afección si es Mediana o más pequeña.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgYellowMold000": {
+      "items": {
+        "i0fQzzGjoQURrwu0": {
+          "effects": {
+            "tTcvxwreyvMHQKW2": {
+              "name": "Envenenado"
+            }
+          },
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo mortal (Niveles 1–4) o riesgo de permeabilidad (Niveles 5–10)</em></p><p>El moho amarillo crece en lugares oscuros, y un parche cubre un cuadrado de 5 pies. Si se toca, el molde expulsa una nube de esporas que llena un cubo de 10 pies. Cualquier criatura en esa área debe tener éxito en un CD 15 Constitución ahorro tirar o tomar 11 (2d10) daño venenoso y tener el &amp;Reference[Poisoned apply=false] condición durante 1 minuto. Mientras que envenenado de esta manera, la criatura toma 5 (1d10) daño venenoso en el comienzo de cada uno de sus giros. La criatura repite el salvo al final de cada uno de sus giros, terminando el efecto sobre sí misma en un éxito.</p><p>La luz solar directa o cualquier cantidad de daño al fuego destruye un parche de moho amarillo.</p>",
+          "activities": {
+            "0Xv2SntH0VWOd1KR": {
+              "name": "Colocar moho"
+            },
+            "ZgwIBPm94pTibjvU": {
+              "name": "Toque el molde"
+            },
+            "v0JH1H4dHpUCJ3D9": {
+              "name": "Inicio del daño de giro"
+            }
+          }
+        }
+      },
+      "name": "Moho amarillo",
+      "tokenName": "Moho amarillo",
+      "creatureType": "Riesgo"
+    },
+    "dmgZombie0000000": {
+      "name": "Zombi",
+      "tokenName": "Zombi",
+      "items": {
+        "phbaoiSlam000000": {
+          "name": "Golpe",
+          "description": "<p> <em>Rollo de Ataque Melee:</em> +3, hasta 5 pies. <em>Pulse:</em> 4 (1d6 + 1) Daños por desenganche.</p>"
+        },
+        "phbaoiUndeadFort": {
+          "name": "Fortaleza de muertos vivientes",
+          "description": "<p> Si el daño reduce el zombi a 0 puntos de impacto, debe hacer un lanzamiento de ahorro Constitución con un CD de 5 más el daño tomado a menos que el daño sea Radiante o de un golpe crítico. En un ahorro exitoso, el zombi cae a 1 punto de impacto en su lugar.</p>",
+          "requirements": "Reducido a 0 puntos de impacto"
+        }
+      },
+      "alignment": "Neutral malvado",
+      "languages": "Entiende los idiomas que conocía en vida, pero no puede hablar"
+    },
+    "dmggwsDancingSwo": {
+      "items": {
+        "DPH6ngFfFJHdxMYe": {
+          "name": "Espada larga",
+          "activities": {
+            "2VMTyJ3LuoNhPQSU": {
+              "name": "Comando: Movimiento y ataque",
+              "activation": {
+                "condition": "Acción adicional tomada por el personaje sintonizado"
+              },
+              "range": {
+                "special": "Puede moverse hasta 30 pies antes de atacar"
+              }
+            }
+          }
+        },
+        "dlSKamvVAPMCCTbC": {
+          "name": "Estoque",
+          "activities": {
+            "5YyLN6QHuNx2LmSf": {
+              "name": "Comando: Movimiento y ataque",
+              "activation": {
+                "condition": "Acción adicional tomada por el personaje sintonizado"
+              },
+              "range": {
+                "special": "Puede moverse hasta 30 pies antes de atacar"
+              }
+            }
+          }
+        },
+        "aYun8JFJxhdpFw14": {
+          "name": "Cimitarra",
+          "activities": {
+            "jwAfMNhqIPnzBFIB": {
+              "name": "Comando: Movimiento y ataque",
+              "activation": {
+                "condition": "Acción adicional tomada por el personaje sintonizado"
+              },
+              "range": {
+                "special": "Puede moverse hasta 30 pies antes de atacar"
+              }
+            }
+          }
+        },
+        "237FLmvncdVOhDKY": {
+          "name": "Espada corta",
+          "activities": {
+            "8pj5nN1PsQDJq8AV": {
+              "name": "Comando: Movimiento y ataque",
+              "activation": {
+                "condition": "Acción adicional tomada por el personaje sintonizado"
+              },
+              "range": {
+                "special": "Puede moverse hasta 30 pies antes de atacar"
+              }
+            }
+          }
+        },
+        "W8EZZZznFN8X4gGD": {
+          "name": "Espada grande",
+          "activities": {
+            "zi3BW6RGO2ugOyXu": {
+              "name": "Comando: Movimiento y ataque",
+              "activation": {
+                "condition": "Acción adicional tomada por el personaje sintonizado"
+              },
+              "range": {
+                "special": "Puede moverse hasta 30 pies antes de atacar"
+              }
+            }
+          }
+        }
+      },
+      "name": "Espada danzante",
+      "tokenName": "Espada danzante",
+      "creatureType": "Objeto mágico"
+    },
+    "dmgnpcAnimalLord": {
+      "name": "Señor de los animales",
+      "tokenName": "Señor de los animales"
+    },
+    "dmgnpcAnimatedBr": {
+      "name": "Escoba animada",
+      "tokenName": "Escoba animada"
+    },
+    "dmgnpcBlobofAnni": {
+      "name": "Amasijo de aniquilación",
+      "tokenName": "Amasijo de aniquilación"
+    },
+    "dmgnpcColossus00": {
+      "name": "Coloso",
+      "tokenName": "Coloso"
+    },
+    "dmgnpcElementalC": {
+      "name": "Cataclismo elemental",
+      "tokenName": "Cataclismo elemental"
+    },
+    "dmgnpcEmpyrean00": {
+      "name": "Empíreo",
+      "tokenName": "Empíreo"
+    },
+    "dmgqftFloatingWh": {
+      "name": "Látigo flotante",
+      "tokenName": "Látigo flotante",
+      "items": {
+        "JczWMhh6A5JU8yfN": {
+          "name": "Ataque de conjuro cuerpo a cuerpo"
+        }
+      },
+      "creatureType": "Objeto mágico",
+      "creatureSubtype": "Ficha de pluma"
+    },
+    "hE6VktUlGj5eVRiF": {
+      "items": {
+        "m68xw5aGQ7awxfYf": {
+          "name": "Ballesta pesada",
+          "description": "<section class=\"secret\">\n<p>Ataque con arma de alcance: +2 para golpear, rango 100/400 pies, un objetivo. Pulse: <strong>5 (1d10) <em>daño por perforación</em></strong>.</p></section>\n<p>El Caballero ataca con su ballesta pesada.</p>"
+        },
+        "Sp9AkcXsLCN09C9v": {
+          "name": "Valiente",
+          "description": "<p>El caballero tiene<strong> ventaja </strong>en los lanzamientos de ahorro en contra de tener miedo.</p>"
+        },
+        "Y4OikSWAB33cwfR2": {
+          "name": "Armadura de placa",
+          "description": "<p>La placa consiste en placas metálicas en forma, entrelazadas para cubrir todo el cuerpo. Un traje de placa incluye guanteletes, botas de cuero pesado, un casco visera, y capas gruesas de relleno debajo de la armadura. Hebillas y correas distribuyen el peso sobre el cuerpo.</p>"
+        },
+        "46b7R0DbKIsxvWcv": {
+          "name": "Multiataque",
+          "description": "<p>El caballero hace dos ataques cuerpo a cuerpo.</p>"
+        },
+        "iPLa96izrYFiVtaO": {
+          "name": "Espada grande",
+          "description": "<section class=\"secret\">\n<p><em>Ataque de arma de cuerpo entero:</em><strong>+5 a golpear,</strong>, <strong>5 pies,</strong> Un objetivo. Pulse: <strong>10 (2d6 + 3) <em>daño por corte</em></strong>.</p></section>\n<p>El Caballero ataca con su Gran Espada.</p>"
+        },
+        "FK0ZF8egty0u713z": {
+          "name": "Liderazgo",
+          "description": "<p>Durante 1 minuto, el caballero puede emitir un comando o advertencia especial cuando una criatura no hostil que puede ver a menos de 30 pies de distancia hace un rollo de ataque o un lanzamiento de ahorro. La criatura puede añadir un d4 a su rollo siempre que pueda oír y entender al caballero. Una criatura puede beneficiarse de un solo Liderazgo morir a la vez. Este efecto termina si el caballero está incapacitado.</p>"
+        },
+        "AxY9pWHDr2M1SPCC": {
+          "name": "Parada",
+          "description": "<section class=\"secret\">\n<p>El caballero añade 2 a su <strong>CA</strong> contra un ataque que lo golpearía. Para hacerlo, el caballero debe ver al atacante y estar empuñando un arma de combate.</p>\n</section>\n<p>El caballero añade 2 a su <strong>CA</strong> contra un ataque que lo golpearía.</p>"
+        }
+      },
+      "name": "Defensor del bastión (caballero)",
+      "tokenName": "Defensor del bastión (caballero)",
+      "alignment": "Cualquier alineamiento",
+      "creatureSubtype": "Cualquier especie",
+      "languages": "cualquier idioma (generalmente común)"
+    },
+    "u86LZa5VG5lwtrMf": {
+      "items": {
+        "6WM3kigdUVee6Nr3": {
+          "name": "Espada larga",
+          "description": "<p>Una larga hoja recta diseñada para cortar enemigos, la espada larga es un arma altamente versátil que también puede ser empuñada con dos manos para ataques más castigados.</p>"
+        },
+        "2reHgwNJRFbhmxqA": {
+          "name": "Camisa de cadena",
+          "description": "<p>Hecho de anillos metálicos entrelazados, una camisa de cadena se usa entre capas de ropa o cuero. Esta armadura ofrece una protección modesta a la parte superior del cuerpo del usuario y permite que el sonido de los anillos frotarse unos contra otros para ser amortiguado por capas externas.</p>"
+        }
+      },
+      "name": "Defensor del bastión (espada)",
+      "tokenName": "Defensor del bastión (espada)",
+      "alignment": "Cualquier alineamiento",
+      "languages": "cualquier idioma (generalmente común)"
+    },
+    "dmgBrownMold0000": {
+      "name": "Moho marrón",
+      "tokenName": "Moho marrón",
+      "items": {
+        "wXls4q9BiqzZ5gwU": {
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo mortal (niveles 5-10) o peligro de la permeabilidad (niveles 11-16)</em></p><p>El moho marrón se asemeja a una alfombra peluda y marrón claro. Este hongo se alimenta de calor, atrayendo calor de cualquier cosa alrededor de sí mismo. Un parche de moho marrón cubre un cuadrado de 10 pies, y la temperatura dentro de 30 pies de él es siempre frígida.</p><p>Cuando una criatura entra en un espacio a menos de 5 pies del molde por primera vez en un giro o comienza su giro allí, la criatura hace un lanzamiento de ahorro CD 12 Constitución, tomando 22 (4d10) Daño frío en un error guardar o la mitad de daño en un éxito.</p><p>El moho marrón tiene Inmunidad al daño por incendio, y cualquier fuente de fuego dentro de 5 pies causa que el moho se expanda instantáneamente a través de una superficie y hacia el fuego, creando un nuevo parche que cubre un cuadrado de 10 pies. Un parche de moho marrón expuesto a un efecto que hace frente a cualquier cantidad de daño en frío se destruye instantáneamente.</p>",
+          "activities": {
+            "dNDTMP9tcw54xzv9": {
+              "name": "Plaza de 10 pies"
+            }
+          }
+        }
+      },
+      "creatureType": "Riesgo"
+    },
+    "dmgCollapsingRoo": {
+      "name": "Trampa de techo derrumbable",
+      "tokenName": "Trampa de techo derrumbable",
+      "items": {
+        "J1aVVouhnWibvHzx": {
+          "name": "Trampa de activación",
+          "description": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (niveles 1-4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura cruza un alambre de viaje</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantáneo</p><p>Esta trampa utiliza un alambre de viaje para colapsar una sección inestable del techo. El alambre de viaje está a 3 pulgadas del suelo y se extiende entre dos soportes débiles que se derriban cuando se tira del alambre de viaje.</p><p>La primera criatura que cruza el alambre de viaje hace que los soportes se derriben y la sección inestable del techo se desplome. Cada criatura debajo de la sección inestable del techo debe tener éxito en un lanzamiento de ahorro CD 13 Dexterity, tomando 11 (2d10) Bludgeoning daño en un error ahorrar o la mitad de daño en un éxito. El rublo del colapso convierte el área atrapada en &amp;Reference[Difficult Terrain].</p><p><em><strong>Detectar y desarmar.</strong></em> Como una acción de búsqueda, una criatura puede examinar el área atrapada y hacer un [[/check prc 11]] comprobar, detectar el alambre de viaje y la sección inestable del techo en un control exitoso. Una vez detectado, el alambre de viaje puede cortarse o evitarse fácilmente (no se requiere verificación de capacidad).</p><p><em><strong>En los niveles superiores.</strong></em> Puede escalar la trampa para niveles más altos aumentando el daño y el CD de ahorro, como se muestra en la tabla siguiente.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daños por desenganche</p></th><th><p>Guardar CD</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>22 (4d10)</p></td><td><p>15</p></td></tr><tr><td><p>11–16</p></td><td><p>55 (10d10)</p></td><td><p>17</p></td></tr><tr><td><p>17–20</p></td><td><p>99 (18d10)</p></td><td><p>19</p></td></tr></tbody></table></div>",
+          "descriptionChat": "<p>Se activa una trampa.</p>",
+          "activities": {
+            "Skb0JD9XhdGlYZYa": {
+              "name": "Activador (1-4)"
+            },
+            "5Px99efZclYkwmk8": {
+              "name": "Activación (5-10)"
+            },
+            "JJ7MByUuFYb5YE7b": {
+              "name": "Activación (11-16)"
+            },
+            "oSCNaQjIKHl7yacz": {
+              "name": "Activación (17-20)"
+            }
+          }
+        }
+      },
+      "creatureType": "Trampa"
+    },
+    "dmgDaylightDrift": {
+      "biography": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDriftglobe000 caption=false]</p>",
+      "name": "Globo flotante (Luz del día)",
+      "tokenName": "Globo flotante",
+      "creatureType": "Objeto mágico"
+    },
+    "dmgDireWolf00000": {
+      "name": "Lobo terrible",
+      "tokenName": "Lobo terrible",
+      "items": {
+        "phbaoiPackTactic": {
+          "name": "Tácticas de empaquetado",
+          "description": "<p>El lobo tiene ventaja en un ataque rodar contra una criatura si al menos uno de los aliados del lobo está a menos de 5 pies de la criatura y el aliado no tiene la condición de Incapacitado.</p>",
+          "requirements": "Aliado a menos de 5 pies del objetivo"
+        },
+        "phbaoiBite000000": {
+          "name": "Mordida",
+          "description": "<p><em>Rollo de Ataque Melee: </em>+5, hasta 5 pies. <em>Pulse: </em>8 (1d10 + 3) Piercing daño, y el objetivo tiene el &amp;Reference[prone] condición si es enorme o más pequeño.</p>"
+        }
+      },
+      "alignment": "Sin alineamiento"
+    },
+    "dmgFallingNetTra": {
+      "name": "Trampa de red que cae",
+      "tokenName": "Trampa de red que cae",
+      "items": {
+        "tPDfcQTDsVmAeML0": {
+          "name": "Establecer la trampa del &amp; desencadenante",
+          "description": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa de Nuisance (Niveles 1-4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura cruza un alambre de viaje</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantáneo</p><p>Una trampa de red que cae utiliza un alambre de viaje para liberar una red ponderada de 10 pies cuadrados suspendida del techo. El alambre de viaje está a 3 pulgadas del suelo y se extiende entre dos columnas o árboles.</p><p>La primera criatura que cruza el alambre de viaje hace que la Red caiga sobre ella. El objetivo debe tener éxito en un lanzamiento de ahorro CD 10 Dexterity o tener el &amp;Reference[Restrained] condición hasta que se escapa. El objetivo tiene éxito automáticamente si es enorme o más grande. Una criatura puede tomar una acción para hacer un control de fuerza CD 10 (Athlétics), liberando a sí misma u otra criatura a su alcance de la Red en un cheque exitoso.</p><p><em><strong>Detectar y desarmar.</strong></em> Como una acción de búsqueda, una criatura puede examinar el área atrapada y hacer un [[/check prc 11]] comprobar, detectar el alambre de viaje y la suspensión @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagNet00000000]{Neto} en un cheque exitoso. Una vez detectado, el alambre de viaje puede cortarse o evitarse fácilmente (no se requiere verificación de capacidad).</p><p><em><strong>Destruye la red.</strong></em> Reducir la red a 0 puntos de impacto libera a cualquier criatura atrapada en ella (ver la <em>Manual del jugador</em> para las estadísticas de la Red).</p><p><em><strong>Pon la trampa.</strong></em> Una criatura que tiene herramientas de ladrones y todos los componentes de la trampa (incluida una red) puede tratar de establecer una trampa de red que cae, haciéndolo con un éxito CD 13 Dexterity (Sleight of Hand) cheque. Cada intento de poner esta trampa toma 10 minutos.</p><p><em><strong>En los niveles superiores.</strong></em> Se puede escalar la trampa para niveles más altos aumentando el peso de la Red, lo que aumenta el ahorro CD y el CD de la Fuerza (Athlétics) comprobar como sigue: CD 12 en los niveles 5-10, CD 14 en los niveles 11-16, o CD 16 en los niveles 17-20.</p></div>",
+          "descriptionChat": "<p>Se activa una trampa.</p>",
+          "activities": {
+            "6WqmHWV90mAkdAeH": {
+              "name": "Activador (1-4)"
+            },
+            "rmt1MtwWIH7aBw3K": {
+              "name": "Activación (5-10)"
+            },
+            "NTDTHoQD2IlXyilR": {
+              "name": "Activación (11-16)"
+            },
+            "9KsWyFHzUljZAn3j": {
+              "name": "Activación (17-20)"
+            },
+            "Cj3xVAEWRWxQhIg1": {
+              "name": "Comprobación de escape (1-4)"
+            },
+            "lMaMzBruWJp8CqjP": {
+              "name": "Comprobación de escape (5-10)"
+            },
+            "8spyYXxBDzCRxrBs": {
+              "name": "Comprobación de escape (11-16)"
+            },
+            "Ngrk6C0c10xHBMQC": {
+              "name": "Comprobación de escape (17-20)"
+            },
+            "Vb56vJDCS4XysNPe": {
+              "name": "Establecer trampa"
+            }
+          },
+          "effects": {
+            "x6gbX614AdKp7CT5": {
+              "name": "Capturado"
+            }
+          }
+        }
+      },
+      "creatureType": "Trampa"
+    },
+    "dmgFireCastingSt": {
+      "name": "Trampa de estatua lanzallamas",
+      "tokenName": "Trampa de estatua lanzallamas",
+      "items": {
+        "wqYxioSBml4nVzam": {
+          "name": "Trampa de activación",
+          "description": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (niveles 1-4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura se mueve sobre una placa de presión</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantáneo, y la trampa se reinicia al comienzo de la siguiente vuelta</p><p>Cuando una criatura se mueve sobre la placa de presión de esta trampa por primera vez en un giro o comienza su giro allí, una estatua cercana exhala un Cono de 15 pies de llama mágica. La estatua puede parecerse a cualquier cosa, como un dragón o un mago. Cada criatura en el Cono debe tener éxito en un lanzamiento de ahorro CD 15 Dexterity, tomando 11 (2d10) Daños por incendio en un error guardar o la mitad de daño en un éxito.</p><p><em><strong>Detectar y desarmar.</strong></em> A <em>Detectar magia</em> el conjuro revela un aura de magia de evocación alrededor de la estatua. Como una acción de búsqueda, una criatura a menos de 5 pies de la estatua puede examinarla y hacer un [[/check DC prc 10]] chequeo, detectando un pequeño glifo en la estatua en un chequeo exitoso. Una vez que se encuentra el glifo, un personaje puede tomar una acción de Estudio para examinarlo y hacer un [[/check arc 15]] comprobar, comprobando que el glifo significa “fuego” en un cheque exitoso. Como una acción, un personaje puede utilizar una herramienta aguda para desfigurar el glifo, que desarma la trampa.</p><p>Como una acción de búsqueda, una criatura puede examinar la sección del suelo que forma la placa de presión y hacer un [[/check prc 15]] comprobar, detectar la placa de presión en un control exitoso. Bordar un Spike de Hierro u otro objeto similar bajo la placa de presión evita que la trampa se active.</p><p><em><strong>En los niveles superiores.</strong></em> Puede escalar la trampa para niveles más altos aumentando el daño y el área de efecto, como se muestra en la tabla siguiente.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daño por incendio</p></th><th><p>Área de efecto</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>22 (4d10)</p></td><td><p>Cono de 30 pies</p></td></tr><tr><td><p>11–16</p></td><td><p>55 (10d10)</p></td><td><p>Cono de 60 pies</p></td></tr><tr><td><p>17–20</p></td><td><p>99 (18d10)</p></td><td><p>Cono de 120 pies</p></td></tr></tbody></table></div>",
+          "descriptionChat": "<p>Se activa una trampa.</p>",
+          "activities": {
+            "ntLsP8oauafxeob3": {
+              "name": "Activador (1-4)"
+            },
+            "wAUtJ6XhWRvTNHZT": {
+              "name": "Activación (5-10)"
+            },
+            "tFQSzALbcmkudWfC": {
+              "name": "Activación (11-16)"
+            },
+            "O6PC7MrHXau1W285": {
+              "name": "Activación (17-20)"
+            }
+          }
+        }
+      },
+      "creatureType": "Trampa"
+    },
+    "dmgFireballFungu": {
+      "name": "Hongo de bola de fuego",
+      "tokenName": "Hongo de bola de fuego",
+      "items": {
+        "o697Z2dhvAhI8LWd": {
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo mortal (niveles 5-10)</em></p><p>Un hongo de bola de fuego es un hongo pequeño, inanimado que puede crecer en cualquier lugar se encuentran en abundancia hongos. Su gorra luminosa y anaranjada arroja luz brillante en un radio de 15 pies y luz tenue por otros 15 pies.</p><p>Un hongo de la bola de fuego tiene AC 10, PG 6, y a Inmunidad daño psíquico. Cuando cae a 0 puntos de impacto, el hongo explota como si un @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFireball00]{Bola de fuego} conjuro (salvo CD 15) se había centrado en él.</p><p><em><strong>En los niveles superiores.</strong></em> La explosión de un hongo de bola de fuego hace que otros hongos de bola de fuego en el área de efecto también exploten. Se puede escalar el riesgo para niveles más altos añadiendo un hongo adicional en los niveles 11–16 o tres hongos adicionales en los niveles 17–20.</p>"
+        }
+      },
+      "creatureType": "Riesgo"
+    },
+    "dmgGreenSlime000": {
+      "name": "Limo verde",
+      "tokenName": "Limo verde",
+      "items": {
+        "qHbUxNGt2d9zu6zw": {
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo de permeabilidad (niveles 1-4)</em></p><p>El limo verde ácido devora la carne, el material orgánico y el metal al contacto. Verde brillante, húmedo y pegajoso, se adhiere a paredes, pisos y techos en parches.</p><p>Un parche de limo verde cubre un cuadrado de 5 pies. El limo verde tiene Blindsight con un rango de 30 pies, y cae de las paredes y techos cuando detecta el movimiento debajo de sí mismo. Más allá de eso, no se puede mover. Una criatura consciente de la presencia del limo puede evitar ser golpeado por él con un lanzamiento de ahorro CD 10 dexterity exitoso.</p><p>Una criatura que entra en contacto con el limo verde toma 5 (1d10) daño ácido. La criatura vuelve a recibir el daño al comienzo de cada uno de sus giros hasta que el limo se raspa (que requiere una acción) o se destruye. Contra la madera o el metal, el limo verde trata 11 (2d10) Daño ácido cada ronda, y cualquier madera no mágica o elemento de metal utilizado para raspar el limo verde es destruido.</p><p>La luz solar directa o cualquier cantidad de daño por frío, fuego o radiación destruye un trozo de baba verde.</p>",
+          "activities": {
+            "1pDDTBrYptkKehmb": {
+              "name": "Evitar"
+            },
+            "RM12DHaEF02m9i4G": {
+              "name": "Daños por contacto"
+            },
+            "lfNGm0FvaB7k2d5j": {
+              "name": "Daños en madera/metal"
+            }
+          }
+        }
+      },
+      "creatureType": "Riesgo"
+    },
+    "dmgHiddenPitTrap": {
+      "name": "Trampa de foso oculto",
+      "tokenName": "Trampa de foso oculto",
+      "items": {
+        "qlwtfmpcFhNWY85w": {
+          "name": "Trampa de activación",
+          "description": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa de Nuisance (Niveles 1-4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura se mueve sobre la tapa del hoyo</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantáneo</p><p>Este pozo de 10 pies de profundidad tiene una tapa con bisagra construida de material idéntico al piso circundante. Cuando una criatura se mueve sobre la tapa, se abre como una trampilla, causando que la criatura caiga en el hoyo. La tapa permanece abierta después.</p><p>Una criatura que cae en el hoyo toma 3 (1d6) Bludgeoning daño de la caída.</p><p><em><strong>Detectar y desarmar.</strong></em> Como una acción de estudio, una criatura puede examinar la sección del suelo que forma la tapa del hoyo y hacer un [[/check inv 15]] Comprobar, detectar el pozo en un cheque con éxito. Una vez detectada la fosa, se puede colocar un Spike de Hierro o un objeto similar entre la tapa de la fosa y el suelo circundante para evitar que se abra, lo que hace que sea seguro cruzarla. La cubierta también se puede mantener cerrada usando <em>Bloqueo arcano</em> o magia similar.</p><p><em><strong>Escapar.</strong></em> Una criatura necesita una velocidad de escalada, equipo de escalada, o magia como <em>Escalada de arañas</em> para escalar las paredes lisas del pozo. Usted puede hacer el hoyo más fácil de escapar mediante la adición de grietas en las paredes lo suficientemente grandes como para servir como asideros y asideros.</p><p><em><strong>En los niveles superiores.</strong></em> Puede escalar la trampa para niveles más altos aumentando la profundidad y el daño del pozo, como se muestra en la tabla siguiente.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Profundidad del pozo</p></th><th><p>Daños por desenganche</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>30 pies</p></td><td><p>10 (3d6)</p></td></tr><tr><td><p>11–16</p></td><td><p>60 pies</p></td><td><p>21 (6d6)</p></td></tr><tr><td><p>17–20</p></td><td><p>120 pies</p></td><td><p>42 (12d6)</p></td></tr></tbody></table></div>",
+          "descriptionChat": "<p>Se activa una trampa.</p>",
+          "activities": {
+            "eUM83khbEL1EWs7F": {
+              "name": "Activador (1-4)"
+            },
+            "olElmKyAZSNXg7sJ": {
+              "name": "Activación (5-10)"
+            },
+            "Ov8Du4DkHAbeexCM": {
+              "name": "Activación (11-16)"
+            },
+            "cLhuXsVX8OG1R96l": {
+              "name": "Activación (17-20)"
+            }
+          }
+        }
+      },
+      "creatureType": "Trampa"
+    },
+    "dmgLightDriftglo": {
+      "biography": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDriftglobe000 caption=false]</p>",
+      "name": "Globo flotante (Luz)",
+      "tokenName": "Globo flotante",
+      "creatureType": "Objeto mágico"
+    },
+    "dmgPoisonedDarts": {
+      "name": "Trampa de dardos envenenados",
+      "tokenName": "Trampa de dardos envenenados",
+      "items": {
+        "ogowLYTTYgDGG5vR": {
+          "name": "Trampa de activación",
+          "description": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (niveles 1-4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura se mueve sobre una placa de presión</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantáneo, y la trampa se reinicia al comienzo de la siguiente vuelta si se ha activado menos de tres veces</p><p>Cuando una criatura se mueve por primera vez sobre la placa de presión de esta trampa en un giro, los dardos envenenados disparan desde tubos incrustados en las paredes circundantes. Los agujeros que albergan estos tubos están oscurecidos por el polvo y telarañas o hábilmente escondidos entre bajorrelieves, murales o frescos.</p><p>Cada criatura en el camino de los dardos debe tener éxito en un lanzamiento CD 13 Dexterity ahorro o ser golpeado por [[/r 1d3]] dardos, tomando 3 (1d6) daño venenoso por dardo.</p><p><em><strong>Detectar y desarmar.</strong></em> Como una acción de búsqueda, una criatura puede examinar las paredes y hacer un [[/check prc 15]] chequeo, detectando los agujeros en un chequeo exitoso. Enchufar todos los agujeros con cera, tela o detritus evita que los dardos se disparen.</p><p>Como una acción de búsqueda, una criatura puede examinar la sección del suelo que forma la placa de presión y hacer un [[/check prc 15]] comprobar, detectar la placa de presión en un control exitoso. La unión de un Spike de Hierro o un objeto similar bajo la placa de presión impide que la trampa se active.</p><p><em><strong>En los niveles superiores.</strong></em> Puede escalar la trampa para niveles más altos aumentando el daño Veneno de cada dardo de la siguiente manera: 7 (2d6) en los niveles 5-10, 14 (4d6) en los niveles 11-16, o 24 (7d6) en los niveles 17-20.</p></div>",
+          "descriptionChat": "<p>Se activa una trampa.</p>",
+          "activities": {
+            "xiQDLP29IJIG30s8": {
+              "name": "Activador (1-4)"
+            },
+            "5jZYZAlXCPKX0oUj": {
+              "name": "Activación (5-10)"
+            },
+            "vpLYfg3WcKaAmvPA": {
+              "name": "Activación (11-16)"
+            },
+            "DWL8VuZs8p9kNpGy": {
+              "name": "Activación (17-20)"
+            }
+          }
+        }
+      },
+      "creatureType": "Trampa"
+    },
+    "dmgPoisonousGas0": {
+      "name": "Gas venenoso",
+      "tokenName": "Gas venenoso",
+      "items": {
+        "3JqiZ2jvjNEWqCOE": {
+          "name": "Gas venenoso",
+          "description": "<p><em>Riesgo de permeabilidad (niveles 1-4)</em></p><p>El gas venenoso suele encontrarse en un espacio cerrado, como una alcantarilla o una tumba sellada. El gas llena tanto espacio como puede, hasta un máximo de diez cubos de 10 pies. El gas transparente lleva un olor horrible. El gas es continuamente o periódicamente reabastecido por alguna fuente natural o mágica, aunque un fuerte viento dispersa el gas durante 1 minuto.</p><p>Cualquier criatura que entra en el gas venenoso por primera vez en un giro o comienza su turno allí hace un lanzamiento de ahorro de la Constitución CD 12, tomando 5 (1d10) daño venenoso en un fallo ahorrar o la mitad de daño en un éxito. Las criaturas en el gas también tienen Desventajas en los lanzamientos de salvamento de la muerte.</p><p><em><strong>En los niveles superiores.</strong></em> Puede escalar el riesgo para niveles más altos aumentando el daño al veneno y el CD de ahorro, como se muestra en la tabla siguiente.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daño por veneno</p></th><th><p>Guardar CD</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>11 (2d10)</p></td><td><p>14</p></td></tr><tr><td><p>11–16</p></td><td><p>22 (4d10)</p></td><td><p>16</p></td></tr><tr><td><p>17–20</p></td><td><p>55 (10d10)</p></td><td><p>18</p></td></tr></tbody></table>",
+          "activities": {
+            "5YCSarlQqArnM2EL": {
+              "name": "Colocar el gas"
+            },
+            "rpHDOxgNJk6pSrVh": {
+              "name": "Nivel 1-4 Guardar"
+            },
+            "Qs4Ks49tMLarPxG9": {
+              "name": "Nivel 5-10 Guardar"
+            },
+            "w5q9PxZnIblnSzxA": {
+              "name": "Nivel 11-16 Guardar"
+            },
+            "b8dwpNAVN3JgB5Tq": {
+              "name": "Nivel 17-20 Guardar"
+            }
+          }
+        }
+      },
+      "creatureType": "Riesgo"
+    },
+    "dmgQuicksandPit0": {
+      "name": "Foso de arenas movedizas",
+      "tokenName": "Foso de arenas movedizas",
+      "items": {
+        "TYQXSxieHktuQQKy": {
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo de permeabilidad (niveles 1-4)</em></p><p>Un pozo de arena movediza tiene 10 pies de profundidad y cubre el suelo en un cuadrado de 10 pies. Una criatura que entra en el área se hunde [[/r 1d4 + 1]] pies en la arena movediza y tiene el &amp;Reference[Restrained] afección. Al comienzo de cada uno de los giros de la criatura, se hunde otro [[/r 1d4]] pies. Mientras la criatura no esté completamente sumergida en arenas movedizas, puede tomar una acción para tratar de escapar, haciéndolo con un control de fuerza (atléticos) exitoso (CD 10 más el número de pies que la criatura ha hundido en las arenas movedizas). Una criatura que está completamente sumergida en arenas movedizas tiene &amp;Reference[Total Cover] y la &amp;Reference[Blinded] afección y riesgos de asfixia.</p><p>Una criatura puede sacar a otra criatura a su alcance de un pozo de arena movediza al tomar una acción y tener éxito en un control de Fuerza (Athlétics) (CD 5 más el número de pies que la criatura se ha hundido en las arenas movedizas).</p><p><em><strong>En los niveles superiores.</strong></em> Puede escalar este riesgo para niveles más altos haciendo el hoyo más profundo y aumentando el número de pies que una criatura se hunde al inicio de cada uno de sus giros, como se muestra en la tabla siguiente.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Profundidad del pozo</p></th><th><p>Tasa de hundimiento</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>15 pies</p></td><td><p>[[/r 1d6]] pies</p></td></tr><tr><td><p>11–16</p></td><td><p>20 pies</p></td><td><p>[[/r 1d8]] pies</p></td></tr><tr><td><p>17–20</p></td><td><p>30 pies</p></td><td><p>[[/r 1d10]] pies</p></td></tr></tbody></table><section class=\"secret\" id=\"secret-AM5gl3rOBGRkGFwA\"><p><strong>Nota de Foundry</strong></p><p>Los <strong>Comprobación de escape</strong> y <strong>Sacar otra criatura</strong> actividades le permite entrar en el número de pies que la criatura se ha hundido y aumentará el CD automáticamente.</p></section>",
+          "activities": {
+            "K3Z3aqVvRkznguHi": {
+              "name": "Coloque Quicksand Pit"
+            },
+            "ftBmQJ5f6UWQl7rK": {
+              "name": "Comprobación de escape"
+            },
+            "GqEXTWst7MAWQ4q8": {
+              "name": "Sacar otra criatura"
+            }
+          }
+        }
+      },
+      "creatureType": "Riesgo"
+    },
+    "dmgRazorvine0000": {
+      "name": "Enredadera afilada",
+      "tokenName": "Enredadera afilada",
+      "items": {
+        "m9ecTvssJK2YepZ3": {
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo de permeabilidad (niveles 1-4)</em></p><p>Razorvine es una planta que crece en enredos y setos silvestres. También se aferra a los lados de los edificios y otras superficies como lo hace la hiedra. Una pared o un seto de 10 pies de alto, 10 pies de ancho, 5 pies de espesor tiene AC 11; PG 25; e inmunidad a Bludgeoning, Piercing, y daño psíquico.</p><p>Cuando una criatura entra en contacto con la navaja por primera vez en un giro, la criatura debe tener éxito en un lanzamiento de ahorro CD 10 Dexterity o tomar 5 (1d10) Cortar el daño de las espinas tipo cuchilla.</p>",
+          "activities": {
+            "poB0ZrbjCHw6CyW4": {
+              "name": "Colocar Razorvine"
+            }
+          }
+        }
+      },
+      "creatureType": "Riesgo"
+    },
+    "dmgRiverStyx0000": {
+      "name": "Río Estigia",
+      "tokenName": "Río Estigia",
+      "items": {
+        "fbwpUkFgJksVW5uL": {
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo de permeabilidad (niveles 11-16)</em></p><section class=\"secret\" id=\"secret-Q5ErQoKW5KLRi6hd\"><p>El río Styx recorre los Planos Inferiores. Degustar o tocar sus aguas puede romper el intelecto y la personalidad de una criatura, así como quitar sus recuerdos. Ciertos demonios son inmunes a los efectos del río.</p><p>A menos que inmune a los efectos del río, una criatura que bebe del Styx, entra en el río, o comienza su turno en el río hace un lanzamiento de ahorro de inteligencia CD 20. En un ahorro fallido, la criatura recibe 19 (3d12) daños psíquicos y no puede lanzar conjuros o tomar la acción mágica durante 30 días. Una criatura afectada puede beber del Estirón y nadar en sus aguas sin sufrir ningún efecto adicional.</p><p>El efecto sólo puede ser terminado por el @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplGreaterRes]{Mayor restauración}, @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHeal000000]{Curar}o bien @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWish000000]{Deseo} Deletrear. Si el efecto no termina después de 30 días, el efecto se vuelve permanente, y la criatura pierde todos sus recuerdos. En ese momento, nada menos que un <em>Deseo</em> conjuro o intervención divina puede deshacer el efecto.</p><p>El agua tomada del río Styx pierde su potencia después de 24 horas, convirtiéndose en un líquido inocuo y catador. Los Arcanaloths, las brujas nocturnas, y otras criaturas caídas podrían conocer rituales que pueden prolongar la potencia del agua, a su discreción.</p></section>",
+          "effects": {
+            "LHfqYQLo6Gr8obC4": {
+              "name": "Efectos del estirón del río",
+              "description": "<p>La criatura no puede lanzar conjuros o tomar la acción mágica durante 30 días. Una criatura afectada puede beber del Estirón y nadar en sus aguas sin sufrir ningún efecto adicional.</p><p>El efecto sólo puede ser terminado por la Restauración Mayor, Curación, o el conjuro de Deseo. Si el efecto no termina después de 30 días, el efecto se vuelve permanente, y la criatura pierde todos sus recuerdos. En ese punto, nada menos que un conjuro de Deseo o intervención divina puede deshacer el efecto.</p>"
+            }
+          }
+        }
+      },
+      "creatureType": "Riesgo"
+    },
+    "dmgRollingStoneT": {
+      "name": "Trampa de roca rodante",
+      "tokenName": "Trampa de roca rodante",
+      "items": {
+        "AOt8DirIzuRzzZ0J": {
+          "name": "Trampa de activación",
+          "description": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (Nivel 11-16) o Trampa de Nuisancia (Nivel 17-20)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura se mueve sobre una placa de presión</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Hasta que la piedra deje de rodar</p><p>Cuando una criatura se mueve sobre una placa de presión oculta, un orbe de 5 pies de radio de piedra sólida se libera de un compartimiento secreto y comienza a rodar. La piedra y todas las criaturas cercanas rodan Iniciativa; la piedra obtiene un [[/r 1d20 + 8]]{+8} bono en su lanzamiento de la Iniciativa.</p><p>A su vez, la piedra se mueve 60 pies en una dirección, cambiando de rumbo si se redirige por un obstáculo. La piedra puede moverse a través de los espacios de las criaturas, y las criaturas pueden moverse a través del espacio de la piedra, tratándolo como &amp;Reference[Difficult Terrain]. Cada vez que la piedra entra en el espacio de una criatura por primera vez en un giro o una criatura entra en el espacio de la piedra mientras la piedra está rodando, esa criatura debe tener éxito en un CD 15 Dexterity ahorro tiro o tomar 55 (10d10) Bludgeoning daño y tener el &amp;Reference[Prone apply=false] afección.</p><p>La piedra se detiene cuando golpea una pared o una barrera similar. No se puede dar la vuelta a las esquinas, pero los constructores de calabozos creativos incorporan curvas en pasajes cercanos que permiten que la piedra siga moviéndose.</p><p><em><strong>Detectar y desarmar.</strong></em> Como una acción de estudio, una criatura puede examinar la sección del suelo que forma la placa de presión y hacer un [[/check inv 15]] comprobar, deducir la función de la placa de presión en un control exitoso. La unión de un Spike de Hierro o un objeto similar bajo la placa de presión impide que la trampa se active.</p><p><em><strong>Destruye la Piedra.</strong></em> La piedra es un objeto grande que tiene AC 17, PG 100, un umbral de daño de 10, e inmunidad al daño venenoso y psíquico.</p><p><em><strong>Baja la velocidad de la piedra.</strong></em> Como una acción, una criatura puede tratar de ralentizar la piedra con un control de CD 20 Fuerza (Atléticos). Si la comprobación es exitosa, la distancia que la piedra se mueve en su giro se reduce en 15 pies. Si esa distancia baja a 0, deja de moverse y ya no es una amenaza.</p></div>",
+          "descriptionChat": "<p>Se activa una trampa.</p>",
+          "activities": {
+            "ccAp0nnTyLmb5lqu": {
+              "name": "Ralentizar"
+            }
+          }
+        }
+      },
+      "creatureType": "Trampa"
+    },
+    "dmgSpikedPitTrap": {
+      "name": "Trampa de foso con estacas",
+      "tokenName": "Trampa de foso con estacas",
+      "items": {
+        "xATGvGl6JeEOXqje": {
+          "name": "Trampa de activación",
+          "description": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (niveles 1-4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura se mueve sobre la tapa del hoyo</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantáneo</p><p>Un hoyo de 10 pies de profundidad tiene una tapa con bisagras construida a partir de material idéntico al suelo circundante. Cuando una criatura se mueve sobre la tapa, se abre como una trampilla, causando que la criatura caiga en el hoyo, que tiene puntas de madera o metal afilados en la parte inferior. La tapa permanece abierta después.</p><p>Una criatura que cae en el pozo aterriza en el fondo y toma 3 (1d6) Bludgeoning daño de la caída más 9 (2d8) Piercing daño de las puntas.</p><p><em><strong>Detectar y desarmar.</strong></em> Como una acción de estudio, una criatura puede examinar la sección del suelo que forma la tapa del hoyo y hacer un [[/check inv 15]] Comprobar, detectar el pozo en un cheque con éxito. Una vez que se detecta el hoyo oculto, se puede colocar un Spike de Hierro o un objeto similar entre la tapa del hoyo y el suelo circundante para evitar que se abra, lo que lo hace seguro para cruzar. La cubierta también se puede mantener cerrada usando un <em>Bloqueo arcano</em> conjuro o magia similar.</p><p><em><strong>Escapar.</strong></em> Una criatura necesita una velocidad de escalada, equipo de escalada, o magia como un <em>Escalada de arañas</em> conjuro para escalar las paredes lisas del pozo. Usted puede hacer el hoyo más fácil de escapar mediante la adición de grietas en las paredes lo suficientemente grandes como para servir como asideros y asideros.</p><p><em><strong>En los niveles superiores.</strong></em> Puede escalar la trampa para niveles más altos aumentando la profundidad y el daño del pozo, como se muestra en la tabla siguiente.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Profundidad del pozo</p></th><th><p>Daños</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>30 pies</p></td><td><p>10 (3d6) Desenganche más 13 (3d8) Piercing</p></td></tr><tr><td><p>11–16</p></td><td><p>60 pies</p></td><td><p>21 (6d6) Desenganche más 36 (8d8) Piercing</p></td></tr><tr><td><p>17–20</p></td><td><p>120 pies</p></td><td><p>42 (12d6) Bludgeoning más 57 (13d8) Piercing</p></td></tr></tbody></table></div>",
+          "activities": {
+            "IcRTj0wjFx57b2ah": {
+              "name": "Activador (1-4)"
+            },
+            "TJd0gjHdlIhVSLME": {
+              "name": "Activación (5-10)"
+            },
+            "sb3X5dQHg0YfiXdu": {
+              "name": "Activación (11-16)"
+            },
+            "sYmGrKpo04Di1TwE": {
+              "name": "Activación (17-20)"
+            }
+          }
+        }
+      },
+      "creatureType": "Trampa"
+    },
+    "dmgViciousVine00": {
+      "name": "Enredadera feroz",
+      "tokenName": "Enredadera feroz",
+      "items": {
+        "pGfvvzbQ67ibQSXR": {
+          "name": "Descripción/Efectos",
+          "description": "<p><em>Riesgo de permeabilidad (niveles 1-4)</em></p><p>Viñedos viciosos son animados por la magia. A menudo se aferran a puertas, arcos, paredes y estatuas. Hasta que una vid viciosa se mueve, no hay nada que la distinga de una vid inanimada.</p><p>Cada vid viciosa tiene AC 11; PG 16; y para inmunidad Bludgeoning, Piercing, y daño psíquico. Cuando una criatura entra en un espacio a menos de 5 pies de la vid por primera vez en un giro o comienza su giro allí, la vid intenta enrollarse alrededor de esa criatura. El objetivo debe tener éxito en un lanzamiento de ahorro CD 12 Dexterity o tener la condición Grappled (escape CD 12). Mientras que el objetivo se agacha de esta manera, el daño necrótico de 5 (1d10) de las espinas que drenan la vida de la vid en el comienzo de cada uno de los giros del objetivo. La vid puede bregar sólo una criatura a la vez.</p><p>Como una acción de influencia, un carácter bajo el efecto de un <em>Hable con las plantas</em> conjuro o magia similar puede tratar de persuadir a la vid para liberar a su víctima, haciéndolo con un éxito CD 10 Carisma (Persuasión) cheque. Una criatura liberada por la vid de esta manera no será atacada de nuevo por esa vid durante las próximas 24 horas.</p><p><em><strong>En los niveles superiores.</strong></em> Puede escalar el riesgo para niveles más altos aumentando el daño Necrótico, el CD de ahorro y el CD de escape, como se muestra en la tabla siguiente.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daños necróticos</p></th><th><p>Guardar/escapar CD</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>11 (2d10)</p></td><td><p>14</p></td></tr><tr><td><p>11–16</p></td><td><p>22 (4d10)</p></td><td><p>16</p></td></tr><tr><td><p>17–20</p></td><td><p>55 (10d10)</p></td><td><p>18</p></td></tr></tbody></table>",
+          "activities": {
+            "ueM5sHRn5QvWpkDX": {
+              "name": "Guardar nivel 1-4"
+            },
+            "U5OSwkl1pm5FL9Vj": {
+              "name": "Guardar nivel 5-10"
+            },
+            "X2LE1IMSU5OpQBdw": {
+              "name": "Guardar nivel 11-16"
+            },
+            "n6H0X7fjMfO9I29T": {
+              "name": "Guardar nivel 17-20"
+            },
+            "0vDUA7HlE4QsQZBp": {
+              "name": "Comprobación de la planta de suspensión"
+            }
+          },
+          "effects": {
+            "gO1GjMLuFr1blbfW": {
+              "name": "Envueltos en vides"
+            }
+          }
+        }
+      },
+      "creatureType": "Riesgo"
+    },
+    "dmgnpcLarva00000": {
+      "name": "Larva",
+      "tokenName": "Larva"
     }
   }
 }

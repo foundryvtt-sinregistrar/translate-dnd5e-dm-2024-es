@@ -13,9 +13,14 @@
     "advancement": {
       "path": "system.advancement",
       "converter": "dmg2024AdvancementById"
-    }
+    },
+    "descriptionChat": "system.description.chat",
+    "unidentifiedDescription": "system.unidentified.description",
+    "requirements": "system.requirements"
   },
-  "folders": {"Creature Traits": "Atributos de criaturas"},
+  "folders": {
+    "Creature Traits": "Atributos de criaturas"
+  },
   "entries": {
     "dmgAversionToFir": {
       "name": "Aversión al fuego",
@@ -36,7 +41,11 @@
     "dmgDimensionalDi": {
       "name": "Disrupción dimensional",
       "description": "<p>Una energía perjudicial surge de [[lookup @name]] en una emanación de 30 pies. Las demás criaturas no pueden teletransportarse a un espacio de esa zona ni desde él. Cualquier intento de hacerlo se malgasta.</p>",
-      "activities": {"mNTdKjkpB95lo9ti": {"name": "Plantilla de disrupción"}}
+      "activities": {
+        "mNTdKjkpB95lo9ti": {
+          "name": "Plantilla de disrupción"
+        }
+      }
     },
     "dmgDiscipleOfThe": {
       "name": "Discípulo de los Nueve Infiernos",
@@ -61,7 +70,11 @@
     "dmgGloomShroud00": {
       "name": "Velo de pesadumbre",
       "description": "<p>Una energía imperceptible canalizada desde el Páramo Sombrío surge de [[lookup @name]] en una emanación de 20 pies. Las demás criaturas situadas en esa zona tienen desventaja en las pruebas de Carisma y en las tiradas de salvación de Carisma.</p>",
-      "activities": {"HTJL6IVrLZRskYR1": {"name": "Plantilla de emanación"}}
+      "activities": {
+        "HTJL6IVrLZRskYR1": {
+          "name": "Plantilla de emanación"
+        }
+      }
     },
     "dmgLight00000000": {
       "name": "Iluminación",

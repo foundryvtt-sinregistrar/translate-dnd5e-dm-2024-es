@@ -1,4 +1,9 @@
 {
+  "DMG": {
+    "Title": "Guía del Dungeon Master",
+    "JOURNAL": {"Previous": "Anterior", "Up": "Subir", "Next": "Siguiente"}
+  },
+  "SOURCE.BOOK.DMG2024": "Guía del Dungeon Master (2024)",
   "DMGES": {
     "module": {
       "name": "Guía del Dungeon Master 2024 - Español (Babele)",

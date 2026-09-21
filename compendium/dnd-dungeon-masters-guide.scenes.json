@@ -1,10 +1,479 @@
 {
   "label": "Escenas",
   "mapping": {
-    "navigation": "navName"
+    "navigation": "navName",
+    "notes": {
+      "path": "notes",
+      "converter": "dmg2024SceneTextById"
+    },
+    "drawings": {
+      "path": "drawings",
+      "converter": "dmg2024SceneTextById"
+    },
+    "tokens": {
+      "path": "tokens",
+      "converter": "dmg2024SceneTextById"
+    },
+    "regions": {
+      "path": "regions",
+      "converter": "dmg2024SceneTextById"
+    }
   },
-  "folders": {},
+  "folders": {
+    "Greyhawk": "Greyhawk",
+    "Greyhawk World": "Mundo Greyhawk",
+    "Greyhawk and Environs": "Halcón gris y environes",
+    "Encounter Maps": "Mapas de encuentro"
+  },
   "entries": {
-    "dmgBarrowCrypt00": {"name": "Cripta de túmulo", "navigation": "Cripta de túmulo"}
+    "dmgBarrowCrypt00": {
+      "name": "Cripta de túmulo",
+      "navigation": "Cripta de túmulo",
+      "regions": {
+        "gxcECIpBs0d62SUF": {
+          "name": "Nivel 1"
+        },
+        "gTP2ztfRAeoyHu9x": {
+          "name": "Nivel 2"
+        },
+        "gRtTbTLPUtwqv8Vs": {
+          "name": "Nivel 2"
+        },
+        "lqA7lYLCRTiToiRM": {
+          "name": "Nivel 1"
+        }
+      }
+    },
+    "dmgCaravanEncamp": {
+      "name": "Campamento de caravana"
+    },
+    "dmgCrossroadsVil": {
+      "name": "Aldea en una encrucijada"
+    },
+    "dmgDragonsLair00": {
+      "name": "Guarida de dragón",
+      "regions": {
+        "10Bn1jU7ehksqet7": {
+          "name": "Nivel 1"
+        },
+        "uwTi3oBn8BRGCAgU": {
+          "name": "Nivel 2 (desde 1)"
+        },
+        "cid2bYlENnGMwbEA": {
+          "name": "Nivel 2 (desde 3)"
+        },
+        "7uNujAnJ7GnuWWpG": {
+          "name": "Nivel 3"
+        },
+        "eaBk1pAZtoiJ0cWE": {
+          "name": "Eliminar la iluminación global"
+        }
+      }
+    },
+    "dmgDungeonHideou": {
+      "name": "Escondite en una mazmorra",
+      "regions": {
+        "29E3Tl1nM2OQ86qh": {
+          "name": "Nivel de superficie (izquierda)"
+        },
+        "BdbZbCrPTOcHSPNQ": {
+          "name": "Nivel 1 (izquierda)"
+        },
+        "9jZ9PPsXtwELxLuf": {
+          "name": "Nivel de superficie (a la derecha)"
+        },
+        "TDE9TYciyQ3btZNF": {
+          "name": "Nivel 1 (a la derecha)"
+        },
+        "DZwv0s90exc7kfSh": {
+          "name": "Nivel 1 (izquierda interior)"
+        },
+        "uZ8ea8qwsZ8p5DTX": {
+          "name": "Nivel 2 (izquierda interior)"
+        },
+        "8sAXlFbgsthSESUr": {
+          "name": "Nivel 2 (derecha interior)"
+        },
+        "1OPOVTNP3S3MFxdO": {
+          "name": "Nivel 1 (derecha interna)"
+        }
+      }
+    },
+    "dmgFarmstead0000": {
+      "name": "Granja"
+    },
+    "dmgGreyhawkBlank": {
+      "name": "Greyhawk (sin etiquetas)",
+      "navigation": "Ciudad libre de Greyhawk",
+      "notes": {
+        "R3vLlM8PB4MdbGUA": {
+          "text": "Posada del Dragón Negro"
+        },
+        "Vo3SDfqeDcfjc5oN": {
+          "text": "Gran Biblioteca"
+        },
+        "3Ql9ffXBkoM1Giyf": {
+          "text": "Posada del Dragón Plateado"
+        },
+        "w7NDIAwCWqOe064n": {
+          "text": "Posada High Tower"
+        },
+        "4AYcserS0mg73tk6": {
+          "text": "Templo del Sol Radiante"
+        },
+        "LtvJPB7d9xEsWLYI": {
+          "text": "Templo del horizonte lejano"
+        },
+        "T0E20ITlTi587bpf": {
+          "text": "Arcana desenterrada"
+        },
+        "e9HjzScqLov3zQaB": {
+          "text": "Gran Ciudadela"
+        }
+      }
+    },
+    "dmgGreyhawkEBlan": {
+      "name": "Greyhawk y alrededores (sin etiquetas)",
+      "notes": {
+        "e4YNAWfdNFd6E8eu": {
+          "text": "Colinas de los Túmulos"
+        },
+        "XgOPRSM9cSnUjax7": {
+          "text": "Bahía Media"
+        },
+        "W6GOjY6fQee63lPR": {
+          "text": "Nyr Dyv"
+        },
+        "w50GcIA1ltVW7w1G": {
+          "text": "Gran Península Sur"
+        },
+        "LaOYdsAjJ0gSbna9": {
+          "text": "Marisma Brumosa"
+        },
+        "lUIUDYoguHTkA1Cx": {
+          "text": "Llanura de Greyhawk"
+        }
+      }
+    },
+    "dmgGreyhawkELabe": {
+      "name": "Greyhawk y alrededores (con etiquetas)"
+    },
+    "dmgGreyhawkENoPa": {
+      "name": "Greyhawk y alrededores (lugares principales sin caminos)"
+    },
+    "dmgGreyhawkEPath": {
+      "name": "Greyhawk y alrededores (lugares principales con caminos)"
+    },
+    "dmgGreyhawkLabel": {
+      "name": "Greyhawk (con etiquetas)",
+      "navigation": "Ciudad libre de Greyhawk",
+      "notes": {
+        "R3vLlM8PB4MdbGUA": {
+          "text": "Posada del Dragón Negro"
+        },
+        "Vo3SDfqeDcfjc5oN": {
+          "text": "Gran Biblioteca"
+        },
+        "3Ql9ffXBkoM1Giyf": {
+          "text": "Posada del Dragón Plateado"
+        },
+        "w7NDIAwCWqOe064n": {
+          "text": "Posada High Tower"
+        },
+        "4AYcserS0mg73tk6": {
+          "text": "Templo del Sol Radiante"
+        },
+        "LtvJPB7d9xEsWLYI": {
+          "text": "Templo del horizonte lejano"
+        },
+        "T0E20ITlTi587bpf": {
+          "text": "Arcana desenterrada"
+        },
+        "e9HjzScqLov3zQaB": {
+          "text": "Gran Ciudadela"
+        }
+      }
+    },
+    "dmgGreyhawkSites": {
+      "name": "Greyhawk (solo lugares)",
+      "navigation": "Ciudad libre de Greyhawk",
+      "notes": {
+        "R3vLlM8PB4MdbGUA": {
+          "text": "Posada del Dragón Negro"
+        },
+        "Vo3SDfqeDcfjc5oN": {
+          "text": "Gran Biblioteca"
+        },
+        "3Ql9ffXBkoM1Giyf": {
+          "text": "Posada del Dragón Plateado"
+        },
+        "w7NDIAwCWqOe064n": {
+          "text": "Posada High Tower"
+        },
+        "4AYcserS0mg73tk6": {
+          "text": "Templo del Sol Radiante"
+        },
+        "LtvJPB7d9xEsWLYI": {
+          "text": "Templo del horizonte lejano"
+        },
+        "T0E20ITlTi587bpf": {
+          "text": "Arcana desenterrada"
+        },
+        "e9HjzScqLov3zQaB": {
+          "text": "Gran Ciudadela"
+        }
+      }
+    },
+    "dmgGreyhawkWBlan": {
+      "name": "Mundo de Greyhawk (sin etiquetas)"
+    },
+    "dmgGreyhawkWLabe": {
+      "name": "Mundo de Greyhawk (con etiquetas)"
+    },
+    "dmgKeep000000000": {
+      "name": "Torreón",
+      "regions": {
+        "upI6PjNB7XpARXvH": {
+          "name": "3er nivel derecho Turrent"
+        },
+        "MxwgxnZHqdRZwy1O": {
+          "name": "Torreta derecha, nivel 2"
+        },
+        "ibz7IesK1riPpLAM": {
+          "name": "Escala de la torreta derecha, nivel 1"
+        },
+        "EljOug0s6FKx15iR": {
+          "name": "Escala (centro), nivel 3"
+        },
+        "TQdk0Z05N0y2zxSF": {
+          "name": "Escala (centro), nivel 2"
+        },
+        "ffOlwOuxPPIl0kYB": {
+          "name": "Escala de la sala de guardia (derecha), nivel 1"
+        },
+        "nwcRYhrmNEozdRiB": {
+          "name": "Escala de la sala de guardia (izquierda), nivel 1"
+        },
+        "yFkpjVSaKxYbCYt9": {
+          "name": "Escala (derecha), nivel 2"
+        },
+        "gIyL1cdfdxrlmedf": {
+          "name": "Escala (izquierda), nivel 2"
+        },
+        "en1a8MVrs0fS2CaW": {
+          "name": "1er nivel escaleras comedor"
+        },
+        "jSDQ17lHmvtxEMAm": {
+          "name": "Escaleras de los dormitorios, nivel 2"
+        },
+        "57edbJ8P4Dm1nIPR": {
+          "name": "Torreta izquierda del 4o nivel"
+        },
+        "O1H0EjPlqgjqf2Lh": {
+          "name": "Torreta izquierda, nivel 3"
+        },
+        "OKThgy9CORdxFip7": {
+          "name": "Escaleras inferiores izquierdas (subida), nivel 1"
+        },
+        "bNcIWfT6FmNsUV1t": {
+          "name": "Escaleras (subida), nivel 2"
+        },
+        "OuhNoCgyzv6OgGv7": {
+          "name": "Escaleras (izquierda), nivel 3"
+        },
+        "7BSQ22N47S9PlDgm": {
+          "name": "Escaleras (bajada), nivel 2"
+        },
+        "msbuAwj2T3g48HuS": {
+          "name": "Escala (centro), nivel 2"
+        },
+        "64OjGfuBezXpyd9a": {
+          "name": "Escala (centro), nivel 1"
+        }
+      }
+    },
+    "dmgManor00000000": {
+      "name": "Mansión",
+      "regions": {
+        "ZOaor9qPM2xSnN73": {
+          "name": "Escaleras principales, nivel 1"
+        },
+        "GCobU5oZWjSxjWc8": {
+          "name": "Escaleras laterales, nivel 1"
+        },
+        "UKgzU4OdjLpbD1b8": {
+          "name": "Escaleras de la torreta, nivel 1"
+        },
+        "t4pkXMTa2XILnPD5": {
+          "name": "Escaleras de la derecha, nivel 1"
+        },
+        "mS5zLMiC74gDvgBB": {
+          "name": "Escaleras principales, nivel 2"
+        },
+        "iSXt1foxGyiqTXaL": {
+          "name": "Escaleras de la derecha, nivel 2"
+        },
+        "ZcAEPSL8H4Q89OS1": {
+          "name": "Escaleras laterales, nivel 2"
+        },
+        "lxOK0nHTP58ZLJdY": {
+          "name": "Escaleras del pasillo, nivel 2"
+        },
+        "j0w4mStys9DKK6Be": {
+          "name": "Escaleras del pasillo, nivel 3"
+        },
+        "TDEMLvn0TNR3ldUN": {
+          "name": "Torreta (parte inferior), nivel 2"
+        },
+        "Lg1larwAcsds67lD": {
+          "name": "Torreta (parte superior), nivel 2"
+        },
+        "1ndQ1CLW4CWAr9TZ": {
+          "name": "Torreta (parte inferior), nivel 3"
+        },
+        "cCRdMzZFPMxIn5LY": {
+          "name": "Torreta (parte superior), nivel 3"
+        },
+        "Rn46OA9kocSAF1Yo": {
+          "name": "Torreta del 4o piso (en la parte inferior)"
+        },
+        "mYObZqIDtasTPSxK": {
+          "name": "Turreta de 4o nivel (arriba)"
+        },
+        "Oi9ti39fbmobMGMZ": {
+          "name": "Torreta del 5o nivel"
+        }
+      }
+    },
+    "dmgMine000000000": {
+      "name": "Mina",
+      "regions": {
+        "aYkmETLn5CUJhNi0": {
+          "name": "Nivel 1"
+        },
+        "o1co7iZ2NI0nKmmP": {
+          "name": "3er nivel (izquierda)"
+        },
+        "7o0ARhEenAq1mXr7": {
+          "name": "Lado derecho, nivel 3"
+        },
+        "D1hUNDg5SWTH3GZq": {
+          "name": "Nivel 2"
+        }
+      }
+    },
+    "dmgRoadsideInn00": {
+      "name": "Posada junto al camino",
+      "regions": {
+        "X3HW8qCpTmMQQkcJ": {
+          "name": "Escaleras principales, nivel 1"
+        },
+        "yl2PaJO5ydYbIaSD": {
+          "name": "Escaleras traseras, nivel 1"
+        },
+        "DaFMM7W36xiKjmSy": {
+          "name": "1er nivelEscaleras de Barn"
+        },
+        "01WrxXyOQMpfgklK": {
+          "name": "Escaleras traseras, nivel 2"
+        },
+        "L7pdjuiUUEZktiMh": {
+          "name": "Escaleras principales, nivel 2"
+        },
+        "fXYVmkFZ1P3VGAsW": {
+          "name": "Escaleras del granero, nivel 2"
+        }
+      }
+    },
+    "dmgShip000000000": {
+      "name": "Barco",
+      "regions": {
+        "Fsahgo11RPuhBj1G": {
+          "name": "Nivel inferior (izquierda)"
+        },
+        "Hk36H0uI5f6CTIkM": {
+          "name": "Nivel inferior (a la derecha)"
+        },
+        "TI6dNipJwP6ShrLU": {
+          "name": "Nivel superior (a la derecha)"
+        },
+        "TP9i0AGqZbFou5gY": {
+          "name": "Nivel superior (izquierda)"
+        },
+        "D3A6DZM17Bbu9DK9": {
+          "name": "Desactivar la iluminación mundial"
+        }
+      }
+    },
+    "dmgSpookyHouse00": {
+      "name": "Casa espeluznante",
+      "regions": {
+        "KR87AwBpiYIEUGmW": {
+          "name": "Escalera principal de arriba a la izquierda"
+        },
+        "UdrDRCv7afN1n9C0": {
+          "name": "Arriba, escalera principal derecha"
+        },
+        "bOz3tw2rnvoNI0op": {
+          "name": "Planta baja a la izquierda Escalera principal"
+        },
+        "oBLcfwkV0HGyW7Wk": {
+          "name": "Escalera principal derecha de la planta baja"
+        },
+        "APSk9DNpIEMeNgS7": {
+          "name": "Escalera de cocina de planta baja"
+        },
+        "bV4yCkYmJSu65dCd": {
+          "name": "Escalera de la celda izquierda"
+        },
+        "NlvxbDx3EuRvALS1": {
+          "name": "Escalera de la celda derecha"
+        },
+        "vHyegwRSo9fliV5M": {
+          "name": "Escaleras secretas"
+        }
+      }
+    },
+    "dmgUnderdarkWarr": {
+      "name": "Madriguera de la Infraoscuridad"
+    },
+    "dmgVolcanicCaves": {
+      "name": "Cuevas volcánicas"
+    },
+    "dmgWizardsTower0": {
+      "name": "Torre de magos",
+      "regions": {
+        "f9mErJsiI5VtoEFx": {
+          "name": "Nivel 5"
+        },
+        "2MecbQmgN28TPVLv": {
+          "name": "Nivel 4 (abajo)"
+        },
+        "uBuylZQPEi3ykdo7": {
+          "name": "Nivel 4 (arriba)"
+        },
+        "lc7FEzjl8N6wZ9qA": {
+          "name": "Nivel 3 (abajo)"
+        },
+        "TaDBkHeYTku5FtPx": {
+          "name": "Nivel 3 (hasta)"
+        },
+        "fcdCtrgq25Ftz9NL": {
+          "name": "Nivel 2 (abajo)"
+        },
+        "7uDdOOovPXNlt7x4": {
+          "name": "Nivel 2 (hasta)"
+        },
+        "PJfsHplUxKBLPdvw": {
+          "name": "Nivel 1 (abajo)"
+        },
+        "6dhKExB3zy2HykUX": {
+          "name": "Nivel 1 (hasta)"
+        },
+        "8sg5zBCT5NR7MdJt": {
+          "name": "Mazmorras"
+        }
+      }
+    }
   }
 }
