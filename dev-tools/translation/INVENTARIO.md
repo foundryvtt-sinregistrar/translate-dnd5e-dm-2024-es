@@ -1,17 +1,17 @@
 # Inventario de fuentes DMG 2024
 
-Extracción: 2026-09-21T22:32:20.797Z. Foundry 14.368; dnd5e 6.0.3; módulo oficial 2.0.0.
+Extracción: 2026-09-21T22:39:42.768Z. Foundry 14.368; dnd5e 6.0.3; módulo oficial 2.0.0.
 
 Los siete archivos originales se conservan localmente en `export/data/`, fuera de Git. SHA-256 verificados. Babele estaba activo, pero el exportador rechazó packs traducidos y marcas de traducción, incluidos documentos anidados.
 
 | Pack | Documentos | Carpetas | Páginas | Actividades | Efectos | Avances | Objetos anidados | Resultados |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | dnd-dungeon-masters-guide.content | 46 | 9 | 473 | 0 | 0 | 0 | 0 | 0 |
-| dnd-dungeon-masters-guide.equipment | 548 | 37 | 0 | 936 | 735 | 0 | 0 | 0 |
+| dnd-dungeon-masters-guide.equipment | 548 | 37 | 0 | 936 | 425 | 0 | 0 | 0 |
 | dnd-dungeon-masters-guide.features | 23 | 1 | 0 | 5 | 0 | 0 | 0 | 0 |
-| dnd-dungeon-masters-guide.bastions | 35 | 2 | 0 | 11 | 12 | 0 | 0 | 0 |
+| dnd-dungeon-masters-guide.bastions | 35 | 2 | 0 | 11 | 6 | 0 | 0 | 0 |
 | dnd-dungeon-masters-guide.tables | 125 | 29 | 0 | 0 | 0 | 0 | 0 | 1599 |
-| dnd-dungeon-masters-guide.actors | 72 | 5 | 0 | 143 | 53 | 0 | 116 | 0 |
+| dnd-dungeon-masters-guide.actors | 72 | 5 | 0 | 143 | 27 | 0 | 116 | 0 |
 | dnd-dungeon-masters-guide.scenes | 24 | 4 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 Total: **873 documentos principales**.

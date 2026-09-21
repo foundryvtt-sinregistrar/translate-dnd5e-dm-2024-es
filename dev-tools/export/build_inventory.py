@@ -23,6 +23,10 @@ def build():
         source = json.loads(path.read_text(encoding='utf-8'))
         assert len(source['documents']) == pack['documents']
         assert len({d['_id'] for d in source['documents']}) == pack['documents']
+        # Older inventory schema counted activity effect references as documents.
+        def effect_count(doc):
+            return len(doc.get('effects', [])) + sum(effect_count(item) for item in doc.get('items', []))
+        pack['effects'] = sum(effect_count(doc) for doc in source['documents'])
         total += pack['documents']
         report.append('| '+ ' | '.join(str(pack[k]) for k in ['collection','documents','folders','pages','activities','effects','advancement','items','results'])+' |')
     report += ['', f'Total: **{total} documentos principales**.', '', '## Hallazgos de esquema', '',

@@ -15,14 +15,12 @@ export function assertOriginal(value, path = "document") {
 
 export function summarizeDocuments(documents) {
   const counts = {documents: documents.length, pages: 0, activities: 0, effects: 0, advancement: 0, items: 0, results: 0};
-  function visit(value) {
-    if (!value || typeof value !== "object") return;
-    for (const [key, child] of Object.entries(value)) {
-      if (["pages", "activities", "effects", "advancement", "items", "results"].includes(key) && child && typeof child === "object") {
-        counts[key] += Object.keys(child).length;
-      }
-      if (child && typeof child === "object") visit(child);
-    }
+  function visit(document) {
+    for (const key of ["pages", "effects", "items", "results"]) counts[key] += Object.keys(document[key] ?? {}).length;
+    counts.activities += Object.keys(document.system?.activities ?? {}).length;
+    counts.advancement += Object.keys(document.system?.advancement ?? {}).length;
+    // Count actual embedded documents, not references in activity.effects.
+    for (const item of document.items ?? []) visit(item);
   }
   documents.forEach(visit);
   return counts;
@@ -35,7 +33,7 @@ export async function exportCompendiums() {
   if (typeof picker.upload !== "function") throw new Error("FilePicker.upload is unavailable.");
   const files = [];
   const inventory = {
-    schemaVersion: 1, exportedAt: new Date().toISOString(),
+    schemaVersion: 2, exportedAt: new Date().toISOString(),
     foundry: game.version, system: {id: game.system.id, version: game.system.version},
     source: {id: SOURCE, version: game.modules.get(SOURCE).version},
     language: game.settings.get("core", "language"), babeleActive: !!game.modules.get("babele")?.active,
