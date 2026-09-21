@@ -1,7 +1,7 @@
 {
   "id": "translate-dnd5e-dm-2024-es",
   "title": "Translation: DnD5e Dungeon Master's Guide - Spanish Translation (Babele)",
-  "description": "Traducción al español de la Guía del Dungeon Master 2024 mediante Babele. En desarrollo: muestra piloto de siete documentos; traducción completa pendiente.",
+  "description": "Traducción al español de la Guía del Dungeon Master 2024 mediante Babele. Cobertura completa de 873 documentos; incluye borradores automáticos pendientes de revisión lingüística. En desarrollo.",
   "version": "0.1.0",
   "compatibility": {
     "minimum": "14.368",

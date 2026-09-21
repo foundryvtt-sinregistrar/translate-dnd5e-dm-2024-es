@@ -3,9 +3,10 @@
 Estado inicial: 2026-09-21. Módulo: `translate-dnd5e-dm-2024-es`.
 Entorno objetivo: Foundry VTT 14.368, dnd5e 6.0.3 y Babele 2.9.1.
 
-Actualizado: 2026-09-22. Exportados e inventariados 873 documentos originales.
-El piloto contiene una entrada por compendio, comprobada en Foundry y mediante
-24 pruebas locales. Alcance y limitaciones: [PILOTO.md](translation/PILOTO.md).
+Actualizado: 2026-09-22. Generados los siete ficheros: 873 documentos y
+6021 campos cubiertos. Rasgos y bastiones revisados; el resto incluye borrador
+automático pendiente de revisión lingüística. Véase
+[ESTADO-TRADUCCION.md](translation/ESTADO-TRADUCCION.md).
 
 ## 1. Confirmar el entorno y obtener las fuentes
 
@@ -41,11 +42,11 @@ La traducción masiva empieza después de esta comprobación.
 
 ## 3. Fijar terminología y reglas de edición
 
-- [ ] Crear un glosario con término original, traducción elegida, procedencia y observaciones.
+- [x] Crear un glosario con término original, traducción elegida, procedencia y observaciones.
 - [ ] Contrastar términos con SRD, PHB, MM y Tasha ya traducidos; resolver discrepancias antes de reutilizarlos.
 - [ ] Acordar nombres de objetos, rasgos, instalaciones, acciones de bastión, condiciones y títulos de secciones.
-- [ ] Fijar criterios de mayúsculas, unidades, abreviaturas, tratamiento al lector y nombres propios.
-- [ ] Separar referencias técnicas de texto traducible, incluidas las etiquetas visibles de enlaces UUID.
+- [x] Fijar criterios de mayúsculas, unidades, abreviaturas, tratamiento al lector y nombres propios.
+- [x] Separar referencias técnicas de texto traducible, incluidas las etiquetas visibles de enlaces UUID.
 - [ ] Registrar excepciones justificadas: marcas, nombres propios y pistas que deban coincidir con ilustraciones.
 
 **Salida:** glosario inicial y guía breve de estilo. Las coincidencias de nombre
@@ -80,13 +81,13 @@ La mera presencia de un campo en el JSON no implica que esté traducido.
 
 ## 5. Automatizar las comprobaciones y evitar regresiones
 
-- [ ] Validar sintaxis JSON, archivos declarados y nombres de los siete packs.
-- [ ] Comparar cobertura por ID con las fuentes: entradas, páginas y documentos anidados ausentes o inesperados.
+- [x] Validar sintaxis JSON, archivos declarados y nombres de los siete packs.
+- [x] Comparar cobertura por ID con las fuentes: entradas, páginas y documentos anidados ausentes o inesperados.
 - [ ] Comprobar que no cambian UUID, macros, tiradas, atributos HTML relevantes ni datos mecánicos.
-- [ ] Detectar referencias internas rotas y revisar los destinos externos disponibles en el entorno.
+- [x] Detectar referencias internas rotas y revisar los destinos externos disponibles en el entorno (un enlace de mundo heredado documentado).
 - [ ] Buscar campos y fragmentos ingleses, con revisión humana de candidatos y excepciones.
 - [ ] Detectar caracteres dañados y problemas de codificación UTF-8.
-- [ ] Si se añaden generadores, separar fuentes inglesas, traducciones revisadas y archivos distribuidos.
+- [x] Si se añaden generadores, separar fuentes inglesas, traducciones revisadas y archivos distribuidos.
 - [ ] Probar una regeneración en un directorio temporal y comprobar que conserva todas las correcciones revisadas.
 - [ ] Mantener los informes locales en `dev-tools/_informes/`, según `.gitignore`.
 
@@ -99,8 +100,8 @@ revisión lingüística y validación dentro de Foundry.
 - [ ] Cero pendientes de traducción sin justificar; excepciones documentadas.
 - [ ] Abrir documentos y probar importaciones, tiradas de tablas, actividades y funciones de bastiones.
 - [ ] Comprobar el comportamiento con los otros módulos de traducción habituales activados.
-- [ ] Revisar los textos de interfaz del módulo oficial y traducir las claves necesarias en `lang/es.json`.
-- [ ] Actualizar README y CHANGELOG con el alcance real y las versiones comprobadas.
+- [x] Revisar los textos de interfaz del módulo oficial y traducir las claves necesarias en `lang/es.json`.
+- [x] Actualizar README y CHANGELOG con el alcance real y las versiones comprobadas.
 - [ ] Configurar las URLs del repositorio existente, el manifiesto de instalación y la descarga conforme al proceso de publicación elegido.
 - [ ] Preparar el ZIP con archivos de ejecución, sin exportaciones fuente, informes ni herramientas de desarrollo.
 - [ ] Probar una instalación limpia del paquete antes de publicar la versión.
@@ -109,7 +110,7 @@ revisión lingüística y validación dentro de Foundry.
 
 ## Próximo paso concreto
 
-Crear el glosario inicial y fijar criterios de estilo con las fuentes OCR y los
-otros módulos. Después, traducir los 22 documentos restantes de `features` por
-lotes revisables. Mantener las exportaciones originales y repetir la validación
-del piloto cuando cambien mapeos o convertidores.
+La generación de archivos está terminada. Continuar la revisión lingüística
+por lotes de equipo, tablas, actores y capítulos, usando el PDF español y el
+OCR ya guardado. Mantener separados los estados generado, revisado y validado.
+Actualizar las correcciones sin sobrescribirlas durante una regeneración.

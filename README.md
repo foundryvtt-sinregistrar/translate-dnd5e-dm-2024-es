@@ -1,9 +1,11 @@
 # Guía del Dungeon Master 2024 — Español (Babele)
 
 Módulo `translate-dnd5e-dm-2024-es`, versión `0.1.0`, en desarrollo.
-Incluye una muestra piloto de siete documentos, uno por compendio, sobre
-873 originales inventariados. La traducción completa del libro está pendiente.
-Las carpetas y los destinos externos a la muestra todavía pueden aparecer en inglés.
+Incluye los siete compendios completos: 873 documentos y 6021 campos de texto
+cubiertos. Los rasgos y bastiones se han revisado con las referencias españolas.
+El resto combina traducciones reutilizadas y borradores automáticos locales:
+**la revisión lingüística completa está pendiente; no es una versión final**.
+Véase el [estado y metodología](dev-tools/translation/ESTADO-TRADUCCION.md).
 
 ## Entorno objetivo
 
@@ -30,16 +32,17 @@ configurado. Solo registra español y sus variantes regionales.
 
 | Archivo (prefijo `dnd-dungeon-masters-guide.`) | Tipo | Estado |
 |---|---|---|
-| `content.json` | JournalEntry | Ponerle fin: dos páginas |
-| `equipment.json` | Item | Poción de curación y actividad |
-| `features.json` | Item | Aversión al fuego |
-| `bastions.json` | Item (facility) | Estudio arcano |
-| `tables.json` | RollTable | Clímax para aventuras: diez resultados |
-| `actors.json` | Actor | Alfombra voladora: nombre, ficha y objeto anidado |
-| `scenes.json` | Scene | Cripta de túmulo: nombre y navegación |
+| `content.json` | JournalEntry | 46 documentos, 473 páginas; borrador |
+| `equipment.json` | Item | 548 objetos; borrador |
+| `features.json` | Item | 23 rasgos revisados |
+| `bastions.json` | Item (facility) | 35 instalaciones revisadas |
+| `tables.json` | RollTable | 125 tablas, 1599 resultados; borrador |
+| `actors.json` | Actor | 72 actores y objetos anidados; borrador |
+| `scenes.json` | Scene | 24 escenas y etiquetas; borrador |
 
 No se duplican los packs oficiales: Babele aplica los JSON sobre los compendios
-originales. Los mapeos del piloto se han contrastado con las exportaciones.
+originales. Los mapeos se han contrastado con las exportaciones y se ha
+comprobado la aplicación de los textos de los 873 documentos en Foundry.
 Los resultados de tablas usan `description` de Foundry 14; los bastiones conservan
 las claves mecánicas del sistema y traducen `system.description.value`.
 
