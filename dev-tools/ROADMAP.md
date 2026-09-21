@@ -3,21 +3,21 @@
 Estado inicial: 2026-09-21. Módulo: `translate-dnd5e-dm-2024-es`.
 Entorno objetivo: Foundry VTT 14.368, dnd5e 6.0.3 y Babele 2.9.1.
 
-El esqueleto está creado, los siete compendios tienen mapeos iniciales y las
-11 pruebas de registro pasan. Las entradas de traducción están vacías.
-Estas pruebas no verifican todavía los documentos ni los convertidores en Foundry.
+Actualizado: 2026-09-22. Exportados e inventariados 873 documentos originales.
+El piloto contiene una entrada por compendio, comprobada en Foundry y mediante
+24 pruebas locales. Alcance y limitaciones: [PILOTO.md](translation/PILOTO.md).
 
 ## 1. Confirmar el entorno y obtener las fuentes
 
-- [ ] Trabajar en una rama dedicada, propuesta: `feature/dmg-es-translation`.
-- [ ] Preparar un mundo de pruebas con el sistema, Babele y el módulo oficial activos.
-- [ ] Comprobar que el módulo oficial abre correctamente sus siete compendios en Foundry 14.
-- [ ] Registrar las versiones exactas y la fecha de extracción.
-- [ ] Crear un exportador basado en la API de documentos de Foundry.
-- [ ] Exportar contenido, equipo, rasgos, bastiones, tablas, actores y escenas con sus documentos anidados, IDs y carpetas.
-- [ ] Obtener la fuente inglesa sin la traducción de este módulo ni de otros proveedores aplicada por Babele.
-- [ ] Guardar los originales en `dev-tools/export/data/`, excluidos de Git.
-- [ ] Generar un inventario por pack: documentos, páginas, actividades, efectos, avances, objetos de actores y resultados de tablas.
+- [x] Trabajar en la rama `feature/dmg-es-translation`, creada desde `develop`.
+- [x] Preparar un mundo de pruebas con el sistema, Babele y el módulo oficial activos.
+- [x] Leer los siete compendios mediante la API de Foundry 14 y comprobar sus índices y documentos piloto.
+- [x] Registrar las versiones exactas y la fecha de extracción.
+- [x] Crear un exportador basado en la API de documentos de Foundry.
+- [x] Exportar contenido, equipo, rasgos, bastiones, tablas, actores y escenas con sus documentos anidados, IDs y carpetas.
+- [x] Obtener la fuente inglesa sin la traducción de este módulo ni de otros proveedores aplicada por Babele.
+- [x] Guardar los originales en `dev-tools/export/data/`, excluidos de Git.
+- [x] Generar un inventario por pack: documentos, páginas, actividades, efectos, avances, objetos de actores y resultados de tablas.
 
 **Salida:** siete exportaciones trazables y un inventario con recuentos reales.
 No estimar porcentajes ni plazos antes de conocer ese volumen.
@@ -28,13 +28,13 @@ datos como referencia para este proyecto.
 
 ## 2. Verificar los mapeos con una muestra pequeña
 
-- [ ] Comparar los campos exportados con los mapeos iniciales de `compendium/`.
-- [ ] Identificar texto visible aún no cubierto: condiciones, mensajes de chat, etiquetas de actividades, efectos y avances.
-- [ ] Examinar especialmente el tipo `facility`: determinar los campos reales de bastiones antes de ampliar el mapeo.
-- [ ] Traducir una muestra representativa de cada tipo de documento, incluido un actor con objetos y una tabla con varios resultados.
-- [ ] Comprobarla en Foundry: índice, documento abierto, enlaces y documento importado al mundo.
-- [ ] Verificar el registro en español y una variante regional, y su ausencia en inglés.
-- [ ] Añadir pruebas de los convertidores cuando la muestra revele comportamientos que deban protegerse.
+- [x] Comparar los campos exportados con los mapeos iniciales de `compendium/`.
+- [x] Identificar campos de texto visible: condiciones, mensajes de chat, etiquetas de actividades, efectos y avances (véase inventario).
+- [x] Examinar el tipo `facility`: descripción, campos mecánicos y dependencias `@Embed`.
+- [x] Traducir una muestra de cada tipo de documento, incluido un actor con objetos y una tabla con varios resultados.
+- [x] Comprobar índices, campos, enlaces e importaciones de las siete entradas; abrir visualmente el bastión y el diario con tabla incrustada.
+- [x] Verificar el registro en español y variantes regionales, y su ausencia en inglés mediante pruebas; validación en vivo en `es`.
+- [x] Añadir pruebas de convertidores, referencias y conservación de mecánicas del piloto.
 
 **Salida:** recorrido completo de exportación, traducción y carga funcionando.
 La traducción masiva empieza después de esta comprobación.
@@ -109,6 +109,7 @@ revisión lingüística y validación dentro de Foundry.
 
 ## Próximo paso concreto
 
-Crear el exportador y obtener el inventario de los siete compendios desde el mundo
-de pruebas. Con esa referencia se podrá elegir la muestra del piloto y confirmar
-si los mapeos y convertidores actuales cubren los bastiones y el resto de documentos.
+Crear el glosario inicial y fijar criterios de estilo con las fuentes OCR y los
+otros módulos. Después, traducir los 22 documentos restantes de `features` por
+lotes revisables. Mantener las exportaciones originales y repetir la validación
+del piloto cuando cambien mapeos o convertidores.

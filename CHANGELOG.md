@@ -2,8 +2,13 @@
 
 ## [Unreleased]
 
-- Pendiente exportar y traducir el contenido, verificar los campos de bastiones
-  y comprobar la integración dentro de Foundry.
+- Exportador de siete compendios con control de originales, inventario y SHA-256.
+- Inventario verificado de 873 documentos de DMG 2.0.0.
+- Traducción piloto de un documento por compendio, con páginas, actividad,
+  objeto de actor y diez resultados de tabla.
+- Validación en Foundry 14.368 y dnd5e 6.0.3, incluyendo siete importaciones.
+- Pruebas de conservación de referencias y mecánicas; 24 pruebas locales correctas.
+- Pendiente la traducción del resto del libro y la validación exhaustiva de funciones.
 
 ## [0.1.0] - 2026-09-21
 
