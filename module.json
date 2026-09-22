@@ -57,6 +57,9 @@
     }
   ],
   "url": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es",
+  "manifest": "https://raw.githubusercontent.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/main/module.json",
+  "download": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/download/v0.1.0/translate-dnd5e-dm-2024-es.zip",
+  "changelog": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases",
   "bugs": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/issues",
   "readme": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/blob/main/README.md"
 }

@@ -3,7 +3,7 @@
 ## Estructura
 
 - `module.json`: identidad, dependencias y archivos de entrada.
-- `lang/`: mensajes propios del módulo; no sustituye todavía textos de interfaz del módulo oficial.
+- `lang/`: mensajes propios y claves de interfaz traducidas del módulo oficial.
 - `compendium/`: un JSON de Babele por compendio oficial.
 - `scripts/babele-register.js`: registro para español en `setup`.
 - `scripts/converters.js`: registro de convertidores con prefijo `dmg2024`.
@@ -37,3 +37,19 @@ exportaciones se omiten si estas no están disponibles en el clon local.
 No cambiar UUID, IDs, rutas de imágenes, fórmulas ni claves técnicas al traducir.
 Sí traducir las etiquetas visibles explícitas de los enlaces. No escribir en los
 compendios originales ni publicar exportaciones completas del contenido propietario.
+
+## Publicación
+
+Actualizar versión, URL `download`, CHANGELOG y `dev-tools/RELEASE-NOTES.md`.
+Con el árbol limpio y los cambios confirmados, ejecutar:
+
+```sh
+python dev-tools/buildScripts/build_release.py
+```
+
+El ZIP se construye desde HEAD mediante `git archive`, respetando las exclusiones
+de `.gitattributes`. Inspeccionar el paquete antes de subir la etiqueta `vVERSION`.
+El workflow de GitHub verifica versión y pruebas portables, construye el ZIP y
+publica una versión preliminar con el ZIP y `module.json`. Las pruebas completas
+contra originales deben ejecutarse localmente, porque las fuentes no se publican.
+El manifiesto estable apunta a `main`; el ZIP utiliza una URL de versión concreta.

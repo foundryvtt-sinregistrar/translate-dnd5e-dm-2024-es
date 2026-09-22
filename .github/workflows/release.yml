@@ -1,0 +1,36 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Check tag and run portable tests
+        run: |
+          python -c 'import json, os; assert "v" + json.load(open("module.json"))["version"] == os.environ["GITHUB_REF_NAME"]'
+          node --test tests/*.test.mjs
+      - name: Build clean module archive
+        run: python dev-tools/buildScripts/build_release.py
+      - name: Publish preliminary release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create "$GITHUB_REF_NAME" \
+            dist/translate-dnd5e-dm-2024-es.zip module.json \
+            --verify-tag --prerelease \
+            --title "$GITHUB_REF_NAME — Primera versión preliminar" \
+            --notes-file dev-tools/RELEASE-NOTES.md

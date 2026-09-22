@@ -1,7 +1,8 @@
 # Changelog
 
-## [Unreleased]
+## [0.1.0] - 2026-09-22 — Versión preliminar
 
+- Primera publicación instalable, con manifiesto remoto y ZIP de distribución.
 - Cobertura completa de siete compendios: 873 documentos y 6021 campos de texto.
 - Glosario, 23 rasgos y 35 instalaciones de bastión revisados con fuentes españolas.
 - Reutilización de traducciones por coincidencia del texto original y generación
@@ -19,7 +20,7 @@
 - Pruebas de conservación de referencias y mecánicas; 24 pruebas locales correctas.
 - Pendientes la revisión lingüística del borrador y la validación exhaustiva de funciones.
 
-## [0.1.0] - 2026-09-21
+## Preparación inicial - 2026-09-21 (sin publicación)
 
 - Esqueleto para Foundry 14.368 y dnd5e 6.0.3.
 - Registro de Babele limitado a español y variantes regionales.

@@ -1,6 +1,6 @@
 # Guía del Dungeon Master 2024 — Español (Babele)
 
-Módulo `translate-dnd5e-dm-2024-es`, versión `0.1.0`, en desarrollo.
+Módulo `translate-dnd5e-dm-2024-es`, versión preliminar `0.1.0`.
 Incluye los siete compendios completos: 873 documentos y 6021 campos de texto
 cubiertos. Los rasgos y bastiones se han revisado con las referencias españolas.
 El resto combina traducciones reutilizadas y borradores automáticos locales:
@@ -19,6 +19,14 @@ La exportación y el piloto se han comprobado en Foundry 14.368 y dnd5e 6.0.3:
 índices, campos traducidos, destinos UUID e importaciones al mundo.
 
 ## Instalación local
+
+Para instalar desde Foundry, usar esta URL de manifiesto en «Instalar módulo»:
+
+```text
+https://raw.githubusercontent.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/main/module.json
+```
+
+También se puede instalar manualmente:
 
 1. Mantener esta carpeta en `Data/modules/translate-dnd5e-dm-2024-es`.
 2. Reiniciar Foundry si todavía no reconoce el nuevo módulo.
@@ -58,8 +66,7 @@ node --test tests/*.test.mjs
 ```
 
 Repositorio: [translate-dnd5e-dm-2024-es](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es).
-El manifiesto de instalación remoto y la URL de descarga se añadirán cuando
-exista una publicación real.
+Descargas: [versiones publicadas](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases).
 
 Traducción no oficial, sin afiliación con Wizards of the Coast ni Foundry VTT.
 El contenido del libro y sus ilustraciones pertenecen a sus respectivos titulares.
