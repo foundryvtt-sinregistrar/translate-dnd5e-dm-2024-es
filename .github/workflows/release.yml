@@ -1,6 +1,12 @@
 name: Release
 
 on:
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Existing version tag to publish
+        required: true
+        default: v0.1.0
   push:
     tags:
       - "v*"
@@ -11,8 +17,12 @@ permissions:
 jobs:
   release:
     runs-on: ubuntu-latest
+    env:
+      RELEASE_TAG: ${{ inputs.tag || github.ref_name }}
     steps:
       - uses: actions/checkout@v5
+        with:
+          ref: ${{ inputs.tag || github.ref }}
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -21,7 +31,7 @@ jobs:
           node-version: "22"
       - name: Check tag and run portable tests
         run: |
-          python -c 'import json, os; assert "v" + json.load(open("module.json"))["version"] == os.environ["GITHUB_REF_NAME"]'
+          python -c 'import json, os; assert "v" + json.load(open("module.json"))["version"] == os.environ["RELEASE_TAG"]'
           node --test tests/*.test.mjs
       - name: Build clean module archive
         run: python dev-tools/buildScripts/build_release.py
@@ -29,8 +39,8 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create "$GITHUB_REF_NAME" \
+          gh release create "$RELEASE_TAG" \
             dist/translate-dnd5e-dm-2024-es.zip module.json \
             --verify-tag --prerelease \
-            --title "$GITHUB_REF_NAME — Primera versión preliminar" \
+            --title "$RELEASE_TAG — Primera versión preliminar" \
             --notes-file dev-tools/RELEASE-NOTES.md
