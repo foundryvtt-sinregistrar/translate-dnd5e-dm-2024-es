@@ -6,9 +6,11 @@ Translation for Foundry VTT using Babele. Module ID: `translate-dnd5e-dm-2024-es
 
 ## Status
 
-Version: **0.1.1**. Preliminary version. Includes seven compendiums, 873 documents and 6021 covered text fields according to the project inventory. Features and bastions have been reviewed; complete linguistic review of the remaining content is pending. Project records document a pilot in Foundry 14.368 and dnd5e 6.0.3, not a new functional check during this standardization.
+Version: **0.1.1**. Preliminary version. Includes seven compendiums, 873 documents and 6021 covered text fields according to the project inventory. Features and bastions have been reviewed; complete linguistic review of the remaining content is pending. Project records document a pilot in Foundry 14.368 and dnd5e 6.0.3.
 
 See [CHANGELOG.md](CHANGELOG.md).
+
+Checked on September 28, 2026 with Foundry 14.368, dnd5e 6.0.3 and Babele 2.9.1: loaded 873 documents across 7 compendiums, checked names and explicit text fields, and imported and visually reviewed one sample. This is not an exhaustive linguistic or functional review; some English labels from the original content remain.
 
 ## Requirements
 

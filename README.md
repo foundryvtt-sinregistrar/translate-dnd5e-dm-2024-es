@@ -6,9 +6,11 @@ Traducción para Foundry VTT mediante Babele. Identificador: `translate-dnd5e-dm
 
 ## Estado
 
-Versión: **0.1.1**. Versión preliminar. Incluye siete compendios, 873 documentos y 6021 campos de texto cubiertos según el inventario del proyecto. Rasgos y bastiones revisados; la revisión lingüística completa del resto sigue pendiente. El historial acredita un piloto en Foundry 14.368 y dnd5e 6.0.3, no una nueva comprobación funcional durante esta homogeneización.
+Versión: **0.1.1**. Versión preliminar. Incluye siete compendios, 873 documentos y 6021 campos de texto cubiertos según el inventario del proyecto. Rasgos y bastiones revisados; la revisión lingüística completa del resto sigue pendiente. El historial acredita un piloto en Foundry 14.368 y dnd5e 6.0.3.
 
 Consulta [CHANGELOG.md](CHANGELOG.md).
+
+Comprobación del 28 de septiembre de 2026 en Foundry 14.368, dnd5e 6.0.3 y Babele 2.9.1: lectura de 873 documentos en 7 compendios, comprobación de nombres y campos de texto explícitos e importación y revisión visual de una muestra. No es una revisión lingüística ni funcional exhaustiva; permanecen algunas etiquetas inglesas del contenido original.
 
 ## Requisitos
 
