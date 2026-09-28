@@ -1,8 +1,9 @@
 # Etiqueta «Undefined criaturas» — diagnóstico del 28 de septiembre de 2026
 
-**Estado actual:** parche aplicado a la copia local de `ravanno-dnd5e-es` y
-comprobado tras recargar Foundry. Las secciones iniciales conservan el diagnóstico
-previo; la aplicación y su respaldo se detallan al final.
+**Estado actual:** parche de parámetros y ajuste de concordancia aplicados a la
+copia local de `ravanno-dnd5e-es`, comprobados tras recargar Foundry. La tarjeta
+de la poción muestra **Cualquier criatura**. Las secciones iniciales conservan
+el diagnóstico previo; aplicaciones, respaldos y reversión se detallan al final.
 
 ## Causa confirmada
 
@@ -51,10 +52,11 @@ Ejemplos obtenidos:
 | Una criatura, ficha | 1 undefined criatura | 1 criatura |
 | Dos criaturas, descripción | dos undefined criaturas | dos criaturas |
 
-**Límite lingüístico:** eliminar el parámetro incorrecto no corrige por sí solo
+**Límite del primer parche:** eliminar el parámetro incorrecto no corrige por sí solo
 la concordancia de frases como «Cualquiera criaturas» o «uno criatura». Estas
 requieren revisar cómo el sistema compone cantidades y sustantivos en español;
 no se presenta el parche técnico como una revisión gramatical completa.
+El ajuste de presentación descrito al final resuelve estos casos por separado.
 
 La prueba mantuvo **cero módulos activos**. Leyó ambos diccionarios locales,
 los cargó temporalmente en memoria y restauró el diccionario original en un
@@ -165,3 +167,78 @@ conservar, restaurar el respaldo en `ravanno-dnd5e-es/lang/es.json` y recargar
 Foundry. El respaldo y los informes están ignorados y no se incluyen en el ZIP
 de DM. El commit de DM guarda la propuesta, el validador y la documentación;
 la copia instalada de la dependencia está fuera de ese repositorio.
+
+## Concordancia: ajuste local de presentación
+
+El seguimiento del **28 de septiembre de 2026, 20:54 UTC**, corrigió las
+combinaciones «Cualquiera criaturas», «Todos criaturas» y «uno criatura».
+El diccionario ya incluye frases completas correctas para cada tipo (`any` y
+`every`). El ajuste las utiliza en las etiquetas sin cantidad definida y emplea
+el numeral **1** en las descripciones singulares, evitando adivinar el género
+de un nombre o de un objetivo especial escrito por el usuario.
+
+| Situación | Resultado comprobado |
+|---|---|
+| Criaturas sin cantidad definida | Cualquier criatura |
+| Criaturas afectadas por una plantilla de área | Todas las criaturas |
+| Una criatura | 1 criatura |
+| Objetivo especial «estatua», cantidad 1 | 1 estatua |
+| Objetivo especial «estatuas», cantidad 2 | dos estatuas |
+
+Se instaló una copia de [target-labels-es-6.0.3.mjs](target-labels-es-6.0.3.mjs)
+en `ravanno-dnd5e-es/`, importada desde su `babele-register.js`. El código usa
+libWrapper para ajustar el resultado de `TargetField.getLabels`; no modifica
+el código de dnd5e. Solo se registra en **dnd5e 6.0.3** y solo modifica etiquetas
+en español. Conserva cantidades, objetivos, plantillas y reglas.
+
+El adaptador requiere el parche anterior de 38 claves. No se distribuye como
+parte del módulo DM: el archivo versionado aquí permite revisar y reproducir
+la corrección local de la dependencia. El resto de idiomas pasa por el método
+original sin cambios. En otra versión de dnd5e el adaptador no se registra;
+hay que revisar si todavía es necesario antes de ampliar esa condición.
+
+### Comprobaciones y reproducción
+
+Tras recargar con los cuatro módulos de idioma/dependencias activos, pasaron
+**46 casos**: tipos individuales con cantidades vacías, uno y dos; tipos de
+área con una y dos plantillas; dos objetivos especiales. Se exigió coincidencia
+de las etiquetas previstas, ausencia de `undefined`/`uno`/`cualquiera`
+incorrectos y conservación exacta de los datos de entrada. Se comprobó además
+que la función de ajuste conserva un resultado inglés sin alterarlo; no fue
+una sesión completa de pruebas con la interfaz en inglés.
+
+La tarjeta existente de la poción se volvió a renderizar y mostró
+**Cualquier criatura**. No se consumieron más objetos ni se crearon nuevas
+tiradas durante este seguimiento. El alcance es la concordancia de las
+etiquetas de objetivos; no incluye una revisión de todas las unidades, frases
+o traducciones del sistema.
+
+Macro guardada: **QA - Concordancia de objetivos**.
+
+```js
+const {validateTargetGrammar} = await import(
+  '/modules/translate-dnd5e-dm-2024-es/dev-tools/translation/validate-target-grammar.mjs'
+);
+await validateTargetGrammar();
+```
+
+Evidencia local: `tmp/target-grammar-validation.json`, **20:55:42 UTC**.
+Las comprobaciones de sintaxis de ambos archivos `.mjs` también pasaron.
+Después se restauraron los cero módulos activos de Testing y se recargó el
+mundo, que permanece en pausa. La corrección local se mantiene instalada.
+
+### Respaldo y reversión del ajuste de presentación
+
+Antes de añadir la importación se guardó el archivo original completo en
+`tmp/ravanno-babele-register-before-grammar-f03ce444bac1.js`. El registro
+`tmp/target-grammar-application.json` contiene rutas y SHA-256 del archivo
+anterior, posterior y del adaptador instalado. La copia versionada del adaptador
+y la instalada se comprobaron idénticas.
+
+Para retirar solo este ajuste, verificar los hashes y restaurar ese respaldo
+como `ravanno-dnd5e-es/babele-register.js`; recargar Foundry. El adaptador deja
+de cargarse aunque su archivo siga en la carpeta. Esto conserva la corrección
+de `{number}` en el diccionario. Para revertir también esa corrección, utilizar
+el respaldo de `es.json` descrito antes. Revisar primero cualquier modificación
+posterior para no sobrescribir trabajo nuevo. Una actualización de la dependencia
+puede reemplazar el punto de importación o el diccionario: ambos ajustes son locales.

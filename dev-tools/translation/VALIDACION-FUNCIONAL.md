@@ -147,6 +147,9 @@ tarjeta. No impidió consumir o tirar. El seguimiento confirmó parámetros
 parche para esa dependencia y se probó con 45 casos. Posteriormente se aplicó
 a la copia local con respaldo, se verificó tras recargar y la tarjeta dejó de
 mostrar `Undefined`. Véase [DIAGNOSTICO-OBJETIVOS.md](DIAGNOSTICO-OBJETIVOS.md).
+Un seguimiento posterior añadió un ajuste local de presentación en la dependencia:
+46 casos correctos y tarjeta comprobada como **Cualquier criatura**, conservando
+los datos de objetivos. El mismo diagnóstico documenta alcance y reversión.
 También siguen presentes etiquetas pendientes de revisión, como
 **Haga clic en tacones** y **Espada de abrigo con veneno**. Pasar estas pruebas
 no supone aprobar su redacción.
