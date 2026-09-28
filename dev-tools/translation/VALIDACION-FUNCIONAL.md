@@ -383,8 +383,9 @@ actualiza los efectos del receptor. El inicio se obtiene del sistema; la prueba
 no escribe el combatiente de referencia para forzar el resultado. Después solo
 ajusta `start.time` para comprobar 59/60 segundos mediante el gestor real de
 expiración, aislado al efecto QA. No se avanza el reloj ni se usan los botones
-de cambio de turno: siguen fuera del alcance la emisión automática de eventos,
-las reacciones, la salida del combate y la sincronización multijugador.
+de cambio de turno en esta fase; su emisión de eventos se comprueba en el
+seguimiento siguiente. Las reacciones, la salida del combate y la sincronización
+multijugador siguen fuera del alcance.
 
 Macro **QA - DM veneno entre actores**: importar el auxiliar y ejecutar
 `await qa.crossActorExpiry();`. Requiere `extendedItems()` y `effectExpiry()`
@@ -394,6 +395,60 @@ Al finalizar se desactivaron los dos efectos creados y los recubrimientos;
 el combate quedó sin iniciar ni activar, con ambos actores a 20 PG y sin veneno.
 El reloj mundial no cambió y la partida permaneció en pausa.
 Tras recargar se verificaron cero módulos activos y la partida en pausa.
+
+## Seguimiento: botones de cambio de turno
+
+El **29 de septiembre de 2026, 00:32:17 de Madrid** se preparó una prueba con
+cuatro efectos QA activos: recubrimiento de cada daga y veneno aplicado al otro
+actor. Se pulsó **Turno siguiente** tres veces desde el panel de combate de
+Foundry. Pasaron las **tres comprobaciones de transición**, sin errores.
+
+| Pulsación | Posición resultante | Avance del reloj | Efectos originales | Efectos traducidos |
+|---|---|---:|---|---|
+| 1 | Ronda 1, segundo combatiente | 0 s | Activos | Activos |
+| 2 | Ronda 2, primer combatiente | 6 s | Expirados | Activos |
+| 3 | Ronda 2, segundo combatiente | 6 s acumulados | Expirados | Expirados |
+
+La condición creada por la daga original estaba en el actor traducido y
+viceversa. Expiraron según el combatiente registrado al inicio, incluso cuando
+el receptor era otro actor. Se conservaron los cuatro documentos de efectos;
+al final ninguno estaba activo y ambos actores carecían de `poisoned`.
+
+En esta fase se utilizaron los eventos automáticos y el registro global de
+efectos de Foundry: el auxiliar solo preparó las muestras y observó resultados.
+No invocó `nextTurn` ni `registry.refresh` para producir las transiciones.
+El reloj avanzó realmente de 0 a 6 segundos; después se restauró a 0.
+Para acotar la prueba se habían preparado fechas de inicio 54 segundos antes:
+se cubre el límite de expiración, no una secuencia completa de diez rondas.
+
+### Observación visual pendiente
+
+Tras la última transición, el estado del actor ya indicaba ausencia de veneno,
+pero el panel conservaba un icono **Envenenado**. Un refresco explícito del panel
+(`ui.combat.render({force:true})`) lo retiró, sin alterar ningún efecto.
+Esto se registra como una observación de actualización visual; **no se da por
+resuelta** ni se ha atribuido a un módulo concreto. No afecta a las comprobaciones
+de estado y expiración anteriores. No se añadió un parche de interfaz a DM.
+
+### Repetición y restauración
+
+1. Preparar las muestras con las pruebas anteriores y dejar el encuentro QA
+   sin iniciar. No debe haber otros combates iniciados o activos ni efectos
+   temporales activos; el auxiliar comprueba estas condiciones.
+2. Ejecutar **QA - DM turnos preparar** (`await qa.prepareCombatUi();`).
+3. Abrir el panel de combate y pulsar **Turno siguiente** tres veces. Esperar
+   la notificación y el informe de cada fase antes de volver a pulsar.
+4. Ejecutar **QA - DM turnos restaurar** (`await qa.finishCombatUi();`), también
+   si se interrumpe la prueba. No recargar la página entre preparar y restaurar:
+   el estado de seguimiento se mantiene en memoria durante esa sesión.
+
+Evidencias ignoradas: `tmp/functional-combat-ui.json` y
+`tmp/functional-combat-ui-backup.json`, que conserva la hora y los datos previos
+de los cuatro efectos. La restauración verificada dejó el reloj inicial,
+los efectos desactivados, el encuentro sin iniciar ni activar y los actores
+con 20 PG y sin veneno. La partida permaneció en pausa durante la prueba.
+No se probaron los botones de retroceso, el fin de combate ni varios clientes.
+Se recargó Foundry y se verificaron cero módulos activos y la partida en pausa.
 
 ## Reproducción y evidencias
 

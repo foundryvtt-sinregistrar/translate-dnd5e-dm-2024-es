@@ -565,6 +565,104 @@ export async function crossActorExpiry() {
   return output;
 }
 
+let combatUiRun;
+
+export async function prepareCombatUi() {
+  guard(); check(!combatUiRun,'Finish the previous UI run first');
+  check(CONFIG.ActiveEffect.expiryAction==='update','This QA requires non-deleting expiry');
+  check(CONFIG.time.roundTime===6 && CONFIG.time.turnTime===0,'Unexpected combat time settings');
+  check(![...ActiveEffect.implementation.registry].some(e=>e.active),'Other temporary effects are active');
+  const actors=await Promise.all(['original','translated'].map(mode=>actorFor(mode,{extended:true})));
+  const combat=game.combats.find(c=>c.getFlag(MODULE,FLAG)==='effect-expiry');
+  check(combat && !combat.active && !combat.started && combat.combatants.size===2
+    && combat.combatants.every(c=>actors.some(a=>a.id===c.actorId)),'Prepare the stopped QA expiry encounter first');
+  check(!game.combats.some(c=>c.active || c.started),'Another combat is active or started');
+  const effects=[];
+  for(const [index,source] of actors.entries()) {
+    const target=actors[1-index], mode=index===0?'original':'translated';
+    const dagger=source.items.find(i=>i.getFlag(MODULE,FLAG)==='dmgDaggerOfVenom');
+    const coating=dagger.effects.find(e=>e.getFlag(MODULE,FLAG)==='qa-poison-enchantment'
+      && dagger.system.activities.some(a=>a.dependentOrigin?.id===e.id));
+    const profile=dagger.effects.find(e=>e.statuses.has('poisoned') && e.type==='base');
+    const condition=target.effects.find(e=>e.getFlag(MODULE,FLAG)==='qa-cross-expiry'
+      && e._stats.duplicateSource===profile?.uuid);
+    check(coating?.disabled && condition?.disabled,'Run crossActorExpiry() to prepare disabled QA effects');
+    for(const [kind,effect] of [['coating',coating],['condition',condition]]) {
+      const data=effect.toObject();
+      effects.push({mode,kind,effect,turn:combat.turns.findIndex(c=>c.actorId===source.id),
+        backup:{disabled:data.disabled,duration:data.duration,start:data.start}});
+    }
+  }
+  const output=report();
+  combatUiRun={actors,combat,effects,output,time:game.time.worldTime,viewed:game.combats.viewed,hook:null,pending:Promise.resolve()};
+  await save('combat-ui-backup',{time:combatUiRun.time,combat:combat.uuid,
+    effects:effects.map(e=>({uuid:e.effect.uuid,...e.backup}))});
+  try {
+    await combat.update({round:1,turn:0},{turnEvents:false});
+    ui.combat.viewed=combat;
+    for(const {effect,turn} of effects) {
+      const c=combat.turns[turn];
+      await effect.update({disabled:false,'duration.expired':false,start:{time:combatUiRun.time-54,
+        combat:combat.id,combatant:c.id,initiative:c.initiative,round:1,turn}});
+      check(ActiveEffect.implementation.registry.has(effect) && effect.active,'QA effect not active in the global registry');
+    }
+    combatUiRun.hook=Hooks.on('updateCombat',(doc,change)=>{
+      if(doc.id!==combat.id || !('round' in change || 'turn' in change)) return;
+      const round=doc.round,turn=doc.turn;
+      const phase=round===1 && turn===1 ? 1 : round===2 && turn===0 ? 2 : round===2 && turn===1 ? 3 : 0;
+      if(!phase) return;
+      combatUiRun.pending=combatUiRun.pending.then(async()=>{
+        // Combat document updates finish before the asynchronous turn-event chain.
+        await new Promise(resolve=>setTimeout(resolve,500));
+        await step(output,`UI-next-turn-${phase}`,async()=>{
+          check(combat.round===round && combat.turn===turn,'Wait for the report before clicking again');
+          const expectedTime=combatUiRun.time+(phase===1?0:6);
+          check(game.time.worldTime===expectedTime,'Unexpected world time delta');
+          const rows=effects.map(({mode,kind,effect,turn:anchor})=>({mode,kind,uuid:effect.uuid,
+            anchor,expired:effect.duration.expired,active:effect.active,retained:effect.parent.effects.has(effect.id)}));
+          for(const row of rows) {
+            const expired=phase===3 || (phase===2 && row.anchor===0);
+            check(row.retained && row.expired===expired && row.active===!expired,`Unexpected expiry: ${row.mode}/${row.kind}`);
+          }
+          return {round,turn,elapsed:game.time.worldTime-combatUiRun.time,effects:rows,
+            actors:actors.map(a=>({uuid:a.uuid,poisoned:a.statuses.has('poisoned')}))};
+        });
+        output.status=output.errors.length?'failed':output.checks.length===3?'passed':'in-progress';
+        await save('combat-ui',output);
+        ui.notifications.info(`DM QA botón siguiente turno: fase ${phase}; ${output.errors.length} errores`);
+      });
+    });
+    await ui.combat.render({force:true});
+    ui.notifications.info('DM QA preparado: usar Siguiente turno tres veces, esperando el informe entre pulsaciones');
+  } catch(error) { await finishCombatUi(); throw error; }
+  return {combat:combat.uuid,effects:effects.length};
+}
+
+export async function finishCombatUi() {
+  guard(); check(combatUiRun,'No UI combat run is prepared');
+  const run=combatUiRun;
+  if(run.hook!==null) Hooks.off('updateCombat',run.hook);
+  try { await run.pending; }
+  finally {
+    for(const {effect,backup} of run.effects) {
+      await effect.update({disabled:true});
+      await effect.update(backup);
+    }
+    await run.combat.update({round:0,turn:null,active:false},{turnEvents:false});
+    ui.combat.viewed=run.viewed ?? null;
+    if(game.time.worldTime!==run.time) await game.time.advance(run.time-game.time.worldTime);
+    run.output.finalState={clockRestored:game.time.worldTime===run.time,paused:game.paused,
+      combatStarted:run.combat.started,combatActive:run.combat.active,
+      effectsDisabled:run.effects.every(e=>e.effect.disabled),actors:run.actors.map(a=>({id:a.id,
+        hp:a.system.attributes.hp.value,poisoned:a.statuses.has('poisoned')}))};
+    run.output.status=run.output.errors.length?'failed':run.output.checks.length===3?'passed':'incomplete';
+    await save('combat-ui',run.output);
+    combatUiRun=null;
+  }
+  ui.notifications.info('DM QA: reloj, encuentro y efectos restaurados');
+  return run.output;
+}
+
 export async function items() {
   guard(); const output=report();
   for(const mode of ['original','translated']) {

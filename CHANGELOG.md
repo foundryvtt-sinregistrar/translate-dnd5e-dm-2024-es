@@ -6,6 +6,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Added
 
+- Validación desde el botón «Turno siguiente»: tres transiciones correctas con cuatro efectos QA, avance real de seis segundos y restauración del reloj. Registrada una observación visual pendiente: el panel puede conservar el icono de veneno hasta refrescarse, aunque la condición ya haya expirado.
+
 - Cuatro casos de veneno entre actores distintos: aplicación y reaplicación reales, conservación del efecto y expiración según el combatiente cuyo turno estaba en curso al aplicarlo. Documentada la consecuencia para el GM, común al original y la traducción.
 
 - Validación de duración y expiración del veneno: 16 casos sobre condición y recubrimiento, en original y traducción, con el gestor real de Foundry y eventos de combate controlados. Se conserva el reloj mundial y se documentan los límites de la prueba.
