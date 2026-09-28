@@ -6,6 +6,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Added
 
+- Diagnóstico reproducible de la etiqueta `Undefined criaturas`: incompatibilidad de parámetros en el diccionario instalado de `ravanno-dnd5e-es` 6.0.3. Propuesta de 38 sustituciones para esa dependencia, verificada temporalmente en Foundry con 45 casos; no aplicada a la instalación.
+
 - Pruebas funcionales reproducibles en Foundry: diarios importados, enlaces, imágenes, rangos y tiradas de tablas, y seis objetos comparados con sus originales. Informe en `dev-tools/translation/VALIDACION-FUNCIONAL.md` y macro auxiliar `validate-functional.mjs`.
 
 ### Changed

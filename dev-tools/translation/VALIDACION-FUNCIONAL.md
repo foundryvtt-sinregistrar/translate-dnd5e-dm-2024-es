@@ -142,8 +142,11 @@ curación de **7**. No se aplicó esa tirada manual a otros actores. La aplicaci
 de curación a PG sí se verificó en ambos actores por la prueba anterior.
 
 Se observó la etiqueta de objetivo **Cualquiera Undefined criaturas** en esa
-tarjeta. No impidió consumir o tirar; su procedencia exacta queda pendiente de
-diagnóstico. También siguen presentes etiquetas pendientes de revisión, como
+tarjeta. No impidió consumir o tirar. El seguimiento confirmó parámetros
+`{number}` incorrectos en el diccionario de `ravanno-dnd5e-es`; se preparó un
+parche para esa dependencia y se probó temporalmente con 45 casos, sin aplicarlo
+a la instalación. Véase [DIAGNOSTICO-OBJETIVOS.md](DIAGNOSTICO-OBJETIVOS.md).
+También siguen presentes etiquetas pendientes de revisión, como
 **Haga clic en tacones** y **Espada de abrigo con veneno**. Pasar estas pruebas
 no supone aprobar su redacción.
 
