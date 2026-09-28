@@ -1,5 +1,9 @@
 # Etiqueta «Undefined criaturas» — diagnóstico del 28 de septiembre de 2026
 
+**Estado actual:** parche aplicado a la copia local de `ravanno-dnd5e-es` y
+comprobado tras recargar Foundry. Las secciones iniciales conservan el diagnóstico
+previo; la aplicación y su respaldo se detallan al final.
+
 ## Causa confirmada
 
 La cadena observada en la tarjeta de la poción procede del diccionario instalado
@@ -68,10 +72,10 @@ usa. Conserva `{special}` y las variantes `oneSized`/`otherSized`, que sí puede
 necesitar cantidades. Hay 19 tipos en el mapa; algunos no corresponden a tipos
 configurados directamente en la matriz de pruebas.
 
-Es un mapa de clave completa a valor, preparado para integrar en el diccionario
-de **ravanno-dnd5e-es**. **No está aplicado a la instalación ni se carga desde
-la traducción de DM.** No se envió ninguna incidencia o cambio al repositorio
-externo. Se conserva aquí como material de diagnóstico y propuesta revisable.
+Es un mapa de clave completa a valor para el diccionario de **ravanno-dnd5e-es**.
+En la primera comprobación solo se aplicó temporalmente en memoria; posteriormente
+se integró en la copia local, como se detalla abajo. No se carga desde la traducción
+de DM. No se envió ninguna incidencia o cambio al repositorio externo.
 
 Para integrarlo en la dependencia:
 
@@ -79,12 +83,10 @@ Para integrarlo en la dependencia:
    una copia o commit del diccionario original.
 2. Sustituir los valores de las 38 rutas indicadas dentro de `lang/es.json`;
    las rutas completas corresponden al árbol JSON, no a nuevas claves duplicadas.
-3. Comprobar la sintaxis y repetir la prueba de etiquetas adaptando su
-   comparación de «antes» a la copia original. El diagnóstico incluido exige
-   deliberadamente los textos defectuosos originales antes de probar el parche.
+3. Comprobar la sintaxis y ejecutar el diagnóstico con
+   `{patchedInstallation: true}` después de activar el módulo y recargar.
 4. Activar la traducción del sistema y verificar la tarjeta de una poción tras
-   recargar. La integración persistente y esta última revisión visual quedan
-   pendientes; aquí se validó el generador real con sustitución temporal.
+   recargar. Estos pasos ya se realizaron en la instalación local descrita abajo.
 
 ## Reproducción del diagnóstico sin instalar el parche
 
@@ -104,6 +106,62 @@ antes de aplicar el mapa en memoria. Evidencia local ignorada:
 20:09:50 UTC. Contiene las tres salidas de cada caso y confirma la restauración.
 También pasó `node --check dev-tools/translation/validate-target-labels.mjs`.
 
-El diagnóstico queda cerrado para esta instalación. La corrección persistente
-pertenece a la dependencia de idioma; no requiere alterar las reglas o los
-compendios de la traducción de DM.
+## Aplicación local y comprobación tras recarga
+
+El 28 de septiembre de 2026 a las **20:15:47 UTC** se modificó únicamente
+`Data/modules/ravanno-dnd5e-es/lang/es.json`. Se sustituyeron las **38 claves**
+previstas conservando el formato del archivo; la comparación de los JSON
+confirmó que ningún otro valor cambió. El módulo conserva su versión declarada
+6.0.3: se trata de una corrección local, no de una nueva versión publicada.
+
+Antes de escribir se guardó una copia íntegra del archivo original en:
+
+`tmp/ravanno-es-before-target-labels-fd77438f938d.json`
+
+Trazabilidad local en `tmp/target-labels-application.json`:
+
+| Archivo | SHA-256 |
+|---|---|
+| Original y respaldo | `fd77438f938d9a2ceb67ab1c64b181b1d7e6332a5c0892cf6e9f0c4dfb274271` |
+| Corregido | `7753cee4b90d991718c69b9522fa415225abd89287c52fdc25bcc243398251d1` |
+
+Tras activar **Babele, libWrapper, Español de Foundry y ravanno-dnd5e-es**, se
+recargó el mundo. Se comprobó que las 38 claves de `game.i18n` coincidían con el
+archivo corregido y que los **45 casos ejecutados contra el diccionario activo**
+no contenían `undefined` ni parámetros sin resolver. Este chequeo ocurre antes
+de cualquier sustitución temporal del comparador.
+
+La macro guardada **QA - Diagnóstico etiquetas de objetivos** utiliza ahora:
+
+```js
+const {validateTargetLabels} = await import(
+  '/modules/translate-dnd5e-dm-2024-es/dev-tools/translation/validate-target-labels.mjs'
+);
+await validateTargetLabels({patchedInstallation: true});
+```
+
+En este modo, la columna «antes» se reconstruye a partir del mapa validado para
+comparar el defecto; la columna `live` recoge el resultado del diccionario
+realmente cargado. La prueba previa con el archivo original sigue conservada
+en su informe separado. Evidencia posterior:
+`tmp/target-labels-installed-validation.json`, **20:17:27 UTC**, 45 casos y cero
+fallos en `live`.
+
+Se usó la poción del actor QA traducido desde su inventario. La tarjeta nueva
+mostró **Cualquiera Criaturas**, sin `Undefined`, y la tirada de curación dio
+**9**. La concordancia sigue pendiente; el parche solo corrige el parámetro
+incorrecto. El objeto fue consumido en el actor de pruebas; no se aplicó la
+curación a otros actores. Los productos oficiales y la traducción de DM no
+estaban activos: se utilizó la muestra previamente importada.
+
+Al terminar se restauraron los **cero módulos activos** del mundo y se recargó,
+manteniendo la partida en pausa. El parche permanece en el archivo de idioma;
+se carga al activar ese módulo. Una actualización de `ravanno-dnd5e-es` puede
+sustituirlo: revisar primero si la versión nueva ya corrige esas claves.
+
+Para revertir la corrección local, comparar primero el archivo actual con el
+hash corregido indicado arriba. Si coincide y no hay cambios posteriores que
+conservar, restaurar el respaldo en `ravanno-dnd5e-es/lang/es.json` y recargar
+Foundry. El respaldo y los informes están ignorados y no se incluyen en el ZIP
+de DM. El commit de DM guarda la propuesta, el validador y la documentación;
+la copia instalada de la dependencia está fuera de ese repositorio.
