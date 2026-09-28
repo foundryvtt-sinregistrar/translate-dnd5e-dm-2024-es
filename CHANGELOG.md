@@ -4,6 +4,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
+## [0.1.1] - 2026-09-28
+
 - Adoptada la licencia MIT para las aportaciones propias de foundryvtt-sinregistrar, conservando los derechos y condiciones de terceros.
 
 ### Changed
@@ -40,3 +42,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 - Convertidores por ID para páginas, actividades, efectos, avances,
   objetos de actores y resultados de tablas.
 - Documentación y pruebas de registro.
+
+## Version Links
+
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v0.1.1

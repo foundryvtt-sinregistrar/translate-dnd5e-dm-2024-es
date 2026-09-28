@@ -1,6 +1,6 @@
 # Guía de desarrollo
 
-Proyecto: `translate-dnd5e-dm-2024-es`, versión de trabajo **0.1.0**. Instalación: [README.md](README.md) y [README.en.md](README.en.md).
+Proyecto: `translate-dnd5e-dm-2024-es`, versión de trabajo **0.1.1**. Instalación: [README.md](README.md) y [README.en.md](README.en.md).
 
 ## Entorno y compatibilidad
 
