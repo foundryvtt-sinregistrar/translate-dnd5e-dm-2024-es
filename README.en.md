@@ -70,6 +70,6 @@ The [development guide](https://github.com/foundryvtt-sinregistrar/translate-dnd
 
 ## License and credits
 
-See the license and its terms in [LICENSE.md](LICENSE.md). A license for the original contributions has not yet been selected; the notice grants no additional rights over original or third-party materials.
+Original contributions by `foundryvtt-sinregistrar` are available under the [MIT license](LICENSE.md), within the scope stated there. The translated source content and other third-party materials retain their rights and terms; MIT grants no additional permissions over them.
 
 Unofficial translation, not affiliated with Wizards of the Coast or Foundry VTT. Official product materials belong to their respective owners. Module author: [foundryvtt-sinregistrar](https://github.com/foundryvtt-sinregistrar).

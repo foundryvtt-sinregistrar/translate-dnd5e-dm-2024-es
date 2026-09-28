@@ -4,6 +4,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
+- Adoptada la licencia MIT para las aportaciones propias de foundryvtt-sinregistrar, conservando los derechos y condiciones de terceros.
+
 ### Changed
 
 - Homogeneizados documentación ES/EN, guía de desarrollo, configuración de edición, exclusiones y proceso de distribución. Constructor desde un único commit, perfil por proyecto, manifiesto externo, SHA-256 y validación compartida en PR y releases. Se conservan las particularidades y los avisos de licencia del proyecto.

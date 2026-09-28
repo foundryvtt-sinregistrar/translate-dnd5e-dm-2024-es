@@ -6,7 +6,7 @@ Plantilla inicial: PHB `caf298ee2c8b78c27634c2e2f23baf87e44243fe`; base anterior
 
 ## Archivos y adaptaciones
 
-Documentación bilingüe, DEVELOPER, CHANGELOG, `.editorconfig`, `.gitattributes`, base de `.gitignore`, constructor y suite de 24 pruebas compartida. El perfil versionado conserva alias `translate-dnd5e-dm-2024-es.zip`, canal `main` y variante `standard`. Se mantiene la licencia existente; los avisos de DM/Tomb no sustituyen la decisión pendiente sobre sus aportaciones.
+Documentación bilingüe, DEVELOPER, CHANGELOG, `.editorconfig`, `.gitattributes`, base de `.gitignore`, constructor y suite de 24 pruebas compartida. El perfil versionado conserva alias `translate-dnd5e-dm-2024-es.zip`, canal `main` y variante `standard`. El 28 de septiembre de 2026 el titular eligió MIT para sus aportaciones propias, con copyright de foundryvtt-sinregistrar. LICENSE.md delimita el alcance y conserva los derechos de terceros.
 
 Canal preliminar: se conserva el manifiesto en `main/module.json`. La release genera un borrador marcado como prerelease; publica sus adjuntos y verifica la URL de versión antes de adelantar main. Las siete comparaciones con originales se omiten explícitamente cuando no existen exportaciones privadas. Consulta `dev-tools/export/README.md` y `dev-tools/translation/PILOTO.md`.
 

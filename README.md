@@ -70,6 +70,6 @@ La [guía de desarrollo](https://github.com/foundryvtt-sinregistrar/translate-dn
 
 ## Licencia y créditos
 
-Consulta la licencia y sus condiciones en [LICENSE.md](LICENSE.md). La licencia de las aportaciones propias está pendiente de elección; el aviso no concede derechos adicionales sobre materiales propios o de terceros.
+Las aportaciones propias de `foundryvtt-sinregistrar` se ofrecen bajo la licencia [MIT](LICENSE.md), con el alcance allí indicado. El contenido original traducido y los demás materiales de terceros conservan sus derechos y condiciones; MIT no concede permisos adicionales sobre ellos.
 
 Traducción no oficial, sin afiliación con Wizards of the Coast ni Foundry VTT. Los materiales del producto oficial pertenecen a sus respectivos titulares. Autor del módulo: [foundryvtt-sinregistrar](https://github.com/foundryvtt-sinregistrar).
