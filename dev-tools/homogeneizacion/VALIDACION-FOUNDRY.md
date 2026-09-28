@@ -19,6 +19,8 @@ La muestra queda identificada en la carpeta de objetos `QA - Homogeneizacion 202
 
 El validador anidado comprobó 873 documentos sin diferencias de texto. Quedó una referencia sin resolver en `dmgSanctuaryChar`, también presente en la exportación original: `JournalEntry.dmgDmsToolbox000.JournalEntryPage.U9qU1oUFTPAK7g50`. No se alteró esa referencia durante la homogeneización.
 
+**Seguimiento del 28 de septiembre de 2026:** resuelta la causa en el mundo nuevo `testing`. Antes de importar el capítulo 3, el UUID de mundo no existía; después de pulsar **Importar** en el diario oficial **Herramientas de DM**, el mismo UUID se resolvió y el enlace de la ficha abrió **Regalos sobrenaturales**. Se documenta el requisito de importación, sin modificar la referencia original. [Evidencia y reproducción](../translation/ENLACE-SANTUARIO.md).
+
 ## Límites
 
 Los nombres de objetos no identificados pueden diferir del nombre real almacenado. Se observaron etiquetas inglesas de clase/subclase en algunas fichas, nombres alternativos ingleses y créditos añadidos por el sistema. Se conservan y no se presentan como una traducción íntegra revisada.

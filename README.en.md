@@ -44,6 +44,12 @@ For manual installation, download `translate-dnd5e-dm-2024-es.zip` from [release
 
 Registration is automatic for `es` and its regional variants. Other languages do not enable the Spanish translation.
 
+### Sanctuary Charm journal link
+
+**Sanctuary Charm** links to **Supernatural Gifts** in a world journal. To use this link, open the Dungeon Master's Guide content compendium (`dnd-dungeon-masters-guide.content`), open **Chapter 3: DM's Toolbox**, and click **Import** in its header. Then reopen the item sheet. With the Spanish translation enabled, these are **Sortilegio del santuario**, **Regalos sobrenaturales**, and **Capítulo 3: Herramientas de DM**.
+
+Verified with DMG 2.0.0 and Foundry 14.368: this import preserves the chapter ID and resolves the link. Enabling the module or opening the chapter in its compendium is insufficient. If you already have a customized copy, check its ID before importing again to avoid overwriting it. [Details and diagnosis (Spanish)](dev-tools/translation/ENLACE-SANTUARIO.md).
+
 ## Updating
 
 Update through Foundry or replace the folder with the published ZIP while Foundry is stopped. Reload the world. Previously imported copies do not synchronize automatically: review differences before replacing documents with your own changes.

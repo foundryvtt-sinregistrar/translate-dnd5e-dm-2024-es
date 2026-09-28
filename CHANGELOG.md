@@ -4,6 +4,10 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
+### Changed
+
+- Documentado en ambos README el requisito de importar el capítulo 3 del DMG para resolver el enlace de Sortilegio del santuario. Comprobada la importación normal y la apertura del destino en Foundry; se conserva la referencia original.
+
 ## [0.1.1] - 2026-09-28
 
 - Comprobados en Foundry 873 documentos, nombres y campos explícitos; importada y revisada una muestra. Evidencia y límites en `dev-tools/homogeneizacion/VALIDACION-FOUNDRY.md`.

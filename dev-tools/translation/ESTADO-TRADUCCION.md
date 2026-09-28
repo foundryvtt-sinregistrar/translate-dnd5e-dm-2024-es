@@ -60,10 +60,13 @@ generación históricos no son un recuento actualizado de revisión humana.
   comprobados contra los JSON. Incluye documentos anidados y enlaces relativos.
 - La comprobación completa no importa 873 documentos al mundo. Las siete
   importaciones del piloto anterior se conservan como muestra histórica.
-- Un enlace original no se resuelve en este mundo:
+- Un enlace original requería importar su diario al mundo:
   `equipment.dmgSanctuaryChar` →
   `JournalEntry.dmgDmsToolbox000.JournalEntryPage.U9qU1oUFTPAK7g50`.
-  Apunta a un diario del mundo; se conserva sin cambiar el destino de la fuente.
+  El 28 de septiembre de 2026 se comprobó en el mundo limpio `testing` que
+  **Importar** el capítulo **Herramientas de DM** desde su ficha oficial conserva
+  el ID y resuelve el enlace. Se abrió el destino desde el objeto. Se conserva
+  la referencia de la fuente; véase [ENLACE-SANTUARIO.md](ENLACE-SANTUARIO.md).
 
 Una auditoría numérica no detecta inversiones de significado, omisiones de
 palabras ni terminología incorrecta. La validación de campos tampoco reemplaza

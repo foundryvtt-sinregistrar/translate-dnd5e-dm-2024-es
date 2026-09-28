@@ -44,6 +44,12 @@ Para instalar manualmente, descarga `translate-dnd5e-dm-2024-es.zip` de las [rel
 
 El registro es automático para `es` y sus variantes regionales. Otros idiomas no activan la traducción española.
 
+### Enlace de Sortilegio del santuario
+
+El objeto **Sortilegio del santuario** enlaza con **Regalos sobrenaturales** en un diario del mundo. Para que funcione, abre el compendio de contenido de la Guía del Dungeon Master (`dnd-dungeon-masters-guide.content`), abre **Capítulo 3: Herramientas de DM** y pulsa **Importar** en su cabecera. Después vuelve a abrir la ficha del objeto.
+
+Comprobado con DMG 2.0.0 y Foundry 14.368: esa importación conserva el ID del capítulo y resuelve el enlace. No basta con tener el módulo activo o abrir el capítulo desde el compendio. Si ya tienes una copia personalizada, revisa su identificador antes de reimportar para evitar sobrescribirla. [Detalle y diagnóstico](dev-tools/translation/ENLACE-SANTUARIO.md).
+
 ## Actualización
 
 Actualiza desde Foundry o sustituye la carpeta con el ZIP publicado y Foundry detenido. Recarga el mundo. Las copias ya importadas no se sincronizan automáticamente: revisa las diferencias antes de sustituir documentos con cambios propios.
