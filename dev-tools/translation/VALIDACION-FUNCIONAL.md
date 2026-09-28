@@ -154,10 +154,84 @@ También siguen presentes etiquetas pendientes de revisión, como
 **Haga clic en tacones** y **Espada de abrigo con veneno**. Pasar estas pruebas
 no supone aprobar su redacción.
 
-No se probaron el veneno y la salvación de la daga, todos los niveles y objetivos
-del conjuro de la varita, recuperaciones en descansos, agotamiento/destrucción,
+En la muestra inicial no se probaron el veneno y la salvación de la daga,
+los niveles superiores de la varita ni su recuperación; se ampliaron después
+como se detalla abajo. Siguen fuera del alcance el reparto de proyectiles entre
+fichas, la destrucción al agotar cargas, el ciclo completo de descansos,
 duraciones en combate, todos los efectos, permisos de jugadores, escenas,
 bastiones completos ni todas las combinaciones de módulos.
+
+## Ampliación: veneno, niveles de la varita y recuperación
+
+El **28 de septiembre de 2026, 21:43:31 UTC**, la ejecución final de
+`extendedItems()` terminó con **14 casos correctos y cero errores**. Se usaron
+las mismas versiones de Foundry, sistema y ocho módulos indicados al principio,
+con los parches locales de idioma ya documentados. Se crearon dos actores
+separados, `extended-original` y `extended-translated`, dentro de la carpeta QA.
+No se utilizaron personajes de una partida.
+
+| Prueba | Casos por versión | Resultado en original y traducido |
+|---|---:|---|
+| Varita: niveles 1, 2 y 3 | 3 | Consume 1, 2 y 3 cargas; escalado 0, 1 y 2; contador de objetivos 3, 4 y 5; daño por proyectil `1d4 + 1` |
+| Varita: cargas insuficientes | 1 | Con una carga restante, intentar gastar tres se bloquea y conserva la carga |
+| Daga: veneno | 1 | Activación consume su uso; encantamiento habilita actividad de salvación CON CD 15; daño `2d10`; condición envenenado aplicable y reversible |
+| Recuperación al amanecer | 1 | Daga recupera su uso; varita recupera `1d6 + 1`, limitada a 7; `sr` y `lr` no recuperan estos objetos |
+| Estado final de los actores QA | 1 | 20 PG, sin envenenado, encantamientos de prueba desactivados, daga sin equipar y con imagen original |
+| **Total** | **7 × 2 = 14** | **Correctos** |
+
+### Alcance de la salvación y del veneno
+
+Se invocaron la activación y la aplicación del encantamiento de Foundry. Para
+añadir la actividad dependiente de veneno, `applyEnchantment` necesita el
+contexto de la **tarjeta de chat de origen**. La primera versión de la prueba
+lo omitía y no recibía esa actividad: corregir la prueba resolvió el problema
+en original y traducido. No se modificaron los datos de la daga para forzarlo.
+La ejecución final verificó que las tarjetas de aplicación eran privadas para
+el GM que ejecutaba la macro (`rollMode: 'self'`). Las tarjetas de los ensayos
+anteriores de estos dos actores QA también quedaron restringidas al mismo GM.
+
+Se tiró una salvación real de Constitución y se comprobó la CD 15. Se verificó
+también que la actividad declara daño nulo al superar la salvación. Después se
+probaron por separado el daño y la condición en un **escenario controlado de
+salvación fallida**, independientemente de la tirada aleatoria anterior.
+Por tanto, esta prueba **no acredita que el sistema aplique automáticamente
+daño y condición según el resultado de una salvación**.
+
+En la ejecución final, las salvaciones dieron 17 y 14, y las tiradas de daño 10
+y 15. La aplicación controlada redujo los PG de 60 a 50 y 45 respectivamente;
+después se restauraron a 20. La condición se comprobó activa y después ausente.
+No se avanzó tiempo para probar su expiración: los efectos se desactivaron
+explícitamente al terminar, incluso si una comprobación fallaba.
+
+### Recuperación y repetición
+
+Se utilizó el calculador real `item.system.recoverUses` con los periodos de
+descanso corto, largo y amanecer, aplicando sus actualizaciones a los objetos QA.
+No se avanzó el calendario del mundo ni se simularon descansos de personajes.
+La recuperación aleatoria de la varita dio 5 y 4 cargas; una segunda comprobación
+con una sola carga gastada confirmó que nunca excede 7. Las dagas quedaron con
+1 uso y las varitas con 7 al terminar.
+
+La herramienta reutiliza los encantamientos que tienen su actividad dependiente
+y desactiva sus efectos al finalizar. La ejecución repetida conservó sus IDs.
+Las muestras QA también vuelven a crear un objeto ausente si fue consumido:
+se comprobó con la poción del actor traducido de la prueba inicial, restaurada
+y abierta con **2 unidades**, sin reemplazar los objetos que seguían presentes.
+
+Macro separada **QA - DM objetos avanzados**:
+
+```js
+const qa = await import(
+  '/modules/translate-dnd5e-dm-2024-es/dev-tools/translation/validate-functional.mjs'
+);
+await qa.extendedItems();
+```
+
+Evidencia local ignorada: `tmp/functional-extended-items.json`. La sintaxis del
+auxiliar pasó `node --check`. No se repitió la auditoría completa de compendios:
+no se modificaron las traducciones ni sus mecánicas. La partida volvió a cero
+módulos activos, recargada y en pausa. Se conservan los dos nuevos actores,
+las tarjetas del GM, los efectos de prueba desactivados y la macro de esta fase.
 
 ## Reproducción y evidencias
 

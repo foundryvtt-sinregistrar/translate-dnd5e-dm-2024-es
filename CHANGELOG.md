@@ -6,6 +6,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Added
 
+- Ampliación funcional en Foundry: 14 casos correctos sobre niveles y cargas de la varita, encantamiento y veneno de la daga, recuperación al amanecer y restauración de actores QA. Macro independiente y evidencia documentada; las muestras reponen objetos consumidos para poder repetir las pruebas.
+
 - Ajuste local de concordancia para `ravanno-dnd5e-es` con dnd5e 6.0.3: frases completas de objetivos y numeral singular, verificado con 46 casos y la tarjeta de poción. Se conservan fuente, validador e instrucciones de reversión en desarrollo; no se incluye ni se activa desde el módulo DM.
 
 - Diagnóstico reproducible de la etiqueta `Undefined criaturas`: incompatibilidad de parámetros en el diccionario instalado de `ravanno-dnd5e-es` 6.0.3. Mapa de 38 sustituciones para esa dependencia, aplicado a la copia local con respaldo; 45 casos correctos y tarjeta de poción verificada tras recargar. La corrección local no se distribuye dentro del módulo DM.

@@ -127,12 +127,13 @@ export async function documents() {
   ui.notifications.info(`DM QA diarios y tiradas: ${output.status}`); return output;
 }
 
-async function actorFor(mode) {
-  let actor=game.actors.find(a=>a.getFlag(MODULE,FLAG)===mode);
-  if (actor) return actor;
+async function actorFor(mode,{extended=false}={}) {
+  const identity=extended?`extended-${mode}`:mode;
+  let actor=game.actors.find(a=>a.getFlag(MODULE,FLAG)===identity);
   const originals=mode==='original' ? await json('dev-tools/export/data/dnd-dungeon-masters-guide.equipment.en.json') : null;
   const items=[];
   for(const id of ITEMS) {
+    if(actor?.items.some(i=>i.getFlag(MODULE,FLAG)===id)) continue;
     const data=originals ? structuredClone(originals.documents.find(d=>d._id===id))
       : (await game.packs.get('dnd-dungeon-masters-guide.equipment').getDocument(id)).toObject();
     check(data,`Missing sample ${id}`);
@@ -142,10 +143,140 @@ async function actorFor(mode) {
     data.flags ??={}; data.flags[MODULE]={[FLAG]:id};
     items.push(data);
   }
-  actor=await Actor.create({name:`${LABEL} - ${mode}`,type:'npc',folder:(await folder('Actor')).id,
-    flags:{[MODULE]:{[FLAG]:mode}},system:{abilities:{str:{value:14},dex:{value:14},con:{value:14}},
+  if(actor) {
+    if(items.length) await actor.createEmbeddedDocuments('Item',items);
+    return actor;
+  }
+  actor=await Actor.create({name:`${LABEL} - ${identity}`,type:'npc',folder:(await folder('Actor')).id,
+    flags:{[MODULE]:{[FLAG]:identity}},system:{abilities:{str:{value:14},dex:{value:14},con:{value:14}},
       attributes:{hp:{value:20,max:60},ac:{flat:12,calc:'natural'},movement:{walk:30,units:'ft'}},details:{cr:1}},items});
   return actor;
+}
+
+export async function extendedItems() {
+  guard(); const output=report();
+  for(const mode of ['original','translated']) {
+    const actor=await actorFor(mode,{extended:true});
+    const wand=actor.items.find(i=>i.getFlag(MODULE,FLAG)==='dmgWandOfMagicMi');
+    const dagger=actor.items.find(i=>i.getFlag(MODULE,FLAG)==='dmgDaggerOfVenom');
+    const cast=wand.system.activities.find(a=>a.type==='cast');
+    for(const level of [1,2,3]) await step(output,`${mode}:wand-level-${level}`,async()=>{
+      await wand.update({'system.uses.spent':0});
+      let spellActivity;
+      const hook=Hooks.on('dnd5e.postUseActivity',activity=>{
+        if(activity.actor?.id===actor.id && activity.item.type==='spell') spellActivity=activity;
+      });
+      try {
+        const result=await cast.use({scaling:level-1,spell:{slot:`spell${level}`},subsequentActions:false},
+          {configure:false},{create:false});
+        check(result && spellActivity,'Linked spell did not activate');
+        check(wand.system.uses.spent===level,`Expected ${level} charges, spent ${wand.system.uses.spent}`);
+        const damage=await spellActivity.rollDamage({},{configure:false},{create:false});
+        check(damage?.length,'Linked spell did not roll damage');
+        check(spellActivity.item.scalingIncrease===level-1 && Number(spellActivity.target.affects.count)===level+2,'Spell scaling or missile count differs');
+        check(damage.length===1 && damage[0].formula.replaceAll(' ','')==='1d4+1','Wrong damage per missile');
+        return {actor:actor.uuid,remaining:wand.system.uses.value,scaling:spellActivity.item.scalingIncrease,
+          targets:spellActivity.target.affects.count,damage:damage.map(r=>({formula:r.formula,total:r.total})),spell:cast.spell.uuid};
+      } finally { Hooks.off('dnd5e.postUseActivity',hook); }
+    });
+    await step(output,`${mode}:wand-insufficient-charges`,async()=>{
+      await wand.update({'system.uses.spent':6});
+      const result=await cast.use({scaling:2,spell:{slot:'spell3'},subsequentActions:false},{configure:false},{create:false});
+      check(!result && wand.system.uses.spent===6,'Insufficient charges did not prevent activation');
+      return {remaining:wand.system.uses.value,requested:3,blocked:true};
+    });
+    await step(output,`${mode}:poison`,async()=>{
+      await dagger.update({'system.uses.spent':0,'system.equipped':true});
+      let enchantment=dagger.effects.find(e=>e.getFlag(MODULE,FLAG)==='qa-poison-enchantment'
+        && dagger.system.activities.some(a=>a.dependentOrigin?.id===e.id));
+      if(enchantment) await enchantment.update({disabled:true});
+      let condition=actor.effects.find(e=>e.getFlag(MODULE,FLAG)==='qa-poison-condition');
+      if(condition) await condition.update({disabled:true});
+      const originalImage=dagger.img;
+      const activity=dagger.system.activities.find(a=>a.type==='enchant');
+      try {
+        // The system collects rider activities using the originating chat card.
+        const activation=await activity.use({subsequentActions:false},{configure:false},
+          {create:true,rollMode:'self'});
+        check(activation?.message,'Coating activation failed');
+        check(JSON.stringify(activation.message._source.whisper)===JSON.stringify([game.user.id]),'QA coating card is not private to its author');
+        check(dagger.system.uses.spent===1,'Poison coating did not consume its use');
+        if(enchantment && dagger.system.activities.some(a=>a.dependentOrigin?.id===enchantment.id)) {
+          await enchantment.update({disabled:false});
+        }
+        else {
+          enchantment=await activity.applyEnchantment(activity.effects[0]._id,dagger,{chatMessage:activation.message});
+          check(enchantment,'Could not apply enchantment to QA dagger');
+          await enchantment.setFlag(MODULE,FLAG,'qa-poison-enchantment');
+        }
+        check(dagger.img!==originalImage,'Enchantment did not change dagger image');
+        const poison=dagger.system.activities.find(a=>a.type==='save' && a.canUse);
+        check(poison && poison.save.dc.value===15 && poison.save.ability.has('con'),
+          `Poison save not available with CON DC 15: ${JSON.stringify(dagger.system.activities.filter(a=>a.type==='save').map(a=>({id:a.id,canUse:a.canUse,dc:a.save.dc.value,ability:[...a.save.ability],origin:a.dependentOrigin?.uuid})))}`);
+        check(poison.damage.onSave==='none','Successful save must negate poison damage');
+        const saveRolls=await actor.rollSavingThrow({ability:'con'},{configure:false},{create:false});
+        const damage=await poison.rollDamage({},{configure:false},{create:false});
+        check(saveRolls?.length===1 && damage?.length===1,'Missing saving throw or poison damage');
+        check(damage[0].formula.replaceAll(' ','')==='2d10' && damage[0].total>=2 && damage[0].total<=20,'Poison damage differs from 2d10');
+        await actor.update({'system.attributes.hp.value':60});
+        await actor.applyDamage([{value:damage[0].total,type:'poison'}]);
+        check(actor.system.attributes.hp.value===60-damage[0].total,'Poison damage not applied');
+        const profile=dagger.effects.get(poison.effects[0]._id);
+        const data=profile.toObject(); delete data._id;
+        data.disabled=false; data.transfer=false; data.origin=poison.uuid;
+        data.flags??={}; data.flags[MODULE]={[FLAG]:'qa-poison-condition'};
+        data.system.changes=await ActiveEffect.implementation.forApplication(data.system.changes,poison,actor);
+        if(condition) await condition.update(data);
+        else [condition]=await actor.createEmbeddedDocuments('ActiveEffect',[data]);
+        check(actor.statuses.has('poisoned'),'Poisoned condition not active');
+        return {actor:actor.uuid,dc:poison.save.dc.value,save:saveRolls[0].total,
+          saveSucceeds:saveRolls[0].total>=15,damage:{formula:damage[0].formula,total:damage[0].total},
+          hp:actor.system.attributes.hp.value,condition:condition.uuid,enchantment:enchantment.uuid,
+          message:activation.message.uuid,privateCard:true,
+          note:'Damage and condition applied explicitly as a failed-save scenario; not automatic save branching.'};
+      } finally {
+        if(condition) await condition.update({disabled:true});
+        if(enchantment) await enchantment.update({disabled:true});
+        await dagger.update({'system.uses.spent':0,'system.equipped':false});
+        await actor.update({'system.attributes.hp.value':20});
+        check(!actor.statuses.has('poisoned') && dagger.img===originalImage,'QA poison state did not revert');
+      }
+    });
+    await step(output,`${mode}:dawn-recovery`,async()=>{
+      await dagger.update({'system.uses.spent':1});
+      await wand.update({'system.uses.spent':7});
+      for(const period of ['sr','lr']) for(const item of [dagger,wand]) {
+        const recovery=await item.system.recoverUses(new Map([[period,1]]));
+        check(foundry.utils.isEmpty(recovery.updates),'Rest unexpectedly recovered a dawn-only item');
+      }
+      const daggerRecovery=await dagger.system.recoverUses(new Map([['dawn',1]]));
+      await dagger.update(daggerRecovery.updates);
+      check(dagger.system.uses.value===1,'Dagger did not recover at dawn');
+      const wandRecovery=await wand.system.recoverUses(new Map([['dawn',1]]));
+      check(wandRecovery.rolls.length===1,'Wand recovery did not roll');
+      const roll=wandRecovery.rolls[0];
+      await wand.update(wandRecovery.updates);
+      check(roll.total>=2 && roll.total<=7 && wand.system.uses.value===roll.total,'Incorrect wand dawn recovery');
+      const recovered=wand.system.uses.value;
+      await wand.update({'system.uses.spent':1});
+      const capped=await wand.system.recoverUses(new Map([['dawn',1]]));
+      await wand.update(capped.updates);
+      check(wand.system.uses.value===7,'Dawn recovery exceeded the maximum or failed to fill one missing charge');
+      return {daggerRemaining:dagger.system.uses.value,wandRecovery:{formula:roll.formula,total:roll.total,recovered},
+        wandCappedAt:wand.system.uses.value,shortAndLongRestDoNotRecover:true,worldTimeAdvanced:false};
+    });
+    await step(output,`${mode}:cleanup`,async()=>{
+      check(!actor.statuses.has('poisoned') && actor.system.attributes.hp.value===20,'QA actor did not return to its initial health state');
+      check(dagger.effects.filter(e=>e.getFlag(MODULE,FLAG)==='qa-poison-enchantment').every(e=>e.disabled),'QA enchantment remains enabled');
+      check(dagger.img===dagger._source.img && !dagger.system.equipped,'QA dagger did not revert');
+      return {actor:actor.uuid,hp:actor.system.attributes.hp.value,poisoned:false,enchantmentsDisabled:true,
+        daggerRemaining:dagger.system.uses.value,wandRemaining:wand.system.uses.value};
+    });
+  }
+  output.status=output.errors.length?'failed':'passed';
+  await save('extended-items',output);
+  ui.notifications.info(`DM QA ampliada: ${output.checks.length} casos; ${output.errors.length} errores`);
+  return output;
 }
 
 export async function items() {
