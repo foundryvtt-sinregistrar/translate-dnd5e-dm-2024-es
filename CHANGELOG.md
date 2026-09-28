@@ -4,9 +4,14 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
+### Added
+
+- Pruebas funcionales reproducibles en Foundry: diarios importados, enlaces, imágenes, rangos y tiradas de tablas, y seis objetos comparados con sus originales. Informe en `dev-tools/translation/VALIDACION-FUNCIONAL.md` y macro auxiliar `validate-functional.mjs`.
+
 ### Changed
 
 - Documentado en ambos README el requisito de importar el capítulo 3 del DMG para resolver el enlace de Sortilegio del santuario. Comprobada la importación normal y la apertura del destino en Foundry; se conserva la referencia original.
+- Documentada la ausencia de resultados 8–12 en la tabla oficial `dmgWildernessCha` de DMG 2.0.0; la traducción conserva las fórmulas y rangos originales.
 
 ## [0.1.1] - 2026-09-28
 

@@ -72,6 +72,17 @@ Una auditoría numérica no detecta inversiones de significado, omisiones de
 palabras ni terminología incorrecta. La validación de campos tampoco reemplaza
 la prueba funcional de cada actividad, tirada, bastión o aventura.
 
+### Ampliación funcional — 2026-09-28
+
+En el mundo `testing` se comprobaron 3468 referencias sin destinos pendientes,
+3 diarios importados (28 páginas, 1806 enlaces enriquecidos y 15 imágenes),
+125 tablas y una muestra de 6 objetos en dos actores QA (original y traducido).
+Las 12 comprobaciones de objetos pasaron. Se ejecutaron tiradas en 5 tablas;
+la ausencia de filas 8–12 en `dmgWildernessCha` ya existe en DMG 2.0.0.
+Los detalles y las funciones no cubiertas constan en
+[VALIDACION-FUNCIONAL.md](VALIDACION-FUNCIONAL.md). No se modifica la evaluación
+lingüística ni se certifican todas las automatizaciones del libro.
+
 ## Reproducción
 
 Desde la raíz del módulo, con las exportaciones locales conservadas:
@@ -114,6 +125,7 @@ Resultado local: `dev-tools/export/data/dmg-translation-validation.json`.
 - Unificar los nombres citados en párrafos con los nombres finales de entradas.
 - Revisar inglés residual en HTML, atributos visibles y títulos; distinguirlo de
   identificadores, fórmulas, marcas, nombres propios y palabras válidas en español.
-- Revisar visualmente escenas y páginas, probar funciones representativas e
-  instalación limpia. Resolver o documentar la dependencia del enlace de mundo.
+- Ampliar escenas, automatizaciones y combinaciones no cubiertas por la muestra
+  funcional; probar instalación limpia. El enlace de mundo ya está documentado
+  y su destino se comprobó tras importar el capítulo 3.
 - Preparar publicación y URLs de descarga solo cuando cierre la revisión.

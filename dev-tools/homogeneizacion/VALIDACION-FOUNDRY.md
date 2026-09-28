@@ -23,6 +23,13 @@ El validador anidado comprobó 873 documentos sin diferencias de texto. Quedó u
 
 ## Límites
 
+**Ampliación posterior en `testing`:** se probaron diarios, tablas, enlaces y
+seis objetos frente a sus originales. Véase
+[VALIDACION-FUNCIONAL.md](../translation/VALIDACION-FUNCIONAL.md) para separar
+las comprobaciones funcionales nuevas del alcance histórico de esta publicación.
+La tabla oficial `dmgWildernessCha` carece de resultados 8–12 en DMG 2.0.0;
+no es una alteración introducida por Babele.
+
 Los nombres de objetos no identificados pueden diferir del nombre real almacenado. Se observaron etiquetas inglesas de clase/subclase en algunas fichas, nombres alternativos ingleses y créditos añadidos por el sistema. Se conservan y no se presentan como una traducción íntegra revisada.
 
 La evidencia acredita lectura de compendios e importación y presentación de muestras. No acredita todas las combinaciones de módulos, una campaña completa, combate exhaustivo, importaciones integrales nuevas ni el mecanismo de actualización desde versiones antiguas. La disponibilidad de las URLs públicas y los adjuntos se comprueba después de publicar.

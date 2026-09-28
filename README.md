@@ -12,6 +12,8 @@ Consulta [CHANGELOG.md](CHANGELOG.md).
 
 Comprobación del 28 de septiembre de 2026 en Foundry 14.368, dnd5e 6.0.3 y Babele 2.9.1: lectura de 873 documentos en 7 compendios, comprobación de nombres y campos de texto explícitos e importación y revisión visual de una muestra. No es una revisión lingüística ni funcional exhaustiva; permanecen algunas etiquetas inglesas del contenido original.
 
+Ampliación funcional: 3 diarios importados (28 páginas), 125 tablas auditadas, tiradas en 5 tablas y 6 objetos probados frente a sus originales. Las 3468 referencias UUID/Embed se resolvieron con los productos oficiales vinculados activos y el capítulo 3 importado. [Resultados, reproducción y límites](dev-tools/translation/VALIDACION-FUNCIONAL.md).
+
 ## Requisitos
 
 Versiones declaradas en el manifiesto; «—» indica que no se declara ese límite.
@@ -65,6 +67,8 @@ Actualiza desde Foundry o sustituye la carpeta con el ZIP publicado y Foundry de
 - `dnd-dungeon-masters-guide.tables.json`.
 
 ## Limitaciones
+
+En DMG 2.0.0, la tabla **Wilderness Chase Complications** (`dmgWildernessCha`) tiene fórmula `1d12`, pero solo incluye resultados 1–7, tanto en el original como en español. Para esa tabla, realiza la tirada manualmente y consulta el contenido oficial; no se han inventado filas ni cambiado las reglas en la traducción.
 
 La cobertura textual y las pruebas automáticas no acreditan todas las automatizaciones de una partida. Conserva las limitaciones indicadas en Estado. Las copias importadas no se actualizan automáticamente. Las nuevas URLs de release necesitan una publicación con sus adjuntos; mientras no estén disponibles, utiliza un ZIP validado. No se distribuyen fuentes privadas, PDF, OCR ni exportaciones oficiales completas.
 

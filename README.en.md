@@ -12,6 +12,8 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 Checked on September 28, 2026 with Foundry 14.368, dnd5e 6.0.3 and Babele 2.9.1: loaded 873 documents across 7 compendiums, checked names and explicit text fields, and imported and visually reviewed one sample. This is not an exhaustive linguistic or functional review; some English labels from the original content remain.
 
+Extended functional checks: 3 imported journals (28 pages), 125 audited tables, rolls on 5 tables, and 6 items tested against their originals. All 3468 UUID/Embed references resolved with the linked official products active and chapter 3 imported. [Results, reproduction and limitations (Spanish)](dev-tools/translation/VALIDACION-FUNCIONAL.md).
+
 ## Requirements
 
 Versions declared in the manifest; “—” means that the corresponding limit is not declared.
@@ -65,6 +67,8 @@ Update through Foundry or replace the folder with the published ZIP while Foundr
 - `dnd-dungeon-masters-guide.tables.json`.
 
 ## Limitations
+
+In DMG 2.0.0, **Wilderness Chase Complications** (`dmgWildernessCha`) uses `1d12` but only includes results 1–7, in both the original and the Spanish version. Roll manually and consult the official content for this table; the translation does not invent rows or change its rules.
 
 Text coverage and automated tests do not establish that every gameplay automation works. Observe the limitations listed under Status. Imported copies do not update automatically. New release URLs require a publication containing their assets; until available, use a validated ZIP. Private sources, PDFs, OCR and complete official exports are not distributed.
 
