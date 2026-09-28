@@ -1,55 +1,80 @@
-# Desarrollo
+# Guía de desarrollo
 
-## Estructura
+Proyecto: `translate-dnd5e-dm-2024-es`, versión de trabajo **0.1.0**. Instalación: [README.md](README.md) y [README.en.md](README.en.md).
 
-- `module.json`: identidad, dependencias y archivos de entrada.
-- `lang/`: mensajes propios y claves de interfaz traducidas del módulo oficial.
-- `compendium/`: un JSON de Babele por compendio oficial.
-- `scripts/babele-register.js`: registro para español en `setup`.
-- `scripts/converters.js`: registro de convertidores con prefijo `dmg2024`.
-- `scripts/converters/dmg2024-merge-by-id.js`: combinación de documentos anidados por ID, basada en Tasha.
-- `dev-tools/export/data/`: originales ingleses, PDF, OCR e informes de ejecución; excluidos de Git.
-- `dev-tools/export/export-compendiums.mjs`: exportador con rechazo de traducciones aplicadas.
-- `dev-tools/export/build_inventory.py`: verificación de SHA-256 y generación del inventario.
-- `dev-tools/translation/`: inventario, informe del piloto y validador ejecutable en Foundry.
-- `tests/`: registro, idiomas, exportador, convertidores e integridad de la muestra.
+## Entorno y compatibilidad
 
-## Flujo de trabajo
+`module.json` es la referencia de identidad, requisitos, versión y entradas de ejecución. Ambos README reproducen sus mínimos y versiones verificadas. CI utiliza Ubuntu, Node 24 y Python 3.11. Las comprobaciones locales de homogeneización usan Node 24.17.0 y Python 3.14.6; no constituyen una matriz exhaustiva.
 
-1. Si cambian las fuentes, exportar los siete packs mediante la API de documentos de Foundry sin traducciones aplicadas; consultar `dev-tools/export/README.md`.
-2. Guardar la referencia inglesa en `dev-tools/export/data/` y registrar las versiones de origen.
-3. Verificar el inventario y comparar cualquier cambio de esquema con los mapeos. El piloto ya cubre el texto principal de bastiones.
-4. Incorporar traducciones en `entries`, usando los IDs originales como claves.
-5. Añadir valores españoles de carpetas manteniendo sus claves de origen.
-6. Verificar macros, referencias, tiradas, reglas y visualización en Foundry.
+## Preparación y edición
 
-Los convertidores esperan diccionarios de parches por ID. Para páginas de diario,
-`text` es el HTML traducido y se aplica a `text.content`. Para objetos de actores,
-`description` se aplica a `system.description.value`. Los parches de actividades,
-efectos, resultados de tablas y avances conservan la estructura del documento fuente.
-Los resultados de tablas en Foundry 14 usan `description`; el `text` de páginas
-de diario es una propiedad de traducción propia de nuestro convertidor.
+Parte de `develop` tras comprobar su relación con `main` y sus remotos. Conserva cambios locales ajenos; no fuerces referencias ni reutilices etiquetas publicadas. Registra las adaptaciones en [ADOPCION.md](dev-tools/homogeneizacion/ADOPCION.md).
 
-Ejecutar `node --test tests/*.test.mjs` y la macro descrita en
-[PILOTO.md](dev-tools/translation/PILOTO.md). Las pruebas que comparan con las
-exportaciones se omiten si estas no están disponibles en el clon local.
+`.editorconfig` define UTF-8, LF, dos espacios para JSON/YAML y cuatro para JS/Python; conserva espacios finales de Markdown. `.gitattributes` normaliza en Git y controla la exportación. No reformatees masivamente traducciones. Conserva IDs, UUID, claves, fórmulas, números mecánicos, rutas y estructura HTML; traduce solo los textos previstos por mappings y convertidores.
 
-No cambiar UUID, IDs, rutas de imágenes, fórmulas ni claves técnicas al traducir.
-Sí traducir las etiquetas visibles explícitas de los enlaces. No escribir en los
-compendios originales ni publicar exportaciones completas del contenido propietario.
+## Estructura y registro
 
-## Publicación
+- `compendium/`: 7 JSON de traducción Babele.
+- `lang/`: archivos declarados en el manifiesto.
+- `scripts/`: registro, convertidores y comportamiento específico del módulo.
+- `tests/`: comprobaciones portables y del constructor; no se distribuyen.
+- `dev-tools/`: fuentes de desarrollo, auditorías, perfil y herramientas; no se distribuye.
+- `dist/`: artefactos generados, ignorados por Git.
 
-Actualizar versión, URL `download`, CHANGELOG y `dev-tools/RELEASE-NOTES.md`.
-Con el árbol limpio y los cambios confirmados, ejecutar:
+El registro utiliza `babele.init` y espera a `setup` para leer `core.language`; aplica español y variantes regionales. Los documentos ya importados no se sincronizan automáticamente.
+
+Convertidores registrados: `dmg2024ActivitiesById`, `dmg2024EffectsById`, `dmg2024AdvancementById`, `dmg2024ActorItemsById`, `dmg2024TableResultsById`, `dmg2024JournalPagesById`, `dmg2024SceneTextById`.
+
+## Fuentes y particularidades
+
+Canal preliminar: se conserva el manifiesto en `main/module.json`. La release genera un borrador marcado como prerelease; publica sus adjuntos y verifica la URL de versión antes de adelantar main. Las siete comparaciones con originales se omiten explícitamente cuando no existen exportaciones privadas. Consulta `dev-tools/export/README.md` y `dev-tools/translation/PILOTO.md`.
+
+Las fuentes completas, PDF, OCR, modelos y exportaciones del producto oficial son locales. No copies sus bases de datos al paquete ni las añadas al índice. Versiona únicamente las herramientas, mappings y evidencias que corresponda compartir.
+
+- [dev-tools/export/README.md](dev-tools/export/README.md).
+- [dev-tools/translation/README.md](dev-tools/translation/README.md).
+- [dev-tools/translation/ESTADO-TRADUCCION.md](dev-tools/translation/ESTADO-TRADUCCION.md).
+
+## Validación portable
+
+Desde la raíz del proyecto:
 
 ```sh
-python dev-tools/buildScripts/build_release.py
+node --test tests/*.test.mjs
+python -B -m unittest discover -s tests -p 'test_*.py' -v
+git diff --check
 ```
 
-El ZIP se construye desde HEAD mediante `git archive`, respetando las exclusiones
-de `.gitattributes`. Inspeccionar el paquete antes de subir la etiqueta `vVERSION`.
-El workflow de GitHub verifica versión y pruebas portables, construye el ZIP y
-publica una versión preliminar con el ZIP y `module.json`. Las pruebas completas
-contra originales deben ejecutarse localmente, porque las fuentes no se publican.
-El manifiesto estable apunta a `main`; el ZIP utiliza una URL de versión concreta.
+Comprueba también un clon aislado: los módulos hermanos y las fuentes privadas del workspace pueden ocultar dependencias. Las omisiones por fuentes ausentes deben aparecer en el resultado y no equivalen a pruebas superadas. No ejecutes generadores como parte de la validación.
+
+Para pruebas funcionales, registra versiones de Foundry, dnd5e, Babele y producto oficial; abre e importa documentos representativos en un mundo de prueba. Revisa enlaces, imágenes, tablas y automatizaciones. No declares una verificación completa basándote solo en JSON válido o cobertura de traducción.
+
+## Construcción
+
+Con el árbol limpio y los cambios confirmados:
+
+```sh
+python -B dev-tools/buildScripts/build_release.py --dist dist --ref HEAD
+```
+
+El constructor lee manifiesto, perfil y contenido del mismo commit. Genera un ZIP versionado, `translate-dnd5e-dm-2024-es.zip`, `module.json` y `SHA256SUMS.txt`; el manifiesto externo es idéntico al del ZIP. Comprueba JSON, rutas, documentos obligatorios y lista de admitidos antes de sustituir salidas existentes. `--allow-dirty` permite inspeccionar contenido confirmado sin incorporar cambios locales.
+
+`dev-tools/buildScripts/release-profile.json` declara el nombre del ZIP, el canal `main` y la variante `standard`. En modo release, `--ref vVERSION` o `--ref SHA --release-tag vVERSION` exige correspondencia de tag, commit, versión, changelog y URLs. Los hashes cubren ambos ZIP y el manifiesto. Pruebas, herramientas, contadores, fuentes privadas y archivos de IDE quedan fuera del paquete.
+
+## CI y publicación
+
+`validate.yml` ejecuta las suites y construye el commit de la ejecución en PR y pushes a ramas. `release.yml` llama a esa misma validación al subir tags `v*`, descarga sus artefactos y comprueba hashes antes de crear el borrador. Solo el job publicador recibe permiso de escritura. No basta con tener workflows locales: hay que comprobar su ejecución en GitHub después del push y configurar por separado las protecciones de rama.
+
+Prepara una versión nueva: actualiza versión y URL de descarga en `module.json`, ambos README y CHANGELOG. Conserva las etiquetas anteriores y traslada `[Unreleased]` a la versión fechada. Valida el commit en la rama de preparación y etiqueta ese commit, sin adelantar `main`. Revisa y publica los adjuntos, comprueba sus URLs y solo después integra el contenido publicado en `main`. Las instalaciones antiguas pueden seguir consultando el manifiesto de main; prueba también su actualización al canal elegido.
+
+El canal estable `latest` necesita el adjunto `module.json` de una release estable. DM conserva expresamente su canal preliminar y manifiesto en main. Estos cambios locales no publican archivos, no alteran releases antiguas y no autorizan a reutilizar la versión actual para otra publicación.
+
+## Etiquetas históricas
+
+No se detectaron discrepancias de versión en las etiquetas locales consultadas.
+
+Esta comparación corresponde a Git local, no certifica los artefactos publicados. Las discrepancias se conservan para trazabilidad; prepara una etiqueta nueva y coherente en la siguiente publicación.
+
+## Diagnóstico
+
+Si aparece inglés, revisa dependencias activas, idioma y recarga. Si solo falla una copia importada, compárala con el compendio actual. Si falla el build por árbol sucio, confirma los cambios o utiliza `--allow-dirty` únicamente para una inspección del commit. Si falla un contrato de tag o URL, corrige una nueva versión; no reescribas un tag publicado.

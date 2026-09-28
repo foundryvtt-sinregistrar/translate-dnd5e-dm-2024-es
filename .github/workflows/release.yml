@@ -4,43 +4,59 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: Existing version tag to publish
+        description: Existing version tag to validate and prepare as a draft prerelease
         required: true
-        default: v0.1.0
+        type: string
   push:
     tags:
       - "v*"
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
+  validate:
+    name: Validate release
+    uses: ./.github/workflows/validate.yml
+    with:
+      release-tag: ${{ inputs.tag || github.ref_name }}
+      revision: ${{ inputs.tag || github.sha }}
+
   release:
+    name: Publish validated release (Draft)
+    needs: validate
     runs-on: ubuntu-latest
-    env:
-      RELEASE_TAG: ${{ inputs.tag || github.ref_name }}
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v5
+      - name: Download validated package
+        uses: actions/download-artifact@v4
         with:
-          ref: ${{ inputs.tag || github.ref }}
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "22"
-      - name: Check tag and run portable tests
+          name: module-package
+          path: dist
+
+      - name: Verify expected asset exists
         run: |
-          python -c 'import json, os; assert "v" + json.load(open("module.json"))["version"] == os.environ["RELEASE_TAG"]'
-          node --test tests/*.test.mjs
-      - name: Build clean module archive
-        run: python dev-tools/buildScripts/build_release.py
-      - name: Publish preliminary release
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          gh release create "$RELEASE_TAG" \
-            dist/translate-dnd5e-dm-2024-es.zip module.json \
-            --verify-tag --prerelease \
-            --title "$RELEASE_TAG — Primera versión preliminar" \
-            --notes-file dev-tools/RELEASE-NOTES.md
+          test -f "dist/translate-dnd5e-dm-2024-es.zip"
+          test -f "dist/module.json"
+          test -f "dist/SHA256SUMS.txt"
+          (cd dist && sha256sum --check SHA256SUMS.txt)
+          echo "OK: release assets exist"
+
+      - name: Create GitHub Release (DRAFT) and upload asset
+        uses: softprops/action-gh-release@v2
+        with:
+          draft: true
+          prerelease: true
+          tag_name: ${{ inputs.tag || github.ref_name }}
+          generate_release_notes: true
+          fail_on_unmatched_files: true
+          files: |
+            dist/*.zip
+            dist/module.json
+            dist/SHA256SUMS.txt
