@@ -332,8 +332,8 @@ pero deja fuera la emisión de eventos desde los botones de siguiente turno,
 la sincronización multijugador y la expiración fuera de combate.
 
 En esta prueba, el combatiente registrado en `start.combatant` es también el
-propietario del efecto. No se ha comprobado todavía la duración cuando origen
-y objetivo son actores distintos. Tampoco se prueba aquí la retirada del
+propietario del efecto. El caso de origen y objetivo distintos se comprueba
+en el seguimiento siguiente. Tampoco se prueba aquí la retirada del
 recubrimiento después de un impacto.
 
 Fuentes locales inspeccionadas: Foundry 14.368,
@@ -351,6 +351,49 @@ condiciones QA desactivadas. Se restauran los datos de duración e inicio de
 los efectos, y se comprueba que ambos actores siguen con 20 PG y sin veneno.
 La evidencia confirma el reloj sin cambios y la partida en pausa.
 Al terminar se recargó Foundry y se verificaron cero módulos activos y la pausa.
+
+## Seguimiento: origen y objetivo distintos
+
+El **29 de septiembre de 2026, 00:25:54 de Madrid** (28 de septiembre,
+22:25:54 UTC), `crossActorExpiry()` pasó **4 casos** con las mismas versiones.
+Se intercambiaron los papeles de los dos actores QA: uno usa la daga y el otro
+recibe envenenado. El portador de la daga no recibe la condición.
+
+| Versión de la daga | Aplicación | Referencia de inicio y expiración | Operación observada |
+|---|---|---|---|
+| Original | Durante el turno del atacante | Combatiente atacante | Crear efecto en el receptor |
+| Original | Reaplicación durante el turno del receptor | Combatiente receptor | Actualizar el mismo efecto |
+| Traducida | Durante el turno del atacante | Combatiente atacante | Crear efecto en el receptor |
+| Traducida | Reaplicación durante el turno del receptor | Combatiente receptor | Actualizar el mismo efecto |
+
+En los cuatro casos se verificó que el efecto permanece activo a los 59 segundos
+y también a los 60 durante el turno distinto del registrado. Al inicio del
+turno registrado, con 60 segundos cumplidos, expira y desaparece `poisoned`.
+Las reaplicaciones conservaron los IDs de los efectos y renovaron su inicio.
+
+**Consecuencia para el GM:** el turno en curso al aplicar el efecto determina
+`start.combatant`. Aplicarlo después de cambiar de turno puede cambiar también
+la referencia de expiración. No debe interpretarse `turnStart` como «inicio del
+turno del receptor» en todos los casos. Este comportamiento proviene del sistema
+instalado y coincide en original y traducción; no se alteraron sus datos.
+
+La prueba usa tarjetas privadas reales y el método de aplicación del componente
+de chat (`EffectApplicationElement._applyEffectToActor`), que prepara y crea o
+actualiza los efectos del receptor. El inicio se obtiene del sistema; la prueba
+no escribe el combatiente de referencia para forzar el resultado. Después solo
+ajusta `start.time` para comprobar 59/60 segundos mediante el gestor real de
+expiración, aislado al efecto QA. No se avanza el reloj ni se usan los botones
+de cambio de turno: siguen fuera del alcance la emisión automática de eventos,
+las reacciones, la salida del combate y la sincronización multijugador.
+
+Macro **QA - DM veneno entre actores**: importar el auxiliar y ejecutar
+`await qa.crossActorExpiry();`. Requiere `extendedItems()` y `effectExpiry()`
+previos para disponer de las muestras y el encuentro QA sin iniciar.
+Evidencia local ignorada: `tmp/functional-cross-actor-expiry.json`.
+Al finalizar se desactivaron los dos efectos creados y los recubrimientos;
+el combate quedó sin iniciar ni activar, con ambos actores a 20 PG y sin veneno.
+El reloj mundial no cambió y la partida permaneció en pausa.
+Tras recargar se verificaron cero módulos activos y la partida en pausa.
 
 ## Reproducción y evidencias
 

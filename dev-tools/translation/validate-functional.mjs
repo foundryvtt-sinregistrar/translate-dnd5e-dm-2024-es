@@ -474,6 +474,97 @@ export async function effectExpiry() {
   return output;
 }
 
+export async function crossActorExpiry() {
+  guard(); const output=report();
+  check(CONFIG.ActiveEffect.expiryAction==='update','This QA requires non-deleting effect expiry');
+  const time=game.time.worldTime, previousViewed=game.combats.viewed;
+  const actors=await Promise.all(['original','translated'].map(mode=>actorFor(mode,{extended:true})));
+  const combat=game.combats.find(c=>c.getFlag(MODULE,FLAG)==='effect-expiry');
+  check(combat && !combat.active && !combat.started && combat.combatants.size===2
+    && combat.combatants.every(c=>actors.some(a=>a.id===c.actorId)),
+    'Run effectExpiry() first and leave its QA encounter stopped');
+  check(actors.every(a=>!a.statuses.has('poisoned')),'QA actors already poisoned');
+  try {
+    ui.combat.viewed=combat;
+    check(game.combat===combat,'QA combat is not the current application context');
+    for(const [index,source] of actors.entries()) {
+      const mode=index===0?'original':'translated', target=actors[1-index];
+      const sourceTurn=combat.turns.findIndex(c=>c.actorId===source.id);
+      const targetTurn=combat.turns.findIndex(c=>c.actorId===target.id);
+      const dagger=source.items.find(i=>i.getFlag(MODULE,FLAG)==='dmgDaggerOfVenom');
+      const enchantment=dagger.effects.find(e=>e.getFlag(MODULE,FLAG)==='qa-poison-enchantment'
+        && dagger.system.activities.some(a=>a.dependentOrigin?.id===e.id));
+      check(enchantment?.disabled,'QA coating must exist and be disabled');
+      for(const applicationTurn of ['source','target']) await step(output,`${mode}:apply-on-${applicationTurn}-turn`,async()=>{
+        const turn=applicationTurn==='source'?sourceTurn:targetTurn;
+        const opposite=turn===sourceTurn?targetTurn:sourceTurn;
+        const registry=new ActiveEffect.implementation.registry.constructor();
+        let applied;
+        try {
+          await combat.update({round:1,turn},{turnEvents:false});
+          await enchantment.update({disabled:false});
+          const poison=dagger.system.activities.find(a=>a.type==='save' && a.canUse);
+          const activation=await poison.use({subsequentActions:false},{configure:false},
+            {create:true,rollMode:'self',data:{system:{targets:[{actor:target.uuid}]}}});
+          check(activation?.message,'Missing poison usage card');
+          const card=activation.message;
+          check(JSON.stringify(card._source.whisper)===JSON.stringify([game.user.id]),'QA card is not private');
+          const profile=dagger.effects.get(poison.effects[0]._id);
+          const existing=target.effects.find(e=>e._stats.duplicateSource===profile.uuid);
+          const tray=document.createElement('effect-application');
+          tray.chatMessage=card;
+          applied=await tray._applyEffectToActor(profile,target);
+          await applied.setFlag(MODULE,FLAG,'qa-cross-expiry');
+          const recordedStart=foundry.utils.deepClone(applied._source.start);
+          check(applied.parent===target && target.statuses.has('poisoned') && !source.statuses.has('poisoned'),
+            'Poison applied to the wrong actor');
+          check(recordedStart.combat===combat.id && recordedStart.combatant===combat.combatant.id,
+            'Effect start is not anchored to the turn of application');
+          check(applied._source.duration.value===60 && applied._source.duration.units==='seconds'
+            && applied._source.duration.expiry==='turnStart','Duration differs from the official profile');
+          if(existing) check(existing.id===applied.id,'Reapplication unexpectedly created a duplicate');
+          // Keep the actual combatant chosen by application; move only the test timestamp.
+          await applied.update({'start.time':time-59});
+          registry.add(applied);
+          check(registry.has(applied),'Applied QA condition is not tracked');
+          await registry.refresh('turnStart',{combat,actors:new Set([target])});
+          check(applied.duration.secondsRemaining===1 && applied.active,'Condition expired before 60 seconds');
+          await applied.update({'start.time':time-60});
+          await combat.update({turn:opposite},{turnEvents:false});
+          await registry.refresh('turnStart',{combat,actors:new Set([target])});
+          check(applied.duration.secondsRemaining===0 && applied.active && target.statuses.has('poisoned'),
+            'Condition expired on a turn other than its recorded start combatant');
+          await combat.update({turn},{turnEvents:false});
+          await registry.refresh('turnStart',{combat,actors:new Set([target])});
+          check(applied._source.duration.expired && !applied.active && !target.statuses.has('poisoned'),
+            'Condition did not expire on its recorded start combatant turn');
+          check(target.effects.has(applied.id),'Expiry deleted the QA condition');
+          return {source:source.uuid,target:target.uuid,applicationTurn,operation:existing?'update':'create',
+            effect:applied.uuid,card:card.uuid,recordedStart,expiryTurn:applicationTurn,
+            activeAt59:true,activeAt60OnOtherTurn:true,expiredAt60OnRecordedTurn:true};
+        } finally {
+          if(applied) {
+            registry.delete(applied);
+            await applied.update({disabled:true});
+          }
+          await enchantment.update({disabled:true});
+          check(actors.every(a=>!a.statuses.has('poisoned')),'QA poison did not clear');
+        }
+      });
+    }
+  } finally {
+    await combat.update({round:0,turn:null,active:false},{turnEvents:false});
+    ui.combat.viewed=previousViewed ?? null;
+  }
+  output.finalState={worldTimeUnchanged:game.time.worldTime===time,paused:game.paused,
+    combatStarted:combat.started,combatActive:combat.active,actors:actors.map(a=>({id:a.id,
+      hp:a.system.attributes.hp.value,poisoned:a.statuses.has('poisoned')}))};
+  output.status=output.errors.length?'failed':'passed';
+  await save('cross-actor-expiry',output);
+  ui.notifications.info(`DM QA origen y objetivo: ${output.checks.length} casos; ${output.errors.length} errores`);
+  return output;
+}
+
 export async function items() {
   guard(); const output=report();
   for(const mode of ['original','translated']) {

@@ -6,6 +6,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Added
 
+- Cuatro casos de veneno entre actores distintos: aplicación y reaplicación reales, conservación del efecto y expiración según el combatiente cuyo turno estaba en curso al aplicarlo. Documentada la consecuencia para el GM, común al original y la traducción.
+
 - Validación de duración y expiración del veneno: 16 casos sobre condición y recubrimiento, en original y traducción, con el gestor real de Foundry y eventos de combate controlados. Se conserva el reloj mundial y se documentan los límites de la prueba.
 
 - Integración de salvaciones y controles del chat: cuatro casos de éxito/fallo en original y traducción, con fichas QA, cálculo de daño según la salvación y aplicación explícita de efectos. Documentados requisitos y límites de la automatización de dnd5e 6.0.3.
