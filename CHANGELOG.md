@@ -6,6 +6,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Added
 
+- Validación de duración y expiración del veneno: 16 casos sobre condición y recubrimiento, en original y traducción, con el gestor real de Foundry y eventos de combate controlados. Se conserva el reloj mundial y se documentan los límites de la prueba.
+
 - Integración de salvaciones y controles del chat: cuatro casos de éxito/fallo en original y traducción, con fichas QA, cálculo de daño según la salvación y aplicación explícita de efectos. Documentados requisitos y límites de la automatización de dnd5e 6.0.3.
 
 - Ampliación funcional en Foundry: 14 casos correctos sobre niveles y cargas de la varita, encantamiento y veneno de la daga, recuperación al amanecer y restauración de actores QA. Macro independiente y evidencia documentada; las muestras reponen objetos consumidos para poder repetir las pruebas.

@@ -384,6 +384,96 @@ export async function saveWorkflow() {
   return output;
 }
 
+// Advance only QA effect start timestamps; the world clock never moves.
+export async function effectExpiry() {
+  guard(); const output=report();
+  check(CONFIG.ActiveEffect.expiryAction==='update','This QA requires non-deleting effect expiry');
+  const time=game.time.worldTime, previousViewed=game.combats.viewed;
+  const actors=await Promise.all(['original','translated'].map(mode=>actorFor(mode,{extended:true})));
+  check(actors.every(a=>!a.statuses.has('poisoned')),'QA actors already have an active poison condition');
+  let combat=game.combats.find(c=>c.getFlag(MODULE,FLAG)==='effect-expiry');
+  if(!combat) combat=await Combat.create({name:`${LABEL} - caducidad`,active:false,round:0,turn:null,
+    flags:{[MODULE]:{[FLAG]:'effect-expiry'}},combatants:actors.map((a,i)=>
+      ({actorId:a.id,name:a.name,initiative:20-i,hidden:true}))});
+  check(!combat.active && combat.combatants.size===2
+    && combat.combatants.every(c=>actors.some(a=>a.id===c.actorId)),'Unexpected QA combat contents');
+  try {
+    for(const [index,actor] of actors.entries()) {
+      const mode=index===0?'original':'translated';
+      const owner=combat.turns.findIndex(c=>c.actorId===actor.id), other=owner===0?1:0;
+      check(owner>=0,'QA actor absent from combat');
+      const dagger=actor.items.find(i=>i.getFlag(MODULE,FLAG)==='dmgDaggerOfVenom');
+      const enchantment=dagger.effects.find(e=>e.getFlag(MODULE,FLAG)==='qa-poison-enchantment'
+        && dagger.system.activities.some(a=>a.dependentOrigin?.id===e.id));
+      check(enchantment?.disabled,'Run extendedItems() first and leave the QA enchantment disabled');
+      let condition=actor.effects.find(e=>e.getFlag(MODULE,FLAG)==='qa-expiry-condition');
+      if(!condition) {
+        const profile=dagger.effects.find(e=>e.statuses.has('poisoned') && e.type==='base');
+        check(profile,'Missing official poison profile');
+        const data=profile.toObject(); delete data._id;
+        data.disabled=true; data.transfer=false; data.origin=dagger.uuid;
+        data.flags??={}; data.flags[MODULE]={[FLAG]:'qa-expiry-condition'};
+        [condition]=await actor.createEmbeddedDocuments('ActiveEffect',[data]);
+      }
+      for(const effect of [condition,enchantment]) {
+        const kind=effect===condition?'condition':'coating';
+        const source=effect.toObject();
+        check(source.duration.value===60 && source.duration.units==='seconds'
+          && source.duration.expiry==='turnStart','Official duration changed');
+        const registry=new ActiveEffect.implementation.registry.constructor();
+        try {
+          await combat.update({round:1,turn:owner},{turnEvents:false});
+          await effect.update({disabled:false,'duration.expired':false,start:{
+            ...ActiveEffect.implementation.getEffectStart(combat),time:time-59}});
+          registry.add(effect);
+          await step(output,`${mode}:${kind}:59s-own-turn`,async()=>{
+            check(registry.has(effect),'QA effect is not expiry-trackable');
+            await registry.refresh('turnStart',{combat,actors:new Set([actor])});
+            check(effect.duration.secondsRemaining===1 && !effect.duration.expired && effect.active,'Expired before 60 seconds');
+            return {remaining:effect.duration.secondsRemaining,expired:false,active:effect.active};
+          });
+          await effect.update({'start.time':time-60});
+          await combat.update({turn:other},{turnEvents:false});
+          await step(output,`${mode}:${kind}:60s-other-turn`,async()=>{
+            await registry.refresh('turnStart',{combat,actors:new Set([actor])});
+            check(effect.duration.secondsRemaining===0 && !effect.duration.expired && effect.active,'Expired on another combatant turn');
+            return {remaining:0,expired:false,active:effect.active};
+          });
+          await combat.update({turn:owner},{turnEvents:false});
+          await step(output,`${mode}:${kind}:60s-round-start`,async()=>{
+            await registry.refresh('roundStart',{combat,actors:new Set([actor])});
+            check(!effect.duration.expired && effect.active,'Wrong event expired the effect');
+            return {expired:false,active:effect.active};
+          });
+          await step(output,`${mode}:${kind}:60s-own-turn`,async()=>{
+            await registry.refresh('turnStart',{combat,actors:new Set([actor])});
+            check(effect.parent.effects.has(effect.id),'Expiry deleted the QA effect');
+            check(effect._source.duration.expired && !effect.active,'Correct event did not suppress the expired effect');
+            if(effect===condition) check(!actor.statuses.has('poisoned'),'Expired condition still poisons actor');
+            else check(dagger.img===dagger._source.img,'Expired coating still changes dagger image');
+            return {remaining:effect.duration.secondsRemaining,expired:true,active:effect.active,
+              retained:true,poisoned:actor.statuses.has('poisoned')};
+          });
+        } finally {
+          registry.delete(effect);
+          await effect.update({disabled:true,duration:source.duration,start:source.start});
+        }
+      }
+    }
+  } finally {
+    await combat.update({round:0,turn:null,active:false},{turnEvents:false});
+    ui.combat.viewed=previousViewed ?? null;
+  }
+  output.combat=combat.uuid;
+  output.finalState={worldTimeUnchanged:game.time.worldTime===time,paused:game.paused,
+    combatStarted:combat.started,combatActive:combat.active,actors:actors.map(a=>({id:a.id,
+      hp:a.system.attributes.hp.value,poisoned:a.statuses.has('poisoned')}))};
+  output.status=output.errors.length?'failed':'passed';
+  await save('effect-expiry',output);
+  ui.notifications.info(`DM QA caducidad: ${output.checks.length} casos; ${output.errors.length} errores`);
+  return output;
+}
+
 export async function items() {
   guard(); const output=report();
   for(const mode of ['original','translated']) {

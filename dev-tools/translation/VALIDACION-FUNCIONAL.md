@@ -293,6 +293,65 @@ Evidencias locales ignoradas: `tmp/functional-save-workflow.json` y
 de escena activa o visualizada, partida en pausa y ningún efecto QA activo.
 Tras recargar se verificaron **cero módulos activos** y la partida en pausa.
 
+## Seguimiento: duración y expiración del veneno
+
+El **29 de septiembre de 2026, 00:03:32 de Madrid** (28 de septiembre,
+22:03:32 UTC), `effectExpiry()` pasó **16 casos**, sin errores, con las mismas
+versiones de Foundry, dnd5e y módulos del seguimiento anterior.
+
+Se probaron la condición de envenenado y el encantamiento de recubrimiento,
+en original y traducido. Los cuatro efectos conservan la configuración
+oficial: `value: 60`, `units: 'seconds'`, `expiry: 'turnStart'`.
+
+| Caso, repetido en los cuatro efectos | Resultado |
+|---|---|
+| 59 segundos transcurridos, inicio del turno correspondiente | Queda 1 segundo; efecto activo |
+| 60 segundos transcurridos, inicio del turno del otro combatiente | Quedan 0 segundos; efecto todavía activo |
+| 60 segundos transcurridos, evento de inicio de ronda | Efecto todavía activo |
+| 60 segundos transcurridos, inicio del turno correspondiente | `duration.expired: true`, efecto inactivo y documento conservado |
+
+La expiración de la condición retiró `poisoned` del actor; la del recubrimiento
+restauró la imagen original de la daga. No fue necesario modificar la traducción
+ni los perfiles oficiales. El resultado refleja **duración cumplida más evento
+de expiración**, no una caducidad incondicional al llegar a cero segundos.
+
+### Método y límites
+
+La macro utiliza un encuentro QA real con los dos actores `extended-*`, sin
+activarlo, y una instancia independiente de `ActiveEffectRegistry` que contiene
+exclusivamente el efecto bajo prueba. Llama a su método real `refresh`, que
+calcula la duración y persiste la expiración. Requiere que la configuración
+instalada sea `CONFIG.ActiveEffect.expiryAction === 'update'`.
+
+Para alcanzar los límites de 59 y 60 segundos se ajusta exclusivamente la fecha
+de inicio del efecto QA. Se prepara el turno del encuentro con
+`turnEvents: false` y se envía explícitamente el evento que se desea comprobar.
+**No se avanza el reloj mundial ni se pulsan diez rondas de combate**. Esto
+valida la integración del cálculo y del gestor de expiración con los documentos,
+pero deja fuera la emisión de eventos desde los botones de siguiente turno,
+la sincronización multijugador y la expiración fuera de combate.
+
+En esta prueba, el combatiente registrado en `start.combatant` es también el
+propietario del efecto. No se ha comprobado todavía la duración cuando origen
+y objetivo son actores distintos. Tampoco se prueba aquí la retirada del
+recubrimiento después de un impacto.
+
+Fuentes locales inspeccionadas: Foundry 14.368,
+`client/documents/active-effect.mjs` (`updateDuration`, `isExpiryEvent`) y
+`client/helpers/active-effect-registry.mjs` (`refresh`). SHA-256 respectivos:
+`d1a54e77819a393513237cd9a5823444f9dca9180d3d54b8e069dafe071e085c` y
+`d1f41e75dd8c6b7f9fa3c21829186608c408545820c36004aac2a64f41017f27`.
+Las copias de lectura permanecen en `tmp/` ignorado; no se distribuyen.
+
+Macro **QA - DM caducidad**: importar el auxiliar y ejecutar
+`await qa.effectExpiry();`. Requiere preparar previamente los encantamientos
+con `extendedItems()`. Evidencia: `tmp/functional-effect-expiry.json`.
+Se conserva el encuentro `JXszEuIq2arCVMVi`, sin iniciar ni activar, y las
+condiciones QA desactivadas. Se restauran los datos de duración e inicio de
+los efectos, y se comprueba que ambos actores siguen con 20 PG y sin veneno.
+La evidencia confirma el reloj sin cambios y la partida en pausa.
+Al terminar se recargó Foundry y se verificaron cero módulos activos y la pausa.
+
 ## Reproducción y evidencias
 
 Herramienta: [validate-functional.mjs](validate-functional.mjs), de uso explícito
