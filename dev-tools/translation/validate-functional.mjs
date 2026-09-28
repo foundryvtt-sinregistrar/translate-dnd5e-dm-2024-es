@@ -31,7 +31,7 @@ function report() {
 }
 async function step(output, name, action) {
   try { output.checks.push({name,status:'passed',...await action()}); }
-  catch (error) { output.errors.push({name,error:error.message}); }
+  catch (error) { output.errors.push({name,error:error.message,stack:error.stack}); }
 }
 async function folder(type) {
   return game.folders.find(f=>f.type===type && f.name===LABEL) ?? await Folder.create({name:LABEL,type});
@@ -276,6 +276,111 @@ export async function extendedItems() {
   output.status=output.errors.length?'failed':'passed';
   await save('extended-items',output);
   ui.notifications.info(`DM QA ampliada: ${output.checks.length} casos; ${output.errors.length} errores`);
+  return output;
+}
+
+// Integration test of the installed chat handlers, with real messages and linked QA tokens.
+export async function saveWorkflow() {
+  guard(); const output=report();
+  const previousScene=canvas.scene;
+  let scene=game.scenes.find(s=>s.getFlag(MODULE,FLAG)==='save-workflow');
+  if(!scene) scene=await Scene.create({name:`${LABEL} - salvaciones`,active:false,navigation:false,
+    width:1000,height:1000,flags:{[MODULE]:{[FLAG]:'save-workflow'}}});
+  const fixture=document.createElement('section');
+  fixture.dataset.dmQa='save-workflow'; document.body.append(fixture);
+  try {
+    // Recorded targets resolve to token objects only on the viewed canvas.
+    await scene.view();
+    for(const mode of ['original','translated']) {
+      const actor=await actorFor(mode,{extended:true});
+      let token=scene.tokens.find(t=>t.actorId===actor.id);
+      if(!token) [token]=await scene.createEmbeddedDocuments('Token',[
+        {name:`QA salvacion - ${mode}`,actorId:actor.id,actorLink:true,x:100,y:mode==='original'?100:300}]);
+      const dagger=actor.items.find(i=>i.getFlag(MODULE,FLAG)==='dmgDaggerOfVenom');
+      const enchantment=dagger.effects.find(e=>e.getFlag(MODULE,FLAG)==='qa-poison-enchantment'
+        && dagger.system.activities.some(a=>a.dependentOrigin?.id===e.id));
+      check(enchantment,'Run extendedItems() once to prepare the QA enchantment');
+      for(const outcome of ['success','failure']) await step(output,`${mode}:save-${outcome}`,async()=>{
+        const effectsBefore=new Set(actor.effects.map(e=>e.id));
+        try {
+          await actor.update({'system.attributes.hp.value':60});
+          await enchantment.update({disabled:false});
+          const poison=dagger.system.activities.find(a=>a.type==='save' && a.canUse);
+          const targets=[{actor:actor.uuid,token:token.uuid}];
+          const speaker=ChatMessage.getSpeaker({actor,scene,token});
+          const activation=await poison.use({subsequentActions:false},{configure:false},
+            {create:true,rollMode:'self',data:{speaker,system:{targets}}});
+          const origin=activation.message;
+          check(origin,'Missing poison usage card');
+          // Deliberate QA-only bonuses ensure both outcomes without replacing the real roll engine.
+          const rolls=await actor.rollSavingThrow({ability:'con',target:15,
+            rolls:[{parts:[outcome==='success'?'100':'-100']}]},{configure:false},
+            {create:true,rollMode:'self',data:{speaker,system:{...poison.messageSources,origin:origin.id}}});
+          check(rolls?.length===1,'Missing saving throw');
+          check(origin.system.outcomes.get(token.uuid)===outcome,'Saving throw not associated with the target token');
+          const damageRolls=await poison.rollDamage({},{configure:false},
+            {create:true,rollMode:'self',data:{speaker,system:{origin:origin.id,targets}}});
+          const damageMessage=game.messages.filter(m=>m.type==='damage' && m.system.origin?.id===origin.id).at(-1);
+          check(damageMessage && damageRolls.length===1,'Missing linked damage card');
+          check(actor.system.attributes.hp.value===60 && !actor.statuses.has('poisoned'),
+            'Rolling alone unexpectedly applied damage or poison');
+          const damageHtml=await damageMessage.renderHTML(); fixture.append(damageHtml);
+          const tray=damageHtml.querySelector('damage-application');
+          check(tray,'Missing damage application tray');
+          tray.open=true; tray.visible=true; tray.targetList.visible=true;
+          tray.targetList.targetingMode='targeted'; tray.targetList.buildTargetsList();
+          check([...tray.targetList.querySelectorAll('option')].some(o=>o.value===token.uuid),'Target absent from damage tray');
+          const multiplier=tray.getMergedOptions(token.uuid).multiplier;
+          check(multiplier===(outcome==='success'?0:1),'Incorrect save-based damage multiplier');
+          await tray._onApplyDamage(new Event('click',{cancelable:true}));
+          const expectedHp=60-(outcome==='success'?0:damageRolls[0].total);
+          check(actor.system.attributes.hp.value===expectedHp,'Chat damage handler applied the wrong amount');
+          check(!actor.statuses.has('poisoned'),'Damage handler unexpectedly applied the condition');
+          if(outcome==='failure') {
+            const effectHtml=await origin.renderHTML(); fixture.append(effectHtml);
+            const effects=effectHtml.querySelector('effect-application');
+            check(effects,'Missing effect application tray');
+            effects.effects=await origin.system.getEffects();
+            if(!effects.effectsList.children.length) effects.buildEffectsList();
+            effects.open=true; effects.visible=true;
+            const targetList=effects.targetList ?? effectHtml.querySelector('recorded-targets');
+            check(targetList,'Missing effect targets');
+            targetList.visible=true; targetList.suspended=false; targetList.targetingMode='targeted';
+            targetList.buildTargetsList();
+            await effects._onApplyEffects();
+            check(actor.statuses.has('poisoned'),'Chat effect handler did not apply poisoned');
+          }
+          const messages=game.messages.filter(m=>m.id===origin.id || m.system.origin?.id===origin.id);
+          check(messages.length>=3 && messages.every(m=>JSON.stringify(m._source.whisper)===JSON.stringify([game.user.id])),
+            'Workflow cards are not private');
+          return {actor:actor.uuid,token:token.uuid,outcome,save:rolls[0].total,dc:15,
+            multiplier,damage:damageRolls[0].total,hp:actor.system.attributes.hp.value,
+            poisoned:actor.statuses.has('poisoned'),automaticApplication:false,
+            effectAction:outcome==='failure'?'GM handler applied':'GM omitted after success',
+            messages:messages.map(m=>m.uuid)};
+        } finally {
+          for(const effect of actor.effects.filter(e=>!effectsBefore.has(e.id))) {
+            await effect.setFlag(MODULE,FLAG,'qa-save-workflow'); await effect.update({disabled:true});
+          }
+          for(const effect of actor.effects.filter(e=>e.getFlag(MODULE,FLAG)==='qa-save-workflow')) {
+            if(!effect.disabled) await effect.update({disabled:true});
+          }
+          await enchantment.update({disabled:true});
+          await actor.update({'system.attributes.hp.value':20});
+          fixture.replaceChildren();
+          check(!actor.statuses.has('poisoned'),'QA condition did not clear');
+        }
+      });
+    }
+  } finally {
+    fixture.remove();
+    if(previousScene) await previousScene.view();
+    else await canvas.draw(null);
+  }
+  output.scene=scene.uuid;
+  output.status=output.errors.length?'failed':'passed';
+  await save('save-workflow',output);
+  ui.notifications.info(`DM QA salvaciones: ${output.checks.length} casos; ${output.errors.length} errores`);
   return output;
 }
 

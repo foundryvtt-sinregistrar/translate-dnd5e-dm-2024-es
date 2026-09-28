@@ -233,6 +233,66 @@ no se modificaron las traducciones ni sus mecánicas. La partida volvió a cero
 módulos activos, recargada y en pausa. Se conservan los dos nuevos actores,
 las tarjetas del GM, los efectos de prueba desactivados y la macro de esta fase.
 
+## Seguimiento: salvación y aplicación desde el chat
+
+El **28 de septiembre de 2026, 21:52:29 UTC**, `saveWorkflow()` pasó **4 casos**
+con Foundry 14.368, dnd5e 6.0.3 y las mismas ocho dependencias de la ampliación.
+Se comprobó la conexión entre la actividad de veneno, la salvación, la ficha
+objetivo y las tarjetas de daño y efectos, usando documentos reales del mundo.
+
+| Versión | Salvación QA contra CD 15 | Multiplicador del chat | Daño tirado | PG después de aplicar daño | Envenenado |
+|---|---:|---:|---:|---:|---|
+| Original, éxito | 103 | 0 | 13 | 60 | No; el GM omite aplicar el efecto |
+| Original, fallo | −91 | 1 | 14 | 46 | Sí, tras la acción de aplicar efectos |
+| Traducción, éxito | 118 | 0 | 13 | 60 | No; el GM omite aplicar el efecto |
+| Traducción, fallo | −78 | 1 | 17 | 43 | Sí, tras la acción de aplicar efectos |
+
+Las tiradas usan el motor real con bonificadores temporales de **+100/−100**
+exclusivos de la prueba, para garantizar ambas ramas. No representan valores
+de una partida ni alteran las características de los actores. Antes de invocar
+las acciones de aplicación, los cuatro casos conservaron 60 PG y ningún
+envenenamiento: **tirar la salvación y el daño no los aplica por sí solo**.
+
+La prueba renderiza las tarjetas reales y llama a los mismos manejadores que
+sus botones (`_onApplyDamage` y `_onApplyEffects`). Comprueba que el control
+de daño obtiene automáticamente 0 tras éxito y 1 tras fallo. El efecto se
+aplica mediante una acción aparte; la prueba lo omite explícitamente tras
+éxito. **No existe en esta prueba una exclusión automática del efecto por
+haber superado la salvación**, ni se simula que exista.
+
+### Requisito de las fichas y alcance
+
+Se reutilizan los dos actores `extended-*` y se crean dos fichas enlazadas en
+la escena QA `m3uZm106sxh6OJut`. Se visualiza esta escena para el GM, sin
+activarla para los jugadores; al terminar se restaura la vista anterior.
+El primer ensayo con la escena sin visualizar no pudo construir el control
+de daño: el resolvedor de objetivos devolvía el actor sin el objeto de ficha
+del lienzo. Visualizar la escena resolvió el problema de preparación de la
+prueba, sin modificar el sistema ni la traducción.
+
+La inspección del código instalado confirma la separación de responsabilidades:
+`UsageMessageData.outcomes` asocia las salvaciones por UUID de ficha;
+`DamageApplicationElement.getMergedOptions` calcula el multiplicador;
+`_onApplyDamage` modifica los PG; `EffectApplicationElement._onApplyEffects`
+aplica los efectos a los objetivos seleccionados. Fuentes en
+`systems/dnd5e/dnd5e.mjs`, líneas 72937, 73015, 73367, 73904 y 88158,
+SHA-256 `09dd3d9d373abc45c5f873a22426f2306cca981ff5c8bf623c6646980d01936c`.
+
+La cobertura es de integración de los manejadores del chat, no una simulación
+completa mediante clics ni una prueba multijugador. No incluye el ataque que
+dispara el veneno, expiración temporal, inmunidades, resistencias, selección
+de varios objetivos ni módulos de automatización adicionales.
+
+Macro **QA - DM salvaciones**: importar el auxiliar y ejecutar
+`await qa.saveWorkflow();`. Requiere haber ejecutado `extendedItems()` una vez
+para preparar los encantamientos QA. Las tarjetas son privadas para el GM.
+Los efectos creados quedan desactivados y los actores vuelven a 20 PG.
+Se conservan escena, fichas y macro para repetir la prueba; no se avanza tiempo.
+Evidencias locales ignoradas: `tmp/functional-save-workflow.json` y
+`tmp/functional-save-workflow-final-state.json`. Esta última confirma ausencia
+de escena activa o visualizada, partida en pausa y ningún efecto QA activo.
+Tras recargar se verificaron **cero módulos activos** y la partida en pausa.
+
 ## Reproducción y evidencias
 
 Herramienta: [validate-functional.mjs](validate-functional.mjs), de uso explícito
