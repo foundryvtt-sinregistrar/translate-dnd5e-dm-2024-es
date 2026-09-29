@@ -6,7 +6,9 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Added
 
-- Validación desde el botón «Turno siguiente»: tres transiciones correctas con cuatro efectos QA, avance real de seis segundos y restauración del reloj. Registrada una observación visual pendiente: el panel puede conservar el icono de veneno hasta refrescarse, aunque la condición ya haya expirado.
+- Diagnóstico del icono de veneno persistente: reproducido con cero módulos activos en combatientes sin ficha; dos casos comparativos verifican el refresco automático al asociar una ficha. Documentada la mitigación, sin parche de ejecución en DM.
+
+- Validación desde el botón «Turno siguiente»: tres transiciones correctas con cuatro efectos QA, avance real de seis segundos y restauración del reloj. El icono persistente observado se analiza en el diagnóstico del panel de combate.
 
 - Cuatro casos de veneno entre actores distintos: aplicación y reaplicación reales, conservación del efecto y expiración según el combatiente cuyo turno estaba en curso al aplicarlo. Documentada la consecuencia para el GM, común al original y la traducción.
 

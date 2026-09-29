@@ -421,14 +421,18 @@ El reloj avanzó realmente de 0 a 6 segundos; después se restauró a 0.
 Para acotar la prueba se habían preparado fechas de inicio 54 segundos antes:
 se cubre el límite de expiración, no una secuencia completa de diez rondas.
 
-### Observación visual pendiente
+### Observación visual diagnosticada
 
 Tras la última transición, el estado del actor ya indicaba ausencia de veneno,
 pero el panel conservaba un icono **Envenenado**. Un refresco explícito del panel
 (`ui.combat.render({force:true})`) lo retiró, sin alterar ningún efecto.
-Esto se registra como una observación de actualización visual; **no se da por
-resuelta** ni se ha atribuido a un módulo concreto. No afecta a las comprobaciones
-de estado y expiración anteriores. No se añadió un parche de interfaz a DM.
+El diagnóstico posterior reprodujo el fallo con cero módulos activos y lo
+aisló a los combatientes sin ficha de esta muestra. Con el mismo actor y efecto,
+al asociar una ficha el icono desaparece automáticamente. No afecta a las
+comprobaciones de estado y expiración anteriores. Se documentan la causa y la
+mitigación en [DIAGNOSTICO-PANEL-COMBATE.md](DIAGNOSTICO-PANEL-COMBATE.md).
+El fallo visual sin ficha permanece en Foundry 14.368; no se añadió un parche
+de interfaz a DM.
 
 ### Repetición y restauración
 
