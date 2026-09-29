@@ -6,6 +6,10 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Added
 
+- Validación con una sesión real Player: objetos privados, observados y propios;
+  edición sincronizada con GM, diario y enlace, y tirada de tabla en español.
+  Helper reproducible y límites documentados, con retirada de las cinco copias.
+
 - Diagnóstico del acceso nulo en `getGroupingKey`: dos combatientes sin ficha
   reproducen el error de dnd5e 6.0.3 sin módulos; sus copias en memoria sin
   iniciativa no fallan. Documentado sin modificar el sistema ni el encuentro.

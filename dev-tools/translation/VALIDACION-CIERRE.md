@@ -155,3 +155,35 @@ cinco etiquetas de tablas/diarios. Evidencia local:
 la auditoría de los siete compendios. Se restauró la macro original y se
 verificó el mundo en pausa con cero módulos activos. La revisión editorial
 sigue abierta; estas comprobaciones no certifican todos los textos del libro.
+
+## Sesión real de jugador — 29 de septiembre de 2026
+
+Con Foundry 14.368 y dnd5e 6.0.3 se abrió una segunda sesión, con rol Player
+(`role: 1`, `isGM: false`), en el mundo Testing. El cliente de jugador necesitó
+seleccionar español en su preferencia de idioma para cargar las traducciones.
+La prueba usa cinco copias con IDs nuevos y permisos exclusivos de ese jugador.
+
+- Objeto OWNER: las botas muestran la descripción y «Entrechocar los talones»;
+  el jugador cambia el nombre y el GM recibe la modificación en su cliente.
+- Objeto OBSERVER: la poción muestra su descripción española en modo de lectura.
+- Objeto NONE: el anillo privado no aparece en el directorio del jugador.
+- Diario OBSERVER: se leen «Ponerle fin» y «Desenlace», incluida la tabla española
+  embebida. «Episodios y series» abre el destino del compendio del capítulo 5.
+- Tabla OBSERVER: la edición y el reinicio están deshabilitados; el botón de
+  sacar resultado funciona. La tirada real `1d10 = 10` muestra en el chat el
+  resultado traducido sobre la transformación de la amenaza principal.
+
+`validate-player-session.mjs` prepara las muestras, registra la sesión real y
+retira sus documentos. Las acciones anteriores se comprobaron en la interfaz;
+el helper no automatiza ni acredita por sí solo esas interacciones.
+Evidencias locales: `tmp/player-session-preparation.json`,
+`tmp/player-session-observation.json` (10:28:41 UTC) y
+`tmp/player-session-cleanup.json` (10:29:26 UTC).
+
+Se cerró la sesión de jugador y se retiraron sus cinco copias y su mensaje de
+tirada. Reloj, pausa y escena quedaron iguales; se restauraron la macro y la
+configuración sin módulos activos. El usuario temporal queda sin rol (None),
+pendiente de confirmar su eliminación definitiva por la interfaz.
+
+Esta prueba acredita permisos NONE/OBSERVER/OWNER en esas muestras y un enlace
+de diario; no acredita todos los permisos de actores ni el combate como jugador.
