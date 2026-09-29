@@ -57,12 +57,41 @@ aplicar: `python -B dev-tools/translation/apply_reviewed_descriptions.py`
 secuencia completa de etiquetas HTML antes de escribir. Este lote añade diez
 campos cambiados a los 424 del lote anterior: **434 campos en total**.
 
+## Actores y escenas — segundo lote del 29 de septiembre
+
+Se revisaron los **606 campos de texto de los 72 actores** contra el original
+inglés local: 340 textos distintos, incluidos 108 párrafos distintos presentes
+en 124 campos. La comparación con el OCR español fue terminológica y selectiva;
+no se presenta como un cotejo íntegro con la edición española. Se corrigieron
+**253 campos de 58 actores**, de ellos 109 descripciones o biografías.
+
+El lote incluye ataques, ventajas, salvaciones, duraciones, equipo anidado,
+trampas y peligros. Corrige traducciones que confundían daño contundente,
+tiradas, condiciones, dados y acciones. Se revisaron también los requisitos
+y mensajes de actividades, no solo los párrafos. Se conservan las reglas y
+unidades del original, incluidas las particularidades de criaturas heredadas.
+
+`reviewed-actor-texts.json` identifica cada fuente por SHA-256 y guarda la
+traducción aprobada, sin incorporar los originales ingleses. Para previsualizar:
+`python -B dev-tools/translation/apply_reviewed_actor_texts.py`; añadir `--apply`
+para escribir. El auxiliar rechaza cambios de cifras, referencias o HTML y
+fuentes revisadas que hayan desaparecido. La segunda ejecución no propone cambios.
+
+Se leyeron los **142 campos de las 24 escenas**. Además de las correcciones del
+primer lote, se corrigieron nueve campos de notas: **Posada de la Torre Alta**,
+**Arcanos Desenterrados** y **Templo del Horizonte Lejano**, contrastados con las
+páginas 155, 152 y 156 del OCR español. `reviewed-labels.json` recoge todas las
+etiquetas de escenas. No se revisa el texto dibujado dentro de imágenes.
+
+Este segundo lote añade **262 campos cambiados**. La auditoría de los siete
+compendios mantiene cero errores técnicos, numéricos o campos ausentes.
+
 ## Alcance pendiente
 
 Este lote corrige etiquetas, **no acredita la revisión íntegra de los 6021
 campos ni de las aproximadamente 233 000 palabras** de los siete compendios.
-Quedan por revisar las descripciones extensas de equipo, los párrafos de diarios,
-actores y tablas, además de la concordancia entre etiquetas nuevas y menciones
+Quedan por revisar las descripciones extensas de equipo, los párrafos de diarios
+y tablas, además de la concordancia entre etiquetas nuevas y menciones
 en párrafos. La referencia para esa revisión es el OCR español local y el
 original inglés exportado; se conservan las unidades de Foundry.
 

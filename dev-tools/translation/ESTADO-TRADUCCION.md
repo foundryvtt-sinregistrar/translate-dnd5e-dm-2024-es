@@ -13,9 +13,9 @@ final ni interpretar la presencia de un campo como certificación de calidad.
 | Bastiones | 35 | 89 | Revisados; incluye la página de instalaciones básicas |
 | Equipo | 548 | 2449 | Reutilización y borrador automático con correcciones parciales |
 | Tablas | 125 | 1738 | Borrador; piloto y tablas vinculadas de bastiones revisados |
-| Actores | 72 | 606 | Reutilización y borrador con correcciones de nombres |
+| Actores | 72 | 606 | Revisados contra el original; contraste terminológico selectivo con el OCR español |
 | Contenido | 46 | 949 | Borrador de 473 páginas; revisión parcial |
-| Escenas | 24 | 142 | Borrador con correcciones de nombres y etiquetas |
+| Escenas | 24 | 142 | Textos revisados; no incluye texto incrustado en imágenes |
 | **Total** | **873** | **6021** | **Cobertura estructural, no aprobación lingüística** |
 
 El recuento incluye nombres propios sin cambios y campos que solo contienen
@@ -127,12 +127,15 @@ conservando cifras y referencias. Véase
 [REVISION-LINGUISTICA.md](REVISION-LINGUISTICA.md). No sustituye la revisión
 de las descripciones y párrafos completos que se detalla a continuación.
 
-- Revisar equipo, actores, tablas y diario por lotes contra el texto español;
+- Actores y escenas: segundo lote revisado, 262 campos corregidos; alcance y
+  método en el informe lingüístico. Queda la concordancia con menciones en otros compendios.
+- Revisar equipo, tablas y diario por lotes contra el texto español;
   atender a negaciones, condiciones, duración, nombres propios y frases cortadas.
 - Unificar los nombres citados en párrafos con los nombres finales de entradas.
 - Revisar inglés residual en HTML, atributos visibles y títulos; distinguirlo de
   identificadores, fórmulas, marcas, nombres propios y palabras válidas en español.
-- Ampliar escenas, automatizaciones y combinaciones no cubiertas por la muestra
-  funcional; probar instalación limpia. El enlace de mundo ya está documentado
+- Escenas y bastiones ampliados: véase [VALIDACION-CIERRE.md](VALIDACION-CIERRE.md).
+  El clon aislado y su ZIP extraído pasan; queda instalación/actualización por
+  la interfaz de Foundry y la sesión real de jugador. El enlace de mundo ya está documentado
   y su destino se comprobó tras importar el capítulo 3.
 - Preparar publicación y URLs de descarga solo cuando cierre la revisión.

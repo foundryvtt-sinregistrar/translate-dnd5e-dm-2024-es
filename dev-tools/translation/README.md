@@ -21,6 +21,9 @@ limitaciones y reproducción; [GLOSARIO.md](GLOSARIO.md) contiene los criterios.
 - `build_target_patch.py`: empaqueta el parche independiente de idioma, comprobando
   aplicación y reversión; instrucciones en [PARCHE-IDIOMA.md](PARCHE-IDIOMA.md).
 - `validate-pilot.mjs`: comprueba los textos aplicados por Babele en Foundry.
+- `reviewed-actor-texts.json` y `apply_reviewed_actor_texts.py`: revisión de los
+  606 campos de actores, identificada por huellas del original; previsualiza
+  por defecto y escribe con `--apply`, validando cifras, referencias y HTML.
 
 Las exportaciones, cachés, procedencia por campo y resultados de auditoría se
 guardan localmente en `../export/data/`, excluidos de Git. Conservarlos para

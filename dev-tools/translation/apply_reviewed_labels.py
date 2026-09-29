@@ -21,7 +21,8 @@ def main():
             entry = translated['entries'][doc['_id']]
             for address, before in leaves(entry):
                 english = source.get(address)
-                if address[-1] not in ('name', 'label', 'caption') or english not in mapping:
+                label_fields = ('name', 'label', 'caption', 'text', 'navigation') if pack == 'scenes' else ('name', 'label', 'caption')
+                if address[-1] not in label_fields or english not in mapping:
                     continue
                 matched.add(english)
                 after = mapping[english]

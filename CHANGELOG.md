@@ -32,6 +32,9 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Revisados los 606 campos de actores y los 142 de escenas. Segundo lote:
+  253 correcciones en 58 actores y nueve notas de escenas; conservados HTML,
+  cifras, fórmulas y referencias. Decisiones reproducibles por huellas del original.
 - Revisadas 424 etiquetas: 395 campos en 207 objetos y 29 en 8 escenas. Corregidos
   errores de significado en actividades, efectos, tipos de criatura y navegación,
   conservando las mecánicas, cifras y referencias. La revisión de párrafos continúa pendiente.

@@ -49,3 +49,9 @@ determina la estructura y las reglas aplicables a cada entrada.
 | Bring It to an End | Ponerle fin | PDF es, p. 120 |
 | Adventure Climax | Clímax para aventuras | PDF es, p. 120 |
 | Denouement | Desenlace | PDF es, p. 120 |
+| Nuisance Hazard | Peligro moderado | PDF es, p. 83 |
+| Nuisance Trap | Trampa moderada | PDF es, p. 100 |
+| Vicious Vine | Enredadera feroz | PDF es, p. 83 |
+| Unearthed Arcana (tienda) | Arcanos Desenterrados | PDF es, p. 152 |
+| High Tower Inn | Posada de la Torre Alta | PDF es, p. 155 |
+| Temple of the Far Horizon | Templo del Horizonte Lejano | PDF es, p. 156 |

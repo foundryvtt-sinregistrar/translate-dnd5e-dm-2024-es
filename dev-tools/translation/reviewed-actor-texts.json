@@ -1,0 +1,1362 @@
+{
+  "a1dcdd7fdc069832a5a29ba4649e7d88da8e626fccd54274c62059ab03682220": {
+    "translation": "<p>Un escudo está hecho de madera o metal y se lleva en una mano. Empuñar un escudo aumenta tu CA en 2. Solo puedes beneficiarte de un escudo a la vez.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c9b4d00156d604a8d2d6c5676e913a0045d7e2575d6ad3c2ea80e4438ce9f3d7": {
+    "translation": "<p>El camisote de mallas está formado por anillas metálicas entrelazadas y se lleva entre capas de ropa o cuero. Protege de forma moderada la parte superior del cuerpo, mientras las capas exteriores amortiguan el sonido de las anillas al rozar entre sí.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "320fb2a4982ecfc7caa515074baa630e213c5e651548f6605c4b30b9c0fd2c5a": {
+    "translation": "<section class=\"secret\">\r\n<p>Ataque con arma cuerpo a cuerpo o a distancia: +3 al ataque, alcance 5 pies o distancia 20/60 pies, un objetivo. Impacto: <strong>4 (1d6 + 1) <em>de daño perforante</em></strong> o <strong>5 (1d8 + 1) <em>de daño perforante</em></strong> si se usa a dos manos para realizar un ataque cuerpo a cuerpo.</p></section>\r\n<p>El guardia ataca con su lanza.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "cc20035b630634b51a0f43684e0a6cc8d9c43999f2727a7cafc0caa3b34e6852": {
+    "translation": "<p>Quitar un cuerno requiere una acción de magia. Las armas desaparecen y los cuernos vuelven a su sitio cuando la cabra recupera su forma de figurilla.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ca35e5df776e1aa9143ffd7a0c9ad686d50d4152e25282cdb3a4675292a419eb": {
+    "translation": "<p>Mientras montes la cabra, cualquier criatura hostil que comience su turno dentro de una emanación de 30 pies que se origine en ella debe superar una tirada de salvación de Sabiduría con CD 15 o tiene el estado &amp;Reference[Frightened apply=false] durante 1 minuto, hasta que dejes de montar la cabra o hasta que esta recupere su forma de figurilla. La criatura asustada repite la salvación al final de cada uno de sus turnos y, si la supera, el efecto termina sobre ella. Tras superar la salvación, la criatura es inmune a este efecto durante las siguientes 24 horas.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "f0d57ba7d4ec7d2dd9df5b2bda152a4eacf996adf1975d8b85acba3781ccdaab": {
+    "translation": "<p>La criatura con el estado &amp;Reference[Frightened apply=false] repite la [[/save ability=wis dc=15]]{salvación} al final de cada uno de sus turnos y, si la supera, el efecto termina sobre ella.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7885c2de12e66fe1039c7ab0cf2b0a509cfcef7219eab2d9edb4a87d7e8d2b5d": {
+    "translation": "<section class=\"secret\">\r\n<p><em>Ataque con arma cuerpo a cuerpo:</em><strong>+4 al ataque,</strong> alcance <strong>5 pies,</strong> un objetivo. Impacto: <strong>5 (1d6 + 2) <em>de daño perforante</em></strong>.</p></section>\r\n<p>El explorador ataca con su espada corta.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0e101bf2d908f0011fc39c60a0f8b86298f805fe42e8c5a455a41dc0286532a2": {
+    "translation": "<p>La coraza y las hombreras de esta armadura están hechas de cuero endurecido al hervirlo en aceite. El resto de la armadura está fabricado con materiales más blandos y flexibles.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "9965b8e04cd6c9727c1a7ccf585066ed4c721a1ce6623ff8580a51570de17873": {
+    "translation": "<p>El explorador tiene ventaja en las pruebas de Sabiduría (Percepción) que dependan del oído o la vista.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0132bdca94a95da59eb63a5d1f3b19f567a70dadd72e4e43d6e6ce1cd828d220": {
+    "translation": "<p>El explorador realiza dos ataques cuerpo a cuerpo o dos ataques a distancia.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "077a8cf792ffc76ac0ab1e41a132581201cc8df32ab85158fed9a52330807eb6": {
+    "translation": "<section class=\"secret\">\r\n<p>Ataque con arma a distancia: +4 al ataque, distancia 150/600 pies, un objetivo. Impacto: <strong>6 (1d8 + 2) <em>de daño perforante</em></strong>.</p></section>\r\n<p>El explorador ataca con su arco largo.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a27c635c9aa344cce879ad0b8cfbf81ee7056abec7fda5e36f7f43588034bcb5": {
+    "translation": "<p>Este objeto sirve para ajustar la capacidad de carga calculada de la alfombra de acuerdo con sus dimensiones.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "9e4b04833aa8f3421e4df4ebe0027f739e8f833c9777a9bf9d5af46613c4dcef": {
+    "translation": "<p>La velocidad de vuelo de la alfombra se reduce a la mitad cuando transporta más de su capacidad normal.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7c0f0731963a81349c1b6609e5c9b51766ff2ab2dda03140af9c585f099dad65": {
+    "translation": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgCarpetOfFlyin]</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d64da70403c95dc0bdf34af92216b9592f351eb27a7e065cf2dce37a78eceadb": {
+    "translation": "<p>Cada pinza extendida realiza el siguiente ataque cuerpo a cuerpo: +8 al ataque, alcance 5 pies. <em>Impacto:</em> 7 (2d6) de daño contundente.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e1b59021eb30539425316d06bbae0cc8656626e080a2ab02da3828100dfeb11e": {
+    "translation": "<p>Cada pinza extendida realiza el siguiente ataque cuerpo a cuerpo: +8 al ataque, alcance 5 pies. <em>Impacto:</em> El objetivo tiene la condición &amp;Reference[Grappled] (CD de escape 15).</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c8ad448c399915e8c8f225f426e29ecf507a5d8c171d9fa5b00a2086acf8ebea": {
+    "translation": "<p>Los dispositivos oculares emiten luz brillante en un radio de 30 pies y luz tenue por otros 30 pies.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "cdaef7f0f3af66c8f6de326af38ef6dfe5673bc4c1db28c9e5fb9b03c2f41529": {
+    "translation": "<p>Para utilizar el @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgApparatusOfKw]{aparato} como vehículo se necesita un piloto. Mientras la escotilla esté cerrada, el compartimento es estanco al aire y al agua. Contiene aire suficiente para respirar durante 10 horas, divididas entre el número de criaturas que necesiten respirar en su interior.</p><p>El aparato flota en el agua. También puede sumergirse hasta una profundidad de 900 pies. A mayor profundidad, el vehículo recibe 2d6 de daño contundente por minuto debido a la presión.</p><p>Una criatura situada en el compartimento puede realizar una acción de utilizar para mover hasta dos palancas hacia arriba o hacia abajo. Tras cada uso, las palancas regresan a su posición neutral. De izquierda a derecha, sus funciones se indican en la tabla <span class=\"no-break\">Palancas</span> del aparato de Kwalish.</p><table><caption>Palancas del aparato de Kwalish</caption><thead><tr><td>Palanca</td><td>Arriba</td><td>Abajo</td></tr></thead><tbody><tr><td>1</td><td>Las patas se extienden y permiten que el aparato camine y nade.</td><td>Las patas se retraen, lo que reduce la velocidad y la velocidad nadando del aparato a 0 e impide que se beneficie de bonificadores a la velocidad.</td></tr><tr><td>2</td><td>La cubierta de la ventana frontal se abre.</td><td>La cubierta de la ventana frontal se cierra.</td></tr><tr><td>3</td><td>Las cubiertas de las ventanas laterales se abren (dos por lado).</td><td>Las cubiertas de las ventanas laterales se cierran (dos por lado).</td></tr><tr><td>4</td><td>Dos pinzas se extienden desde la parte frontal del aparato.</td><td>Las pinzas se retraen.</td></tr><tr><td>5</td><td>Cada pinza extendida realiza el siguiente [[/item fmdWz6RQsUCHneZF]]{ataque cuerpo a cuerpo}: +8 al ataque, alcance 5 pies. <em>Impacto:</em> 7 (2d6) de daño contundente.</td><td>Cada pinza extendida realiza el siguiente [[/item tgIjCBtGCZvMu8ij]]{ataque cuerpo a cuerpo}: +8 al ataque, alcance 5 pies. <em>Impacto:</em> El objetivo tiene el estado de agarrado (CD 15 para escapar).</td></tr><tr><td>6</td><td>El aparato camina o nada hacia delante si sus patas están extendidas.</td><td>El aparato camina o nada hacia atrás si sus patas están extendidas.</td></tr><tr><td>7</td><td>El aparato gira 90 grados en sentido contrario a las agujas del reloj si sus patas están extendidas.</td><td>El aparato gira 90 grados en el sentido de las agujas del reloj si sus patas están extendidas.</td></tr><tr><td>8</td><td>Los dispositivos oculares emiten luz brillante en un radio de 30 pies y luz tenue durante otros 30 pies.</td><td>La luz se apaga.</td></tr><tr><td>9</td><td>El aparato desciende hasta 20 pies si está en un líquido.</td><td>El aparato asciende hasta 20 pies si está en un líquido.</td></tr><tr><td>10</td><td>La escotilla trasera se desella y se abre.</td><td>La escotilla trasera se cierra y se sella.</td></tr></tbody></table>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "f4f10768838f190128533988d316c0c910c2183671dfddcf5b2a18bce5c7aeea": {
+    "translation": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDmtSkull00000]{Cráneo (Baraja de muchas cosas)}</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c596446a344f66dfb3ffea229c5e05a8aff300acda610e4214ba646f0e412d6e": {
+    "translation": "<p>El avatar puede moverse a través de otras criaturas y objetos como si fueran &amp;Reference[DifficultTerrain]. Recibe 5 (1d10) de daño de fuerza si termina su turno dentro de <span class=\"no-break\">un objeto.</span></p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "546eb92113c83d8d4debfe7d753f2dc8216dabd0b7bae4538cdb13c871831cda": {
+    "translation": "<p>El avatar realiza un número de ataques de [[/item .dmgaoiReapingScy]]{Guadaña segadora} igual a la mitad del bonificador por competencia del invocador <span class=\"no-break\">(redondeando hacia arriba).</span></p><p>[[ceil(@prof/2)]]{Número de ataques}</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "adc3269818ff586fd5e9e585b1028b4bff157316c94c112bac2a37467b55db19": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> impacto automático, alcance 5 pies. <em>Impacto:</em> 7 ( <span class=\"no-break\">1d8 + 3</span> ) de daño cortante más 4 (1d8) de <span class=\"no-break\">daño necrótico</span><span class=\"no-break\">.</span></p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a9ed39888577fee34762d4fb6889ef49a60f72354629c6470261f85b0a1a18f1": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +2, alcance 5 pies. <em>Impacto:</em> 1 de daño perforante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "1ec13331842963eb80a700dd542a7467db19fc80874b48ba597e2d55998bdc72": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +4, alcance 5 pies. <em>Impacto:</em> 5 (1d6 + 2) de daño cortante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a69704e2c4aaf34c414fe2f30ef0885026913be07ea300a8101c6aa143a878fc": {
+    "translation": "<p>El oso realiza dos ataques de [[/item Rend]].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4a6f3a5639da3ad6b410c520905adc85824478c9e69947e67f308edc4e0e061c": {
+    "translation": "<p>El oso realiza un ataque de [[/item Bite]] y uno de [[/item Claw]].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4601e6146b904497ff9f0e40a4e2cd04aa1ffb66663eb1144794c250aaddcd87": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto:</em> 7 (1d8 + 3) de daño perforante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0a236330c650bad63d2d8e8a9fa10d627090aed636f06abaf2b9b68d029c9301": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo: </em>+5, alcance 5 pies. <em>Impacto:</em> 5 (1d4 + 3) de daño cortante, y el objetivo tiene el estado &amp;Reference[prone] si es de tamaño Enorme o inferior.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "3ce665f990f78ecc5e3fd0200713379fb9bf61231a988cbefa37ea1d95fb953a": {
+    "translation": "<p><em>Peligro mortal (niveles 5–10) o moderado (niveles 11–16)</em></p><p>El moho marrón se parece a una alfombra peluda de color marrón claro. Este hongo se alimenta del calor y lo absorbe de todo cuanto lo rodea. Una mancha de moho marrón cubre un cuadrado de 10 pies de lado y la temperatura en un radio de 30 pies a su alrededor siempre es gélida.</p><p>Cuando una criatura entra en un espacio a 5 pies o menos del moho por primera vez en un turno, o comienza su turno allí, debe realizar una tirada de salvación de Constitución con CD 12. Si falla, recibe 22 (4d10) de daño de frío; si la supera, recibe la mitad.</p><p>El moho marrón tiene inmunidad al daño de fuego. Cualquier fuente de fuego que se acerque a 5 pies o menos provoca que el moho se extienda al instante por una superficie hacia el fuego, creando una nueva mancha que cubre un cuadrado de 10 pies de lado. Una mancha expuesta a un efecto que cause cualquier cantidad de daño de frío se destruye al instante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "9ff3b62c544598965f0b37b5b06502fc0b0c87be644dc9003780fa480a41e398": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +4, alcance 5 pies. <em>Impacto:</em> 4 (1d4 + 2) de daño contundente.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7da809004bf90f547ef73dd96e4a7d830f65ccd29b4d01a6805819dc51b9aca9": {
+    "translation": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (niveles 1–4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura cruza un cable trampa</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantánea</p><p>Esta trampa utiliza un cable para derrumbar una sección inestable del techo. El cable está a 3 pulgadas del suelo y se extiende entre dos soportes débiles que caen cuando se tira de él.</p><p>La primera criatura que cruza el cable hace caer los soportes y provoca el derrumbe de la sección inestable del techo. Cada criatura situada debajo debe realizar una tirada de salvación de Destreza con CD 13. Si falla, recibe 11 (2d10) de daño contundente; si la supera, recibe la mitad. Los escombros convierten la zona de la trampa en &amp;Reference[Difficult Terrain].</p><p><em><strong>Detectar y desactivar.</strong></em> Como acción de buscar, una criatura puede examinar la zona de la trampa y realizar una prueba de [[/check prc 11]]. Si la supera, detecta el cable y la sección inestable del techo. Una vez detectado, el cable se puede cortar o evitar fácilmente, sin necesidad de una prueba de característica.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar la trampa a niveles superiores aumentando el daño y la CD de salvación, tal como indica la siguiente tabla.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daño contundente</p></th><th><p>CD de salvación</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>22 (4d10)</p></td><td><p>15</p></td></tr><tr><td><p>11–16</p></td><td><p>55 (10d10)</p></td><td><p>17</p></td></tr><tr><td><p>17–20</p></td><td><p>99 (18d10)</p></td><td><p>19</p></td></tr></tbody></table></div>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "dd223ecf9b818ce7d74a28923600bb83fad0e7b83533a7d38072ef2ae679eff8": {
+    "translation": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDriftglobe000 caption=false]</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5c364e54b513119129a75eddf286c6aada110e99763ebb3419ec227c89297e34": {
+    "translation": "<p>El lobo tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de sus aliados está a 5 pies o menos de ella y no tiene el estado de incapacitado.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6a81d3b6443ed3bb6d800fa6f845547f3f659d8bafe60e1f49ab32ce5a87758c": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo: </em>+5, alcance 5 pies. <em>Impacto: </em>8 (1d10 + 3) de daño perforante, y el objetivo tiene el estado &amp;Reference[prone] si es de tamaño Enorme o inferior.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7d562f61ca535e3471c144705d6519f2a96b092b1c7031f32cd43086a1f77113": {
+    "translation": "<p> <em>Tirada de salvación de Destreza:</em> CD 16, una criatura situada a 5 pies o menos que tenga el estado de derribado. <em>Fallo:</em> 17 (2d10 + 6) de daño contundente. <em>Éxito:</em> La mitad del daño.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "81ef0ec57b27d9f24572cdc2a0bf3881525516be3a98a49db5ff75caa7c238b0": {
+    "translation": "<p>El elefante realiza dos ataques de [[/item Gore]].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "f461338ceb556aeb842a6ab13962129d5eb93f716c383fb345b1478d0f067501": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo: </em>+8, alcance 5 pies. <em>Impacto:</em> 15 (2d8 + 6) de daño perforante. Si el elefante se movió al menos 20 pies en línea recta hacia el objetivo inmediatamente antes del impacto, el objetivo también tiene el estado &amp;Reference[prone].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5363739211ef020e1b9199f9699b6c280e9844e0e45fb99d91636d593fd45f06": {
+    "translation": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa moderada (niveles 1–4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura cruza un cable trampa</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantánea</p><p>Esta trampa utiliza un cable para soltar una red lastrada de 10 pies de lado suspendida del techo. El cable está a 3 pulgadas del suelo y se extiende entre dos columnas o árboles.</p><p>La primera criatura que cruza el cable hace que la red caiga sobre ella. El objetivo debe superar una tirada de salvación de Destreza con CD 10 o tiene el estado &amp;Reference[Restrained] hasta que escape. Si es de tamaño Enorme o superior, supera la salvación automáticamente. Una criatura puede usar una acción para realizar una prueba de Fuerza (Atletismo) con CD 10 y, si la supera, liberarse de la red o liberar a otra criatura que esté a su alcance.</p><p><em><strong>Detectar y desactivar.</strong></em> Como acción de buscar, una criatura puede examinar la zona de la trampa y realizar una prueba de [[/check prc 11]]. Si la supera, detecta el cable y la @UUID[Compendium.dnd-players-handbook.equipment.Item.phbagNet00000000]{Red} suspendida. Una vez detectado, el cable se puede cortar o evitar fácilmente, sin necesidad de una prueba de característica.</p><p><em><strong>Destruir la red.</strong></em> Reducir la red a 0 PG libera a cualquier criatura atrapada en ella. Consulta el <em>Manual del jugador</em> para ver el perfil de la red.</p><p><em><strong>Preparar la trampa.</strong></em> Una criatura que disponga de herramientas de ladrón y de todos los componentes de la trampa, incluida una red, puede intentar prepararla. Para ello debe superar una prueba de Destreza (Juego de Manos) con CD 13. Cada intento requiere 10 minutos.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar la trampa a niveles superiores aumentando el peso de la red. Esto aumenta tanto la CD de salvación como la de la prueba de Fuerza (Atletismo): CD 12 para niveles 5–10, CD 14 para niveles 11–16 o CD 16 para niveles 17–20.</p></div>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "b5fc58c621b84c67fc4b6d9ff9d604f6330d65a016ce177c39a129823bd53afb": {
+    "translation": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (niveles 1–4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura pisa una placa de presión</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantánea; la trampa se rearma al comienzo del siguiente turno</p><p>Cuando una criatura pisa la placa de presión de esta trampa por primera vez en un turno o comienza su turno sobre ella, una estatua cercana exhala un cono de llamas mágicas de 15 pies. La estatua puede tener cualquier aspecto, como el de un dragón o un mago. Cada criatura en el cono debe realizar una tirada de salvación de Destreza con CD 15. Si falla, recibe 11 (2d10) de daño de fuego; si la supera, recibe la mitad.</p><p><em><strong>Detectar y desactivar.</strong></em> El conjuro <em>detectar magia</em> revela un aura de evocación alrededor de la estatua. Como acción de buscar, una criatura situada a 5 pies o menos puede examinarla y realizar una prueba de [[/check DC prc 10]]. Si la supera, detecta un glifo diminuto en la estatua. Una vez encontrado, un personaje puede usar una acción de estudiar para examinarlo y realizar una prueba de [[/check arc 15]]. Si la supera, descubre que el glifo significa «fuego». Como acción, un personaje puede usar una herramienta afilada para desfigurar el glifo, lo que desactiva la trampa.</p><p>Como acción de buscar, una criatura puede examinar la sección del suelo que forma la placa de presión y realizar una prueba de [[/check prc 15]]. Si la supera, detecta la placa. Introducir un pitón de hierro o un objeto similar debajo de ella impide que la trampa se active.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar la trampa a niveles superiores aumentando el daño y el área de efecto, tal como indica la siguiente tabla.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daño de fuego</p></th><th><p>Área de efecto</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>22 (4d10)</p></td><td><p>Cono de 30 pies</p></td></tr><tr><td><p>11–16</p></td><td><p>55 (10d10)</p></td><td><p>Cono de 60 pies</p></td></tr><tr><td><p>17–20</p></td><td><p>99 (18d10)</p></td><td><p>Cono de 120 pies</p></td></tr></tbody></table></div>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "3e0d694123bf55b0d386180245cdd34f48b06b7fa7b08c693ced4b431516a640": {
+    "translation": "<p><em>Peligro mortal (niveles 5–10)</em></p><p>Un hongo de bola de fuego es una seta inanimada de tamaño Pequeño que puede crecer donde abunden los hongos. Su sombrero luminoso y anaranjado emite luz brillante en un radio de 15 pies y luz tenue durante otros 15 pies.</p><p>El hongo tiene CA 10, 6 PG e inmunidad al daño psíquico. Cuando sus puntos de golpe se reducen a 0, explota como si se hubiera lanzado el conjuro @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFireball00]{Bola de fuego} centrado en él, con CD de salvación 15.</p><p><em><strong>A niveles superiores.</strong></em> La explosión de un hongo de bola de fuego también hace explotar a los demás hongos de bola de fuego que estén en su área de efecto. Puedes adaptar el peligro a niveles superiores añadiendo un hongo para niveles 11–16 o tres hongos para niveles 17–20.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "575066b3a9e0fb428dc31bc9d191baa38c07c642736edd38c530b16b098b18b4": {
+    "translation": "<p> La rana puede respirar aire y agua.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "bee12891667e777030b2dee5b221a7180e645756cafb0750820b400645edead6": {
+    "translation": "<p>La rana puede saltar hasta 10 pies de longitud y hasta 5 pies de altura, con o sin carrerilla.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a36854194fd9f995f2b2af69d5341d42694d1a1261b4afe90110c72db517f89c": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +3, alcance 5 pies. <em>Impacto:</em> 1 de daño perforante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "affa32d68b55ecf6600c2a18c5e93d44c84e851dafdfe161397149ac624e0e9b": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +3, alcance 5 pies. <em>Impacto:</em> 6 (2d4 + 1) de daño perforante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "71bfe32513b9994e714ed2ce0dbcaab351dba5a8be7697eb89c8c7e342d46729": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto: </em>6 (1d6 + 3) de daño contundente. Si la cabra se movió al menos 20 pies en línea recta hacia el objetivo inmediatamente antes del impacto, este recibe 5 (2d4) de daño contundente adicional y, si es de tamaño Enorme o inferior, tiene el estado &amp;Reference[prone].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "2b823eea25a30ef06ce244224b9a28ed84738a592f8429608b842477f0334e13": {
+    "translation": "<p><em>Tirada de salvación de Destreza:</em> CD 13, una criatura que la araña pueda ver a 60 pies o menos. <em>Fallo:</em> El objetivo tiene el estado &amp;Reference[restrained] hasta que se destruya la telaraña (CA 10; 5 PG; vulnerabilidad al daño de fuego; inmunidad al daño de veneno y psíquico).</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "be9f7379dea1f15e5e35337148a7a1e041ddc50db405957b0c783faa28dd4586": {
+    "translation": "<p>La araña puede trepar por superficies difíciles, incluidos los techos, sin necesidad de realizar una prueba de característica.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "3764e13191de062f84ea852f67b4361f5213b07f4659c7f046dd6687bccb596d": {
+    "translation": "<p> La araña ignora las restricciones al movimiento causadas por las telarañas y conoce la ubicación de cualquier otra criatura en contacto con la misma telaraña.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4d64fb8babf36972a849e1cb31e897a5d5f380f24b83c009f00b840470a47abf": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo: </em>+5, alcance 5 pies. <em>Impacto:</em> 7 (1d8 + 3) de daño perforante más 7 (2d6) de daño de veneno.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a7caa98f34f4fb48b3e0bc7343dc7aba280aa4cc22f59a588cd06dd418af4028": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto:</em> 5 (1d4 + 3) de daño perforante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "bc10441b284d305ab29f63d251f6867b9d1cbc24a9cc07cf96ce4d578b56d1bf": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo: </em>+2, alcance 5 pies. <em>Impacto: </em>1 de daño contundente, o 2 (1d4) de daño contundente si la cabra se movió al menos 20 pies en línea recta hacia el objetivo inmediatamente antes del impacto.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d891fa19a47abe01ac8f976d01d8b0f4e86947b4b56305b31276cf63e26d5b43": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto:</em> 7 (1d8 + 3) de daño contundente.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "fba4b37536d609e9a6afd14cb86da3931d62d3512cd839d729a4a88a6c6c3057": {
+    "translation": "<p><em>Peligro moderado (niveles 1–4)</em></p><p>El limo verde ácido devora carne, materia orgánica y metal al entrar en contacto con ellos. Es de color verde brillante, húmedo y pegajoso, y se adhiere a paredes, suelos y techos formando manchas.</p><p>Una mancha cubre un cuadrado de 5 pies de lado. El limo verde tiene visión ciega con un alcance de 30 pies y se deja caer desde las paredes y los techos cuando detecta movimiento debajo de él. Aparte de eso, no puede moverse. Una criatura consciente de su presencia puede evitar que la alcance si supera una tirada de salvación de Destreza con CD 10.</p><p>Una criatura que entre en contacto con el limo verde recibe 5 (1d10) de daño de ácido. Vuelve a recibir ese daño al comienzo de cada uno de sus turnos hasta que se retire el limo raspándolo, lo que requiere una acción, o se destruya. Contra madera o metal, el limo verde causa 11 (2d10) de daño de ácido por ronda. Cualquier objeto no mágico de madera o metal utilizado para rasparlo se destruye.</p><p>La luz solar directa o cualquier cantidad de daño de frío, fuego o radiante destruye una mancha de limo verde.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "33be1df821b5d5e2d6b09f72d975decfe4866117e7fccec470463fe3945591fa": {
+    "translation": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa moderada (niveles 1–4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura pisa la tapa del foso</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantánea</p><p>Este foso de 10 pies de profundidad tiene una tapa con bisagras hecha del mismo material que el suelo circundante. Cuando una criatura la pisa, la tapa se abre como una trampilla y la criatura cae al foso. La tapa permanece abierta después.</p><p>Una criatura que caiga al foso recibe 3 (1d6) de daño contundente por la caída.</p><p><em><strong>Detectar y desactivar.</strong></em> Como acción de estudiar, una criatura puede examinar la sección del suelo que forma la tapa y realizar una prueba de [[/check inv 15]]. Si la supera, detecta el foso. Una vez detectado, se puede encajar un pitón de hierro o un objeto similar entre la tapa y el suelo circundante para impedir que se abra y poder cruzar con seguridad. También se puede mantener cerrada con <em>cerradura arcana</em> u otra magia similar.</p><p><em><strong>Escapar.</strong></em> Para escalar las paredes lisas del foso, una criatura necesita velocidad trepando, equipo de escalada o magia como <em>trepar cual arácnido</em>. Puedes facilitar la salida añadiendo grietas lo bastante grandes como para apoyar las manos y los pies.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar la trampa a niveles superiores aumentando la profundidad del foso y el daño, tal como indica la siguiente tabla.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Profundidad del foso</p></th><th><p>Daño contundente</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>30 pies</p></td><td><p>10 (3d6)</p></td></tr><tr><td><p>11–16</p></td><td><p>60 pies</p></td><td><p>21 (6d6)</p></td></tr><tr><td><p>17–20</p></td><td><p>120 pies</p></td><td><p>42 (12d6)</p></td></tr></tbody></table></div>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4d22304a932ffe8d1555d7f3d476278651285522ecae628a0152b4f8782bd93f": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto:</em> 6 (1d6 + 3) de daño perforante más 7 (2d6) de daño de veneno.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e31696bb694b3df3de9a68fa80d473edc65cbf4265a82f9f59b679266eca7aed": {
+    "translation": "<p>El diablillo lanza [[/item oHafKbzbqYGiL4i1]] sobre sí mismo, sin necesidad de componentes de conjuro y usando Carisma como aptitud mágica.</p><hr /><p>@Embed[.oHafKbzbqYGiL4i1 caption=false]</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "01681cb60554b3c11d306f4a9bfca8461966f3caa9a7d269b8c458387796df6c": {
+    "translation": "<p> El diablillo cambia de forma para adoptar el aspecto de una rata (velocidad 20 pies), un cuervo (20 pies, velocidad volando 60 pies) o una araña (20 pies, velocidad trepando 20 pies), o recupera su forma verdadera. Su perfil es el mismo en todas las formas, salvo por la velocidad. Ningún equipo que vista o transporte se transforma.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "3ce43ff0dad22f59beceef78d94b6399bc83443c5e79977c4276292c40296427": {
+    "translation": "<p>El conjuro termina antes de tiempo inmediatamente después de que el objetivo haga una tirada de ataque, inflija daño o lance un conjuro.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "b818a43babe916baba0fbe405e472aea98323de2b3bcd30c4296bdba58bbf28a": {
+    "translation": "<p>Una criatura que toques tiene el estado &amp;Reference[invisible apply=false] hasta que termine el conjuro. El conjuro termina antes de tiempo inmediatamente después de que el objetivo realice una tirada de ataque, cause daño o lance un conjuro.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e22def7a0b3545ef2f6795d7567deb1348710c2a2960e4538f115c22d2232d34": {
+    "translation": "<p>La oscuridad mágica no obstaculiza la visión en la oscuridad del diablillo.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "f938341c9af70e669d165fccd0f4db14ee36422bf0db4d00b23aad1b3862c634": {
+    "translation": "<p> El diablillo tiene ventaja en las tiradas de salvación contra conjuros y otros efectos mágicos.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "63c1f71906328399255d05760ee8769d486d5b8a19939536eebb73ac18e13854": {
+    "translation": "<p><em>Peligro mortal (niveles 5–10) o moderado (niveles 11–16)</em></p><p>Cuando un fuego se propaga sin control, puede crear un infierno que envuelve rápidamente a criaturas, objetos y vegetación.</p><p>Un infierno consta de al menos cuatro cubos de fuego contiguos de 10 pies de lado. Cada cubo de 10 pies se puede apagar con 10 galones de agua. La exposición a un viento fuerte durante 1 minuto hace que el infierno crezca y añada [[/r 1d4]] cubos de 10 pies a su volumen. Si se queda sin combustible, el infierno se apaga tras 1d10 minutos.</p><p>El infierno daña toda vegetación y cualquier objeto que toque que nadie vista ni lleve: causa 22 (4d10) de daño de fuego de inmediato y de nuevo al final de cada minuto. Cualquier criatura que entre en el infierno por primera vez en un turno o comience su turno en él recibe 22 (4d10) de daño de fuego y empieza a arder.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "f67b5c9f707581113becbec66b7e98649daf9a92f1ed59babb29e3f656004a75": {
+    "translation": "<p>Tras una carrerilla de 10 pies, el león puede saltar hasta 25 pies de longitud.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e11ccdd72f69f11c22f4417891285b26f6adb80d6ba69cc778800d14aacdec9c": {
+    "translation": "<p><em>Tirada de salvación de Sabiduría:</em> CD 11, una criatura situada a 15 pies o menos. <em>Fallo:</em> El objetivo tiene el estado &amp;Reference[frightened apply=false] hasta el comienzo del siguiente turno del león.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "b5155eaeffe06b9d380c8ac7c53732023351b3c17cf4737e53cf7da48ded712f": {
+    "translation": "<p>El objetivo tiene el estado &amp;Reference[frightened apply=false] hasta el comienzo del siguiente turno del león.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "20f5392ca546ff64686370d3ff549256068c29029b83f14cbb19f9b880b9cc41": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto: </em>7 (1d8 + 3) de daño cortante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "78eb5099460edb74200879faa130e27b814e555bd31aa40d41cd0908b1269392": {
+    "translation": "<p>El león tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de sus aliados está a 5 pies o menos de ella y no tiene el estado de incapacitado.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "db7ab4d343da2fe39c8246b59198981c0694f8fa917cd2666e407e0912054eb7": {
+    "translation": "<p>El león realiza dos ataques de [[/item Rend]]. Puede sustituir uno de ellos por un uso de [[/item Roar]].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4f2cb8799f0efb47f3a0439e1f188e13abc9c6099d757abb725d87ff6c61f18a": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +3, alcance 5 pies. <em>Impacto: </em>4 (1d6 + 1) de daño perforante, y el objetivo tiene el estado &amp;Reference[prone] si es de tamaño Grande o inferior.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "189f7112d7931e042306941234ff3f51285e80350ebd31d39cbbacd4d7fb561a": {
+    "translation": "<p> La mula cuenta como un tamaño más grande para determinar su capacidad de carga.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6a93f836e7d45aa342eb3c2656597ac2589f8da52e21aeddce2736c9ce6040e3": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +4, alcance 5 pies. <em>Impacto: </em>4 (1d4 + 2) de daño contundente.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "453c936aa6a34eb31a522c8b81cb1cbd84403fcb60e230ecf6063e50bd4b0605": {
+    "translation": "<p>La pantera realiza un ataque de [[/item Pounce]] y usa [[/item Prowl]].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4645c810fe2deaf1d88dacb42ae9d17b2f2312799b281594b912de7b85c02b62": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +4, alcance 5 pies. <em>Impacto: </em>4 (1d4 + 2) de daño cortante, o 7 (2d4 + 2) de daño cortante si la pantera tenía ventaja en la tirada de ataque.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e58179635fb4851438e19481b8d96737838686081bd4cd41f0e0eab335bc5f6a": {
+    "translation": "<p>La pantera se mueve hasta la mitad de su velocidad sin provocar ataques de oportunidad. Al final de este movimiento puede realizar la acción &amp;Reference[hide].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a4a65266120ea6a2f53c744e8ed0937d2a348b86b645bd3f4552a6f3f3aecc15": {
+    "translation": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (niveles 1–4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura pisa una placa de presión</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantánea; la trampa se rearma al comienzo del siguiente turno si se ha activado menos de tres veces</p><p>Cuando una criatura pisa la placa de presión por primera vez en un turno, salen disparados dardos envenenados de unos tubos empotrados en las paredes circundantes. Los orificios de estos tubos están tapados por polvo y telarañas o hábilmente ocultos entre bajorrelieves, murales o frescos.</p><p>Cada criatura en la trayectoria de los dardos debe superar una tirada de salvación de Destreza con CD 13 o recibe el impacto de [[/r 1d3]] dardos y sufre 3 (1d6) de daño de veneno por dardo.</p><p><em><strong>Detectar y desactivar.</strong></em> Como acción de buscar, una criatura puede examinar las paredes y realizar una prueba de [[/check prc 15]]. Si la supera, detecta los orificios. Taparlos todos con cera, tela o residuos impide que los dardos salgan disparados.</p><p>Como acción de buscar, una criatura puede examinar la sección del suelo que forma la placa de presión y realizar una prueba de [[/check prc 15]]. Si la supera, detecta la placa. Encajar un pitón de hierro o un objeto similar debajo de ella impide que la trampa se active.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar la trampa a niveles superiores aumentando el daño de veneno de cada dardo: 7 (2d6) para niveles 5–10, 14 (4d6) para niveles 11–16 o 24 (7d6) para niveles 17–20.</p></div>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d44335c642586132c7edb034a8a49a12acfccfd19d248cedde32e8d53534424c": {
+    "translation": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa moderada (niveles 1–4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura abre la cerradura de forma incorrecta o falla al desactivar la trampa</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantánea</p><p>Una aguja envenenada está oculta en una cerradura. Si una criatura abre la cerradura con cualquier objeto que no sea la llave adecuada, la aguja sale y la pincha. La criatura realiza una tirada de salvación de Constitución con CD 11. Si falla, recibe 5 (1d10) de daño de veneno y tiene el estado &amp;Reference[Poisoned apply=false] durante 1 hora. Si la supera, solo recibe la mitad del daño.</p><p><em><strong>Evitar.</strong></em> La trampa no se activa si la cerradura se abre con el conjuro <em>abrir</em> u otra magia similar.</p><p><em><strong>Detectar y desactivar.</strong></em> Como acción de buscar, una criatura puede examinar la cerradura y realizar una prueba de [[/check prc 15]]. Si la supera, detecta la aguja. Una vez detectada la trampa, un personaje puede usar una acción para intentar desactivarla y debe superar una prueba de [[/check slt 15]] para conseguirlo. Si falla, activa la trampa.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar la trampa a niveles superiores aumentando el daño y la CD de salvación, tal como indica la siguiente tabla.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daño de veneno</p></th><th><p>CD de salvación</p></th><th></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>11 (2d10)</p></td><td><p>13</p></td><td></td></tr><tr><td><p>11–16</p></td><td><p>22 (4d10)</p></td><td><p>15</p></td><td></td></tr><tr><td><p>17–20</p></td><td><p>55 (10d10)</p></td><td><p>17</p></td><td></td></tr></tbody></table></div>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "00ca4497ab763ea985d7314ee92dc1121b561260a038f3dfc454c2be6d824d88": {
+    "translation": "<p><em>Peligro moderado (niveles 1–4)</em></p><p>El gas venenoso suele encontrarse en espacios cerrados, como alcantarillas o tumbas selladas. Llena todo el espacio que puede, hasta un máximo de diez cubos de 10 pies de lado. Es transparente y desprende un olor nauseabundo. Alguna fuente natural o mágica lo repone de forma continua o periódica, aunque un viento fuerte lo dispersa durante 1 minuto.</p><p>Cualquier criatura que entre en el gas por primera vez en un turno o comience su turno en él debe realizar una tirada de salvación de Constitución con CD 12. Si falla, recibe 5 (1d10) de daño de veneno; si la supera, recibe la mitad. Las criaturas que estén en el gas también tienen desventaja en las tiradas de salvación contra muerte.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar el peligro a niveles superiores aumentando el daño de veneno y la CD de salvación, tal como indica la siguiente tabla.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daño de veneno</p></th><th><p>CD de salvación</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>11 (2d10)</p></td><td><p>14</p></td></tr><tr><td><p>11–16</p></td><td><p>22 (4d10)</p></td><td><p>16</p></td></tr><tr><td><p>17–20</p></td><td><p>55 (10d10)</p></td><td><p>18</p></td></tr></tbody></table>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "304240e0b51de518555df14f84e01779c58d4acf6344863cb20abad9ee989ff2": {
+    "translation": "<p><em>Peligro moderado (niveles 1–4)</em></p><p>Un foso de arenas movedizas tiene 10 pies de profundidad y cubre un cuadrado de 10 pies de lado. Una criatura que entre en la zona se hunde [[/r 1d4 + 1]] pies y tiene el estado &amp;Reference[Restrained]. Al comienzo de cada uno de sus turnos se hunde otros [[/r 1d4]] pies. Mientras no esté completamente sumergida, puede usar una acción para intentar escapar y debe superar una prueba de Fuerza (Atletismo) con CD 10 más el número de pies que se haya hundido. Una criatura completamente sumergida tiene &amp;Reference[Total Cover] y el estado &amp;Reference[Blinded], y corre el riesgo de asfixiarse.</p><p>Una criatura puede sacar del foso a otra que esté a su alcance usando una acción y superando una prueba de Fuerza (Atletismo) con CD 5 más el número de pies que se haya hundido la criatura atrapada.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar este peligro a niveles superiores aumentando la profundidad del foso y el número de pies que una criatura se hunde al comienzo de cada turno, tal como indica la siguiente tabla.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Profundidad del foso</p></th><th><p>Ritmo de hundimiento</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>15 pies</p></td><td><p>[[/r 1d6]] pies</p></td></tr><tr><td><p>11–16</p></td><td><p>20 pies</p></td><td><p>[[/r 1d8]] pies</p></td></tr><tr><td><p>17–20</p></td><td><p>30 pies</p></td><td><p>[[/r 1d10]] pies</p></td></tr></tbody></table><section class=\"secret\" id=\"secret-AM5gl3rOBGRkGFwA\"><p><strong>Nota de Foundry</strong></p><p>Las actividades <strong>Prueba para escapar</strong> y <strong>Sacar otra criatura</strong> permiten introducir el número de pies que se ha hundido la criatura y aumentan la CD automáticamente.</p></section>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "8ad43b48517182ac033c33ab59208a0777685bc630bc6b5f34feb5a207f4ca98": {
+    "translation": "<p> La rata no provoca ataques de oportunidad cuando sale del alcance de un enemigo.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "bb5ad0a5a19e9015ffd263e8877affaed1aee281e018fe562b932be00382e5e1": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +4, alcance 5 pies. <em>Impacto:</em> 1 de daño perforante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a9efee888ee7dadf52f1aac9b367b5775af34418cb2dd023f0f07f32364f4631": {
+    "translation": "<p>El cuervo puede imitar sonidos sencillos que haya oído, como un susurro o un parloteo. Quien los escuche puede reconocer que son imitaciones si supera una prueba de [[/check skill=ins dc=10]].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7202d3a29300d6158a57c33a0102acdff60b67748e76b4b43f947cafb327fd11": {
+    "translation": "<p><em>Peligro moderado (niveles 1–4)</em></p><p>La enredadera afilada crece formando marañas y setos silvestres. También se adhiere a las fachadas de los edificios y a otras superficies, como la hiedra. Un muro o seto de esta planta de 10 pies de alto, 10 pies de ancho y 5 pies de grosor tiene CA 11, 25 PG e inmunidad al daño contundente, perforante y psíquico.</p><p>Cuando una criatura entra en contacto con la enredadera por primera vez en un turno, debe superar una tirada de salvación de Destreza con CD 10 o recibe 5 (1d10) de daño cortante por sus espinas afiladas.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "de9a1105eefb4796c5720f9a50443c9fdedebb114f54dd0240ea6f1d5f50ec79": {
+    "translation": "<p><em>Peligro moderado (niveles 11–16)</em></p><section class=\"secret\" id=\"secret-Q5ErQoKW5KLRi6hd\"><p>El río Estigia recorre los Planos Inferiores. Probar o tocar sus aguas puede destruir el intelecto y la personalidad de una criatura, además de arrebatarle sus recuerdos. Algunos infernales son inmunes a sus efectos.</p><p>Salvo que sea inmune, una criatura que beba del Estigia, entre en el río o comience su turno en él debe realizar una tirada de salvación de Inteligencia con CD 20. Si falla, recibe 19 (3d12) de daño psíquico y no puede lanzar conjuros ni realizar la acción de magia durante 30 días. Una criatura afectada puede beber del río y nadar en sus aguas sin sufrir efectos adicionales.</p><p>Solo los conjuros @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplGreaterRes]{Restablecimiento mayor}, @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplHeal000000]{Sanar} o @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWish000000]{Deseo} pueden poner fin al efecto. Si no se elimina en 30 días, se vuelve permanente y la criatura pierde todos sus recuerdos. A partir de entonces, solo el conjuro <em>deseo</em> o una intervención divina pueden revertirlo.</p><p>El agua extraída del río Estigia pierde su poder tras 24 horas y se convierte en un líquido inofensivo de sabor desagradable. A tu discreción, los arcanaloths, las sagas nocturnas y otras criaturas siniestras pueden conocer rituales que prolonguen su poder.</p></section>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "47e72099318da28ad92655c535ce22f6cae2569cbc1554e94a39f7a4552c1933": {
+    "translation": "<p>La criatura no puede lanzar conjuros ni realizar la acción de magia durante 30 días. Una criatura afectada puede beber del Estigia y nadar en sus aguas sin sufrir efectos adicionales.</p><p>Solo los conjuros restablecimiento mayor, sanar o deseo pueden poner fin al efecto. Si no se elimina en 30 días, se vuelve permanente y la criatura pierde todos sus recuerdos. A partir de entonces, solo el conjuro deseo o una intervención divina pueden revertirlo.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d5a57e0836aad6af52be5bb0c5762e3ce9497d8221354f2642d40e454a0d99c5": {
+    "translation": "<p><em>Peligro mortal (niveles 1–4)</em></p><p>Cuando se produce un desprendimiento de rocas, cada criatura que esté en su trayectoria debe realizar una tirada de salvación de Destreza con CD 15. Si falla, recibe 11 (2d10) de daño contundente, tiene el estado &amp;Reference[Prone apply=false] y es arrastrada por las rocas. Si supera la salvación, solo recibe la mitad del daño.</p><p>Cuando el desprendimiento se detiene, la zona se convierte en &amp;Reference[Difficult Terrain] y todas las criaturas derribadas que se encuentren en ella quedan sepultadas bajo rocas y escombros. Una criatura sepultada de este modo tiene el estado &amp;Reference[Restrained] y &amp;Reference[Total Cover]. Como acción, puede intentar salir de debajo de las rocas. Si supera una prueba de Fuerza (Atletismo) con CD 15, deja de estar apresada y queda derribada sobre el montón de rocas. Si falla, permanece sepultada y obtiene 1 nivel de &amp;Reference[Exhaustion].</p><p>Una criatura que no tenga los estados &amp;Reference[Incapacitated apply=false] ni apresado puede dedicar 1 minuto a liberar a otra criatura sepultada.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar este peligro a niveles superiores aumentando el daño contundente: 22 (4d10) para niveles 5–10, 55 (10d10) para niveles 11–16 y 99 (18d10) para niveles 17–20.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4a2dd0b80e38f1322872b4f87d41342619198aade975fe05dc8d8164148ed1a8": {
+    "translation": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (niveles 11–16) o moderada (niveles 17–20)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura pisa una placa de presión</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Hasta que la piedra deja de rodar</p><p>Cuando una criatura pisa una placa de presión oculta, una esfera de piedra maciza de 5 pies de radio sale de un compartimento secreto y comienza a rodar. La piedra y todas las criaturas cercanas tiran iniciativa; la piedra obtiene un bonificador de [[/r 1d20 + 8]]{+8} a su tirada.</p><p>En su turno, la piedra se mueve 60 pies en una dirección y cambia de trayectoria si un obstáculo la desvía. Puede atravesar los espacios de las criaturas, y estas pueden atravesar el suyo tratándolo como &amp;Reference[Difficult Terrain]. Cuando la piedra entra en el espacio de una criatura por primera vez en un turno, o una criatura entra en su espacio mientras está rodando, esa criatura debe superar una tirada de salvación de Destreza con CD 15 o recibe 55 (10d10) de daño contundente y tiene el estado &amp;Reference[Prone apply=false].</p><p>La piedra se detiene al chocar contra una pared u otra barrera similar. No puede doblar esquinas, pero los constructores de mazmorras ingeniosos incorporan curvas a los pasillos cercanos para permitir que siga rodando.</p><p><em><strong>Detectar y desactivar.</strong></em> Como acción de estudiar, una criatura puede examinar la sección del suelo que forma la placa de presión y realizar una prueba de [[/check inv 15]]. Si la supera, deduce su función. Encajar un pitón de hierro o un objeto similar debajo de ella impide que la trampa se active.</p><p><em><strong>Destruir la piedra.</strong></em> La piedra es un objeto de tamaño Grande con CA 17, 100 PG, umbral de daño 10 e inmunidad al daño de veneno y psíquico.</p><p><em><strong>Frenar la piedra.</strong></em> Como acción, una criatura puede intentar frenarla mediante una prueba de Fuerza (Atletismo) con CD 20. Si la supera, la distancia que recorre en su turno se reduce en 15 pies. Si esa distancia se reduce a 0, la piedra se detiene y deja de ser una amenaza.</p></div>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "954792ee1d60ff09a51d75b6006f61721359d320d6fbeb499a5b3df6591f3553": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto:</em> 6 (1d6 + 3) de daño perforante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e336a0422cd9521d6292e3d02dae54c3e19753638da1f49594688c9d6dcc262d": {
+    "translation": "<p><em>Tirada de ataque a distancia: </em>+5, alcance 80/320 pies. <em>Impacto:</em> 6 (1d6 + 3) de daño perforante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "35355e303cc03934467ced58ef41053c3f7004d9492d4bf0f3f5fb95915cc33f": {
+    "translation": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (niveles 1–4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura se sitúa sobre la tapa del pozo</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantánea</p><p>Un pozo de 10 pies de profundidad tiene una tapa con bisagras fabricada con un material idéntico al suelo circundante. Cuando una criatura se sitúa sobre ella, la tapa se abre como una trampilla y la criatura cae al pozo, cuyo fondo está cubierto de estacas afiladas de madera o metal. La tapa permanece abierta a partir de ese momento.</p><p>Una criatura que cae al fondo del pozo recibe 3 (1d6) de daño contundente por la caída y 9 (2d8) de daño perforante por las estacas.</p><p><em><strong>Detectar y desactivar.</strong></em> Como acción de estudiar, una criatura puede examinar la sección del suelo que forma la tapa y realizar una prueba de [[/check inv 15]]. Si la supera, detecta el pozo. Una vez detectado, se puede encajar un clavo de hierro o un objeto similar entre la tapa y el suelo circundante para impedir que se abra y permitir cruzarla sin peligro. También se puede mantener cerrada mediante un conjuro de <em>Cerradura arcana</em> o una magia similar.</p><p><em><strong>Escapar.</strong></em> Una criatura necesita una velocidad trepadora, equipo de escalada o una magia como el conjuro <em>Trepar cual arácnido</em> para escalar las paredes lisas del pozo. Puedes facilitar la salida añadiendo grietas en las paredes lo bastante grandes como para apoyar las manos y los pies.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar la trampa a niveles superiores aumentando la profundidad del pozo y el daño, tal como indica la siguiente tabla.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Profundidad del pozo</p></th><th><p>Daño</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>30 pies</p></td><td><p>10 (3d6) contundente y 13 (3d8) perforante</p></td></tr><tr><td><p>11–16</p></td><td><p>60 pies</p></td><td><p>21 (6d6) contundente y 36 (8d8) perforante</p></td></tr><tr><td><p>17–20</p></td><td><p>120 pies</p></td><td><p>42 (12d6) contundente y 57 (13d8) perforante</p></td></tr></tbody></table></div>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "067a1b248e8511290f1cb2001b12506bcbb4f54037670eb4574631d0004eb04f": {
+    "translation": "<p>El tigre realiza un ataque de [[/item Pounce]] y usa [[/item Prowl]].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7ed5510c2dd4c9015e3a82e3cda150187fae316157d92f84a47c473018187cb0": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto: </em>6 (1d6 + 3) de daño cortante. Si el tigre tenía ventaja en la tirada de ataque, el objetivo recibe 3 (1d6) de daño cortante adicional y, si es de tamaño Enorme o inferior, tiene el estado &amp;Reference[prone].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "94027ce06c5807786ae3048f37953f8f7130d2e47b055e4c22aff5bc6a8c79a1": {
+    "translation": "<p>El tigre se mueve hasta la mitad de su velocidad sin provocar ataques de oportunidad. Al final de este movimiento, puede realizar la acción de &amp;Reference[hide].</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4e370c9fe2c52f55ddd9d52d4a8cc095dc0ba331814739c846c8031b5ce4f1d3": {
+    "translation": "<p><em>Peligro moderado (niveles 1–4)</em></p><p>Las enredaderas feroces están animadas por la magia. Suelen aferrarse a entradas, arcos, paredes y estatuas. Hasta que una enredadera feroz se mueve, nada la distingue de una enredadera inanimada.</p><p>Cada enredadera feroz tiene CA 11, 16 PG e inmunidad al daño contundente, perforante y psíquico. Cuando una criatura entra en un espacio situado a 5 pies o menos de ella por primera vez en un turno, o empieza su turno allí, la enredadera intenta enrollarse a su alrededor. El objetivo debe superar una tirada de salvación de Destreza con CD 12 o tendrá el estado de agarrado (CD 12 para escapar). Mientras esté agarrado de esta forma, recibe 5 (1d10) de daño necrótico de las espinas que absorben su vitalidad al principio de cada uno de sus turnos. La enredadera solo puede agarrar a una criatura a la vez.</p><p>Como acción de influir, un personaje bajo el efecto de un conjuro de <em>Hablar con las plantas</em> o una magia similar puede intentar persuadir a la enredadera para que libere a su víctima. Lo consigue si supera una prueba de Carisma (Persuasión) con CD 10. La enredadera no volverá a atacar a una criatura liberada de este modo durante las siguientes 24 horas.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar el peligro a niveles superiores aumentando el daño necrótico, la CD de salvación y la CD para escapar, tal como indica la siguiente tabla.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daño necrótico</p></th><th><p>CD de salvación/para escapar</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>11 (2d10)</p></td><td><p>14</p></td></tr><tr><td><p>11–16</p></td><td><p>22 (4d10)</p></td><td><p>16</p></td></tr><tr><td><p>17–20</p></td><td><p>55 (10d10)</p></td><td><p>18</p></td></tr></tbody></table>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4312320bd2b48f7f7a53c2de08d63b0406d2c8224355ff9c5c792610887cdaa8": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +5, alcance 5 pies. <em>Impacto:</em> 1 de daño perforante.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "9ce008d101cad0b86ece26df553118075b53fa62b1bad00953d34ba45f5aa5bb": {
+    "translation": "<p><em>Peligro moderado (niveles 1–4)</em></p><p>Las arañas gigantes tejen telarañas gruesas y pegajosas en pasadizos y en el fondo de pozos para atrapar a sus presas. Estas zonas cubiertas de telarañas son &amp;Reference[Difficult Terrain].</p><p>Una criatura que entra en una zona cubierta de telarañas por primera vez en un turno, o empieza su turno allí, debe superar una tirada de salvación de Destreza con CD 12 o tendrá el estado &amp;Reference[Restrained apply=false]. Como acción, una criatura apresada por las telarañas puede intentar escapar. Lo consigue si supera una prueba de Fuerza (Atletismo) o Destreza (Acrobacias) con CD 12.</p><p>Cada cubo de telarañas de 10 pies tiene CA 10, 15 PG, vulnerabilidad al daño de fuego e inmunidad al daño perforante, de veneno y psíquico.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "f3e1c4bd32e87d675ac17463b511929763325b861a91483805498089e9fbc920": {
+    "translation": "<p> El lobo tiene ventaja en las tiradas de ataque contra una criatura si al menos uno de sus aliados está a 5 pies o menos de ella y no tiene el estado de incapacitado.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "25e80b106a18d735e1a7da1768beedd72c2a59dbff09208d9f7c1eb89feddd9b": {
+    "translation": "<p><em>Tirada de ataque cuerpo a cuerpo:</em> +4, alcance 5 pies. <em>Impacto: </em>5 (1d6 + 2) de daño perforante, y el objetivo tiene el estado &amp;Reference[prone] si es de tamaño Mediano o inferior.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "28f811a55fb33843504c7d251f46c808d583e9b07766dcafa3f637af6d43786b": {
+    "translation": "<p><em>Peligro mortal (niveles 1–4) o peligro moderado (niveles 5–10)</em></p><p>El moho amarillo crece en lugares oscuros; cada colonia cubre un cuadrado de 5 pies de lado. Si se toca, expulsa una nube de esporas que llena un cubo de 10 pies. Cada criatura en esa zona debe superar una tirada de salvación de Constitución con CD 15 o recibirá 11 (2d10) de daño de veneno y tendrá el estado &amp;Reference[Poisoned apply=false] durante 1 minuto. Mientras esté envenenada de esta forma, recibe 5 (1d10) de daño de veneno al principio de cada uno de sus turnos. La criatura repite la salvación al final de cada uno de sus turnos y, si la supera, el efecto termina sobre ella.</p><p>La luz solar directa o cualquier cantidad de daño de fuego destruye una colonia de moho amarillo.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e5ade8c6fe4cdd1798bf19e1676b15004a99211f4e4c86435581881b41fa2a0f": {
+    "translation": "<p> <em>Tirada de ataque cuerpo a cuerpo:</em> +3, alcance 5 pies. <em>Impacto:</em> 4 (1d6 + 1) de daño contundente.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ff2da261537706017a653b9ad122ce9f50a932c5d17adeed7e847280afa4f27b": {
+    "translation": "<p> Si el daño reduce al zombi a 0 puntos de golpe, debe realizar una tirada de salvación de Constitución con una CD igual a 5 más el daño recibido, salvo que el daño sea radiante o proceda de un crítico. Si supera la salvación, se queda con 1 punto de golpe.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d40b2a35e3c2c569ddfeaa237053b77a29abf47b38566e48972fc2ec6b03353a": {
+    "translation": "<section class=\"secret\">\r\n<p>Ataque con arma a distancia: +2 a impactar, alcance 100/400 pies, un objetivo. Impacto: <strong>5 (1d10) <em>de daño perforante</em></strong>.</p></section>\r\n<p>El caballero ataca con su ballesta pesada.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ef9e306cd29afd465fbf7c0003ed69bbb88670e23fc5f8191d8c93a2e10c1e8d": {
+    "translation": "<p>El caballero tiene<strong> ventaja </strong>en las tiradas de salvación para evitar el estado de asustado.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "da687d4c201e90e013d4da5011b0c1f22d8c5e765543061bb839071213331c4d": {
+    "translation": "<p>La armadura de placas está formada por placas de metal moldeadas y ensambladas para cubrir todo el cuerpo. Incluye guanteletes, botas de cuero grueso, un yelmo con visera y varias capas de acolchado bajo la armadura. Las hebillas y correas distribuyen el peso por el cuerpo.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "752b758c55ee12ecebd8f4100204f73f1be15d809ded61fdd5efa5d2693aa18d": {
+    "translation": "<p>El caballero hace dos ataques cuerpo a cuerpo.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c849b4578820e6aba0ab03cd6762d7307e9e6564adaceb13057b7abf93eeb614": {
+    "translation": "<section class=\"secret\">\r\n<p><em>Ataque con arma cuerpo a cuerpo:</em><strong>+5 a impactar,</strong> alcance <strong>5 pies,</strong> un objetivo. Impacto: <strong>10 (2d6 + 3) <em>de daño cortante</em></strong>.</p></section>\r\n<p>El caballero ataca con su espadón.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "b66dfcef0f7951c421ab5a1cf0c6f0e47a0f8431b4726cc43c2ef2e3c2e6da3e": {
+    "translation": "<p>Durante 1 minuto, el caballero puede dar una orden o advertencia especial cada vez que una criatura no hostil que pueda ver a 30 pies o menos realice una tirada de ataque o de salvación. La criatura puede añadir un d4 a su tirada si puede oír y entender al caballero. Una criatura solo puede beneficiarse de un dado de Liderazgo a la vez. Este efecto termina si el caballero está incapacitado.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7b27619e79d5b211306d44e32fa1fac7105b616b25e6d5bbe90afaa94ecce5e7": {
+    "translation": "<section class=\"secret\">\r\n<p>El caballero suma 2 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarle. Para hacerlo, debe ver al atacante y estar empuñando un arma cuerpo a cuerpo.</p>\r\n</section>\r\n<p>El caballero suma 2 a su <strong>CA</strong> contra un ataque cuerpo a cuerpo que fuera a impactarle.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0b13ba7fe05d36c834f41143d74a87e9df3809195f66c1dbace57489faa09112": {
+    "translation": "<p>La espada larga, de hoja recta y alargada diseñada para dar tajos a los enemigos, es un arma muy versátil que también se puede empuñar a dos manos para asestar golpes más contundentes.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "bda1274e8fd5960b09aa46b0ebd059b6f9274c5b4a2d5dbc043234923666b867": {
+    "translation": "Defensor del bastión (montado)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "822eb0a0cbd5cd86025088adf793ce135e2511797da2424a5f216b571aaa121a": {
+    "translation": "Cualquier alineamiento",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "3db47926711cc7dd76698a4395c6f30413b1d88b70c862ff2be0fdbcf22e638a": {
+    "translation": "cualquier idioma (generalmente común)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4d6e150d62634e8d9d6be94b137d2a0d72eb8e95fb24977f3df9be9c92065a96": {
+    "translation": "Camisote de mallas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "480d4be7d61fe52bc31768ffaaffea7ad5db66ba8b699d30623c4726704cc646": {
+    "translation": "Escudo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c71c66ea7e4c65d6131187cb9938f7eb34364d78f436b140f6e3192619a4bd30": {
+    "translation": "Lanza",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "dfc81001404377987cbf49f28d57c155644d0cfc527a8d1a50cd7009303ed600": {
+    "translation": "Defensor del bastión (lanza)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "84cb97c1c66b8aca99f938bb91c7f8a8d3ff85a91d0815fcccd4935d2a016a71": {
+    "translation": "Cabra del terror",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "041b0ecfb7faefa98d4836bc442ffa1ab341621b8b622b1b1968fd507c36051b": {
+    "translation": "Sin alineamiento",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a262a26afc4de97d048db84c67a63f0cb5d58ec3c03d8eb4b7ffc88702715381": {
+    "translation": "Lanza de caballería (cuerno de cabra)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a6abf87f589f0a9595a54ad3292c0720fd50290b1c6474e8d0845deb6ad5101d": {
+    "translation": "Arma +1",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d9e6d4fba2e398188f8f3b09a6cd0af9d818cd6f6ee31014a522f554d2cfb4eb": {
+    "translation": "Espada larga (cuerno de cabra)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0a571942b29d14ae5674f2e3a0da3ffeff19fe6d09531148147fe5a783ca1d14": {
+    "translation": "Arma +2",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "f7f7156d54b5d91ab029c8c9c3286744acaf1b96b3af7efa0794e8cf464a3ea6": {
+    "translation": "Emanación de miedo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "eab972e7a69c800592cb3ccce44c54b7289936add61af386c3a6e99d75ef1803": {
+    "translation": "Una criatura hostil empieza su turno a 30 pies o menos",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6ac39a6938218b25279d6d02792cbbf186fec0e9b44e284a7beade23d12d37c5": {
+    "translation": "Asustado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7962f0e1d7bedf817ba7ce5d5bf768cf37acc1ce8719a4f2140dfc6a9fc4f632": {
+    "translation": "Defensor del bastión (escudo)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c8d3fc567bbcbf384407a4ca279787fdb6e73932155e962e562507acfbf53094": {
+    "translation": "Guardia",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "71047466b4a0bd730f796f2ed6dc3a4ebaaa725d5d34d7b9715cc1bdd4348fb9": {
+    "translation": "Defensor del bastión (arco)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "883177524590266e875bed587fbc42b858774dd83eeee0aafd73ac5e81af2b96": {
+    "translation": "Armadura de cuero",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c3baf054acaf69efd219a9563b26af88163b5c0c792b1e9503490a211f8dfcb3": {
+    "translation": "Oído y vista agudos",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ed2fe6ee4108fdd7aa2adc5e1e0b272881becc9d47f1b91289237da2411ddc11": {
+    "translation": "Multiataque",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "47564edb94d9e188e11ace6efaf301b717014996158d9727e07d65b53935440e": {
+    "translation": "Espada corta",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "31b2fb624d3698dffd5bbe3001d40405e3a867822425811d7917863db0ab5615": {
+    "translation": "Arco largo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0283faab4431cddfd3cb47d67bf8c4f20482608f3b5d9b6499940f748f6cc69e": {
+    "translation": "Alfombra voladora (3 x 5 pies)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a83b8cc620aa99cf7b6e41261bec4edb5f4b67d5ecf09cd4acbc108f82ab4f27": {
+    "translation": "Objeto mágico",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "8c59ba38922292b97661ebe3e61c8af913fa087a5bf535b0a032f5a373473c5c": {
+    "translation": "alfombra",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "36368effd64eacf13db6fae6d776272b74fa6b3ce973485416746835de8c3535": {
+    "translation": "Alfombra voladora",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "fcf7e6e784488a6cc2e9ec7389a7d69ee5150a19de946cada41fd3988d938401": {
+    "translation": "Ajuste de capacidad de carga",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "b991604729c6632e280a4f147710b6a28fce1bc56f60181b6ed69c2dfbb588e2": {
+    "translation": "Sobrecargado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "871ac313236a162288829885ff46801860ab927d7bf2b683b200f9f8a2604b92": {
+    "translation": "Alfombra voladora (4 x 6 pies)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "35f61fdb7aa71d787006cc6e93007f304c8ab7aea03ae7d97269d6d288f549ad": {
+    "translation": "Alfombra voladora (5 x 7 pies)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "97f322ea675bf276eca28bff3f37f6c1472daf411a32a176b23c301dc686a5c7": {
+    "translation": "Alfombra voladora (6 x 9 pies)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "cc5a7ec54b145597d597d1d1b752f4e2f012b3b106e75be280a24cfcea714795": {
+    "translation": "Aparato de Kwalish",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6cb5b734a8dac7a3c278d94123ff69c542f3b74f7676201aa71d81fab4e6b503": {
+    "translation": "Ataque de pinza",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0f8223828c38e69f67b826a88c9f84123e19c87ee7560505151410b606b62873": {
+    "translation": "Palanca 4: arriba",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "8410d24a4b7f51ff6c88d0b4592392302a52412eef62d7801d4227912f0087a3": {
+    "translation": "Ataque de agarre",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a0f2801a60bba46ccd1cff949d19c52810146ac7be49548d323ff629a40ccbfa": {
+    "translation": "Palanca 4: abajo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "17f1034a335a60c7c5f6fd8b3c9d60d772d78ed12653d38a0359f0a217ec6414": {
+    "translation": "&Reference[grappled] al impactar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "8092876caa2f8348b2d61216d48578bc16bfb9a50a69bdbd8c919369853e6adc": {
+    "translation": "Prueba para escapar del agarre",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5eb3bb07b038f8732e107aacd14c171ca81f020ca2e9e1fa005dc979c91704a9": {
+    "translation": "Patas extendidas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "fe64f307c4b2a0d46cd1fa31231a05831b2f36d81cc2ad3741350c631649dbc0": {
+    "translation": "Pinzas extendidas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "26028e1c698735130171be56671325573cb70a5b0df952c2c6bb6cfa3e5c1ce3": {
+    "translation": "Compuerta frontal abierta",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "351dbab359b8542f487428702b46cb129bdb95c8255d9f6e90fa1a9c198a1884": {
+    "translation": "Compuertas laterales abiertas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6bad783dd6fedc7eb0556fae7e3a7f16fac45b28ef0bb13103e592aa1ccc98ac": {
+    "translation": "Escotilla trasera abierta",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4c02b2d5dd5a4005e9a3c6a808de1873b4ce0e75f0fd5d6b6aba324f31b545f7": {
+    "translation": "Luces activadas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "001bccf9f2140ad9a5c3d82f119918a29a7f75f58d6e4169a84a45ad62c4db51": {
+    "translation": "Avatar de la Muerte",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "59e74f11c96a77d972cd8ee0520cd97da4055b5a2e859b1c4dd2cfb7ea32f7b3": {
+    "translation": "Neutral malvado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "222594bf7332b68b3f790bf59df81add32ddfcd1f859b721bd12d3e8f15b3787": {
+    "translation": "Todos los idiomas que conozca quien lo invocó",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "1f3c81737902e59110469fce1790282dd267aac02f592e8b3c86f8c9792932e8": {
+    "translation": "Movimiento incorpóreo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "b9645e373f53d86f1a8ae9b13358934ba20c9922bbbccfedd8ec267814e1f322": {
+    "translation": "Autodaño",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "fc6b741d9fdee42b6d2b42b4e9eec9cadbffdb6f5c5d00ecf458751dcf0ae560": {
+    "translation": "el avatar termina su turno dentro de un objeto.",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "64cff1319d2fd2cbb7a1e84ccecf22c1cc07b24435cdb522f8c0aa525d6002a6": {
+    "translation": "Acción",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "719a78039e2500047c111ad8734be6b1e6b282d1094fa3709fbfbaf13dd0bd28": {
+    "translation": "Guadaña segadora",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4cd548f3cc29cf9c99a0134a971b1be03c8f6bf80ba8f03e174e030b0d292396": {
+    "translation": "Ataque",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5fdd45862baeb625f476fb8dbe73584d201fbc51a7b2bce9006136f1cdb3babf": {
+    "translation": "Impacto automático",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "05ce03962fb8386dba5d9691cc0cdf6b1a7cd4482db41449530578f599f9a885": {
+    "translation": "Tejón",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6e5597953e98e07b763c9f7c837239daf41a26a239b0616631539b9a04b559ad": {
+    "translation": "Mordisco",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5b4a2c42d4c5ae2be883af3171fa1ebde2501c76d7d7597e833cab78d157de33": {
+    "translation": "Oso negro",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "24433c70eba5b15368fe2e1dda94fe3d61db2357aa144363b9ab487e60235ab2": {
+    "translation": "Activar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "1970f0b8296f232467039303c68747408b13debd425f51f7a5aea5d3ed5d9da2": {
+    "translation": "Desgarrar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "642cdc6f1b8a221da6499e0614ada88a4faee864c2056d218505c43e1b8092c8": {
+    "translation": "Oso pardo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "587cfbbbcd42a71ba7f33f8051d5c354707fa1ff227cab11452c3ba2147a8682": {
+    "translation": "Garra",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d51708e34e6327b933a8d65978c43e43fb181f24473ebca31278be9fbd8b6f00": {
+    "translation": "Moho marrón",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5c5f3b2772cfd475cd6f2778a24342bf4b726adaef794b67b222fde57e183816": {
+    "translation": "Peligro",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c0deed3e4d2bfcbfd0d11c8b9f9646ab04ad75f76fabdfb2b61a8d76a96fb5fa": {
+    "translation": "Descripción/efectos",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "8fc75c833ba1989086c0346f807842b392bd79ee720675ad6c7fc6d5e7c76b96": {
+    "translation": "Cuadrado de 10 pies de lado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "31e4041f45daa91faef7d51ffe9446e3b75f0bb15e59527a1b7c6f0060c82538": {
+    "translation": "Camello",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "2d701eefab7470e71de1e94446e91b50cc81104cdac3242cf42251edf0907727": {
+    "translation": "Trampa de techo derrumbable",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e52817818a06d588d6ba37f52bd9309c61d68dcf08d81b9295a0926c8725c392": {
+    "translation": "Trampa",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "dd989031423dbbed107026d4e2493b635c5dca39df2ab1906641dd13ece9a1d9": {
+    "translation": "Activar trampa",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "99fd88510b0863c8fbba91b3a944a9ecb51b928e94c5584ce91b9625c6d65cd6": {
+    "translation": "<p>Se activa una trampa.</p>",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6fd16191b8831ca12db0fbd639092f8f399594f05f610b8712d951eb2f947dbc": {
+    "translation": "Activación (1-4)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c051a11bbaf67f2ced636d6a3bc3cbd7ba3ed65367ce9e2ace1e73634df8d348": {
+    "translation": "Activación (5-10)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d718c2106665d6f34067e1c0b0c5070f5bd20b2c87e541418e03960ecdbb7080": {
+    "translation": "Activación (11-16)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4eeb5ab5f2bac6fe408c7f026f82a2625559c0e39812d8e3827a37bb456c1405": {
+    "translation": "Activación (17-20)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4b94ffe0a4938904a5584494afe8e71cc3391101aa1e11c50704d0aa20d16e34": {
+    "translation": "Globo flotante (Luz del día)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0b3fdbab125bdb2432d79575f4b9080de9a71132a9b4dd366f638a1cc256cc4b": {
+    "translation": "Globo flotante",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d1efddfeacd78b616b412a34cc10a0b5e66bf331f9e848534b9e6d799dbd1563": {
+    "translation": "Lobo terrible",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "957e784baf5c50c5ec5eb09fe3c3d4d7a1699566a025e4261ab4a1b9447f132b": {
+    "translation": "Tácticas de manada",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "3ace952e4741fd12ca2e980ce3d4b9efacc548def30785e46fa6cc13329be11c": {
+    "translation": "Aliado a 5 pies o menos del objetivo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d48f07feb6fc19b9d10e75eb9c5d9d69b4548f4deee74cbb3090fb515140aa24": {
+    "translation": "Elefante",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ed9b9b7668dfdab99b5b397971427466df7fb0e7f0bccb2f4bfdb143a75f813f": {
+    "translation": "Cornada",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "06d375c77047aa371fc0cbdea553e466d534b93acefbe31155df800f7d54381f": {
+    "translation": "Pisotear",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e34a321a4c40a9d6cc563b45af699919d845952e2c7d257187fa079bba5d339f": {
+    "translation": "El objetivo está derribado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "cd2644ea7bdab39f82d9e05528393dc1d6282a5ef6d17ef77052bef07b897a9c": {
+    "translation": "tiene el estado de derribado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "725ec02943746c3e5bf71b7011df21d67a69b643748c30b0664812b25b8c044b": {
+    "translation": "Trampa de red que cae",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "26829f7901b308c7ea73f3b96a5786bc4a2d9319cc4148607f5c7da9ab4d4a5a": {
+    "translation": "Preparar y activar trampa",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "75d2c70bb5451d2837a415b55735c6288454797c0a2a535ec75d738678a7a8ba": {
+    "translation": "Prueba para escapar (1-4)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "8789ef50e8d72f0a32d34009c5c78526efaf9ffbfe661e218848b3c36f1f68cc": {
+    "translation": "Prueba para escapar (5-10)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4c5b0639919dba0afd2206ca0fbad4a6654a83a198f21ac2fe94049bd76ba012": {
+    "translation": "Prueba para escapar (11-16)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "aa1deb37f06c1f98f37b14a8d3819f39b9848453be9bf101cbd7cd50a13aa4e1": {
+    "translation": "Prueba para escapar (17-20)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "99f46230e6b8511d3491b62a9b3bb01363e6ee26299e0a40feae95997ae7933a": {
+    "translation": "Preparar trampa",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "8a03fa9ad749bcce484582760843efbb983ea7ec92c3444cbabafe1517b3dac5": {
+    "translation": "Capturado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "76d68d6a37905d838bc406f9b17361b792c809bef0e4666e0ed1f45d0b79a693": {
+    "translation": "Trampa de estatua lanzallamas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "545841b1f1244fe75484a07a578fd0e4035f2a7d50599676a532be07c80f64c3": {
+    "translation": "Hongo de bola de fuego",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5a9be7ac6d979ce02968a79b705c21c4f57663a1e6b873a61e86fb0441194330": {
+    "translation": "Rana",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4b0ec7b60b5cef025fd7401e6cec4765740fe82262f2463bd92d5e2706d6a8c0": {
+    "translation": "Anfibio",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "428579581e56cd651d156e1406049617744316d95af709584dc6f9af105cf26a": {
+    "translation": "Salto en parado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e1a9360387175fd93862dfcdb491dc0d517a8a542257c8dbd22f0829f61c904a": {
+    "translation": "Tejón gigante",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "2c296f2f722907b87239d2c06c2693e8eba778d374b1d8ccc8e46dac702aa485": {
+    "translation": "Mosca gigante",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a650203f9431c970c81f8849e817a067d4f878cf2600e367a1d892450a9fc7db": {
+    "translation": "Cabra gigante",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "76e11af94d353c6edf577441a23d0f5ebe7b3beb5fc36afd05987c3c14b46830": {
+    "translation": "Embestida",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "f9ee1013516908916836685c66c462b1a8371a8aabc3e1994c25c54ea1b1a3dc": {
+    "translation": "Ataque de carga",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "b2349263cfa5d2db2edd80a76d04aad21f3955ab2a820ee286f7026bf9c1e6e5": {
+    "translation": "Araña gigante",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ff461db1c030d0c5c015bdff6bccf1a0610142d425c0388bc59a0164f705b901": {
+    "translation": "Trepar cual arácnido",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "cd7c072b860eb063745f6b162608ecfb33e7a193634fad9582b60f63d295a7a5": {
+    "translation": "Caminar por telarañas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "2975104784a401e3880e2215550e9490eda7e67db5fc2b35e1a244acb092ced3": {
+    "translation": "Telaraña",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "81b2c0788f07caa4b3c2f6f142cdaec883f94fb0782988c1480707fb7e9531f1": {
+    "translation": "Comadreja gigante",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ac68bd931568ef75452d7594f2facc95011231b637ca848b2135b6b5aeb66c52": {
+    "translation": "Cabra",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "faf774e32c12533f96c0a4596564733165f4fa35a03622f2e26803b9f8ecc9b8": {
+    "translation": "Cabra viajera",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5b080ac0c1890426e7879cad2c14ecc00e201b282ab21b85b3db1dbde178f05e": {
+    "translation": "Pezuñas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "97c142f2db730a31da939660e3944510b19817882218656b14843563cac6b3f9": {
+    "translation": "Limo verde",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5cf9734d8a0f10f9b9a59ce6868eade9f947dc0eb6fd66c744067d06eb03d96b": {
+    "translation": "Evitar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a2a1fd579f4be0158b0a1836ba4f5bb6545e12c3ccfd547c9d77c107668d86be": {
+    "translation": "Daño por contacto",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e2256ff3d01faaa6bffd0325c29323faebb30b9af5091236819bffbf7f2caed8": {
+    "translation": "Daño a madera/metal",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ef820f01c9276ef8f47a633a206d7834670ac8b6917102545a3d70ceb49111b8": {
+    "translation": "Trampa de foso oculto",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4add7a1b784ade115106fd504dd3489680804533b655f8a4754cb122fc9acb43": {
+    "translation": "Criatura ilusoria",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "61b1ba4f2bc2559d39b0df955f1aedd4f06febfe5655d82322dac391a3fee35a": {
+    "translation": "Ilusión",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a7a9ffc4a1b681e6b1cc9a87da89f6d96f1f23b31192000397dc0596591d61e5": {
+    "translation": "Diablillo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7b682d92b448b2a31cbabff84445a68defb470567fbdd7a03edbb06a398e2c2d": {
+    "translation": "Legal malvado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c0f6167a002bd71c5d28c568799370996272b5ce04442b5708d5d5d05ddd2bc0": {
+    "translation": "Diablo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a4bfbc2f495ea3194f488481a8e4c3366453a6d6afe92680fabfb436609c1f3f": {
+    "translation": "Vista del diablo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c15db37ae346b4efc3e521fffc127aeecb382360d32871d96fd772bdfe5bb482": {
+    "translation": "Resistencia mágica",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "1c9ed3fbd6a25d6ce70234c2c835ba20ee576430a7b584fc112723a6f56d9ca8": {
+    "translation": "Aguijón",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d53895c6eb7816fb44ec7f46db45019172de4793a42ccaf893ed71ec8ed00743": {
+    "translation": "Invisibilidad",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "2738ec45c4a2bf46b4731add5f5b7cddea299a34126edf93c1aa409986310af6": {
+    "translation": "Cambio de forma",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "820e5b26978ddc8d5d85b8fe5fc1cfb221f0a9b42d35e4c18725440d46d36dee": {
+    "translation": "Cambiar de forma",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a9f365944fdf5bc4bfd7d527cf945650fe36235772be306c8018a53ae23f214a": {
+    "translation": "Forma de rata",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "925906aa3c7a4adeacf053043c7023209ab8d4709a6660cecfb8fc9468a39ca4": {
+    "translation": "Forma de cuervo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "bfb1c228b788747c389e0443762ab5e7aefd09631bc6b95a0a8d19c515fc9355": {
+    "translation": "Forma de araña",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "1500405573373612419407ad142611c4bee504ae927cc1835e1a1ec54c5497ad": {
+    "translation": "Lanzar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "79b1a3795041f402c7b0a55a12ffd95713def27a6bc99a5ea403720485a4effc": {
+    "translation": "Infierno",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a67c861c21fadb570c7372d4816b2f9ecd935707a574d1c67d7916d19910875f": {
+    "translation": "Colocar infierno",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "117d3c5bad0c35da1372ee59a524d446655af3c027db8d862d7fb53bdddb96ab": {
+    "translation": "Ardiendo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7e4d8f5df1ab11644616bd212946333e5270a940a20796834415322e77f0ebbb": {
+    "translation": "Globo flotante (Luz)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ffee89e3ddeb59c589c78e13fdde6702ab73bc0e3510fdaede786890360d3a48": {
+    "translation": "León",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "73474ca90ce6a1f1aca1249d04c36322744234e1d60e3bae31451327f6b397f6": {
+    "translation": "Salto en carrera",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c00f7c7d586094c32e38c1cf1a250d41bc271b6b4ee1751b1c6346460e9d098b": {
+    "translation": "Rugido",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "3f6a70f07be990ec8a41c70ac97fd3eb1d1c8cf4c59ed9045a9a60077b65bca7": {
+    "translation": "Mastín",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "fe40c362a78d880b145f2ca9ea449ec90c47c24248cb62e18e8367b0695346df": {
+    "translation": "Mula",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "cc0cf2b5484b40a990938a7722c52007ee67b66c4e06493d5fedc9cbfe853ac0": {
+    "translation": "Bestia de carga",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a78623da70d5561d886e21092c6009140b04bbbcdce497eceb3c60e123c63a02": {
+    "translation": "Pantera",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "706a5cdec2608e34262b1ab36b3d8ff24e87054b4041ddf2a63e9083775430c9": {
+    "translation": "Salto",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "9f088fbb844260af561e7130fa907d0ed81c95d026f1ad2df05f63d6a97ed70b": {
+    "translation": "Ataque con ventaja",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "73101c1585d2ec0ea6d4b8a511cf0b786085c3c1b7234ee4cf32d04d503a8a99": {
+    "translation": "tiene ventaja en este ataque",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "a1c335317372cd4afd4ff838b2352eb9694af8ad1c78394a50af1611c9e83fe7": {
+    "translation": "Acechar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "8702e5aa6b009a1257c1b6db5bf60bd4d24501afdbc17637886fa2b7665a7448": {
+    "translation": "Moverse y esconderse",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "8d93fb4d57abad7a4de7c08fed066d5d97d6b19bf7b11be44c563b074373719f": {
+    "translation": "Trampa de dardos envenenados",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "8e37811cec5568003de9402088e4a51ec06fb7567afa7f9cef59581945600180": {
+    "translation": "Trampa de aguja envenenada",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "baf29cb77c147299d52c137795613c58e4dba622d83c8c4269bb916637cb2328": {
+    "translation": "Aguja envenenada",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "2331ae79620e9ef1a78e12e700bfd16b23806003a0e6e74463ac6cf832d468e3": {
+    "translation": "Gas venenoso",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "f6deafaea8138cc7a7cad325856b53d3ae71947e4b72d023cbbdf8dccc924aa1": {
+    "translation": "Colocar el gas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ecfc05029ef7da8e513afd86eb1a714bb63b9da2fa0a0886298bfc3ab8baf168": {
+    "translation": "Salvación, niveles 1-4",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5f41566d1a9320e271856391a3af0b86aa0b77882db160f59c6ed344c3505725": {
+    "translation": "Salvación, niveles 5-10",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6bc0fd8d5a5d30fd1d3bf9e77b440f95081b17306cd39ac35efa3578515ee865": {
+    "translation": "Salvación, niveles 11-16",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c744b5899ccbcd9436c7139ea0b6a77094874985d960d5b858099f8eb0a194db": {
+    "translation": "Salvación, niveles 17-20",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "49b69a1e2bcc4f4ae94be6aae63c11a3539f93772e2a373c21134b432106ecb4": {
+    "translation": "Foso de arenas movedizas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "513ee5115a5bf677a7ff0472643547643e8973a32a71920695f5910a692482b2": {
+    "translation": "Colocar foso de arenas movedizas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ea181fe26c3178d833fe7f40acd46b020882a2ece1d702bd7340cdafe5073e66": {
+    "translation": "Prueba para escapar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4240730448f043dba3590cce26b7d05ef14304154eae991174496521374af253": {
+    "translation": "Sacar a otra criatura",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d606ae3e2f4a7d0e2055ff239c14a4bfaaee7b34d3b946458ba1cdaf7b172352": {
+    "translation": "Rata",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5b544f4841528d1859d381c0d40230c263426966ca91ad74199ee56858c555e1": {
+    "translation": "Ágil",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "9cccdbb77e00a04c314f08697e8c5b953dd1134ef9088b6de5819dcfb177e1c3": {
+    "translation": "Cuervo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "71623e6fdfa9d880f56c582eb8efce7bab866bb1605f46b62a7eea0e832e11ed": {
+    "translation": "Imitación",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "520df3fb8ff2451a208469ecb84916a054a523ea24b3cdeab9d71e81abd12579": {
+    "translation": "Pico",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c387b24b5969cd9d14f894ad0e3740dff6bb35815534126538ea1138e3a450d0": {
+    "translation": "Enredadera afilada",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e6010a67bb9590f1f09743c17acccfa485344a9427c07e999ac5e84b1cca44d9": {
+    "translation": "Colocar enredadera afilada",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "02127e82e5247a64698358f5fcf8822ed940a9274df0045cf3a6735cce0e88a6": {
+    "translation": "Caballo de monta",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6d4b27a12898b242be0b64ced3d29f47253489377605ec7b9efccf6c89e56950": {
+    "translation": "Río Estigia",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "10c1c65fcbded2c577b006727d1e238d14a0a394c54092e80aa248c0d2c53bdd": {
+    "translation": "Efectos del río Estigia",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e9d9e09ac2a9c3b2aff78aeae03abb9e21a2e66138733f1a2f9ad6b0b8096528": {
+    "translation": "Derrumbe de rocas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e037d893e19fd5f14fc9de9aeb9a79548f498c404a1303ebd029e2cbc384ea54": {
+    "translation": "Derrumbe de rocas, niveles 1-4",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "2193cd08e560be88bae1515472db210db8c03123a47ea87d9b5e55049086c901": {
+    "translation": "Derrumbe de rocas, niveles 5-10",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "89f9d62dce6ff17838a16f6e67fdb0adce607a9a1767756b29c18c5ace10a79f": {
+    "translation": "Derrumbe de rocas, niveles 11-16",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "718b01ac3341a736747eb50da931b6c1d1a8cd5066a886b2d7f8d9804ed8631b": {
+    "translation": "Derrumbe de rocas, niveles 17-20",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "10fb6d82528b4dc25087e7206fd102aaf60325d65f24266df48f2711b1e47741": {
+    "translation": "Bajo las rocas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c39958aaab586b46d0a5d9b8b967fa57be6c6a95016b83129e5766d81ce322d7": {
+    "translation": "Ensangrentado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7c0a0f9e003effc14fd70a184474b0cb571063820a242bf042e4857a02648ba6": {
+    "translation": "Trampa de roca rodante",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4b2bebbf33aeb7aea11cbab9d95019a647ca038b638f99f593aae85b986ed2e2": {
+    "translation": "Ralentizar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ea5f6bdc79b884c397d6163ed999deafd3908d8c928097911d4085a99ef1b575": {
+    "translation": "Esqueleto",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "98469a9f08315d135c60ff37f0231cd39fa036634a517b53313314f0cafc59ee": {
+    "translation": "Arco corto",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "efea9b54a8b460f057eff88ccf4895a406186d6daf55e3d2c5db9aba8e3e5776": {
+    "translation": "Trampa de foso con estacas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "410f76d01d8a9981298d28eb994b0b6f2edcbee342281fa724f37d524a5bf1b8": {
+    "translation": "Tigre",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e887e0c7ae945d553e506b89407b3d0925038c3e0c7fbfc855c66dc8f9ffdc40": {
+    "translation": "ataque realizado con ventaja",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "b9f36439898b3eb829619fefd5adbd80821f16266a999a24566f026a71eae32e": {
+    "translation": "Enredadera feroz",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0e1674bb9b06b0043cca08ea2fcbf55038d82528085cfb3355bd37e094a2da84": {
+    "translation": "Salvación, niveles 1-4",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "911b580974f297372c8e6dad6d753aed6f0fdf565d244403b1b6407b58f78a1f": {
+    "translation": "Salvación, niveles 5-10",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "861406300b821dc67341907c46faf29fb2b05b378d39af4bea31e26b43e3c94c": {
+    "translation": "Salvación, niveles 11-16",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "70ebee4e8cae53039053d202f4b3734c735de5bcefa565ecc023be0d774fb316": {
+    "translation": "Salvación, niveles 17-20",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "f55f0f95b21db5e97d1fea24183f76d6a0b8344a26529ef16fa091303ea4c4d8": {
+    "translation": "Prueba para persuadir a la planta",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "bac64c5e119097841efb45ccb7c5a568821e39e258feb9d78f57fcb986502ecb": {
+    "translation": "Atrapado entre enredaderas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "79e1e75882a89a8d3ee5d92c3b9e29c52d66e08707466318977a0161a4bb069c": {
+    "translation": "Comadreja",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "1ec3b637c23a52f410704a08e78d3e49db83ce9f2687362b3807c62f4be6e5b7": {
+    "translation": "Telarañas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "3d0a7fd7278d9ee9034215e5b521b4adf9ad5018b2d726c941d9c28b0103903d": {
+    "translation": "Atrapado en telarañas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ea858afbf837aae714617e89a36524aced28f7de921f7798e72810fd8839a462": {
+    "translation": "Lobo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6d7fee7be461a0142d3fccec25ffdbf72d71e937852c4486b331b942b8b0c5be": {
+    "translation": "Moho amarillo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "3c3e657a70eddc072f19eb65df6cbdc119ae1da4d09561daadef9f898861f1a0": {
+    "translation": "Colocar moho",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5ead9d75291870ee3ee7cf7f58540b2244bd88da33cbadbec631c919ac9bb0d1": {
+    "translation": "Tocar moho",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ef44dd167ad9871c5538423b4f5ef7aacbb27e027cf7eef222362cd07ce56a10": {
+    "translation": "Daño al inicio del turno",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6dc21afe4edec3c11b085c474e88026cefc74581cca0c738a9fcca1466b7ff99": {
+    "translation": "Envenenado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "4c876e938c74ff4d6ee0e587623abf3c4a399188742b9318a786b2dd108489ba": {
+    "translation": "Zombi",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "3436ea6964bc7546e8da3c51e604118bd0089d55346bf4b0b2d3201524667eb1": {
+    "translation": "Entiende los idiomas que conocía en vida, pero no puede hablar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "9358edf64fe9987a1d9ea9f73aa874c9c3a8d2c7d8755273f261002e3e952b00": {
+    "translation": "Fortaleza de muerto viviente",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5733b3547c53d623e30e99276f0b6d454e3fdf338445ccf8501a61755ef62556": {
+    "translation": "Reducido a 0 puntos de golpe",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5b180dc7cc325d7f3f211dee9f4ea37de9427398fefe1e9eb22ffa313ae843db": {
+    "translation": "Golpe",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "52fc9b6d217e60823c0ac1f1383fa40ce6e6c514957fe2330d51725845438b9d": {
+    "translation": "Espada danzante",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "7caa0fa619e382ef655de551803638b595e7af369b8bca264fd97c0fa5cc39a7": {
+    "translation": "Espadón",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "45d2cf8ceb55546509b9dacef14ae16382019a0fe49e1ade9efed60300c7f1c6": {
+    "translation": "Orden: moverse y atacar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6484908a00a5b9c9631d5639b437c88f004935f2e3b19b21fe534ae63785f4a8": {
+    "translation": "Acción adicional realizada por el personaje sintonizado",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c78f3c98ef0fa4731f0f40a2d47f910a4c4c734eb9d4421102ce1b2ffd934148": {
+    "translation": "Puede moverse hasta 30 pies antes de atacar",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "c47593d2cf1da5f5febca151a7f2be3a13397667a51881906b12af1ef5aa0887": {
+    "translation": "Espada larga",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "827d1a2235804db2eb37e5e540cc5f03632c4d65037f663da30524586be5b49d": {
+    "translation": "Estoque",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e188d7831c070557fffa1fca940417a857bec4313529d8117e5381b9f4e6a74a": {
+    "translation": "Cimitarra",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "bb6936f39d71c7007f23f92b5ee15d30c2ace70a159864f2f01ee3d9541491b0": {
+    "translation": "Señor de los animales",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "40163a7ed0a65736362cbe15b20252b2d3c5082b6afc9b0c1b258a86394a8a2b": {
+    "translation": "Escoba animada",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "60c3b87effe610a6945976ee67e8314a148f7b07e888808a9636a85be8c95da5": {
+    "translation": "Amasijo de aniquilación",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "9a80d98232f94f642efc3a176d29e570815568a49a47acda7db385a679439c95": {
+    "translation": "Coloso",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "da435021c6cc50f915cf66a07a8c73600eb9fe19764a95156169c48c2cfcede6": {
+    "translation": "Cataclismo elemental",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0c64a1ff680833bd562181f802861884fd4b163cbc0ed586aa6243d11574cadf": {
+    "translation": "Empíreo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "6edb87024ee3700cd2f0a2045cdee4be588fd6299bce77025affb264399b04f6": {
+    "translation": "Larva",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "0509026e588199371fcae6a9b71cff3f23436d9d85b984287738020360cc2548": {
+    "translation": "Látigo flotante",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "fa9a46cc891db6a5400efad71894f5fd3f3b0924c756ccf84260fae66808f888": {
+    "translation": "Ficha de pluma",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "5ee00baf36cec60577c6c0f28694c44d7438eab76e6195a67c16921c9c85f416": {
+    "translation": "Ataque de conjuro cuerpo a cuerpo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "db26da16199975d07db71091131de254a954be6e8c299363dd1bb4e88d0e89bc": {
+    "translation": "Defensor del bastión (caballero)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "004c59916b2591d4e68a6f5fe56596ce41f2ad87af913006c32fe026bda474ec": {
+    "translation": "Cualquier especie",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "03f74e91e302151c0074c120462202be3055bd784295e1fa0729229f72fef570": {
+    "translation": "Armadura de placas",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "80d40c8d1f843eaf6ba25df4c00ee52f99d7cc42f2411c62a8f86d076ed93507": {
+    "translation": "Ballesta pesada",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "ec75f79040af17557c450e94a4214a484350634a433592d2eb31784c5a46e865": {
+    "translation": "Liderazgo",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e5567f841f437ac99989eab2e477ba8eebe7f39bc9b55311bf7037b30444f024": {
+    "translation": "Parada",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "e7d91391c151982552241e802cf3bf1cf34efee5f0e37141a371a5a91e99e2b8": {
+    "translation": "Valiente",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  },
+  "d23b509bfb304d13f3a93526c9ee4eda4335fecc82fa235fd7888a06619986c2": {
+    "translation": "Defensor del bastión (espada)",
+    "reference": "DMG 2.0.0: actors; revisi?n contra el original ingl?s local, 2026-09-29"
+  }
+}

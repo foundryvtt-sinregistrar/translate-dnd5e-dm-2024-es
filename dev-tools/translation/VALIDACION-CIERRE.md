@@ -95,3 +95,29 @@ cambio de nombre de la daga. Al terminar se agruparon las muestras en carpetas
 **QA - DM cierre 2026-09-29**, se restauraron el comando de la macro y los cero
 módulos activos y se recargó. El mundo quedó en pausa, con reloj 0 y sin escena
 activa. Registro local: `tmp/completion-restored.json`.
+
+## Clon aislado y paquete extraído
+
+El commit `a077a65` se clonó en un directorio temporal sin exportaciones privadas
+ni módulos hermanos. Pasaron 18 pruebas Node portables y las 24 pruebas Python
+del constructor; las otras siete Node se omitieron explícitamente porque
+requieren fuentes privadas. Esas siete sí pasaron en el repositorio de trabajo.
+Se construyeron los cuatro artefactos de desarrollo y se extrajo el ZIP: todas
+las rutas de ejecución del manifiesto existen y las herramientas y pruebas
+quedan excluidas. Evidencia: `tmp/clean-review-validation.json`.
+
+Esta comprobación no equivale a instalar o actualizar desde la pantalla Setup
+de Foundry. Tampoco constituye una nueva release: el manifiesto sigue en 0.1.1.
+
+## Revalidación de actores y escenas
+
+El segundo lote lingüístico pasó de nuevo en Foundry a las **07:12:11 UTC**:
+873 documentos, 3468 enlaces, cero errores y cero destinos pendientes.
+Evidencia conservada: `tmp/actor-scenes-validation.json`. Pasaron también las
+25 pruebas Node con originales y la auditoría de los siete compendios.
+Se restauró la macro y se verificó la interfaz en pausa y con cero módulos activos.
+
+El arranque sigue registrando un error de dnd5e 6.0.3 en `renderCombatTracker`
+al acceder a `getGroupingKey` desde un valor nulo en este mundo QA; aparece tanto
+sin módulos como con las dependencias. No impidió la validación del catálogo.
+No se atribuye a estos cambios de traducción ni se declara resuelto.
