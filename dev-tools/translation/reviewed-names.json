@@ -1047,9 +1047,45 @@
     "pack": "equipment",
     "id": "dmgRazorvine0000",
     "english": "Razorvine",
-    "name": "Enredadera feroz",
+    "name": "Enredadera afilada",
     "previousNames": [
-      "Enredadera afilada"
+      "Enredadera feroz"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgRingOfElement",
+    "english": "Ring of Elemental Command",
+    "name": "Anillo de control de los elementales",
+    "previousNames": [
+      "Anillo de mando elemental"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgWaterRingOfEl",
+    "english": "Water Ring of Elemental Command",
+    "name": "Anillo de control de los elementales de agua",
+    "previousNames": [
+      "Anillo acuático de mando elemental"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgWave000000000",
+    "english": "Wave",
+    "name": "Oleaje",
+    "previousNames": [
+      "Ola"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgWhelm00000000",
+    "english": "Whelm",
+    "name": "Rotundo",
+    "previousNames": [
+      "Anegamiento"
     ]
   }
 ]

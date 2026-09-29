@@ -36,6 +36,12 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Completado el cotejo del equipo: 2449 campos en 548 objetos, incluidas 539
+  descripciones. El último lote corrige 261 campos y concordancias de enlaces,
+  conserva cifras y referencias y distingue enredadera afilada de enredadera
+  feroz. Se revisan requisitos, negaciones, estados, instrucciones de actividades
+  y los nombres Oleaje y Rotundo. La revisión extensa de diarios sigue pendiente.
+
 - Cuarto lote de equipo: 151 correcciones en 107 objetos y tres concordancias
   en actores, tablas y diarios. Registrados 1914 campos revisados, con 377
   descripciones completas. Documentada la discrepancia 23/25 de Fuerza en la

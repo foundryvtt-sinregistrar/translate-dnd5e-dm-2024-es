@@ -213,11 +213,45 @@ La auditoría de originales, las 25 pruebas Node y la reaplicación de los
 registros pasan. La comprobación de Foundry de las 08:39:25 UTC corresponde
 al lote anterior; no se atribuye a estos cambios posteriores.
 
+## Equipo — octavo lote del 29 de septiembre
+
+El registro completa los **2449 campos de los 548 documentos**, incluidas
+**539 descripciones completas**, mediante 1990 huellas de texto inglés y
+ámbitos explícitos de documentos. Se han cotejado los 535 campos restantes;
+el lote cambia 261 campos de 183 objetos, una etiqueta de actor y cinco campos
+de diarios. Los diarios reciben concordancias de enlaces, sin dar por revisados
+sus párrafos completos.
+
+Incluye anillos, túnicas, varas, pergaminos, bastones, espadas, varitas y peligros.
+Se corrigen negaciones, requisitos de clase, estados, tipos de daño, duraciones,
+instrucciones de uso y nombres de actividades. El Tomo de la lengua silenciada
+lanza sin componentes verbales ni somáticos. Oleaje, Forjatrueno, Rotundo y el
+clan Martillofuerte se cotejan con el OCR español.
+
+El cotejo también corrige una decisión del séptimo lote: **Razorvine es
+enredadera afilada**; **Vicious Vine es enredadera feroz**. Se actualizan el objeto,
+su actividad, la actividad del actor y las etiquetas de enlaces, conservando
+ambas criaturas diferenciadas y sus respectivos datos mecánicos.
+
+El texto se compara íntegramente con el original inglés; el contraste del OCR
+español es selectivo. No se afirma una transcripción literal de la edición
+española. Se conservan las unidades de Foundry, las cifras, las fórmulas, las
+referencias y la secuencia de etiquetas HTML.
+
+La auditoría de los siete compendios y las 25 pruebas Node pasan. Los registros
+de nombres, etiquetas, descripciones, equipo, actores y tablas se reaplican sin
+cambios pendientes.
+
+Foundry validó los 873 documentos y 3468 referencias a las **09:31:11 UTC**,
+con cero errores y cero destinos pendientes. Evidencia local:
+`tmp/equipment-review-5-validation.json`. Se conservaron los documentos del
+mundo y se restauraron la macro y la configuración de módulos tras la prueba.
+
 ## Alcance pendiente
 
 Los lotes revisados **no acreditan la revisión íntegra de los 6021
 campos ni de las aproximadamente 233 000 palabras** de los siete compendios.
-Quedan por revisar las descripciones extensas de equipo y los párrafos de diarios,
+Quedan por revisar los párrafos de diarios,
 además de la concordancia entre etiquetas nuevas y menciones
 en párrafos. La referencia para esa revisión es el OCR español local y el
 original inglés exportado; se conservan las unidades de Foundry.

@@ -11,7 +11,7 @@ final ni interpretar la presencia de un campo como certificación de calidad.
 |---|---:|---:|---|
 | Rasgos | 23 | 48 | Revisados con la referencia española |
 | Bastiones | 35 | 89 | Revisados; incluye la página de instalaciones básicas |
-| Equipo | 548 | 2449 | Revisión parcial: 1914 campos registrados, incluidas 377 descripciones completas; no todos los objetos revisados |
+| Equipo | 548 | 2449 | Cotejo completo de los 2449 campos, incluidas 539 descripciones; contraste terminológico selectivo con el OCR español |
 | Tablas | 125 | 1738 | Revisadas contra el original; contraste español selectivo, nombres y limitaciones documentados |
 | Actores | 72 | 606 | Revisados contra el original; contraste terminológico selectivo con el OCR español |
 | Contenido | 46 | 949 | Borrador de 473 páginas; revisión parcial |
@@ -132,7 +132,10 @@ de las descripciones y párrafos completos que se detalla a continuación.
 - Tablas: revisados los 1738 campos; tercer lote de 832 correcciones, incluidas
   concordancias de nombres en equipo y diarios. Se documenta un UUID equivocado
   del original en Reliquias muy raras, además del rango ausente ya conocido.
-- Revisar equipo y diario por lotes contra el texto español;
+- Equipo: cotejo completo registrado por fuente y documento; se conservan las
+  cifras y mecánicas originales. El OCR distingue enredadera afilada de
+  enredadera feroz; se corrige la confusión introducida en el lote anterior.
+- Revisar los diarios por lotes contra el texto español;
   atender a negaciones, condiciones, duración, nombres propios y frases cortadas.
 - Unificar los nombres citados en párrafos con los nombres finales de entradas.
 - Revisar inglés residual en HTML, atributos visibles y títulos; distinguirlo de
