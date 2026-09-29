@@ -353,6 +353,32 @@ Pasan las 25 pruebas Node y la auditoría de los siete compendios; reaplicar
 el registro no genera cambios. La prueba Foundry de las 10:16:12 UTC precede
 a este lote y no se atribuye a estos nuevos textos.
 
+### Cuarto lote de diarios — Herramientas de DM
+
+Cotejo completo de las 26 páginas de Herramientas de DM: el registro alcanza
+**662 de 949 campos**, 593 huellas de fuente, 199 textos de página y
+**24 diarios completos**. Se añaden 45 campos revisados y se corrigen 30 de un
+documento. Se mantienen las tablas, cifras, referencias y etiquetas HTML.
+
+Se revisan alineamiento, trasfondos, persecuciones, creación de criaturas y
+conjuros, maldiciones, muerte, puertas, mazmorras, ambiente, miedo, armas,
+dioses, peligros, prestigio, multitudes, PNJ, venenos, renombre, asentamientos,
+asedio, dones, trampas, objetos mágicos y lealtad. Se corrigen confusiones entre
+acciones y salvaciones, cuadrados de 10 pies de lado y superficies de 10 pies
+cuadrados, recarga, tipos de daño, competencias, estados y concentraciones.
+
+El inglés de Linaje feérico omite el nombre del estado en «avoid or end the
+condition». Se restituye «hechizada», confirmado por el OCR español (página
+PDF 61). Las reglas de lealtad del original incluyen **10** tanto en «10 or
+higher» como en «between 1 and 10»: se conserva y documenta ese solapamiento,
+sin cambiar unilateralmente el umbral de juego. Las listas que conservan el
+orden inglés lo indican expresamente.
+
+Pasan las 25 pruebas Node y la auditoría de los siete compendios. La comprobación
+en Foundry de las 10:16:12 UTC precede a este lote; no acredita los textos nuevos.
+Quedan **287 campos de diarios** y la concordancia final, incluidas las etiquetas
+de páginas y las menciones a objetos y peligros en distintos compendios.
+
 Los lotes revisados **no acreditan la revisión íntegra de los 6021
 campos ni de las aproximadamente 233 000 palabras** de los siete compendios.
 Quedan por revisar los párrafos de diarios,

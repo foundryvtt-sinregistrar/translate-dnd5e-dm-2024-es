@@ -40,6 +40,10 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Cuarto lote de diarios: cotejo completo de Herramientas de DM, con 30 campos
+  corregidos. El registro alcanza 662 de 949 campos, 199 textos de página y
+  24 diarios completos; quedan 287 campos y la concordancia final.
+
 - Tercer lote de diarios: 617 campos registrados y 23 diarios completos.
   Cotejados cosmología, creación de aventuras y campañas y créditos; corregidos
   64 campos, incluidas reglas planares y nombres de autores dañados por el
