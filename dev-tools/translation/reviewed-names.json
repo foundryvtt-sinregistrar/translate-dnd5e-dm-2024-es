@@ -862,5 +862,86 @@
     "previousNames": [
       "Clima: Viento/Precipitación"
     ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgBlessingOfMag",
+    "english": "Blessing of Magic Resistance",
+    "name": "Bendición de resistencia mágica",
+    "previousNames": [
+      "Bendición de la Resistencia Mágica"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgBootsOfTheWin",
+    "english": "Boots of the Winterlands",
+    "name": "Botas de las tierras invernales",
+    "previousNames": [
+      "Botas de las Tierras Invernales"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgBrassHornOfVa",
+    "english": "Brass Horn of Valhalla",
+    "name": "Cuerno de Valhalla de latón",
+    "previousNames": [
+      "Cuerno de Valhalla de bronce amarillo"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgDmtDonjon0000",
+    "english": "Donjon",
+    "name": "Calabozo",
+    "previousNames": [
+      "Mazmorra"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgDmtEuryale000",
+    "english": "Euryale",
+    "name": "Euríale",
+    "previousNames": [
+      "Euryale"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgDmtPuzzle0000",
+    "english": "Puzzle",
+    "name": "Rompecabezas",
+    "previousNames": [
+      "Enigma"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgDmtRogue00000",
+    "english": "Rogue",
+    "name": "Canalla",
+    "previousNames": [
+      "Pícaro"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgDmtSage000000",
+    "english": "Sage",
+    "name": "Erudito",
+    "previousNames": [
+      "Sabio"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgDmtVoid000000",
+    "english": "Void",
+    "name": "El Vacío",
+    "previousNames": [
+      "Vacío"
+    ]
   }
 ]

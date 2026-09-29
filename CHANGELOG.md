@@ -36,6 +36,11 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Segundo lote de equipo: 183 correcciones en 80 objetos y concordancia de
+  dos etiquetas en tablas/diarios. El registro alcanza 1171 campos revisados,
+  incluidas 159 descripciones completas. Se corrigen cartas, invocaciones,
+  maldiciones y condiciones de activación; la revisión restante sigue abierta.
+
 - Ampliada la revisión de equipo a 835 campos registrados, incluidas 79
   descripciones completas: 179 correcciones en 96 objetos. Corregidos también
   acentos dañados en tres campos de tablas y uno de bastiones. La revisión del

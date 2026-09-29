@@ -151,9 +151,27 @@ de referencias, cifras o estructura HTML. Los auxiliares de nombres, etiquetas
 y las seis descripciones anteriores no proponen cambios tras aplicar este lote.
 Pasaron las 25 pruebas Node y la auditoría completa de originales.
 
+## Equipo — quinto lote del 29 de septiembre
+
+El registro alcanza **1171 campos en 337 documentos**, incluidas **159
+descripciones completas**: 336 campos más que el lote anterior. Este lote cambia
+183 campos de 80 objetos, más una etiqueta en tablas y una en diarios.
+
+Incluye cuernos de Valhalla, velas, sortilegios, capas, cubos, barajas, armaduras
+y el Demonomicon. Corrige la distinción entre brujo y hechicero, los tipos
+infernal/autómata, luz tenue, daño, condiciones de activación y el orden de los
+turnos de invocaciones. Las cartas quedan concordadas con las tablas revisadas:
+Calabozo, Euríale, Rompecabezas, Canalla, Erudito y El Vacío. El cuerno de latón
+adopta la denominación del OCR español, en lugar de «bronce amarillo».
+
+Se conservan fuentes, cifras, referencias y HTML. Las 25 pruebas Node y la
+auditoría de originales pasan; los auxiliares de equipo, tablas y nombres
+previsualizan cero cambios. La última comprobación en Foundry corresponde al
+lote anterior de las 08:04:31 UTC; no se atribuye a estos cambios posteriores.
+
 ## Alcance pendiente
 
-Este lote corrige etiquetas, **no acredita la revisión íntegra de los 6021
+Los lotes revisados **no acreditan la revisión íntegra de los 6021
 campos ni de las aproximadamente 233 000 palabras** de los siete compendios.
 Quedan por revisar las descripciones extensas de equipo y los párrafos de diarios,
 además de la concordancia entre etiquetas nuevas y menciones

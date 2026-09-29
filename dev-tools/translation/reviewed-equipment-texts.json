@@ -75,7 +75,7 @@
       "dmgAbsorptionIou",
       "dmgGreaterAbsorp"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "598c8fcb27203d697b536a6cfdefd167b95c0aec6f11cef2e834461d355639c0": {
     "translation": "cuando una criatura que puedas ver lance un conjuro de nivel 4 o inferior",
@@ -90,7 +90,7 @@
       "dmgAbsorptionIou",
       "dmgGreaterAbsorp"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "b6d40f4f02b3f0e4325fc12e1b008b9b2100fa45856eb77da1e8a72c6233210d": {
     "translation": "Munición de adamantina",
@@ -153,7 +153,7 @@
     "documents": [
       "dmgAgilityIounSt"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "4bd7bff0f8197e33e250cdf2373e072317614fa4c283f271f0853c533bf553ec": {
     "translation": "<p>Tu Destreza aumenta en 2, hasta un máximo de 20, mientras esta esfera rojo oscuro orbite alrededor de tu cabeza.</p>",
@@ -202,7 +202,7 @@
       "dmgFireRingOfEle",
       "dmgWaterRingOfEl"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "4309e83a3ded6e6616a2338ed03c2e5c1a5e4e6ec65fd7e22c475141510a2d48": {
     "translation": "Elemental",
@@ -338,7 +338,7 @@
     "documents": [
       "dmgAmuletOfThePl"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Revisión de actores: mismo texto inglés completo; contexto de objeto o efecto."
   },
   "c36d819e7bc6d2b7da51394411c733db89c395987885ca6770167a3b9bc45c3c": {
     "translation": "Usar",
@@ -450,7 +450,7 @@
     "documents": [
       "dmgApparatusOfKw"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Revisión de actores: mismo texto inglés completo; contexto de objeto o efecto."
   },
   "ea2cfa22caa47e2e4e6d58769aac48a009d4a77bbcc5038a9ab7db794254277d": {
     "translation": "<div><p><em>Objeto maravilloso, legendario</em></p><p>A primera vista, este objeto parece un barril de hierro sellado que pesa 500 libras. El barril tiene un cierre oculto que se puede encontrar superando una prueba de [[/check ability=int skill=inv dc=20]]. Accionar el cierre abre una escotilla en un extremo del barril que permite a dos criaturas Medianas o más pequeñas entrar arrastrándose. En el extremo opuesto hay una fila de diez palancas, cada una en posición neutra y capaz de moverse hacia arriba o hacia abajo. Al accionar ciertas palancas, el aparato se transforma hasta parecer una langosta gigante.</p><p>El <em>@UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.dmgApparatusofKw]{Aparato de Kwalish}</em> es un objeto Grande con las siguientes estadísticas: CA 20; PG 200; velocidad 30 pies, nadando 30 pies (o 0 pies en ambos casos si las patas no están extendidas); inmunidad al daño de veneno y psíquico.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.actors.Actor.dmgApparatusofKw caption=false]</p></div>",
@@ -464,7 +464,7 @@
     "documents": [
       "dmgApparatusOfKw"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "78e21ab2e8f0ba07640505d53fd10ae28ae3eb2911030f9ff180a75f364e28e7": {
     "translation": "Mueve hasta dos palancas hacia arriba o hacia abajo",
@@ -663,7 +663,7 @@
       "dmgArmorOfResist",
       "dmgRingOfResista"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "726cddd9d3d7a7315cd831122400f4c32de2f9dd690e04439573a465642606b4": {
     "translation": "Resistencia al frío",
@@ -693,7 +693,7 @@
       "dmgPotionOfResis",
       "dmgRingOfResista"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "6d4234775b801fc96e6179702d0ce12f805835c8638f10ac9999919815caea22": {
     "translation": "Resistencia al relámpago",
@@ -721,7 +721,7 @@
       "dmgPotionOfResis",
       "dmgRingOfResista"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "32da3173e6b24736edccda21026c0df469bb915e8b8cacf49b818e57f68cfa7f": {
     "translation": "Resistencia al daño psíquico",
@@ -774,42 +774,42 @@
     "documents": [
       "dmgArmorOfVulner"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "50b2102ed54d8ad830a9253c2a8cc5f1adcf4f54d2ed772df082e346cc75b490": {
     "translation": "Armadura: resistencia al daño perforante",
     "documents": [
       "dmgArmorOfVulner"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "e4034c9570188c84bbc545df82a5cb08913cc64e4125e3f3b9171401ea540d4e": {
     "translation": "Armadura: resistencia al daño cortante",
     "documents": [
       "dmgArmorOfVulner"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "532d33812da14336a7cef7930852120b830e9e61ced01c468a48eb9c69339b3d": {
     "translation": "Resistencia al daño contundente",
     "documents": [
       "dmgArmorOfVulner"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "32d9ab7db642e3852f683fff31340765287570375a7977689ea1e7b229bc9f19": {
     "translation": "Resistencia al daño perforante",
     "documents": [
       "dmgArmorOfVulner"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "6bf82a5ad38ecbc0d959d0fd7758a1582c98adcc8a54232cc9326d9597723c2b": {
     "translation": "Resistencia al daño cortante",
     "documents": [
       "dmgArmorOfVulner"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "a044aa0e465ba3aa0c47c9a2192c5083a65e949e2796ccf81c3ae89b0f616a3b": {
     "translation": "Escudo atrapa-flechas",
@@ -858,7 +858,7 @@
     "documents": [
       "dmgArrowcatching"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "c5c586bfbf4a66d13e614395633ebdfdc16961d485563988279d4febec9dee0a": {
     "translation": "<p>Obtienes un bonificador de +2 a la clase de armadura contra tiradas de ataque a distancia mientras empuñes este escudo. Este bonificador se suma al bonificador normal del escudo a la CA.</p>",
@@ -892,7 +892,7 @@
       "dmgTruthSerum000",
       "dmgYellowMold000"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Revisión de actores: mismo texto inglés completo; contexto de objeto o efecto."
   },
   "db9a08c11472f7479d96fa7dd92abf52af13d79d7ddd950f8a30249e004e0e8e": {
     "translation": "Usar veneno",
@@ -984,21 +984,21 @@
       "dmgAxeOfTheDwarv",
       "dmgDwarvenThrowe"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Revisión de actores: mismo texto inglés completo; contexto de objeto o efecto."
   },
   "1f3b709b646214714f0ce2ac1b46b273dac0f61c93892b115e11144eee601089": {
     "translation": "Conjurar elemental de tierra",
     "documents": [
       "dmgAxeOfTheDwarv"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "13640815bf2abc9d1d099a3f070c39f32dd852c3a379e8596f3068578b4193c4": {
     "translation": "Viajar por las profundidades (teletransporte)",
     "documents": [
       "dmgAxeOfTheDwarv"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "26927360b01392311941f0da9bc2a40105173a6882270380d6f877225f9bddd0": {
     "translation": "Si el objetivo está bajo tierra, no hay posibilidad de percance.",
@@ -1123,7 +1123,7 @@
     "documents": [
       "dmgBagOfBeans000"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "5b0791bc43cbb0cf5c800ab37d6c76eea64e2b042bc7318a9e59e05c1329ab41": {
     "translation": "Al descubrir la bolsa.",
@@ -1151,7 +1151,7 @@
     "documents": [
       "dmgBagOfBeans000"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "4da39ab458dc6d414dd83bfd777f1bfabf9e5ba3f3d7b20ecee609a651f27bdf": {
     "translation": "Interacción con el objeto",
@@ -1165,7 +1165,7 @@
     "documents": [
       "dmgBagOfBeans000"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "3e27d065bcb964952ffb55131c35558b6d1e9cadb6fff01c68ba13488a778c78": {
     "translation": "Tierra o arena",
@@ -1200,7 +1200,7 @@
     "documents": [
       "dmgBagOfHolding0"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Descripción ya revisada en reviewed-descriptions.json."
   },
   "a25474039df0c576d9e3339c71e38c70a6bd842970f9ce366b1595ff5b2a440f": {
     "translation": "Bolsa de trucos gris",
@@ -1223,7 +1223,7 @@
       "dmgRustBagofTric",
       "dmgTanBagofTrick"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "1136024f59e7ba25d31567e85f2e141f8a8fb3668c812eec1b1e8eb359a33ee9": {
     "translation": "El DM o una tirada en la tabla determina la criatura en la que se transforma",
@@ -1243,7 +1243,7 @@
       "dmgMangonel00000",
       "dmgTrebuchet0000"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "28427fa78a230e425f39ca571bdb28822b6ad43300a54ad4c1aaa84b232e63b0": {
     "translation": "Apuntar",
@@ -1255,7 +1255,7 @@
       "dmgMangonel00000",
       "dmgTrebuchet0000"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "56e21f3f31f751e21839369bfcbc1cbcf55a98cb80bebb9bd5ffd6cc8f3a96c3": {
     "translation": "Virote de balista",
@@ -1394,7 +1394,7 @@
     "documents": [
       "dmgBerserkerAxe0"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "f1ee4c475954505f6ad6759fd8f71c4d5f8db91a8da6675aaef182c6e27bef57": {
     "translation": "<p>Mientras estés sintonizado con esta arma, tus puntos de golpe máximos aumentarán en 1 por cada nivel que hayas alcanzado.</p>",
@@ -1464,7 +1464,7 @@
     "documents": [
       "dmgBlackrazor000"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "329b5552b855cd76183a833e4acfc6913020ae88c8644ab10b4cf1a38c552fd6": {
     "translation": "<div><p>Mientras sostengas esta arma, tendrás inmunidad a los estados de hechizado y asustado, y visión ciega con un alcance de 30 pies.</p></div>",
@@ -1577,7 +1577,7 @@
       "dmgIronHornOfVal",
       "dmgSilverHornOfV"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "2361115ec2cd69cd82847a36c6ea04bccce4f5b03bb74082123a0c1b2cd8a941": {
     "translation": "espacios desocupados",
@@ -1738,7 +1738,7 @@
       "dmgBookOfExalted",
       "dmgBookOfVileDar"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "8e71dfa6d7fe09becaa803978d567ff23fd25de5f6a75dde5fb6bc80bed6bcde": {
     "translation": "Activar halo",
@@ -1808,7 +1808,7 @@
     "documents": [
       "dmgBookOfVileDar"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "fdc766d1db0322444edbffc7f16a8b18eb1d9967f626cf057469a0838e14ede4": {
     "translation": "[[/damage 1d12 type=psychic]] a sí mismo",
@@ -1859,7 +1859,7 @@
       "dmgCloakOfElvenk",
       "dmgCloakOfTheBat"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "852f2f2e392c7a42bb3c6d64efc7b6c35def69bee4258d07dd05ccc2a5687f8d": {
     "translation": "Botas de huellas falsas",
@@ -1901,21 +1901,21 @@
     "documents": [
       "dmgBootsOfSpeed0"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Descripción ya revisada en reviewed-descriptions.json."
   },
   "3e5d24e4d77804749380bee9327fcc6ebc15fcf760a8a9051bbda96f88ab30fd": {
     "translation": "Entrechocar los talones",
     "documents": [
       "dmgBootsOfSpeed0"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "a8a75302841795140719a3bc5d400ffc53c9eb275d589847cace177f5ed93637": {
     "translation": "Botas de velocidad activadas",
     "documents": [
       "dmgBootsOfSpeed0"
     ],
-    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+    "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
   "10fd4a51f0f5526c0bf33116535df6cefcd4006153cd3b6522ae25aa09f269cd": {
     "translation": "<p>Las botas duplican tu velocidad y cualquier criatura que realice un ataque de oportunidad contra ti tiene desventaja en la tirada de ataque. Si vuelves a entrechocar los talones, el efecto termina.</p>",
@@ -1980,6 +1980,34 @@
     ],
     "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
+  "271bbe83fee84174a3f6950b23ce1db68e2b00b89eba5f74980f9f36866fc7cb": {
+    "translation": "<div><p><em>Objeto maravilloso, raro</em></p></div><p>Mientras este cuenco esté lleno de agua y te encuentres a 5 pies o menos de él, podrás realizar una acción de Magia para invocar un <strong>@UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.namJz755U1EhvEJa]{Elemental de agua}</strong>. El elemental aparece en un espacio desocupado lo más cerca posible del cuenco, entiende tus idiomas, obedece tus órdenes y actúa inmediatamente después de ti, en tu mismo valor de iniciativa. Desaparece al cabo de 1 hora, cuando muere o cuando lo despides mediante una acción adicional. No se puede volver a usar el cuenco de esta forma hasta el siguiente amanecer.</p><p>El cuenco tiene aproximadamente 1 pie de diámetro y la mitad de profundidad. Su capacidad es de unos 3 galones.</p>",
+    "documents": [
+      "dmgBowlOfCommand"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "cd29b40ba0bb1160ff23bc74e5cab398653c90a8c2945ef20ea61ecfb8c0dd56": {
+    "translation": "espacio desocupado lo más cerca posible del cuenco",
+    "documents": [
+      "dmgBowlOfCommand"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "dba77337ae37abaa94ca8d759885cb6692ae6e42b7d54c08e89633bb81a3d58c": {
+    "translation": "<div><p><em>Objeto maravilloso, Infrecuente (Requiere sintonización)</em></p></div><p>Mientras lleves puestos estos brazales, tienes competencia con el arco largo y el arco corto, y obtienes un bonificador de +2 a las tiradas de daño hechas con esas armas.</p><section class=\"secret\" id=\"secret-l1W6lw8WR2ku4qP2\"><p><strong>Nota de Foundry</strong></p><p>El efecto pasivo <strong>Daño adicional: arcos</strong> aplica el bonificador de daño a <em>todas</em> las tiradas de daño de armas a distancia y debería desactivarse antes de tirar daño para armas que no sean un arco largo o un arco corto.</p></section>",
+    "documents": [
+      "dmgBracersOfArch"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "0cf121a0d37cc1b185aeda0d90549a20e855102264c4634ddcaa65fc884977ce": {
+    "translation": "Brazales de arquería",
+    "documents": [
+      "dmgBracersOfArch"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "7b814c6f77d6a8969de3be25807d52d26cb1ba15ebf765cab5bf5f836c9a5feb": {
     "translation": "Competencia con arcos",
     "documents": [
@@ -1994,12 +2022,154 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "eed7b6e798475d5078fb01e1321c38d35b982a4f90b5a5fa395d8caed5bffc40": {
+    "translation": "<p>obtienes un bonificador de +2 a las tiradas de daño de ataques a distancia realizados con un arco largo o un arco corto</p>",
+    "documents": [
+      "dmgBracersOfArch"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "7335255a6838fd8821486f9ae55f7f2ce6781e31fdf8014b33b592a834500245": {
+    "translation": "<div><p><em>Objeto maravilloso, Raro (Requiere sintonización)</em></p></div><p>Mientras lleves puestos estos brazales, obtienes un bonificador de +2 a la Clase de Armadura si no llevas armadura y no usas escudo.</p>",
+    "documents": [
+      "dmgBracersOfDefe"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "cb6cb77119af9f233a120449646a4c858bd7114961ef0f7993169b91b109876a": {
+    "translation": "Brazales de defensa",
+    "documents": [
+      "dmgBracersOfDefe"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "254eeeeaf117bab5786b277ab51cd4d1c384be57fbaae37751479eb59ca12b36": {
     "translation": "Bonificador a la CA (sin armadura)",
     "documents": [
       "dmgBracersOfDefe"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "39233bdf9ef2d8deba75d999a7ab404a9bc06ae054a70c4e821ca4e83dbf2ec8": {
+    "translation": "Cuerno de Valhalla de latón",
+    "documents": [
+      "dmgBrassHornOfVa"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "c2d340adf83e5a69168dfd616f4a7c8ddbdf7e57e4e2a7e3f79ca289df89365b": {
+    "translation": "Cuerno de Valhalla: inmunidad a estados",
+    "documents": [
+      "dmgBrassHornOfVa",
+      "dmgBronzeHornOfV",
+      "dmgHornofValhall",
+      "dmgIronHornOfVal",
+      "dmgSilverHornOfV"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "42a33bb516c51b89d2ea707efeba97023ab61048622cad7a746f6ab5528c2a02": {
+    "translation": "<p>Los espíritus parecen guerreros vivos que respiran y tienen inmunidad a los estados &amp;Reference[Charmed apply=false] y &amp;Reference[Frightened apply=false].</p>",
+    "documents": [
+      "dmgBrassHornOfVa",
+      "dmgBronzeHornOfV",
+      "dmgHornofValhall",
+      "dmgIronHornOfVal",
+      "dmgSilverHornOfV"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b08925696d488b016ddf4023edf4c140436d21207f559e8a75acb920571416ed": {
+    "translation": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgHornofValhall]{Cuerno de Valhalla}</em></p><p><em>Requisito: competencia con todas las armas sencillas</em></p><p><em>Espíritus: 3</em></p><p>Puedes realizar una acción de Magia para hacer sonar este cuerno. En respuesta, espíritus guerreros del plano de Ysgard aparecen en espacios desocupados a 60 pies o menos de ti. Cada espíritu utiliza el perfil de <strong>@UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.kz1t6xeXVwODpYb2]{Bersérker}</strong> y vuelve a Ysgard al cabo de 1 hora o cuando sus puntos de golpe se reducen a 0. Los espíritus parecen guerreros vivos que respiran y tienen inmunidad a los estados &amp;Reference[Charmed apply=false] y &amp;Reference[Frightened apply=false]. Una vez utilizado el cuerno, no puede volver a usarse hasta que hayan pasado 7 días.</p><p>Si haces sonar el cuerno sin cumplir su requisito, los espíritus invocados te atacan. Si lo cumples, son amistosos contigo y tus aliados y obedecen tus órdenes.</p>",
+    "documents": [
+      "dmgBrassHornOfVa"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "726be452b094617f237a4517cf9521dfc1a1a96a1d265817c17164574d172445": {
+    "translation": "Brasero de control de elementales de fuego",
+    "documents": [
+      "dmgBrazierOfComm"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b86a2589792d8eab754b380358773c309be6c0e20d5e0526c6241f9819a94009": {
+    "translation": "<div><p><em>Objeto maravilloso, raro</em></p></div><p>Mientras te encuentres a 5 pies o menos de este brasero, podrás realizar una acción de Magia para invocar un <strong>@UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.8SMQl75HLjhuSeau]{Elemental de fuego}</strong>. El elemental aparece en un espacio desocupado lo más cerca posible del brasero, entiende tus idiomas, obedece tus órdenes y actúa inmediatamente después de ti, en tu mismo valor de iniciativa. Desaparece al cabo de 1 hora, cuando muere o cuando lo despides mediante una acción adicional. No se puede volver a usar el brasero de esta forma hasta el siguiente amanecer.</p>",
+    "documents": [
+      "dmgBrazierOfComm"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "60c512e38c06bd10f569f68d020db83ab328c5a2fe0b1b05f9a87fc7c02bd01c": {
+    "translation": "espacio desocupado lo más cerca posible del brasero",
+    "documents": [
+      "dmgBrazierOfComm",
+      "dmgCenserOfContr"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "d097f8364a727dba89212365cf9b90c0a2d7d32a81ea1181e52cee84e29b8458": {
+    "translation": "Cuerno de Valhalla de bronce",
+    "documents": [
+      "dmgBronzeHornOfV"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "17bd00e241d4d9cfb1c121840af0a4bfee4939c0ae8f00decc4fcc160a607e30": {
+    "translation": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgHornofValhall]{Cuerno de Valhalla}</em></p><p><em>Requisito: entrenamiento con todas las armaduras medias</em></p><p><em>Espíritus: 4</em></p><p>Puedes realizar una acción de Magia para hacer sonar este cuerno. En respuesta, espíritus guerreros del plano de Ysgard aparecen en espacios desocupados a 60 pies o menos de ti. Cada espíritu utiliza el perfil de <strong>@UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.kz1t6xeXVwODpYb2]{Bersérker}</strong> y vuelve a Ysgard al cabo de 1 hora o cuando sus puntos de golpe se reducen a 0. Los espíritus parecen guerreros vivos que respiran y tienen inmunidad a los estados &amp;Reference[Charmed apply=false] y &amp;Reference[Frightened apply=false]. Una vez utilizado el cuerno, no puede volver a usarse hasta que hayan pasado 7 días.</p><p>Si haces sonar el cuerno sin cumplir su requisito, los espíritus invocados te atacan. Si lo cumples, son amistosos contigo y tus aliados y obedecen tus órdenes.</p>",
+    "documents": [
+      "dmgBronzeHornOfV"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "1bfd2a252fd5de884212f8858786dd8f3c3a043ca0b69ec3018cf6db7c616662": {
+    "translation": "Broche de protección",
+    "documents": [
+      "dmgBroochOfShiel"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "ed7de9305f5471ee692476105d9cea8d1df0eb76b33697ee2c690cbcb9bf0679": {
+    "translation": "<div><p><em>Objeto maravilloso, Infrecuente (Requiere sintonización)</em></p></div><p>Mientras lleves este broche, tienes Resistencia al daño de Fuerza y tienes Inmunidad al daño del conjuro <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMagicMissi]{Proyectil mágico}</em>.</p>",
+    "documents": [
+      "dmgBroochOfShiel"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "88a50008fac3a64fdd506b33a5a6c7a36b7c57835c4c6a1413e58e36ce4932da": {
+    "translation": "Resistencia: daño de fuerza",
+    "documents": [
+      "dmgBroochOfShiel"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "19bc8cde93c88a506cce232eabc06f0d6b5819eae6facb50200fd650d59af886": {
+    "translation": "<p>Además, tienes inmunidad al daño del conjuro <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMagicMissi]{Proyectil mágico}</em>.</p>",
+    "documents": [
+      "dmgBroochOfShiel"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "8dbf7a2f49776fa61d22d23600ebfbe923d94623e9aa27c30cadcfb4f35039dc": {
+    "translation": "Escoba voladora",
+    "documents": [
+      "dmgBroomOfFlying"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "9bf77a64134d38bf642c409439d9cdf38c833b816faa183846b9bb4094792cd3": {
+    "translation": "<div><p><em>Objeto maravilloso, Infrecuente (Requiere sintonización)</em></p></div><p>Esta escoba de madera funciona como una escoba mundana hasta que te montas a horcajadas en ella y realizas una acción de Magia para hacer que flote bajo ti; entonces puede montarse en el aire. Tiene una Velocidad de vuelo de 50 pies. Puede cargar hasta 400 libras, pero su Velocidad de vuelo pasa a 30 pies mientras cargue más de 200 libras. La escoba deja de flotar cuando aterrizas o cuando ya no la estás montando.</p><p>Como acción de Magia, puedes enviar la escoba a viajar sola a un destino a 1 milla o menos de ti si nombras el lugar y te es familiar. La escoba vuelve a ti cuando realizas una acción de Magia y usas una palabra de mando, si la escoba sigue a 1 milla o menos de ti.</p>",
+    "documents": [
+      "dmgBroomOfFlying"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "342618bf3e602cc0732a1d1e4df05d54e4805ede2a4c05031560bf471a289113": {
+    "translation": "Activar escoba",
+    "documents": [
+      "dmgBroomOfFlying"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "89ca875f2eb8c16cebd165a936f8bc3c4e2aa2a29cbc5f8a30b4c601addc7abf": {
     "translation": "Enviar sola o llamar de vuelta",
@@ -2008,12 +2178,54 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "9baf530229e37cb4357b83917f8b2fdbe6b0287997fbefc5b048aa6fd7988c08": {
+    "translation": "un destino que conozcas y hayas nombrado",
+    "documents": [
+      "dmgBroomOfFlying"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "537b34d1859979f60ce51fa18d5d048cdf0d1b953c3c2abd1183a7b332daf024": {
+    "translation": "la escoba voladora",
+    "documents": [
+      "dmgBroomOfFlying"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "bf7880039491c85b6b5ac95790d0f30cbd690ec0c848146379a54ffc5cc23da3": {
+    "translation": "Montado en la escoba (poco peso)",
+    "documents": [
+      "dmgBroomOfFlying"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "fda55251d76b0ecca1bba42e4ca97cc6dfffac924f7d64e9611e90c451720f30": {
+    "translation": "<p>La escoba puede transportar hasta 400 libras, pero su velocidad volando pasa a ser 30 pies mientras transporte más de 200 libras.</p>",
+    "documents": [
+      "dmgBroomOfFlying"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "0e5f0e1c0e0c62d5115e5c8d674e94952751663a91a8836d6a2bc1a899fd762c": {
+    "translation": "Montado en la escoba (mucho peso)",
+    "documents": [
+      "dmgBroomOfFlying"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "d51708e34e6327b933a8d65978c43e43fb181f24473ebca31278be9fbd8b6f00": {
     "translation": "Moho marrón",
     "documents": [
       "dmgBrownMold0000"
     ],
     "reference": "Revisión de actores: mismo texto inglés completo; contexto de objeto o efecto."
+  },
+  "d1844dce35fe5b5c95165585979fa5a95d9b957f36bd1c55974b28ec0e16a991": {
+    "translation": "<p><em>Peligro mortal (niveles 5–10) o peligro moderado (niveles 11–16)</em></p><p><strong>Actor:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.dmgBrownMold0000]{Moho marrón}</p><p>El moho marrón parece una alfombra peluda de color marrón claro. Este hongo se alimenta del calor que absorbe de todo lo que lo rodea. Una mancha de moho marrón cubre un cuadrado de 10 pies de lado, y la temperatura a 30 pies o menos de ella es siempre gélida.</p><p>Cuando una criatura entra por primera vez en un turno en un espacio a 5 pies o menos del moho, o empieza su turno allí, debe realizar una tirada de salvación de Constitución con CD 12. Sufre 22 (4d10) de daño de frío si falla, o la mitad si la supera.</p><p>El moho marrón tiene inmunidad al daño de fuego. Cualquier fuente de fuego que se acerque a 5 pies o menos hace que el moho se extienda al instante por una superficie hacia el fuego, creando una nueva mancha que cubre un cuadrado de 10 pies de lado. Una mancha de moho marrón expuesta a un efecto que inflija cualquier cantidad de daño de frío queda destruida de inmediato.</p>",
+    "documents": [
+      "dmgBrownMold0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "8fc75c833ba1989086c0346f807842b392bd79ee720675ad6c7fc6d5e7c76b96": {
     "translation": "Cuadrado de 10 pies de lado",
@@ -2022,6 +2234,20 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "32b814dc667b0a81256e9574769bb54001796d810d8899e72ebb43d2af7eb255": {
+    "translation": "Humos de Othur quemados",
+    "documents": [
+      "dmgBurntOthurFum"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "1de094907eda29d1c6ba34ec7152dccd2c3abf3fb9698c4d12374fa86db440b1": {
+    "translation": "<p><em>Veneno inhalado</em></p><p>Una criatura sometida a Humos de Othur quemados debe superar una tirada de salvación de Constitución CD 13 o sufrir 10 (3d6) de daño de Veneno, y debe repetir la salvación al comienzo de cada uno de sus turnos. En cada fallo sucesivo, la criatura sufre 3 (1d6) de daño de Veneno. Tras tres salvaciones exitosas, el veneno termina.</p>",
+    "documents": [
+      "dmgBurntOthurFum"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "198f604ae0917eb415a859a33318b65d31a4318191ee6c800c77533b57d6f888": {
     "translation": "Daño por fallos sucesivos en la salvación",
     "documents": [
@@ -2029,12 +2255,33 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "d4a15021d8e67fdf39606d0ae192a5f862e2076335e08b834d0ccd0d169ed4f4": {
+    "translation": "Instrumento de los bardos: mandolina de Canaith",
+    "documents": [
+      "dmgCanaithMandol"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "4fd4cc5ff0b968ef7ab955830fa4d133693ecdc24a2b17fc5f1d1a02823f6c2d": {
     "translation": "Protección contra la energía (solo relámpago)",
     "documents": [
       "dmgCanaithMandol"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "70439e9988ade0ea6e9c21848ab551cb125a536464bc46d60aa74e2bb56ded18": {
+    "translation": "Vela de invocación",
+    "documents": [
+      "dmgCandleOfInvoc"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "81a79e48cf0706edcf8eb69a0e37733bec72f3fece1c4456dd5ca4b8507f523e": {
+    "translation": "<div><p><em>Objeto maravilloso, muy raro (requiere sintonización)</em></p></div><p>La magia de esta vela se activa al encenderla, lo que requiere una acción de Magia. Tras arder durante 4 horas, la vela queda destruida. Puedes apagarla antes para usarla más tarde. Resta el tiempo que haya ardido de su duración total, en incrementos de 1 minuto.</p><p>Mientras esté encendida, la vela emite luz tenue en un radio de 30 pies. Mientras estés dentro de esa luz, tendrás ventaja en las pruebas de D20. Además, un clérigo o druida que esté dentro de la luz podrá lanzar los conjuros de nivel 1 que tenga preparados sin gastar espacios de conjuro.</p><p>Como alternativa, cuando enciendas la vela por primera vez, podrás lanzar <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplGate000000]{Portal}</em> con ella. Hacerlo destruye la vela. El portal creado por el conjuro conduce a un Plano Exterior concreto, elegido por el DM o determinado mediante una tirada en la siguiente tabla.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgCandleOfInvoc rollable]</p>",
+    "documents": [
+      "dmgCandleOfInvoc"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "277ae5ff128ef08953be6cf5824e02cfbf2830a46a8a3f2444eba8e0df17cbb9": {
     "translation": "Encender vela (minutos)",
@@ -2058,12 +2305,110 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "b42b4fb49b73ccccb512ab78efebd86be8281f71888af1bfd30096aaba260068": {
+    "translation": "<p>Mientras esté encendida, la vela emite luz tenue en un radio de 30 pies. Mientras estés dentro de esa luz, tendrás ventaja en las pruebas de D20. Además, un clérigo o druida que esté dentro de la luz podrá lanzar los conjuros de nivel 1 que tenga preparados sin gastar espacios de conjuro.</p>",
+    "documents": [
+      "dmgCandleOfInvoc"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "fd978c50e461af43e6a0463e3208ac82d9e8fcf7da1bc68c430d5cd926af7c39": {
+    "translation": "Vela de las profundidades",
+    "documents": [
+      "dmgCandleOfTheDe"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "48ad8d4f3857d8c43f88243b1a7c32fff8f33fc6e4851a0c2b12bd02a503f893": {
+    "translation": "<p><em>Objeto maravilloso, común</em></p><p>La llama de esta vela no se apaga al sumergirla en agua. Emite luz y calor como una vela normal.</p>",
+    "documents": [
+      "dmgCandleOfTheDe"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "63faebb494c84e362d8072c0b5f759b35e8de6e3ebe638882199ff43a7959684": {
     "translation": "Bala de cañón",
     "documents": [
       "dmgCannon0000000"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "23c237c85e6a130b512fbb81cb145360127cb8a3a7bfd0964e3249b43d70d792": {
+    "translation": "Cañón",
+    "documents": [
+      "dmgCannon0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "ebb5c04b888df9fb032a828fb76fec4c04d0a6296d4643e37589b7514a81c2af": {
+    "translation": "<p><em>Objeto Grande</em></p><p><strong>Clase de armadura:</strong> 19 <strong>Puntos de golpe:</strong> 75</p><p><em><strong>Bala de cañón (requiere cargar y apuntar).</strong></em> <em>Tirada de ataque a distancia:</em> +6, alcance 600/2.400 pies. <em>Impacto:</em> 44 (8d10) de daño contundente.</p><p>Un cañón utiliza pólvora o poder arcano para disparar pesadas bolas de hierro a velocidades devastadoras. Suele estar montado sobre una estructura de madera con ruedas. Cargarlo requiere una acción de Utilizar, y apuntar con él requiere otra. Después, un miembro de la dotación puede realizar la acción Bala de cañón.</p>",
+    "documents": [
+      "dmgCannon0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "9e5d05a9a3616aa1a67886a7ae6392aceee6405903a27eb657c1c816422a2c0c": {
+    "translation": "Gorro de respiración acuática",
+    "documents": [
+      "dmgCapOfWaterBre"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "d8764c890b20cb4eb917817ee717df7c8cb53d75528ed04b8adc73077920b975": {
+    "translation": "<div><p><em>Objeto maravilloso, infrecuente</em></p></div><p>Mientras lleves puesto este gorro bajo el agua, podrás realizar una acción de Magia para crear una burbuja de aire alrededor de tu cabeza. La burbuja te permite respirar normalmente bajo el agua y permanece contigo hasta que te quites el gorro o dejes de estar bajo el agua.</p>",
+    "documents": [
+      "dmgCapOfWaterBre"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "3d3dde58ff0c5d37fe69e8cd05ee2dc09336d1a37ec65a2eaaa6fe18c9e97cf1": {
+    "translation": "Crear burbuja de aire",
+    "documents": [
+      "dmgCapOfWaterBre"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b740a6a29fbf1eff6494b04fbaf67025dc304374ec1a95a158ad700836cd011b": {
+    "translation": "usuario está bajo el agua",
+    "documents": [
+      "dmgCapOfWaterBre"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "d971f35d123c370195377b76356eec1370749d5c39913dfd91a846b5cc6af33f": {
+    "translation": "Burbuja de aire",
+    "documents": [
+      "dmgCapOfWaterBre"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b901d5a017a872141da9b29b0258fe3bd852fceeed433c274002444f49b6cad2": {
+    "translation": "<p> Esta burbuja te permite respirar normalmente bajo el agua y permanece contigo hasta que te quites el gorro o dejes de estar bajo el agua.</p>",
+    "documents": [
+      "dmgCapOfWaterBre"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "d220f7d978e3dcee1db7d8e7e97bd8ad2ea4ed474b6d0455694ce3b21c019a7b": {
+    "translation": "<div><p><em>Objeto maravilloso, Raro</em></p></div><p>Esta capa huele levemente a azufre. Mientras la lleves puesta, puedes usarla para lanzar <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDimensionD]{Puerta dimensional}</em> como acción de Magia. Esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p><p>Cuando te teletransportas con ese conjuro, dejas tras de ti una nube de humo. El espacio que dejas queda &amp;Reference[LightlyObscured] por ese humo hasta el final de tu siguiente turno.</p>",
+    "documents": [
+      "dmgCapeOfTheMoun"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "585f9af41565d76cde7578972b8f0905827a0137759b54bf7ef7d5d3286f9dc8": {
+    "translation": "Capa del saltimbanqui",
+    "documents": [
+      "dmgCapeOfTheMoun"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "770a2a71bf124bf01468e88b631248f5f9670fb8993103a97e1b581d609a0df3": {
+    "translation": "El espacio que has abandonado queda &Reference[LightlyObscured] por el humo hasta el final de tu siguiente turno.",
+    "documents": [
+      "dmgCapeOfTheMoun"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "36368effd64eacf13db6fae6d776272b74fa6b3ce973485416746835de8c3535": {
     "translation": "Alfombra voladora",
@@ -2072,12 +2417,82 @@
     ],
     "reference": "Revisión de actores: mismo texto inglés completo; contexto de objeto o efecto."
   },
+  "03d5d071d5ee96393a586ba3edf3c10287b70d9043c7c33f7b872d36f806b19d": {
+    "translation": "<div><p><em>Objeto maravilloso, muy raro</em></p></div><p>Puedes hacer que esta alfombra flote y vuele mediante una acción de Magia y su palabra de mando. Se mueve según tus indicaciones si estás a 30 pies o menos de ella.</p><p>Existen cuatro tamaños de <em>Alfombra voladora</em>. El DM elige el tamaño de una alfombra concreta o lo determina al azar mediante una tirada en la siguiente tabla. Una alfombra puede transportar hasta el doble del peso indicado en la tabla, pero su velocidad volando se reduce a la mitad si supera su capacidad normal.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgCarpetOfFlyin rollable]</p><section class=\"secret\" id=\"secret-T3avxyNy4el35GqZ\"><p><strong>Nota de Foundry</strong></p><p>Las cuatro actividades de invocación incluidas representan los posibles tamaños de la alfombra. Cuando el DM elija un tamaño, deben eliminarse las tres actividades correspondientes a los demás tamaños.</p></section>",
+    "documents": [
+      "dmgCarpetOfFlyin"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f1444f9a2ff5758ac3c34c75b0b28509ac5f48e4af9ad365a4654d2c43032962": {
+    "translation": "Activar (3 por 5 pies)",
+    "documents": [
+      "dmgCarpetOfFlyin"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "a8f10dbe77c8624445829ff31de7a42abba7abed476aeb37ac957f032fe450f1": {
+    "translation": "La alfombra voladora",
+    "documents": [
+      "dmgCarpetOfFlyin"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "c783a0a9df2d723636da2a344591915c9bb92ed88f9bbfd1cbce85050cb381ac": {
+    "translation": "Activar (4 por 6 pies)",
+    "documents": [
+      "dmgCarpetOfFlyin"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "33c29b3330a2bbee2fb095aee6bc20c65ab4fddde794f3de9fbbfa5d0c34dd09": {
+    "translation": "Activar (5 por 7 pies)",
+    "documents": [
+      "dmgCarpetOfFlyin"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "42c83f6cf78d9a5e8a300bb317c5595bc268e7b566e9928c57c6b5fa30fc8ad8": {
+    "translation": "Activar (6 por 9 pies)",
+    "documents": [
+      "dmgCarpetOfFlyin"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "583a2577e9871d4598550dd825eb0fc933d14b6d671171cc73daf016f133a296": {
+    "translation": "<p><em>Veneno de contacto</em></p><p>Una criatura expuesta a la mucosidad de reptador carroñero debe superar una tirada de salvación de Constitución CD 13 o tendrá la condición &amp;Reference[Poisoned apply=false]{Envenenado} durante 1 minuto. Mientras esté Envenenada de este modo, la criatura también tendrá la condición &amp;Reference[Paralyzed apply=false]{Paralizado}. La criatura repite la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, el efecto termina sobre ella.</p>",
+    "documents": [
+      "dmgCarrionCrawle"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "9fcedf39018f3ef3a7d179b9deada9b16a17024b140c5b9a40ef4eb1c6713f9d": {
+    "translation": "Moco de reptador carroñero",
+    "documents": [
+      "dmgCarrionCrawle"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "dadf1b674b6534943df931f4e7d715ae9662e36b11540b402762f880956d2d4c": {
     "translation": "Envenenado y paralizado",
     "documents": [
       "dmgCarrionCrawle"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "5d87385624326cb02a6310051aaea4addc885ff56300a13f6b14bc95c0646c69": {
+    "translation": "Armadura de quita y pon",
+    "documents": [
+      "dmgCastoffArmor0"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "cf122166e666da67d27db63ba2a1f80d7df672615e675d7627f6c6b58ff1885c": {
+    "translation": "<p><em>Armadura (cualquier armadura ligera, media o pesada), común</em></p><p>Puedes quitarte esta armadura mediante una acción de Magia.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFoundryRefere.JournalEntryPage.Ok4iCgD25ENgoRxE cite=false caption=false classes=\"hide-in-embed\"]</p>",
+    "documents": [
+      "dmgCastoffArmor0"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "28270112c899d910654a52f4f15503331325de4cdb35445e186cb11f850a5ff1": {
     "translation": "Armadura de quita y pon",
@@ -2086,12 +2501,40 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "f97a045ceea58c40491979d6983645a19482f9a2e67aa0e44bf7414cd0eedc00": {
+    "translation": "Caldero del renacimiento",
+    "documents": [
+      "dmgCauldronOfReb"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b6c0d51c346d1286571f2bb81a0c8379a029f03a7dded920fe80a07b52a988e5": {
+    "translation": "<div><p><em>Objeto maravilloso, muy raro (requiere sintonización con un druida o brujo)</em></p></div><blockquote><p>Este recipiente Diminuto tiene escenas de héroes en relieve en sus paredes de hierro fundido.</p></blockquote><p>Puedes usar el caldero como canalizador mágico para tus conjuros y como componente adecuado para el conjuro <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplScrying000]{Escudriñar}</em>.</p><details><summary><strong>Elaborar poción.</strong></summary><p>Cuando termines un descanso largo, podrás usar el caldero para crear una <em>@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGreaterPotion]{Poción de curación mayor}</em>, lo que tarda 1 minuto. La poción dura 24 horas; después pierde su magia si no se ha consumido.</p></details><details><summary><strong>Alzar a los muertos.</strong></summary><p>Mediante una acción de Magia, puedes agrandar el caldero lo suficiente para que una criatura Mediana quepa agachada en su interior. Puedes devolverlo a su tamaño normal mediante una acción de Magia. Todo lo que no quepa dentro se desplaza al espacio desocupado más cercano sin sufrir daños.</p><p>Si colocas el cadáver de un humanoide en el caldero y lo cubres con 200 libras de sal (que cuestan 10 po) durante al menos 8 horas, la sal se consume y la criatura vuelve a la vida al siguiente amanecer como si se hubiera lanzado <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplRaiseDead0]</em>. Una vez usada esta propiedad, no puede volver a utilizarse durante 7 días.</p><section class=\"secret\" id=\"secret-67GBb7ysNk6W5rYv\"><p><strong>Nota de Foundry</strong></p><p>La actividad <strong>Agrandar caldero</strong> es opcional y permite crear una pequeña plantilla circular que indica la posición del caldero.</p><p>La actividad <strong>Alzar a los muertos</strong> contiene y consume 7 usos, que se recuperan a razón de uno al día para representar una activación cada 7 días.</p></section></details>",
+    "documents": [
+      "dmgCauldronOfReb"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "ce74ace5df3ac9efe6ab6637cf64a36b49d718fc00e06de62cbc9b90321afe2c": {
     "translation": "Elaborar poción",
     "documents": [
       "dmgCauldronOfReb"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "dfe42c7da87dcbe2ab550840c159e3ed8619dc3de4f5ec71d7cf87fd00f717f6": {
+    "translation": "Cuando termines un descanso largo",
+    "documents": [
+      "dmgCauldronOfReb"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f102e3a348805a37e4511b0a3bd61a8fde84d5d7e91d1aaa056b0c3783514538": {
+    "translation": "Crea una @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGreaterPotion]{Poción de curación mayor}",
+    "documents": [
+      "dmgCauldronOfReb"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "6b48c571c68e27a4d631250dd03e5f8c09f200a722c551c860c294a419d06d30": {
     "translation": "Agrandar caldero",
@@ -2100,12 +2543,54 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "990abefbe8f0cba33a3f7079c90ad0dba2a9bd5d1849c71715567129adf2f1b7": {
+    "translation": "El caldero del renacimiento",
+    "documents": [
+      "dmgCauldronOfReb"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "64ee63313da19164645581d2d973645b9f57382b3a4271329410d3dceeb704bd": {
+    "translation": "Incensario de control de elementales de aire",
+    "documents": [
+      "dmgCenserOfContr"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "de38708cf2813c614a4ea12d621aa22cefa6898a20ac10c7122ed17a4aeef2a4": {
+    "translation": "<div><p><em>Objeto maravilloso, raro</em></p></div><p>Mientras balancees suavemente este incensario, podrás realizar una acción de Magia para invocar un <strong>@UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.banHjKDMCegbUwYE]{Elemental de aire}</strong>. El elemental aparece en un espacio desocupado lo más cerca posible del incensario, entiende tus idiomas, obedece tus órdenes y actúa inmediatamente después de ti, en tu mismo valor de iniciativa. Desaparece al cabo de 1 hora, cuando muere o cuando lo despides mediante una acción adicional. No se puede volver a usar el incensario de esta forma hasta el siguiente amanecer.</p>",
+    "documents": [
+      "dmgCenserOfContr"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "e2b0511eed2c390072ae9d7f8733e0b51eb01ffc45d7a708d845d769b312bf36": {
+    "translation": "Dado del charlatán",
+    "documents": [
+      "dmgCharlatansDie"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "fecb1e06cdb3d6f0e5086ba65cf5ac89fda4ef353031a9c0d69def54e3fe5116": {
+    "translation": "<div><p><em>Objeto maravilloso, común (requiere sintonización)</em></p></div><p>Siempre que lances este dado de seis caras, puedes controlar qué número sale.</p>",
+    "documents": [
+      "dmgCharlatansDie"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "808eb4d504dce56336872d11f74267d0016aec30f289478553a259d0c24b6b93": {
     "translation": "Obtener un 1",
     "documents": [
       "dmgCharlatansDie"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "e4625e428907b435cf0953fda53a2212f32cc91fe212fb25ab395216f7c15152": {
+    "translation": "«Tirada» 1d6",
+    "documents": [
+      "dmgCharlatansDie"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "b6b3f4f9b90a85762387dac19617e2f916b75a0e2db439ad96d03fe90fc591c3": {
     "translation": "Obtener un 2",
@@ -2142,6 +2627,62 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "f181ba4e60703601a9c48562c069db201fcf8fdc478c5c597842cc7c4140111d": {
+    "translation": "Sortilegio de conjuración de animales",
+    "documents": [
+      "dmgCharmOfAnimal"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "48c7aa9bc85973552f97e1f6fe0871362f0d1bc22b0685bd680508cb55b1052b": {
+    "translation": "<p><em>Don sobrenatural (sortilegio)</em></p><p>Este sortilegio te permite lanzar @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplConjureAni]{Conjurar animales}. Tras usarlo tres veces, el sortilegio desaparece.</p>",
+    "documents": [
+      "dmgCharmOfAnimal"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "111b7d4621f037332ff30461650e7b47a5444fce63a4409e0f236c93a6619b71": {
+    "translation": "Sortilegio de visión en la oscuridad",
+    "documents": [
+      "dmgCharmOfDarkvi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "4417514136cae04d833c5b618e42b633e9aecc86bdef13865131c07e4073e581": {
+    "translation": "<p><em>Don sobrenatural (sortilegio)</em></p><p>Este sortilegio te permite lanzar @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDarkvision]{Visión en la oscuridad}. Tras usarlo tres veces, el sortilegio desaparece.</p>",
+    "documents": [
+      "dmgCharmOfDarkvi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "45e4397e16a0f2f62e1becfbcca4d75a163ff55632e340f71209f1bf87a95ed4": {
+    "translation": "Sortilegio de caída de pluma",
+    "documents": [
+      "dmgCharmOfFeathe"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "35ee2095d6a8ec0c073c00457718c400782b19be303110a82e8cf5a707e6c661": {
+    "translation": "<p><em>Don sobrenatural (sortilegio)</em></p><p>Este sortilegio te otorga los beneficios de un @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgRingOfFeather]{Anillo de caída de pluma}. Los beneficios duran 10 días, tras los cuales el sortilegio desaparece.</p><section class=\"secret\" id=\"secret-Wp9i3lFnN7Xajr8t\"><p><strong>Nota de Foundry</strong></p><p>La duración debe llevarse de forma manual.</p></section>",
+    "documents": [
+      "dmgCharmOfFeathe"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "2f0ff877f1228bdb4e890a538660044502ae96c7203480e9c0738928d069ce40": {
+    "translation": "Sortilegio de heroísmo",
+    "documents": [
+      "dmgCharmOfHerois"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "5bcf92bde1e781c88c82c509c56d3332f05085e91a364f6c380d9539aab3c282": {
+    "translation": "<p><em>Don sobrenatural (sortilegio)</em></p><p>Este sortilegio te permite obtener los beneficios de una @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPotionOfHeroi]{Poción de heroísmo} mediante una acción de Magia. Una vez que lo hagas, el sortilegio desaparece.</p><section class=\"secret\" id=\"secret-VSchHVg4E8Vu1j9s\"><p><strong>Nota de Foundry</strong></p><p>La actividad <strong>Usar sortilegio</strong> incluye una opción de curación para los 10 puntos de golpe temporales y un efecto activo que automatiza los efectos de Bendición.</p></section>",
+    "documents": [
+      "dmgCharmOfHerois"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "3b3b621a264b1b416668231f8186c502105d9e98196900256c581bb69c59a780": {
     "translation": "Usar sortilegio",
     "documents": [
@@ -2150,12 +2691,299 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "395741c0ce0fc44bf79cd8529ed1b40580389fae3acc04509eb2f563323e4034": {
+    "translation": "Bendecido con el heroísmo",
+    "documents": [
+      "dmgCharmOfHerois"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "1eb1956dca2d4764f2e1fa69b2a033d823bbc164367ba18fb20cf4cc5165d30b": {
+    "translation": "<p>Siempre que un objetivo realice una tirada de ataque o de salvación antes de que termine el conjuro, añadirá 1d4 a esa tirada.</p>",
+    "documents": [
+      "dmgCharmOfHerois"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "967f9f473c223ff217500b442c4f24c19db3b0de91c5d3062d78ba5878b025c5": {
+    "translation": "Sortilegio de restablecimiento",
+    "documents": [
+      "dmgCharmOfRestor"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "2f7253e1ae4cc739eee708e95893c676923accf209e5f2ce5c03c8dba61b217a": {
+    "translation": "<p><em>Don sobrenatural (sortilegio)</em></p><p>Este sortilegio tiene 3 cargas. Puedes gastar algunas para lanzar uno de los siguientes conjuros: @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplGreaterRes]{Restablecimiento mayor} (2 cargas) o @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLesserRest]{Restablecimiento menor} (1 carga). Cuando se hayan gastado todas sus cargas, el sortilegio desaparece.</p>",
+    "documents": [
+      "dmgCharmOfRestor"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "5008ce8ee1970c5e5f41db56b0c48115bb725bf9cf14b647650238609bc8c884": {
+    "translation": "Sortilegio del baile boreal",
+    "documents": [
+      "dmgCharmOfTheBor"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "abe045c3b2bf5116fd82f49a30aa083065df109280aad6c2fcee66ca25f73911": {
+    "translation": "<p>Este sortilegio te permite lanzar la versión de nivel 3 del conjuro @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplIceKnife00]{Cuchillo de hielo}. Tras usarlo, el sortilegio desaparece.</p>",
+    "documents": [
+      "dmgCharmOfTheBor"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f7386bb80100080ea1536738cc413e612d4fef4eb3b8b307e1d6138e2005ba75": {
+    "translation": "Sortilegio del matador",
+    "documents": [
+      "dmgCharmOfTheSla"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "10706a9109281674b692f7fa2ce5ce16277b5d37c271ab2becce6820cce582e6": {
+    "translation": "<p><em>Don sobrenatural (sortilegio)</em></p><p>Un arma que tengas en tu poder se convierte en un arma @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDragonSlayer0]{Matadragones} o @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGiantSlayer00]{Matagigantes} (a elección del DM) durante los siguientes 9 días. Después el sortilegio desaparece y el arma vuelve a la normalidad.</p>",
+    "documents": [
+      "dmgCharmOfTheSla"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "956e29e5d6fc5b78a31d18899f4b4a089545b3745b6123b2bedd44bd0a95fb48": {
+    "translation": "Sortilegio de vitalidad",
+    "documents": [
+      "dmgCharmOfVitali"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "185a8993992e94cf19803794c717f422bf36d6094dccb852eb56908aa2e6fabc": {
+    "translation": "<p><em>Don sobrenatural (sortilegio)</em></p><p>Este sortilegio te permite obtener los beneficios de una @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPotionOfVital]{Poción de vitalidad} mediante una acción de Magia. Una vez que lo hagas, el sortilegio desaparece.</p>",
+    "documents": [
+      "dmgCharmOfVitali"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "c6deeb538d06a614547df3f667aa86f8137cbae6349c70b471f2f1107816d3ea": {
+    "translation": "Campanilla de apertura",
+    "documents": [
+      "dmgChimeOfOpenin"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "90b1fac7a331b9569b3e72c38d7a8139e3387590033f555dcdac601fdd24cbea": {
+    "translation": "<div><p><em>Objeto maravilloso, Raro</em></p></div><p>Este tubo metálico hueco mide aproximadamente 1 pie de largo y pesa 1 libra. Como acción de Magia, puedes golpear la campanilla para lanzar <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplKnock00000]{Abrir}</em>. El sonido habitual de golpes del conjuro se sustituye por el tono claro y resonante de la campanilla, audible hasta 300 pies.</p><p>La campanilla se puede usar 10 veces. Después de la décima, se agrieta y se vuelve inútil.</p>",
+    "documents": [
+      "dmgChimeOfOpenin"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "745d882ac53977512a127d4defefbc715ac799eca74168b1ba1055339eea8c43": {
+    "translation": "Diadema de ráfagas",
+    "documents": [
+      "dmgCircletOfBlas"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "d98734592c7e3c6c966f16cf11f87067da207a19a7898ce07dcfa9bd9749a023": {
+    "translation": "<div><p><em>Objeto maravilloso, Infrecuente</em></p></div><p>Mientras llevas puesta esta diadema, puedes lanzar <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplScorchingR]{Rayo abrasador}</em> con ella (+5 al ataque). La diadema no puede volver a lanzar este conjuro hasta el siguiente amanecer.</p>",
+    "documents": [
+      "dmgCircletOfBlas"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "1cfdc23c022e5d875d8f4012019811ad5d321ba22d386fabed6c2e03f23c2aeb": {
+    "translation": "Guantelete con garras",
+    "documents": [
+      "dmgClawedGauntle"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "05218da89b67affbf1f12d1fffb06d11e6f05566d679c89e315919e15611da29": {
+    "translation": "<p><em>Ver: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDemonArmor000]</em></p><p>Los guanteletes con garras de la armadura hacen que tus Golpes sin arma inflijan 1d8 de daño Cortante en lugar del daño Contundente habitual, y obtienes un bonificador de +1 a las tiradas de ataque y de daño de tus Golpes sin arma.</p>",
+    "documents": [
+      "dmgClawedGauntle"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "1760641f3d360e9089af8975ddec736f7949ae3533e8b1763d08132397ea7513": {
+    "translation": "Instrumento de los bardos: lira de Cli",
+    "documents": [
+      "dmgCliLyreInstru"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "fb48949ec8203811533c1f60605bcdd0113098771d11972c273df53336343bc1": {
+    "translation": "Capa de arácnido",
+    "documents": [
+      "dmgCloakOfArachn"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "05257f6ca73abac6ef2b696a4a8b4b53cd2b563becd0182cebc1e1fe32e9e32b": {
+    "translation": "<div><p><em>Objeto maravilloso, Muy raro (Requiere sintonización)</em></p></div><p>Esta prenda fina está hecha de seda negra entretejida con tenues hilos plateados. Mientras la llevas puesta, obtienes los siguientes beneficios.</p><p><strong>Resistencia al veneno.</strong> Tienes Resistencia al daño por Veneno.</p><p><strong>Trepamuros.</strong> Tienes una Velocidad de trepar igual a tu Velocidad y puedes moverte hacia arriba, abajo y a través de superficies verticales y por techos, dejando tus manos libres.</p><p><strong>Andar entre telarañas.</strong> No puedes quedar atrapado en telarañas de ningún tipo y puedes moverte a través de telarañas como si fueran Terreno difícil.</p><p><strong>Telaraña.</strong> Puedes lanzar <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWeb0000000]{Telaraña}</em> (CD de salvación 13). La telaraña creada por el conjuro ocupa el doble de su área normal. Una vez usada, esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p>",
+    "documents": [
+      "dmgCloakOfArachn"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "998439bbab68522298d0484e6e569a0e3bea312b4c334aba160b9a27b370c5e6": {
+    "translation": "Movimiento arácnido y resistencia",
+    "documents": [
+      "dmgCloakOfArachn"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f10487ebb6c5712be37b046c8d2cdd18b592e6a29e45673012fed21e138bfe2e": {
+    "translation": "<p><strong>Resistencia al veneno.</strong> Tienes resistencia al daño de veneno.</p><p><strong>Trepamuros.</strong> Tienes una velocidad trepando igual a tu velocidad y puedes subir, bajar y desplazarte por superficies verticales y techos con las manos libres.</p><p><strong>Andar entre telarañas.</strong> No puedes quedar atrapado en telarañas de ningún tipo y puedes atravesarlas como si fueran terreno difícil.</p>",
+    "documents": [
+      "dmgCloakOfArachn"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "8ff6dfb0ee72ff4284c0093dc611992da1cf2da4da805fd1dd9fed6bbbb6c251": {
+    "translation": "Capa ondeante",
+    "documents": [
+      "dmgCloakOfBillow"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "74d5e0815e246a500227fda25d0e0bf02b786682528c00e34e68b29cdc733d7c": {
+    "translation": "<div><p><em>Objeto maravilloso, común</em></p></div><p>Mientras lleves puesta esta capa, puedes realizar una acción adicional para que ondee de forma espectacular durante 1 minuto.</p>",
+    "documents": [
+      "dmgCloakOfBillow"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "5a05bc7606055f5aab0b4f93a6c07b65edeb968f47f1bdc1e91d00155fd8880e": {
     "translation": "Ondear",
     "documents": [
       "dmgCloakOfBillow"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "6219c9f8b4d737b129e092f650138e420e7667c08ea4716431250a99580c5265": {
+    "translation": "La capa ondea de forma espectacular.",
+    "documents": [
+      "dmgCloakOfBillow"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "874d15c1e4820b0ffea41cbd783a6474052f411adba55ce7b5357ea2a2e726f2": {
+    "translation": "La capa ondeante",
+    "documents": [
+      "dmgCloakOfBillow"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "d8e81e6e637152fb4374c30f6da52d2a0c95e8bb5c45d7bd12140f9268f21163": {
+    "translation": "Capa de desplazamiento",
+    "documents": [
+      "dmgCloakOfDispla"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "241f55830fa8df933b1ac0a758dc296f007636a87d86bae0bb5cf17441982b33": {
+    "translation": "<div><p><em>Objeto maravilloso, Raro (Requiere sintonización)</em></p></div><p>Mientras llevas esta capa, proyecta mágicamente una ilusión que hace que parezcas estar en un lugar cercano a tu ubicación real, haciendo que cualquier criatura tenga Desventaja en las tiradas de ataque contra ti. Si recibes daño, la propiedad deja de funcionar hasta el inicio de tu siguiente turno. Esta propiedad queda suprimida mientras tu Velocidad sea 0.</p><section class=\"secret\" id=\"secret-KZyJxkDneNgXCh7U\"><p><strong>Nota de Foundry</strong></p><p>El efecto <strong>Desplazamiento suprimido</strong> se proporciona opcionalmente para activarlo como indicador de la interrupción temporal de la capa.</p></section>",
+    "documents": [
+      "dmgCloakOfDispla"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "001d6544f7c4a957262099bc104d7ca5dc8498163f191549572435889cd8016d": {
+    "translation": "Desplazamiento suprimido",
+    "documents": [
+      "dmgCloakOfDispla"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "69078bd40fe6f917d78d08c6e7ecc4d260d8fb5938280a05a1a6950b042e50ce": {
+    "translation": "<p>Si sufres daño, la propiedad deja de funcionar hasta el principio de tu siguiente turno. Esta propiedad queda anulada mientras tu velocidad sea 0.</p>",
+    "documents": [
+      "dmgCloakOfDispla"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "1639e5a95b4d46e3676cb1355f3de26c9796e87381f658f984c8b0de44cdaef3": {
+    "translation": "Capa de los elfos",
+    "documents": [
+      "dmgCloakOfElvenk"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "8d93431584f70a6de00dda8a5e5364172388c83bcfec0dba59612d5728155639": {
+    "translation": "<div><p><em>Objeto maravilloso, Infrecuente (Requiere sintonización)</em></p></div><p>Mientras llevas esta capa, las pruebas de Sabiduría (Percepción) realizadas para percibirte tienen Desventaja, y tú tienes Ventaja en las pruebas de Destreza (Sigilo).</p>",
+    "documents": [
+      "dmgCloakOfElvenk"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "8382c0bc717de0517d4c775d1f274fa745311aa361777213f899f9a4a3fea0ac": {
+    "translation": "Capa de invisibilidad",
+    "documents": [
+      "dmgCloakOfInvisi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "c5f074dbc74fbeb3dac2b503d14143dea066fd2625e3af205e2260aff6549b24": {
+    "translation": "<div><p><em>Objeto maravilloso, Legendario (Requiere sintonización)</em></p></div><p>Esta capa tiene 3 cargas y recupera 1d3 cargas gastadas diariamente al amanecer. Mientras llevas la capa, puedes realizar una acción de Magia para subirte la capucha y gastar 1 carga para darte la condición &amp;Reference[Invisible apply=false] durante 1 hora. El efecto termina antes si bajas la capucha (no requiere acción) o dejas de llevar la capa.</p>",
+    "documents": [
+      "dmgCloakOfInvisi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "edc12df11a9b71cffa3315fb503d44fa23fd7d00018e320d47b3b12e48927816": {
+    "translation": "Levantar la capucha",
+    "documents": [
+      "dmgCloakOfInvisi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "36c7a7a3ffd0ec6c8daf33f470fbc7f863f4ad50fb8cb0331f5a15509df1576e": {
+    "translation": "Capucha subida: invisible",
+    "documents": [
+      "dmgCloakOfInvisi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "1dcba0a2e843a042071705992449c28c8b22c53dd6ced23703b67eb9269a5fdf": {
+    "translation": "<p>El efecto termina antes si te bajas la capucha (no requiere acción) o dejas de llevar puesta la capa.</p>",
+    "documents": [
+      "dmgCloakOfInvisi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "9956cf2c5e32cb9e8d739ec6a1d584d7a140bfdd7124fa32b7749f4b08be8ac5": {
+    "translation": "La capa de muchas modas",
+    "documents": [
+      "dmgCloakOfManyFa"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "4369310ee9e34d91c9062c6e9201de646433a83f3b9230f5f98164fe403d9a73": {
+    "translation": "Capa de muchas modas",
+    "documents": [
+      "dmgCloakOfManyFa"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b872cc6f6aa6309b690a093eb0aa25365cb3c620badec28fa436ac948a96f607": {
+    "translation": "<div><p><em>Objeto maravilloso, común</em></p></div><p>Mientras lleves puesta esta capa, puedes realizar una acción adicional para cambiar el estilo, el color y la calidad aparente de la prenda. Su peso no cambia. Sea cual sea su aspecto, no puede ser otra cosa que una capa. Aunque puede imitar el aspecto de otras capas mágicas, no obtiene sus propiedades mágicas.</p>",
+    "documents": [
+      "dmgCloakOfManyFa"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "7d7bab3442d2052fb0cae4bf665ddb8859f2eefd582aa152a445bf66a3543def": {
+    "translation": "<div><p><em>Objeto maravilloso, Infrecuente (Requiere sintonización)</em></p></div><p>Obtienes un bonificador de +1 a la Clase de Armadura y a las tiradas de salvación mientras llevas esta capa.</p>",
+    "documents": [
+      "dmgCloakOfProtec"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "bffc719f82ff347d904cc7afdbabe23103e87d6ca2eb88fc0b5a0fd497500707": {
+    "translation": "Capa de protección",
+    "documents": [
+      "dmgCloakOfProtec"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "4263a9cf2b0b02ba19e42ed5a5202516336b7a3dde32d04bd31baa1391ad93c2": {
     "translation": "Bonificador a la CA y las salvaciones: +1",
@@ -2164,6 +2992,27 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "0ed52f03e6def9448eb400613cb05a8b24eccf88de6d4700411a278e4d0699b9": {
+    "translation": "Capa del murciélago",
+    "documents": [
+      "dmgCloakOfTheBat"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "db7e1e6d87ef806ac5457b1abec4227e4bc722ba9b98e1f1512423a0fce4585e": {
+    "translation": "Velocidad de vuelo",
+    "documents": [
+      "dmgCloakOfTheBat"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "153a2ee99ad7a9be61f51c6f2feacdb2a20dbd7d119daad025a65691cedda9e4": {
+    "translation": "<div><p><em>Objeto maravilloso, raro (requiere sintonización)</em></p></div><p>Mientras lleves puesta esta capa, tendrás ventaja en las pruebas de Destreza (Sigilo). En una zona de luz tenue u oscuridad, puedes agarrar los bordes de la capa para obtener una velocidad volando de 40 pies. Si dejas de sujetar los bordes mientras vuelas de esta forma, o dejas de estar en &amp;Reference[DimLight] u &amp;Reference[Darkness], pierdes esta velocidad volando.</p><p>Mientras lleves puesta la capa en una zona de luz tenue u oscuridad, puedes lanzar <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPolymorph0]{Polimorfar}</em> sobre ti para transformarte en un <strong>@UUID[Compendium.dnd-players-handbook.actors.Actor.phbmobBat0000000]{Murciélago}</strong>. En esa forma conservas tus puntuaciones de Inteligencia, Sabiduría y Carisma. No se puede volver a usar la capa de esta forma hasta el siguiente amanecer.</p>",
+    "documents": [
+      "dmgCloakOfTheBat"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "59c4f6d38de7c45432cb3b6a8f89db8e87242811e5b7ad6b605ebaa2352b4202": {
     "translation": "Agarrar los bordes",
     "documents": [
@@ -2171,12 +3020,110 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "3d75bc617287c62c3161a187d4d50c21170060eca43c33bf1d572c2dd334511f": {
+    "translation": "en una zona de luz tenue u oscuridad",
+    "documents": [
+      "dmgCloakOfTheBat"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "cf5e3c3c85406068a95061cd0b7bc0f1f162be0fa881b837e67a3a090613dc80": {
+    "translation": "bordes de la capa",
+    "documents": [
+      "dmgCloakOfTheBat"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "03fc1a2196b8d3e6192e5417efd01add8194ef76e10bc9912653dc3a8f39afce": {
+    "translation": "Capa de la mantarraya",
+    "documents": [
+      "dmgCloakOfTheMan"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "5f095b01e1ed14f0ebd7f4cf3f4d45c34c9b129621b5631c66afd2037ba14be1": {
+    "translation": "<div><p><em>Objeto maravilloso, Infrecuente (Requiere sintonización)</em></p></div><p>Mientras llevas esta capa, puedes respirar bajo el agua y tienes una Velocidad de nado de 60 pies.</p>",
+    "documents": [
+      "dmgCloakOfTheMan"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f6ac1460f1a7966c7bda9680dfe366e7edbbf8906c0afaedb491aeb0cad8dccd": {
+    "translation": "Beneficios acuáticos: natación y respiración",
+    "documents": [
+      "dmgCloakOfTheMan"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "0e2f4c0228b43a6d2c77c5fdedffcdbf59dbae8f190d01cfef3526129f0d9a1f": {
+    "translation": "<p>Puedes respirar bajo el agua y tienes una velocidad nadando de 60 pies.</p>",
+    "documents": [
+      "dmgCloakOfTheMan"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "8d36027688026371bd5904a6eaa44ab607586ad8a2ff3dabbbb26a2ce9f6b8b3": {
+    "translation": "Amuleto de relojería",
+    "documents": [
+      "dmgClockworkAmul"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "57bd3c6d189ffc6df2669db4cfc554f4159e8020a21741c5ccb6fd1f662bbfb0": {
+    "translation": "<div><p><em>Objeto maravilloso, común</em></p></div><blockquote><p>Este amuleto de cobre contiene diminutos engranajes entrelazados y funciona gracias a la magia de Mechanus, un plano tan predecible como un mecanismo de relojería. De su interior emanan leves tictacs y zumbidos.</p></blockquote><p>Cuando realices una tirada de ataque mientras lleves puesto el amuleto, puedes renunciar a tirar el d20 y obtener un 10 en el dado. Una vez usada esta propiedad, no puede volver a utilizarse hasta el siguiente amanecer.</p>",
+    "documents": [
+      "dmgClockworkAmul"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "47adea15917efff07a1de2249292d67a67340e7942a1b0ebad159a5aa31cf1d6": {
+    "translation": "Renunciar a la tirada",
+    "documents": [
+      "dmgClockworkAmul"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "0d9260cabca2eca4cf9a55ab92dd39824e971602347df86aa645c36d8314ea31": {
+    "translation": "realizas una tirada de ataque mientras llevas puesto el amuleto",
+    "documents": [
+      "dmgClockworkAmul"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "4d01ce1314f0bea11a9baaa35f1b9cdf5ec442d1f0feb763f64ed0f3e2f70919": {
     "translation": "Resultado del d20",
     "documents": [
       "dmgClockworkAmul"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "446a954bc9b35b901d2b8200b9090075b5a5f6673611fba011508bd545843c02": {
+    "translation": "Ropas reparadoras",
+    "documents": [
+      "dmgClothesOfMend"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "62fc2457aa1966573b67b2b3b6b7c5672775df35c08063a9b6f830780fe3fb5d": {
+    "translation": "<div><p><em>Objeto maravilloso, común</em></p></div><p>Este elegante atuendo se arregla mágicamente para contrarrestar el desgaste diario. Las piezas del conjunto que se destruyen no pueden ser reparadas de esta manera.</p>",
+    "documents": [
+      "dmgClothesOfMend"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "5183ee5af60cbb951afd49915dad38480ed2a36fadd8300f63fea23521dee066": {
+    "translation": "Poción de fuerza de gigante (nube)",
+    "documents": [
+      "dmgCloudPotionOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "97aa58ecd96914048e567ce0d43ce4e1175c6356dc4d8fbcf16525dd437e6725": {
+    "translation": "<p><em>Poción, Muy rara</em></p><p>Cuando bebes esta poción, tu puntuación de Fuerza cambia durante 1 hora a 27. El tipo de gigante determina la puntuación. La poción no tiene efecto si tu Fuerza es igual o mayor que esa puntuación.</p><p>El líquido transparente de esta poción tiene flotando en su interior una esquirla de luz que recuerda a la uña de un gigante.</p>",
+    "documents": [
+      "dmgCloudPotionOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "f41b137ddfd1ce5aba8204c4ea4163c719286d44d5858d003e510af7e64641a6": {
     "translation": "Beber poción",
@@ -2190,6 +3137,20 @@
       "dmgStormPotionOf"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "4b3d9c3c8b64508927b20290e5b439c255f42b945a535450740732fe2a9a044c": {
+    "translation": "Fuerza de las nubes",
+    "documents": [
+      "dmgCloudPotionOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "25cf90cc186eaad3dd8ddc5ea7493c181a9f65c16e9afc1efa7190ded01eeb8a": {
+    "translation": "Techo derrumbándose",
+    "documents": [
+      "dmgCollapsingRoo"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "7da809004bf90f547ef73dd96e4a7d830f65ccd29b4d01a6805819dc51b9aca9": {
     "translation": "<div id=\"_idContainer405\" class=\"_idGenObjectStyleOverride-1\"><p class=\"Core-Styles_Core-Metadata\"><em>Trampa mortal (niveles 1–4)</em></p><p class=\"Game_Objects_Game_Object_Data\"><strong>Activador:</strong> Una criatura cruza un cable trampa</p><p class=\"Game_Objects_Game_Object_Data\"><strong>Duración:</strong> Instantánea</p><p>Esta trampa utiliza un cable para derrumbar una sección inestable del techo. El cable está a 3 pulgadas del suelo y se extiende entre dos soportes débiles que caen cuando se tira de él.</p><p>La primera criatura que cruza el cable hace caer los soportes y provoca el derrumbe de la sección inestable del techo. Cada criatura situada debajo debe realizar una tirada de salvación de Destreza con CD 13. Si falla, recibe 11 (2d10) de daño contundente; si la supera, recibe la mitad. Los escombros convierten la zona de la trampa en &amp;Reference[Difficult Terrain].</p><p><em><strong>Detectar y desactivar.</strong></em> Como acción de buscar, una criatura puede examinar la zona de la trampa y realizar una prueba de [[/check prc 11]]. Si la supera, detecta el cable y la sección inestable del techo. Una vez detectado, el cable se puede cortar o evitar fácilmente, sin necesidad de una prueba de característica.</p><p><em><strong>A niveles superiores.</strong></em> Puedes adaptar la trampa a niveles superiores aumentando el daño y la CD de salvación, tal como indica la siguiente tabla.</p><table><thead><tr><th><p>Niveles</p></th><th><p>Daño contundente</p></th><th><p>CD de salvación</p></th></tr></thead><tbody><tr><td><p>5–10</p></td><td><p>22 (4d10)</p></td><td><p>15</p></td></tr><tr><td><p>11–16</p></td><td><p>55 (10d10)</p></td><td><p>17</p></td></tr><tr><td><p>17–20</p></td><td><p>99 (18d10)</p></td><td><p>19</p></td></tr></tbody></table></div>",
@@ -2250,12 +3211,117 @@
     ],
     "reference": "Revisión de actores: mismo texto inglés completo; contexto de objeto o efecto."
   },
+  "a4a863612bd4ab69110ad39fa3f17693391c0f4b1b50ee21170e4e2ba07ab102": {
+    "translation": "Bola de cristal",
+    "documents": [
+      "dmgCrystalBall00"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "cefe4850d41a34927cefe24a1a4843f16174538cf76d111e062c1b27314a2ce6": {
+    "translation": "<p><em>Objeto maravilloso, Muy raro (Requiere sintonización)</em></p><p>Mientras tocas este orbe de cristal, puedes lanzar @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplScrying000]{Escudriñar} (CD de salvación 17) con él.</p>",
+    "documents": [
+      "dmgCrystalBall00"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "4a9d81c84ac38fdfee8f8ac8ec2affe18b673bed0afe39d6adb9bbbe68b09f7b": {
+    "translation": "Cubo de fuerza",
+    "documents": [
+      "dmgCubeOfForce00"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "d938ff1ad4905ef842d8689d2418cd2b3d5ef4a4b0c433656085e6832fbfb110": {
+    "translation": "<div><p><em>Objeto maravilloso, raro (requiere sintonización)</em></p></div><p>Este cubo mide aproximadamente una pulgada de lado. Cada cara tiene una marca diferente. Puedes presionar una de ellas y gastar las cargas necesarias para lanzar el conjuro asociado a esa cara (CD de salvación 17), según la tabla Caras del cubo de fuerza.</p><p>El cubo empieza con 10 cargas y recupera cada día, al amanecer, 1d6 cargas <span class=\"no-break\">gastadas</span>.</p><table><caption>Caras del cubo de fuerza</caption><thead><tr><td>Conjuro</td><td>Coste en cargas</td></tr></thead><tbody><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMageArmor0]{Armadura de mago}</em></td><td>1</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplShield0000]{Escudo}</em></td><td>1</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLeomundsTi]{Pequeña choza de Leomund}</em></td><td>3</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbPrivateSanctu]{Santuario privado de Mordenkainen}</em></td><td>4</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplOtilukesRe]{Esfera elástica de Otiluke}</em></td><td>4</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWallofForc]{Muro de fuerza}</em></td><td>5</td></tr></tbody></table>",
+    "documents": [
+      "dmgCubeOfForce00"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "a3b3fbe5ce6caeb0b535855f797c96c262ce7fbab8e485afddba9ff1fb908030": {
+    "translation": "Cubo de invocación",
+    "documents": [
+      "dmgCubeOfSummoni"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "dae43146c28c1096ba57ff120f7508634049808c68fc248916aa1d647ba82790": {
+    "translation": "<div><p><em>Objeto maravilloso, raro</em></p></div><p>Este cubo Diminuto parece una caja de sorpresas. Cuando giras su manivela mediante una acción de Magia, suena una alegre melodía, la tapa se abre de golpe, aparece una criatura en el espacio desocupado más cercano y la tapa se cierra. La tapa no puede abrirse de ninguna otra forma.</p><p>Tira en la tabla Cubo de invocación para determinar qué conjuro lanza el cubo para invocar a la criatura. El conjuro se lanza a nivel 5 (CD de salvación 17, bonificador al ataque +9) y no requiere concentración; a todos los demás efectos, tú eres quien lo lanza.</p><p>Una vez que el cubo invoque a una criatura, no podrá volver a hacerlo hasta el siguiente amanecer.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgCubeOfSummoni rollable]</p>",
+    "documents": [
+      "dmgCubeOfSummoni"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "affa39d51eb1194271fbd2a71c2eef451e5bdc6870876b8dc43981837cee2fa3": {
+    "translation": "Aberración (1)",
+    "documents": [
+      "dmgCubeOfSummoni"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "fd38df4a4fcbc87dcee735e5f04f547e69edb58427596b09886ced51d11db871": {
+    "translation": "Bestia (2)",
+    "documents": [
+      "dmgCubeOfSummoni"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "460a5e9295c2ac3e791c776944b32a927e61f39e495a09e9d8f7ebda7e53bde1": {
     "translation": "Autómata (3)",
     "documents": [
       "dmgCubeOfSummoni"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "6f5aca2cf7b24386591141301ec7d3f457d95403dd4819f1ef607c3db8b94a55": {
+    "translation": "Dragón (4)",
+    "documents": [
+      "dmgCubeOfSummoni"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f9e5cb720d7f64a0e6478f9c956d40a86c5261c9ade04431dbf55ae79b33e017": {
+    "translation": "Elemental (5)",
+    "documents": [
+      "dmgCubeOfSummoni"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "3332dcc929b1369e813240b8562371b7ef798c1e1304a364f477d26d2ba03cce": {
+    "translation": "Feérico (6)",
+    "documents": [
+      "dmgCubeOfSummoni"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "718fd17e0a697b9a0230662c99e6620de281ac9bfc6bd945be48e47fdcae59cc": {
+    "translation": "Portal cúbico",
+    "documents": [
+      "dmgCubicGate0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "6d31ac3cfeb11907867c9d09be432f322f2f9f1f76fdec089ffad535fcecb0b3": {
+    "translation": "<div><p><em>Objeto maravilloso, Legendario</em></p></div><p>Este cubo mide 3 pulgadas de lado y irradia una energía mágica palpable. Las seis caras del cubo están vinculadas cada una a un plano de existencia diferente, uno de los cuales es el Plano Material. Las otras caras están vinculadas a planos determinados por el DM.</p><p>El cubo tiene 3 cargas y recupera 1d3 cargas gastadas diariamente al amanecer. Como acción de Magia, puedes gastar 1 de las cargas del cubo para lanzar uno de los siguientes conjuros usando el cubo.</p><p><strong>Portal.</strong> Al presionar una cara del cubo, lanzas <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplGate000000]{Portal}</em>, abriendo un portal al plano de existencia vinculado a esa cara.</p><p><strong>Desplazamiento entre planos.</strong> Al presionar una cara del cubo dos veces, lanzas <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPlaneShift]{Desplazamiento entre planos}</em>, transportando a los objetivos al plano de existencia vinculado a esa cara.</p>",
+    "documents": [
+      "dmgCubicGate0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "1b2e8c225bf58f05fa0378107672edbd9efd1b3f3b6a7679a7a770779d6be7d9": {
+    "translation": "<div><p><em>Objeto maravilloso, Raro (Requiere sintonización)</em></p></div><p>Como acción de Magia, puedes colocar en el suelo esta estatuilla de adamantina de 1 pulgada y, usando una palabra de mando, hacer que crezca rápidamente hasta convertirse en una torre cuadrada de adamantina. Repetir la palabra de mando hace que la torre vuelva a la forma de estatuilla, lo cual solo funciona si la torre está vacía. Cada criatura en el área donde aparece la torre es empujada a un espacio desocupado fuera pero adyacente a la torre. Los objetos del área que no estén siendo vestidos o transportados también son empujados fuera del área.</p><p>La torre mide 20 pies de lado y 30 pies de alto, con saeteras en todos los lados y un parapeto en la cima. Su interior está dividido en dos plantas, conectadas por una escalera de mano, una escalera normal o una rampa (a tu elección). La escalera o rampa termina en una trampilla que conduce al tejado. Al crearse, la torre tiene una única puerta a nivel del suelo en el lado que te mira. La puerta se abre solo a tu orden, que puedes dar como Acción adicional. Es inmune al conjuro <em>Abrir</em> y a magia similar.</p><p>La magia impide que la torre pueda volcar. El tejado, la puerta y los muros tienen cada uno CA 20; PG 100; Inmunidad al daño Contundente, Perforante y Cortante excepto el infligido por maquinaria de asedio; y Resistencia a todo el resto del daño. Encoger la torre de vuelta a la forma de estatuilla no repara el daño. Solo un conjuro <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWish000000]{Deseo}</em> puede reparar la torre (este uso del conjuro cuenta como replicar un conjuro de nivel 8 o inferior). Cada lanzamiento de <em>Deseo</em> hace que la torre recupere todos sus Puntos de Golpe.</p>",
+    "documents": [
+      "dmgDaernsInstant"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "166f432ae2db1223fa303d62d43b28ca6e882cec28d2cc45e8b76ae1f8b5c9c5": {
+    "translation": "Fortaleza instantánea de Daern",
+    "documents": [
+      "dmgDaernsInstant"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "157aa97a336d7021131ac6c4c2589ee932c36cdc095502d7deaf36b0aa192a6d": {
     "translation": "Desplegar torre",
@@ -2264,6 +3330,13 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "4840d15a2881b1283707de953aab988028a420857bb9bdc14a9a310591fb91b5": {
+    "translation": "La adamantina",
+    "documents": [
+      "dmgDaernsInstant"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "c87aa8bb1fe6fb8171ba3f0eff67e743a512c02cc2fb7858a03bafc0e7d69ca6": {
     "translation": "Abrir la puerta de la fortaleza",
     "documents": [
@@ -2271,12 +3344,33 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "4d3ee2a933be9f420e30a1516c52e6f918d1bd182aa687d9e611a376c6f939d9": {
+    "translation": "La puerta de la torre",
+    "documents": [
+      "dmgDaernsInstant"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "d8305f42002425dc0ac61b76eb82fc740cc36051e64528643e8c419f91958014": {
+    "translation": "Daga de la ponzoña",
+    "documents": [
+      "dmgDaggerOfVenom"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "9b4d133df37ce100962cf18ecf58581c883e5bd0f7418b44711c89acefb2686d": {
     "translation": "<div><p><em>Arma (daga), rara</em></p></div><p>Obtienes un bonificador de +1 a las tiradas de ataque y de daño realizadas con esta arma mágica.</p><p>Puedes usar una acción adicional para recubrir mágicamente la hoja con veneno. El veneno permanece durante 1 minuto o hasta que un ataque con esta arma impacte a una criatura. Esa criatura debe superar una tirada de salvación de Constitución con CD 15 o recibe 2d10 de daño de veneno y tiene el estado &amp;Reference[Poisoned apply=false] durante 1 minuto. El arma no puede volver a usarse de esta forma hasta el siguiente amanecer.</p>",
     "documents": [
       "dmgDaggerOfVenom"
     ],
     "reference": "Descripción ya revisada en reviewed-descriptions.json."
+  },
+  "f6e7e6bc18f24081301a6f011378ba6dd6b7b52f62448cecd4a1d0808099a8cb": {
+    "translation": "<p>La criatura tiene el estado &amp;Reference[Poisoned apply=false] durante 1 minuto.</p>",
+    "documents": [
+      "dmgDaggerOfVenom"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "afb13ea0924b3d38535f33cc0b56cc1b6fd8b37d1d8dc5bebb701e38f8ee5e4c": {
     "translation": "Recubrimiento de veneno",
@@ -2292,12 +3386,26 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "72dec4e90b4a9a899271fbcf018e8ed94b2a5b4817fd881987a36b65ac52bca7": {
+    "translation": "La daga de la ponzoña",
+    "documents": [
+      "dmgDaggerOfVenom"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "b9e942dafca7bafb29b632e70d918ef130c9d0b1042e949e29335afcb2935a0d": {
     "translation": "Salvación contra el veneno",
     "documents": [
       "dmgDaggerOfVenom"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "bf10a246cc122470d085b8f79e56651501712199bf9b7770251b4fbd4387bbaa": {
+    "translation": "<div><p><em>Arma (@UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepGreatsword]{Espadón}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepLongsword0]{Espada larga}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepRapier0000]{Estoque}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepScimitar00]{Cimitarra} o @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepShortsword]{Espada corta}), Muy raro (Requiere sintonización)</em></p></div><p>Puedes usar una Acción adicional para lanzar esta arma mágica al aire. Cuando lo haces, el arma empieza a flotar, vuela hasta 30 pies y ataca a una criatura que elijas a 5 pies o menos de ella. El arma usa tu tirada de ataque y añade tu modificador de característica a las tiradas de daño.</p><p>Mientras el arma flota, puedes usar una Acción adicional para hacer que vuele hasta 30 pies a otro punto a 30 pies o menos de ti. Como parte de esa misma Acción adicional, puedes hacer que el arma ataque a una criatura a 5 pies o menos de ella.</p><p>Después de que el arma flotante ataque por cuarta vez, vuela de vuelta hacia ti e intenta volver a tu mano. Si no tienes una mano libre, el arma cae al suelo en tu espacio. Si el arma no tiene una ruta despejada hacia ti, se mueve tan cerca de ti como pueda y luego cae al suelo. También deja de flotar si la agarras o si estás a más de 30 pies de ella.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFoundryRefere.JournalEntryPage.Ok4iCgD25ENgoRxE cite=false caption=false classes=\"hide-in-embed\"]</p>",
+    "documents": [
+      "dmgDancingSword0"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "52fc9b6d217e60823c0ac1f1383fa40ce6e6c514957fe2330d51725845438b9d": {
     "translation": "Espada danzante",
@@ -2320,6 +3428,20 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "e154312c5e020a2beefa41909f20c9493fb8aac15c2ac9e2c74585f146fd6bf6": {
+    "translation": "Amuleto del fragmento oscuro",
+    "documents": [
+      "dmgDarkShardAmul"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "7b68cf9f5109d07de015e4e4470c563dce6b6984f5d70820c981a442972cc7e0": {
+    "translation": "<div><p><em>Objeto maravilloso, común (requiere sintonización con un brujo)</em></p></div><p>Este amuleto está hecho de un fragmento de material resistente procedente de un reino de otro mundo. Mientras lo lleves puesto, obtendrás los siguientes beneficios.</p><p><strong>Canalizador mágico.</strong> Puedes usar el amuleto como canalizador mágico para tus conjuros de brujo.</p><p><strong>Conjuro desconocido.</strong> Mediante una acción de Magia, puedes intentar lanzar un truco que no conozcas. Debe pertenecer a la lista de conjuros de brujo y tener un tiempo de lanzamiento de una acción. Realiza una prueba de Inteligencia (Conocimiento Arcano) con CD 10. Si la superas, lanzas el conjuro. Si fallas, el conjuro falla y la acción empleada para lanzarlo se pierde. En cualquier caso, no puedes volver a usar esta propiedad hasta que termines un descanso largo.</p><section class=\"secret\" id=\"secret-SB0WtYF6NBSdZhyr\"><p><strong>Nota de Foundry</strong></p><p>La actividad <strong>Lanzar el truco elegido</strong> se incluye como opción. Antes de activarla, hay que editarla y configurarla con el truco de brujo elegido.</p></section>",
+    "documents": [
+      "dmgDarkShardAmul"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "f6cb2ec09766b57ec2e52e0c9b14f853af28bb3744ef284a42b3ff2e7017e4a0": {
     "translation": "Prueba para un conjuro desconocido",
     "documents": [
@@ -2335,12 +3457,110 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "cb5c2a696ad76133f6ec6f071b401ebd4930227bf06e6007d3a7012f6ffe2b0a": {
+    "translation": "<div><p><em>Objeto maravilloso, Infrecuente</em></p></div><p>Este frasco con tapón chapotea al agitarlo, como si contuviera agua. La jarra pesa 2 libras.</p><p>Puedes realizar una acción de Magia para quitar el tapón y pronunciar una de tres palabras de mando; entonces, una cantidad de @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgspWaterfresh0]{agua dulce} o @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgspWatersalt00]{agua salada} (a tu elección) se derrama del frasco. El agua deja de salir al inicio de tu siguiente turno. Elige entre las siguientes palabras de mando:</p><div class=\"def-block\"><p><strong>Salpicar.</strong> La jarra produce 1 galón de agua.</p><p><strong>Fuente.</strong> La jarra produce 5 galones de agua.</p><p><strong>Géiser.</strong> La jarra produce 30 galones de agua que brotan en una Línea de 30 pies de largo y 1 pie de ancho. Si sostienes la jarra, puedes apuntar el géiser en una dirección (no requiere acción). Una criatura de tu elección en la Línea debe superar una tirada de salvación de Fuerza CD 13 o sufrir 1d4 de daño Contundente y tener el estado &amp;Reference[Prone] . En lugar de una criatura, puedes elegir como objetivo un objeto en la Línea que no esté siendo llevado ni vestido y que pese como máximo 200 libras. El objeto es derribado por el géiser.</p></div>",
+    "documents": [
+      "dmgDecanterOfEnd"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "5515409add76602144ff1ef9199781cb96ea664731c6f35ac997d28252eb7a87": {
+    "translation": "Jarra de agua infinita",
+    "documents": [
+      "dmgDecanterOfEnd"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "c3fa854c3d0cb74555b4004fb23812b3b351ec66dcea638d8a6e8d3382d7b46d": {
+    "translation": "Salpicar",
+    "documents": [
+      "dmgDecanterOfEnd"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "4d3cb07cd53eb646ff70e16b6f0e123eb294893eb796df11003188b78b06aa7e": {
+    "translation": "1 galón de agua",
+    "documents": [
+      "dmgDecanterOfEnd"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b30783f32c5164ae8617993d106959f717401f297009333dab209c5ca81c2da8": {
+    "translation": "La jarra de agua infinita",
+    "documents": [
+      "dmgDecanterOfEnd"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "56420df8f9964e52f2e47c5996ce87652bc9c507890868fb4a8f0d6fd46bb9c5": {
+    "translation": "Fuente",
+    "documents": [
+      "dmgDecanterOfEnd"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "d297f16f03d3e8603c8a6c2b6b49f97b176b15e8e44b5e0f41f20f3d83306e2a": {
+    "translation": "5 galones de agua",
+    "documents": [
+      "dmgDecanterOfEnd"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "0790ec5648c1aaf08864339a05d974c0dea7c7c5e0a0dee48b1a7ca1633dfb28": {
+    "translation": "Géiser",
+    "documents": [
+      "dmgDecanterOfEnd"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "30e513653d040f8b501ddc9ac2103c4887db004d074a0abd7522f05c30d834a5": {
+    "translation": "30 galones; salvación para evitar &Reference[prone]",
+    "documents": [
+      "dmgDecanterOfEnd"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "1822282519277d6e0910b8c71327cb73c69a574686c4407c82423718897f317e": {
+    "translation": "Una criatura u objeto que elijas en la línea",
+    "documents": [
+      "dmgDecanterOfEnd"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "8265b694567082109422d4a94a0a50c59dd964640133966d7eb29f66fe9d7c3d": {
+    "translation": "Baraja de ilusiones",
+    "documents": [
+      "dmgDeckOfIllusio"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "364d119cdffa97e88fa2546e3ed241b18bf02c705dd5ff7da05fb8850b885a68": {
+    "translation": "<div><p><em>Objeto maravilloso, infrecuente</em></p></div><p>Esta caja contiene un conjunto de cartas. Una baraja completa tiene 34 cartas: 32 representan criaturas concretas y dos tienen una superficie de espejo. A una baraja hallada como tesoro le suelen faltar [[/r 1d20 − 1#Missing cards]] cartas.</p><p>La magia de la baraja solo funciona si sus cartas se extraen al azar. Puedes realizar una acción de Magia para sacar una carta al azar y arrojarla al suelo, a un punto situado a 30 pies o menos de ti. Sobre ella se forma una criatura ilusoria, determinada mediante una tirada en la tabla Baraja de ilusiones, que permanece hasta que se disipa. La criatura ilusoria tiene el aspecto y el comportamiento de una criatura real de su tipo, pero no puede causar daño. Mientras estés a 120 pies o menos de ella y puedas verla, puedes realizar una acción de Magia para moverla a cualquier punto a 30 pies o menos de su carta.</p><p>Cualquier interacción física con la criatura ilusoria revela que es falsa, ya que los objetos la atraviesan. Una criatura que realice una acción de Estudiar para inspeccionarla visualmente la identifica como una ilusión si supera una [[/check ability=int skill=inv dc=15 format=long]]. La ilusión dura hasta que se mueva la carta o se disipe la ilusión mediante un conjuro <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDispelMagi]{Disipar magia}</em> o un efecto similar. Cuando termina, la imagen de la carta desaparece y esa carta no puede volver a usarse.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgDeckOfIllusio rollable]</p><section class=\"secret\" id=\"secret-dg7rbpSc8GfB0AXm\"><p><strong>Nota de Foundry</strong></p><p>Como cada carta es de un solo uso, se recomienda importar una copia de la @UUID[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgDeckOfIllusio]{tabla} e insertar su UUID en el enriquecedor @Embed anterior.</p><p>Además, al obtener la baraja, el DM o el jugador debería usar la actividad <strong>Contar las cartas</strong> para determinar al azar cuántas cartas quedan. Después de usarla una vez, la actividad puede eliminarse.</p></section><p></p>",
+    "documents": [
+      "dmgDeckOfIllusio"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "1cf9584efa65cbf39664dfb69c39314ac891ae3f30e64a3c113f2eb167646046": {
     "translation": "Contar las cartas",
     "documents": [
       "dmgDeckOfIllusio"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "f1ce77e1ed44a012ccab426ad8179f6d12091bbdfd518fee3e5ad4f2c6435e54": {
+    "translation": "Encuentras que a la baraja le faltan algunas cartas.",
+    "documents": [
+      "dmgDeckOfIllusio"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "a2f66ae0c8eb8911eab4a51b0b975a5ccb0c0a26010f2c182d68b0911be5373c": {
+    "translation": "La baraja de ilusiones",
+    "documents": [
+      "dmgDeckOfIllusio"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "50d4b4c51c64d3bdc214f97199cba042cfe10d0c78403ebf9a52034453909c26": {
     "translation": "Robar carta",
@@ -2349,12 +3569,33 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "6740f5bb41715f9055c24f84bdf10b5200f1f66d8c87180ac7e68aa21c697d9a": {
+    "translation": "Baraja de múltiples cosas",
+    "documents": [
+      "dmgDeckOfManyThi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "9af5b1c229089a896a0e813329fc79e26ad19ad60c1748747f30a7d014e85635": {
+    "translation": "<div><p><em>Objeto maravilloso, legendario</em></p></div><p>Esta baraja, que suele encontrarse en una caja o bolsa, contiene cartas de marfil o vitela. La mayoría de estas barajas (75 por ciento) tienen trece cartas, aunque algunas tienen veintidós. Usa la columna correspondiente de la tabla Baraja de múltiples cosas al determinar al azar las cartas extraídas.</p><p>Antes de sacar una carta, debes declarar cuántas pretendes extraer y luego sacarlas al azar. Las cartas extraídas por encima de esa cantidad no tienen efecto. Por lo demás, la magia de cada carta surte efecto en cuanto la sacas. No puede pasar más de 1 hora entre una extracción y la siguiente. Si no sacas la cantidad declarada, las cartas restantes salen volando de la baraja por sí solas y surten efecto todas a la vez.</p><p>Una vez extraída, la carta desaparece. Salvo si se trata del Loco o el Bufón, reaparece en la baraja, por lo que puedes sacar la misma carta dos veces. Una vez que el Loco o el Bufón haya salido de la baraja, repite la tirada en la tabla si vuelve a salir esa carta.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg13CardDeckOfM rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg22CardDeckOfM rollable]</p><section class=\"secret\" id=\"secret-89gUJH8GuylznwxV\"><p><strong>Nota de Foundry</strong></p><p>Al encontrar la baraja, su propietario o el GM debería usar la actividad <strong>Comprobar el tamaño de la baraja</strong> para determinar cuántas cartas contiene. La actividad establece los usos restantes del objeto (de un máximo de 22) según el número de cartas. Como alternativa, el GM puede ajustar los <em>usos máximos</em> del objeto al tamaño de la baraja.</p><p>En ambos casos, pueden eliminarse tanto la actividad <strong>Comprobar el tamaño de la baraja</strong> como el enlace a la tabla incrustada correspondiente al tamaño de baraja que no se utilice, una vez determinado el tamaño.</p></section>",
+    "documents": [
+      "dmgDeckOfManyThi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "0c92f0f0dc38d6b4168803869a9484a9d79e585ac018a5d1d5465dcf6937a121": {
     "translation": "Comprobar el tamaño de la baraja",
     "documents": [
       "dmgDeckOfManyThi"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "ad1f3840ccd1aee5c1815f578e4f0a7bc216f57452295503f9ed490c916a965d": {
+    "translation": "al determinar el número de cartas de esta baraja",
+    "documents": [
+      "dmgDeckOfManyThi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "03c67355296200d1304a9854d23e0e041e2863c1ad4d2457a9ac4c07c56e33b0": {
     "translation": "Tamaño de la baraja",
@@ -2363,12 +3604,26 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "851415d04748092f7d5933253b86ce59e93727e981556e243f40c2f347824e57": {
+    "translation": "La baraja de múltiples cosas",
+    "documents": [
+      "dmgDeckOfManyThi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "0d738f1a0bb5939cc5ee793b8dba48e8f8be187aae248041e04deec1cbca259e": {
     "translation": "Robar cartas",
     "documents": [
       "dmgDeckOfManyThi"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "c9811f5330db034b4712e0a861882ba7ad80a35a1d4c8624173348b0d976dd51": {
+    "translation": "Declarar el número de cartas que se sacarán durante 1 hora",
+    "documents": [
+      "dmgDeckOfManyThi"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "90b28b889edc3fa7eb1e29694b45b4af5783129deb77d5f57b5227ab7c5b4cb4": {
     "translation": "Número de cartas declarado",
@@ -2377,6 +3632,20 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "157ddc59b5e4e7ca9a05ffa09e4fa7cdefe073d8a3ebdf56b70a8446b64ae83f": {
+    "translation": "Defensora",
+    "documents": [
+      "dmgDefender00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "9aaa001fc1a29b1c629b2ca9e6ba6cac801ea2d8d9e2589123b3e527bb35ddd2": {
+    "translation": "<p><em>Arma (cualquier arma cuerpo a cuerpo), Legendaria (Requiere sintonización)</em></p><p>Obtienes un bonificador de +3 a las tiradas de ataque y de daño realizadas con esta arma mágica.</p><p>La primera vez que atacas con el arma en cada uno de tus turnos, puedes transferir parte o todo el bonificador del arma a tu Clase de Armadura. Por ejemplo, podrías reducir el bonificador a tus tiradas de ataque y de daño a +1 y obtener un bonificador de +2 a la Clase de Armadura. Los bonificadores ajustados permanecen en efecto hasta el inicio de tu siguiente turno, aunque debes sujetar el arma para beneficiarte del bonificador a la CA que te otorga.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFoundryRefere.JournalEntryPage.Ok4iCgD25ENgoRxE cite=false caption=false classes=\"hide-in-embed\"]</p>",
+    "documents": [
+      "dmgDefender00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "7a19d2002c3b3446a9728c42129e3ab1fe1fe08a27f9a9f7d7674b647aa94892": {
     "translation": "Bonificador a la CA transferido: 1",
     "documents": [
@@ -2384,6 +3653,14 @@
       "dmgSwordOfKas000"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "0b36784d5288856afbd1d655ae4bcab091d0c8d7f5b84f466356276665f5fcf2": {
+    "translation": "<p>Los bonificadores ajustados permanecen hasta el principio de tu siguiente turno, aunque debes sostener el arma para obtener su bonificador a la CA.</p>",
+    "documents": [
+      "dmgDefender00000",
+      "dmgSwordOfKas000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "6fae46d0a477061a1ae137d21fd094601b11331f4fa23f42f56a90e8f5da94c2": {
     "translation": "Bonificador a la CA transferido: 2",
@@ -2401,12 +3678,96 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "f54781995516d938af6ccbb3305fca022632fd50e00ce0e0ad08bd141d720072": {
+    "translation": "Armadura demoníaca",
+    "documents": [
+      "dmgDemonArmor000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "c5389c75b180b12a6146c48696e2332df41ba2e028a8a87272d8158f091e75a6": {
+    "translation": "Lenguaje abisal",
+    "documents": [
+      "dmgDemonArmor000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "bbb467ccf6be33f7c8c6baf4e7734e58c96102432d4de1fa03339cdcad41f425": {
+    "translation": "<p><em>Armadura (cualquier armadura ligera, media o pesada), muy rara (requiere sintonización)</em></p><p>Mientras lleves puesta esta armadura, obtendrás un bonificador de +1 a la clase de armadura y conocerás el abisal. Además, sus guanteletes con garras permiten que tus ataques sin armas inflijan 1d8 de daño cortante en lugar del daño contundente habitual, y obtienes un bonificador de +1 a las tiradas de ataque y de daño de tus ataques sin armas.</p><section class=\"secret\" id=\"secret-i2l0Ym3XkTC4Qm8z\"><p><strong>Maldición.</strong> Una vez que te pongas esta armadura maldita, no podrás quitártela salvo que seas objetivo de un conjuro <em>Levantar maldición</em> o de magia similar. Mientras la lleves puesta, tendrás desventaja en las tiradas de ataque contra demonios y en las tiradas de salvación contra sus conjuros y aptitudes especiales.</p></section><p> @Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFoundryRefere.JournalEntryPage.Ok4iCgD25ENgoRxE cite=false caption=false classes=\"hide-in-embed\"]</p>",
+    "documents": [
+      "dmgDemonArmor000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "08e58a557b2bd3c692570f2c1a21c2b7234c9737cbfefb62be8a3af80db553f6": {
+    "translation": "<p><em>Armadura (cualquier armadura ligera, media o pesada), muy rara (requiere sintonización)</em></p><p>Mientras lleves puesta esta armadura, obtendrás un bonificador de +1 a la clase de armadura y conocerás el abisal. Además, sus guanteletes con garras permiten que tus ataques sin armas inflijan 1d8 de daño cortante en lugar del daño contundente habitual, y obtienes un bonificador de +1 a las tiradas de ataque y de daño de tus ataques sin armas.</p>",
+    "documents": [
+      "dmgDemonArmor000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b57ec3b651c6399f93982a6d76c044b04d40de452a7e91c9822ce100d475eeb2": {
+    "translation": "Demonomicon de Iggwilv",
+    "documents": [
+      "dmgDemonomiconOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "75a2a3865587f2d0a54534c3cdf7e43dde246daad3da080ef7a2419693ac76b0": {
+    "translation": "<div><p><em>Objeto maravilloso, artefacto (requiere sintonización)</em></p></div><blockquote><p>Este tratado, escrito por la archimaga Iggwilv, documenta los estratos y habitantes del Abismo y se considera el tomo de demonología más exhaustivo y blasfemo del multiverso. Relata las profanaciones más antiguas y más recientes del Abismo y de los demonios. Estos han intentado censurarlo y, aunque han arrancado secciones de su lomo, los capítulos generales permanecen y siguen revelando secretos demoníacos. Entre sus líneas se agita, aprisionado, un fragmento secreto del propio Abismo que mantiene el libro actualizado, por muchas páginas que se arranquen, y que ansía ser algo más que material de consulta.</p></blockquote><p><strong>Saber abisal.</strong> Puedes consultar el <em>Demonomicon</em> siempre que realices una prueba de Inteligencia para averiguar información sobre demonios o una prueba de Sabiduría (Supervivencia) relacionada con el Abismo. Si lo haces, tendrás ventaja en la prueba.</p><p><strong>Azote infernal.</strong> Mientras lleves el libro, cuando hagas una tirada de daño de un conjuro que lances contra un infernal, usarás el resultado máximo posible en lugar de tirar.</p><details><summary><strong>Contención.</strong></summary><p>Las primeras diez páginas del <em>Demonomicon</em> están en blanco. Mientras sostengas el libro, puedes realizar una acción de Magia y elegir como objetivo a un infernal que puedas ver y que esté atrapado en el área de un conjuro <em>Círculo mágico</em>. El infernal debe superar una tirada de salvación de Carisma con CD 20 y desventaja o quedará atrapado en una página en blanco del <em>Demonomicon</em>, que se llenará de texto con el nombre por el que se conoce a la criatura y sus depravaciones. Una vez usada esta acción, no puede volver a utilizarse hasta el siguiente amanecer.</p><p>Cuando termines un descanso largo, si tú y el <em>Demonomicon</em> estáis en el mismo plano de existencia, una criatura atrapada en el libro podrá intentar poseerte. Realiza una [[/save ability=cha dc=20 format=long]]. Si fallas, la criatura te posee y te controla como a una marioneta. Mediante una acción de Magia, puede liberarte y aparecer en el espacio desocupado más cercano a ti. Si superas la salvación, ese infernal no podrá volver a intentar poseerte durante 7 días, aunque otro infernal atrapado en el libro sí puede intentarlo.</p><p>Cuando se descubre el tomo, hay [[/r 1d4#Fiends]]{1d4 infernales} en sus páginas, normalmente una selección de demonios.</p></details><details><summary><strong>Aprisionamiento.</strong></summary><p>Mientras lleves el libro, cuando lances <em>Círculo mágico</em> eligiendo únicamente infernales o <em>Atadura planar</em> contra un infernal, el conjuro se lanzará a nivel 9, independientemente del nivel del espacio de conjuro empleado, si has usado alguno. Además, el infernal tendrá desventaja en su tirada de salvación contra el conjuro.</p></details><details><summary><strong>Propiedades aleatorias.</strong></summary><p>El artefacto tiene las siguientes propiedades aleatorias (consulta «Artefactos» en este capítulo):</p><ul><li>2 propiedades beneficiosas menores</li><li>1 propiedad perjudicial menor</li><li>1 propiedad perjudicial mayor</li></ul></details><details><summary><strong>Conjuros.</strong></summary><p>El libro tiene 8 cargas y recupera 1d8 cargas gastadas cada día, al amanecer. Mientras lo sostengas, puedes realizar una acción de Magia para lanzar uno de los conjuros de la siguiente tabla (CD de salvación 20). La tabla indica cuántas cargas debes gastar para lanzarlo.</p><table><thead><tr><td>Conjuro</td><td>Coste en cargas</td></tr></thead><tbody><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMagicCircl]{Círculo mágico}</em></td><td>1</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMagicJar00]{Receptáculo mágico}</em></td><td>3</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPlanarAlly]{Aliado planar}</em></td><td>3</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPlanarBind]{Atadura planar}</em></td><td>2</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPlaneShift]{Desplazamiento entre planos} (solo al Abismo)</em></td><td>3</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplSummonFien]{Invocar infernal}</em></td><td>3</td></tr><tr><td><em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplTashasHide]{Risa horrible de Tasha}</em></td><td>0</td></tr></tbody></table></details><details><summary><strong>Destruir el Demonomicon.</strong></summary><p>Para destruir el libro, seis señores demoníacos distintos deben arrancar cada uno una sexta parte de sus páginas. Si esto ocurre, las páginas reaparecen al cabo de 24 horas. Antes de que transcurra ese plazo, cualquiera que abra la encuadernación restante será transportado a un estrato naciente del Abismo oculto en el libro. En el corazón de este dominio letal y parcialmente consciente yace un artefacto perdido hace mucho tiempo, el <em>Bastón de Fraz-Urb’luu</em>. Si se saca el bastón de ese plano de bolsillo, el libro se convierte en una copia no mágica y desactualizada del <em>Tomo de Zyx</em>, la obra que sirvió de base al <em>Demonomicon de Iggwilv</em>. El <em>Tomo de Zyx</em> puede destruirse como cualquier libro corriente. En cuanto sale el bastón, el señor demoníaco Fraz-Urb’luu lo sabe al instante.</p></details>",
+    "documents": [
+      "dmgDemonomiconOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "8011803c077c7457a41d57745d7e1bfaefcdbd4083bd5522ff5638f96bf85c6b": {
+    "translation": "Contención",
+    "documents": [
+      "dmgDemonomiconOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "01624fbb806ed2cd5d99f996cd4f8809f012adf07cbb3e45617e4071a2a33cf7": {
+    "translation": "El infernal realiza la tirada de salvación con desventaja. Resta un uso del objeto si consigues atraparlo.",
+    "documents": [
+      "dmgDemonomiconOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "522426508eee77ac64bc7b2266090dfb3a956e79c879d75129003055074e0b8f": {
+    "translation": "a la vista",
+    "documents": [
+      "dmgDemonomiconOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "485a4adeb65266ff7960cbd7f89b69c8f6a7c6af4bc3b0ccab2ec3c4b2d5a718": {
+    "translation": "un infernal visible atrapado en un Círculo mágico",
+    "documents": [
+      "dmgDemonomiconOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "64666b5b01cef926baa243cb4aecd1a1ec19ba5f4d18a9219c8ce89024c3cdd2": {
     "translation": "Aprisionamiento: círculo mágico",
     "documents": [
       "dmgDemonomiconOf"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "fe5b8237be74586e53d73ebee1033a57a6e51a12c99d26f72d6c37dd759c9f58": {
+    "translation": "El infernal tiene desventaja en su tirada de salvación",
+    "documents": [
+      "dmgDemonomiconOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "76b2200ad3e39d0b2142f5ced36837aa8b36293fa3f839f02211d108af147d37": {
+    "translation": "El tipo de criatura elegido debe ser infernal",
+    "documents": [
+      "dmgDemonomiconOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "a39bec6b1314fb9c062d1ed49d0f4fd02c9d96cb48a9cf24d49ae1e633e85410": {
     "translation": "Aprisionamiento: atadura planar",
@@ -2415,6 +3776,34 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "8810e04aad2057616400ee34648e3732cf766a34d8e6b34f268c2e8fd1477003": {
+    "translation": "Desplazamiento entre planos (Abismo)",
+    "documents": [
+      "dmgDemonomiconOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "3ec560013d3275d53fdbaf71716e27020fd449805f369ed50b856f4b9944457b": {
+    "translation": "Sólo al Abismo",
+    "documents": [
+      "dmgDemonomiconOf"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f03f1bf23753a142cf9e4f1f9166274fa2d49798376fd9a862039861a7518c94": {
+    "translation": "Grilletes dimensionales",
+    "documents": [
+      "dmgDimensionalSh"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "9aca1ff0d08807cfc0ec477d2282346ac2b25b5f84d179973619fa3e4e04f902": {
+    "translation": "<div><p><em>Objeto maravilloso, Raro</em></p></div><p>Puedes realizar una acción Utilizar para colocar estos grilletes a una criatura que tenga la condición &amp;Reference[Incapacitated apply=false]. Los grilletes se ajustan para encajar en una criatura de tamaño Pequeño a Grande. Los grilletes impiden que una criatura sujeta por ellos use cualquier método de movimiento extradimensional, incluyendo teletransportación o viaje a un plano de existencia diferente. No impiden que la criatura atraviese un portal interdimensional.</p><p>Tú y cualquier criatura que designes cuando colocas los grilletes podéis realizar una acción Utilizar para quitarlos. Una vez cada 30 días, la criatura sujeta puede realizar una prueba [[/check ability=str skill=ath dc=30 format=long]]. Con una prueba exitosa, la criatura se libera y destruye los grilletes.</p>",
+    "documents": [
+      "dmgDimensionalSh"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "5ca2bd262164aab5b023d4fd93be4e41d667a2abb64c372b332b9983edde8745": {
     "translation": "Colocar grilletes",
     "documents": [
@@ -2422,12 +3811,68 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "cc80551c4ee789f8262acce4760898d4291a1486b9ca8c06ad2744dc58705d14": {
+    "translation": "Criatura de tamaño Pequeño a Grande con el estado de incapacitado",
+    "documents": [
+      "dmgDimensionalSh"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "2c5b1d6aad3f399fd7eb8b9e07e917bb82e94c43aa51e7e85fe3b2bd3ba688f0": {
+    "translation": "Intentar escapar",
+    "documents": [
+      "dmgDimensionalSh"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "c55625d341a6f7bd3d50d3cca3ef0e4e561b1c1eaf3cbc52525b0bf885f5c24a": {
+    "translation": "está sujeto por unos grilletes dimensionales",
+    "documents": [
+      "dmgDimensionalSh"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "49b868ef3decabad96cd6e41f0a4d72c0fed74b224e225e446f435357b761862": {
+    "translation": "Puede intentarse una vez cada 30 días",
+    "documents": [
+      "dmgDimensionalSh"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "8666c27ada2bf6d2c17deaa2578675938eebb7ad54f9a025c1fc82af0e334211": {
+    "translation": "Los grilletes dimensionales que te sujetan",
+    "documents": [
+      "dmgDimensionalSh"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "a7bb0b6c2ec0f7c895bd35fc83ba25310c54785c947beca5544f4bb28fbf617b": {
     "translation": "Sujeto por grilletes dimensionales",
     "documents": [
       "dmgDimensionalSh"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "925f1ddcd05b3649ef009198bdd0671ee8efba606a637b82e8902b4cd6db3fd5": {
+    "translation": "<p>Los grilletes impiden que la criatura sujeta use cualquier método de movimiento extradimensional, incluidos el teletransporte y el viaje a otro plano de existencia. No le impiden atravesar un portal interdimensional.</p><p>Una vez cada 30 días, la criatura sujeta puede realizar una [[/check ability=str skill=ath dc=30 format=long]]. Si supera la prueba, se libera y destruye los grilletes.</p>",
+    "documents": [
+      "dmgDimensionalSh"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "d05e07b7c14e596a5fe0b7dc50ab6be1607bdd1311fd559382122ea76ceab4c3": {
+    "translation": "Equilibrio",
+    "documents": [
+      "dmgDmtBalance000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "a96e4f33bb11b0618b571eabed462c004aa60cb2d56c1f5c4b9821d238b0710a": {
+    "translation": "<p>Puedes aumentar una de tus puntuaciones de característica en 2, hasta un máximo de 22, siempre que también reduzcas otra de tus puntuaciones de característica en 2. No puedes reducir una característica que tenga una puntuación de 5 o inferior. Alternativamente, puedes elegir no ajustar tus puntuaciones de característica; en ese caso, esta carta <span class=\"no-break\">no tiene efecto</span>.</p>",
+    "documents": [
+      "dmgDmtBalance000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "daf63df33073793f17e244aaa5ae93ab4eca1197b7113959193c7a0399156fad": {
     "translation": "Efecto de la carta",
@@ -2453,12 +3898,56 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "5521457e756c43f3063df83912a4d2d4b9d6654733957bf7b28172cfe8ad9c4e": {
+    "translation": "El efecto de la carta se produce inmediatamente al extraerla",
+    "documents": [
+      "dmgDmtBalance000",
+      "dmgDmtDonjon0000",
+      "dmgDmtEuryale000",
+      "dmgDmtFlames0000",
+      "dmgDmtFool000000",
+      "dmgDmtGem0000000",
+      "dmgDmtKey0000000",
+      "dmgDmtKnight0000",
+      "dmgDmtPuzzle0000",
+      "dmgDmtRogue00000",
+      "dmgDmtRuin000000",
+      "dmgDmtSkull00000",
+      "dmgDmtStar000000",
+      "dmgDmtSun0000000",
+      "dmgDmtTalons0000",
+      "dmgDmtThrone0000",
+      "dmgDmtVoid000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b8cdd253c1ad5a0ff74dae7dec596aa99ba7991f4ea13c055ee30f45754cc9a9": {
+    "translation": "Cometa",
+    "documents": [
+      "dmgDmtComet00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "c5f1e5a260bb3f1985511d629601c60c41e7dcdea558ec76e916b3e7de382775": {
+    "translation": "<p>La próxima vez que entres en combate contra una o más criaturas Hostiles, puedes seleccionar a una de ellas como tu enemigo cuando tires Iniciativa. Si reduces a tu enemigo a 0 Puntos de Golpe durante ese combate, tienes Ventaja en las Tiradas de salvación contra la muerte durante 1 año. Si otra persona reduce a tu enemigo elegido a 0 Puntos de Golpe o no eliges un enemigo, esta carta no tiene efecto.</p>",
+    "documents": [
+      "dmgDmtComet00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "d75a3e666c5cbbb88b38fe58312b8a0febeb339532f4d5378b3830f115b7c172": {
     "translation": "Efecto de la carta: inicio",
     "documents": [
       "dmgDmtComet00000"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "5dcf9fbfbf9f6ebb0572b24f0f44e27be57c86332851314e536df9e408d771d6": {
+    "translation": "La próxima vez que entres en combate contra una o más criaturas hostiles",
+    "documents": [
+      "dmgDmtComet00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "f1423e4db89f819a8582367a418125098f97e7365ec1b703ef4b51140ee7c5ee": {
     "translation": "Efecto de la carta: resolución",
@@ -2467,6 +3956,259 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "d7e4291c03e2dc4b5c352b044171767e2c95dd2d7682746b787bbd408fdec663": {
+    "translation": "cuando la criatura hostil seleccionada muere durante este combate",
+    "documents": [
+      "dmgDmtComet00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "cb1b7fdf6017f741ce92b989d1660e199feebe3f78bd1b6c0d8a3d9d3fff85c1": {
+    "translation": "Carta Cometa: enemigo elegido",
+    "documents": [
+      "dmgDmtComet00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "671ee00bd5373c8f59ea055aa2fa5f2b704d0cdeb8124c4c193bc86b4b1ef020": {
+    "translation": "<p>Si reduces los puntos de golpe de tu enemigo a 0 durante ese combate, tendrás ventaja en las tiradas de salvación contra muerte durante 1 año.</p>",
+    "documents": [
+      "dmgDmtComet00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "07780e421e16a8b128b6113ee42de2edadd2b50b65dfaeb31d07e136be8bc758": {
+    "translation": "Carta Cometa: ventaja en salvaciones contra muerte",
+    "documents": [
+      "dmgDmtComet00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "9c55d28608fcc270da83c5b54ac036a17d7c79594d17adce4c312dc49011a527": {
+    "translation": "<p><em>Fuente: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDmtComet00000]{Cometa}</em></p><p>Tienes ventaja en las tiradas de salvación contra muerte durante 1 año.</p>",
+    "documents": [
+      "dmgDmtComet00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b2b2a8b1aa684e7751f822348ba18f19fb6897b786d47a06e1a973438cf4c4d4": {
+    "translation": "Calabozo",
+    "documents": [
+      "dmgDmtDonjon0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f3b9d3916532727a2c0c0ddf29efcdb64f97a5a414387f00434c619e4cd86373": {
+    "translation": "<p>Desapareces y quedas sepultado en un estado de animación suspendida dentro de una esfera extradimensional. Todo lo que llevas puesto y transportas desaparece contigo excepto los Artefactos, que se quedan atrás en el espacio que ocupabas cuando desapareciste. Permaneces prisionero hasta que te encuentren y te saquen de la esfera. No puedes ser localizado por ninguna magia de Adivinación, pero un conjuro <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWish000000]{Deseo}</em> puede revelar la ubicación de tu prisión. No robas más cartas.</p>",
+    "documents": [
+      "dmgDmtDonjon0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "3ed25f7c16b0b856ef597d521d31ab3176c9fbd5029088026925efafb58f4742": {
+    "translation": "No sacas más cartas",
+    "documents": [
+      "dmgDmtDonjon0000",
+      "dmgDmtVoid000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b6cf2504d4d12aec4b1f96d6dbdb8c662912d6d12c21d400c951899879d3ef96": {
+    "translation": "Carta Calabozo: animación suspendida",
+    "documents": [
+      "dmgDmtDonjon0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "10867a5e3b1f728d4d092c60fcc785b9451dd491079697f2de11a765a4a8903e": {
+    "translation": "<p><em>Fuente: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDmtDonjon0000]{Calabozo}</em></p><p>Permaneces prisionero hasta que te encuentren y te saquen de la esfera. Ninguna magia de adivinación puede localizarte, pero un conjuro <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWish000000]{Deseo}</em> puede revelar la ubicación de tu prisión.</p>",
+    "documents": [
+      "dmgDmtDonjon0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "cc72b38f13c870a141d9c75738835a68bb60af2d7d79c95b64e8669313eb8e9f": {
+    "translation": "<p>El rostro de la carta, parecido al de una medusa, te maldice. Sufres un penalizador de −2 a las tiradas de salvación mientras estés maldito de esta forma. Solo un dios o la magia de la carta Hados puede poner fin a esta maldición.</p>",
+    "documents": [
+      "dmgDmtEuryale000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "399250b95ceff7323a1022ed7f9ed721b6f92c1bfc26ed8deafe79c5a0fa4179": {
+    "translation": "Euríale",
+    "documents": [
+      "dmgDmtEuryale000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "57f9cb6e614d7638ea58a2d54b13dd07db598ea01b90d372afd472316a9e5017": {
+    "translation": "Carta Euríale: maldición de las salvaciones",
+    "documents": [
+      "dmgDmtEuryale000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "4c7543744ef1f6e07e0a2e48bdd6c816f789bd25a5c3732bf3930b6bf02a5ee1": {
+    "translation": "<p>Sufres un penalizador de −2 a las tiradas de salvación mientras estés maldito de esta forma. Solo un dios o la magia de la carta Hados puede poner fin a esta maldición.</p>",
+    "documents": [
+      "dmgDmtEuryale000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "22b6b93d86ffcc1d8024a3319259b8cb948f054bc66d485e1267d2a8d9447741": {
+    "translation": "Hados",
+    "documents": [
+      "dmgDmtFates00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "113a2c6e8b96d4aa7b970b5fc31072cb30320d48e0d2c5f8b3c6e1e30eabe1b9": {
+    "translation": "<p>La trama de la realidad se deshilacha y se teje de nuevo, permitiéndote evitar o borrar un suceso como si nunca hubiera ocurrido. Puedes usar la magia de la carta en cuanto la robas o en cualquier otro momento antes de que <span class=\"no-break\">mueras</span>.</p>",
+    "documents": [
+      "dmgDmtFates00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "a876501dc2b300f5184d4b9b4eac7720f076b5cd79410f90d525acce1c0a6ef7": {
+    "translation": "El efecto de la carta se produce al extraerla o en cualquier otro momento antes de que mueras",
+    "documents": [
+      "dmgDmtFates00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "3ee7860a6ebcf502b4f71e634d851f378a65dc44007ef3d4743f1e1f5deab7c2": {
+    "translation": "Un evento que ha ocurrido",
+    "documents": [
+      "dmgDmtFates00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "526a6f6215592076760b4dc8fb7cf03edf53970be859d11aff2870ad9c1cd0ea": {
+    "translation": "Llamas",
+    "documents": [
+      "dmgDmtFlames0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "982561f0b055e9428f0e9217afdf51ad85a5aeed833e88bd2db68f0075e36a99": {
+    "translation": "<p>Un diablo poderoso se convierte en tu enemigo. Busca tu ruina y te atormenta, saboreando tu sufrimiento antes de intentar matarte. Esta enemistad dura hasta que uno de los dos muera.</p>",
+    "documents": [
+      "dmgDmtFlames0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "7b35751bf6010ae8ea4323cc0e19f7320763a71d43d3fcf1241032178b995779": {
+    "translation": "Carta de las llamas: Enemistad diabólica",
+    "documents": [
+      "dmgDmtFlames0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "0aaefebac566b1e6f3e8418e0c55e80893c5af97086eb164e856bb8a72d85583": {
+    "translation": "<p><em>Fuente: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDmtFlames0000]{Llamas}</em></p><p>Esta enemistad dura hasta que tú o el diablo mueran.</p>",
+    "documents": [
+      "dmgDmtFlames0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "ea221ba95d1864cd44e5cfdb43aa3c15fbf6b54f6cfcd0e3ff5d1b5bc9331f89": {
+    "translation": "Loco",
+    "documents": [
+      "dmgDmtFool000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "83815d0f55ef73e9b15c2838b065c5ba059905dd91d1b70bf402e2e0a36a95b5": {
+    "translation": "<p>Tienes Desventaja en las pruebas de d20 durante las próximas 72 horas. Roba otra carta; este robo no cuenta como una de tus robadas declaradas.</p>",
+    "documents": [
+      "dmgDmtFool000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "4dad5e8fc14e25f213c12e8b0cb9a45798050222bd78905e25903119ee6161d6": {
+    "translation": "Carta Loco: desventaja",
+    "documents": [
+      "dmgDmtFool000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f16d743acb462bb1a75f6ad1124d983c482049e0abf9f309b4ba4254d93300f2": {
+    "translation": "<p>Tienes Desventaja en las pruebas D20 por las próximas 72 horas.</p>",
+    "documents": [
+      "dmgDmtFool000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "5108a0f0dc3622b288239ea17bc08694a7fd0c90649c3256ebf60528f7d53b85": {
+    "translation": "Gema",
+    "documents": [
+      "dmgDmtGem0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "feccfc88cc45ad0fcb527d1a610c5ce2c0efe795e1d605f9e2ac849af74e2031": {
+    "translation": "<p>Veinticinco piezas de joyería por valor de 2.000 po cada una o cincuenta gemas por valor de 1.000 po cada una aparecen a tus pies.</p>",
+    "documents": [
+      "dmgDmtGem0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "c686df0ad1f88c9fb75e84a36f5e28a6c28f94b051b1735f9240214e2d212ddb": {
+    "translation": "Efecto de la carta: joyas",
+    "documents": [
+      "dmgDmtGem0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "fe0f6a8376a0632ed15078476bbee977a7e382e072b904ee5bda939d9863f951": {
+    "translation": "Crea 25 piezas de @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgJewelry2000GP]{joyería}",
+    "documents": [
+      "dmgDmtGem0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "629ee668e7c1b735bc02dd98a4b03d407439d8b85f9d14765a4f83ba97379f7b": {
+    "translation": "Efecto de la carta: gemas",
+    "documents": [
+      "dmgDmtGem0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "4c65c4fa36708fa556735fc89545e6cd79808c8d72f67b2abdda270be4715a4d": {
+    "translation": "Crea 50 @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGemstone1000G]{Piedras preciosas}",
+    "documents": [
+      "dmgDmtGem0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "002f5801530f7d73f93a530e38ce6cf82564dd9619a4726e3b47e94ff8bec859": {
+    "translation": "Bufón",
+    "documents": [
+      "dmgDmtJester0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "632d07fd901db87774516c0937968a2ea0fced1772c992d947340de86b6247fa": {
+    "translation": "<p>Tienes Ventaja en las pruebas de d20 durante las próximas 72 horas, o puedes robar dos cartas adicionales además de las robadas declaradas.</p>",
+    "documents": [
+      "dmgDmtJester0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "cdc51e7149d1891c43228f53efa378456cbbc60fa8652bfa51a974a4b1dea9b3": {
+    "translation": "Efecto de la carta: ventaja",
+    "documents": [
+      "dmgDmtJester0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "848c8109f2bcd1b8e96bb48f2084a775c1387e9c1c74bf9c55d66d3190d20c8a": {
+    "translation": "El efecto elegido de la carta se produce inmediatamente al extraerla",
+    "documents": [
+      "dmgDmtJester0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "c871b9710ae8b115979b1e33e552276136eaede492c0ae560a132b1c4f428b11": {
     "translation": "Efecto de la carta: robar dos",
     "documents": [
@@ -2474,12 +4216,285 @@
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
   },
+  "ae5be7e38d97c768893df59a9121a5c403cadd31b7b9c760b4d6e5f3cab0fd43": {
+    "translation": "Sacas dos cartas adicionales",
+    "documents": [
+      "dmgDmtJester0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "99a52df3ff3d499488e2fa28150c4106a2cb5e928891a830a9aa3922b2d32160": {
+    "translation": "Llave",
+    "documents": [
+      "dmgDmtKey0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "becbcacbfd23d6746892e4eb1270ee54dcdf8398e86cf3a92d9686dbb7aa98a4": {
+    "translation": "<p>Aparece en tu poder un arma mágica de rareza rara o superior con la que tengas competencia. El DM elige el arma.</p>",
+    "documents": [
+      "dmgDmtKey0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f24b52468bfaef30631b50cbfdccfbcf0cd36cbf0390f1cbf59d8cdea9ad0f52": {
+    "translation": "Caballero",
+    "documents": [
+      "dmgDmtKnight0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "71bf08cecde7d1f8d29ac3bacd28e7f3d9960e2173e6edd49f55fef74856dc90": {
+    "translation": "<p>Obtienes los servicios de un <strong>@UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.D5UqYD1EnTrJaMTO]{Caballero}</strong>, que aparece mágicamente en un espacio desocupado que elijas a 30 pies o menos de ti. Tiene tu mismo alineamiento y te sirve lealmente hasta la muerte, convencido de que el destino os ha unido. Colabora con tu DM para crear un nombre y una historia para este PNJ. El DM puede usar otro perfil para representar al caballero, <span class=\"no-break\">si lo desea</span>.</p>",
+    "documents": [
+      "dmgDmtKnight0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "5fc165254f4f817ba6f8b6f80c08b3174c0fea225398b5b84c17c0af975feacf": {
+    "translation": "Luna",
+    "documents": [
+      "dmgDmtMoon000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "ecf192c679fea03aff6e453cccd1425dbb40b51f30ef35a2738f5d628052f41d": {
+    "translation": "<p>Obtienes la capacidad de lanzar <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWish000000]{Deseo}</em> 1d3 veces.</p>",
+    "documents": [
+      "dmgDmtMoon000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "cd43122f2fb1aa798e4f0b2c6a3afe1b7519a0b844f11f0f41c3fcdf57dd1e7a": {
+    "translation": "Efecto de la carta: Deseo",
+    "documents": [
+      "dmgDmtMoon000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "2509a26877403b3ffa4f242a266f7843bc3327829ddf8f325fb6dca399b7c2ac": {
+    "translation": "Rompecabezas",
+    "documents": [
+      "dmgDmtPuzzle0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "4935d9414cb83771f0a8f9c41336e0c84c2e277be56d358b1bcb38978f006cc1": {
+    "translation": "<p>Reduce permanentemente tu Inteligencia o Sabiduría en 1d4 + 1 (hasta un mínimo de 1). Puedes robar una carta adicional además de las robadas declaradas.</p>",
+    "documents": [
+      "dmgDmtPuzzle0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
   "661510a58b71ea707588bcb324e1eeaf7d4e383b6307af9e83dc48c416a7442a": {
     "translation": "Reducción de puntuación de característica",
     "documents": [
       "dmgDmtPuzzle0000"
     ],
     "reference": "Etiqueta de equipo ya revisada en reviewed-labels.json."
+  },
+  "0b8cdd9ec4e4cbca2aeedbb7e4572400dfbd7e7cbf415dbb99acecafcccbdc21": {
+    "translation": "Canalla",
+    "documents": [
+      "dmgDmtRogue00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "7aac89d252cbc3ea0ef88fae22079cbf8fa7941778a93cef55ab48d47c427cfc": {
+    "translation": "<p>Un PNJ a elección del DM se vuelve Hostil hacia ti. No conoces la identidad de este PNJ hasta que él u otra persona la revele. Nada menos que un conjuro <em>Deseo</em> o una intervención divina puede poner fin a la hostilidad del PNJ hacia ti.</p>",
+    "documents": [
+      "dmgDmtRogue00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "87f6fe65a62ff224075dad1d8afd2898ec66cb5b5429786da7c4efa4a9fec873": {
+    "translation": "Carta Canalla: hostilidad",
+    "documents": [
+      "dmgDmtRogue00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "813dd499ff8f370dcd10ed62f2ed1a1253f6745dc5960a10f5036a4143d62591": {
+    "translation": "<p><em>Fuente: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDmtRogue00000]{Canalla}</em></p><p>Un PNJ de identidad desconocida es hostil hacia ti.</p>",
+    "documents": [
+      "dmgDmtRogue00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f3e0f09631f17828d993141e677e3c56813e9bded37b93a890fbca9206bd7d27": {
+    "translation": "Ruina",
+    "documents": [
+      "dmgDmtRuin000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "21c48483460b74bbf173f7d1818ecabf0c4bf5dd599cc7974d1203d33506fe40": {
+    "translation": "<p>Pierdes todas las riquezas que lleves o poseas, salvo los objetos mágicos. Los bienes transportables desaparecen. Pierdes tus negocios, edificios y terrenos de la forma que menos altere la realidad. Si tienes un @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000]{bastión}, queda <span class=\"no-break\">destruido</span> por una calamidad ajena a tu control. También desaparece cualquier documento que demuestre que te pertenece algo perdido a causa de esta carta.</p>",
+    "documents": [
+      "dmgDmtRuin000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "5faa713a75d776078b5ee2fdad65e4c974f818b90fa46eff7692c285c9713517": {
+    "translation": "Erudito",
+    "documents": [
+      "dmgDmtSage000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "1bb08006c9e55434a2a8791d8061fdb1212d684063ed2e4ad29f8f45ee916c5c": {
+    "translation": "<p>En cualquier momento que elijas dentro del año siguiente a robar esta carta, puedes plantear una pregunta en meditación y recibir mentalmente una respuesta veraz a esa pregunta.</p>",
+    "documents": [
+      "dmgDmtSage000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "2fb09efc5c442995a3eb96370a1bf22d8c879f88af1bd5cb21729b49320c01e5": {
+    "translation": "Calavera",
+    "documents": [
+      "dmgDmtSkull00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f9bc88b896f4e32407bfeafb28a6b4b0a92da9555a76b9cb09239deb28dba55c": {
+    "translation": "<p>Un <strong>@UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.dmgAvatarofDeath]{Avatar de la Muerte}</strong> aparece en un espacio desocupado lo más cerca posible de ti. El avatar te ataca únicamente a ti, apareciendo como un esqueleto fantasmal vestido con una túnica negra hecha jirones y portando una guadaña espectral. El avatar desaparece cuando cae a 0 Puntos de Golpe o cuando tú mueres. Si un aliado tuyo inflige daño al avatar, ese aliado invoca otro <strong>Avatar de la Muerte</strong>. El nuevo avatar aparece en un espacio desocupado lo más cerca posible de ese aliado y lo ataca únicamente a él. Tú y tus aliados solo podéis invocar un avatar cada uno como consecuencia de esta robada. Una criatura asesinada por un avatar no puede volver a la vida.</p>",
+    "documents": [
+      "dmgDmtSkull00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b40fd6005c8373a22292eb7510a64f7deb56512854926744b55525c330f73eca": {
+    "translation": "espacio desocupado más cercano",
+    "documents": [
+      "dmgDmtSkull00000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "e357d396871d10121ee7921467cae8c0671d97275f7bb97e7ecfcf00970b5d27": {
+    "translation": "Estrella",
+    "documents": [
+      "dmgDmtStar000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "3ed8219e4b464888a20bcc5625cb6f1cff1d552f1c112e60202308adcdc125ea": {
+    "translation": "<p>Aumenta una de tus puntuaciones de característica en 2, hasta un máximo de 24.</p>",
+    "documents": [
+      "dmgDmtStar000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "db18f17fe532007616d0d0fcc303281c35aafc940b13e6af55e63f8fed304718": {
+    "translation": "Sol",
+    "documents": [
+      "dmgDmtSun0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b6f00fb8047407ceac64d37218069ac37f77f92f5ab93917b04c08e95e9d6ce8": {
+    "translation": "<p>Un objeto mágico (elegido por el DM) aparece en tu persona. Además, obtienes 10 Puntos de Golpe temporales diariamente al amanecer hasta que mueras.</p>",
+    "documents": [
+      "dmgDmtSun0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b964db8fa92449ad2153b8d1a0fab8f1266c3056827b62cc11e5d4ba630fa166": {
+    "translation": "Carta Sol: PG temporales diarios",
+    "documents": [
+      "dmgDmtSun0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "f008dd71191148c85f7f89a9e1975bfd5fbf8356bca4d0eebd1f6701f0b6cd79": {
+    "translation": "<p><em>Fuente: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDmtSun0000000]{Sol}</em></p><p>Obtienes [[/healing 10 type=temphp]]{10 puntos de golpe temporales} cada día, al amanecer, hasta que mueras.</p>",
+    "documents": [
+      "dmgDmtSun0000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "e0a778ea1893a4f766141f9df9d050ca76b1ca5189a4a873d3f0bb466a007b23": {
+    "translation": "Garras",
+    "documents": [
+      "dmgDmtTalons0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "190a77aebf9e569fb35b597e46f5a781b45f15352628b32450fe9777b6fe6291": {
+    "translation": "<p>Todos los objetos mágicos que llevas puestos o transportas se desintegran. Los Artefactos en tu posesión desaparecen en su lugar.</p>",
+    "documents": [
+      "dmgDmtTalons0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "e5d64f93c2b1a05bf5921a984bdc38eff69918dc44595580261fe160a46bc921": {
+    "translation": "todos los objetos mágicos que lleves puestos o transportes",
+    "documents": [
+      "dmgDmtTalons0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "6dbab06de374a81931530a01ed23d73b3474a5deca5c4828ca7f6511724400bc": {
+    "translation": "Trono",
+    "documents": [
+      "dmgDmtThrone0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "165adef7db4e18cdb9a69478314370f534d021822262a032907945745208f46e": {
+    "translation": "<p>Obtienes competencia y &amp;Reference[Expertise] en una de estas habilidades a tu elección: Historia, Perspicacia, Intimidación o Persuasión. Además, obtienes la propiedad legítima de una pequeña fortaleza en algún lugar del mundo. Sin embargo, la fortaleza es actualmente el hogar de uno o más monstruos, que deben ser expulsados antes de que puedas reclamarla como tuya.</p><section id=\"secret-KpjqOSPJGy0Ec8YA\" class=\"secret\"><p><strong>Nota de Foundry</strong></p><p>A diferencia de las otras cartas de la Baraja, este objeto <em>no</em> se destruirá al usarse, para servir como símbolo de propiedad de la fortaleza.</p></section>",
+    "documents": [
+      "dmgDmtThrone0000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "4e7ba40328eee49c03ebf12bed83a10f42022b10601b9963ee299e50cbde0026": {
+    "translation": "El Vacío",
+    "documents": [
+      "dmgDmtVoid000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "a4c9af435f43523a9003de1a150aa6c006e12f882f393ada3e0cc5595b6a097c": {
+    "translation": "<p>Tu alma es arrancada de tu cuerpo y contenida en un objeto en un lugar elegido por el DM. Uno o más seres poderosos custodian el lugar. Mientras tu alma permanezca atrapada de este modo, tu cuerpo queda inerte, deja de envejecer y no requiere comida, aire ni agua. Un conjuro <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWish000000]{Deseo}</em> no puede devolver tu alma a tu cuerpo, pero el conjuro revela la ubicación del objeto que contiene tu alma. No robas más cartas.</p>",
+    "documents": [
+      "dmgDmtVoid000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "78b980195e4a0e3fd4f92ac52fffb668b4bdfa74454ed340d49937c177cab68a": {
+    "translation": "Carta El Vacío: alma atrapada",
+    "documents": [
+      "dmgDmtVoid000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "207a21bc352e51a54101b6982b9bb5b03857af6a3ee0a72c29387ad2f1cbd948": {
+    "translation": "<p><em>Fuente: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDmtVoid000000]{El Vacío}</em></p><p>Mientras tu alma esté atrapada de esta forma, tu cuerpo permanece inerte, deja de envejecer y no necesita comida, aire ni agua.</p>",
+    "documents": [
+      "dmgDmtVoid000000"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "b807ee0befa8b5ade406544f08061e97404ff45f972dc5ba7fb586196aa54245": {
+    "translation": "Instrumento de los bardos: laúd de Doss",
+    "documents": [
+      "dmgDossLuteInstr"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "31984e9839a4f1fa8dcab1bab01076a34ef71cc2d5aac5d0b6c30c977eb2e3e7": {
+    "translation": "Protección contra la energía (sólo fuego)",
+    "documents": [
+      "dmgDossLuteInstr"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
+  },
+  "56213703dac5b9c1f3f00c12666ae604279fd11b57fe90f570fda77a068dffae": {
+    "translation": "Cota de escamas de dragón",
+    "documents": [
+      "dmgDragonScaleMa"
+    ],
+    "reference": "Cotejo semántico completo con el original inglés DMG 2.0.0, 2026-09-29; unidades de Foundry."
   },
   "e342aecc49fbb024b7109778b00ecf7caa35fa41013c978fbbe9c33fd230604a": {
     "translation": "Escama negra",

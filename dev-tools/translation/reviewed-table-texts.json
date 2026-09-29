@@ -6946,7 +6946,7 @@
     "reference": "DMG 2.0.0: tablas; revisión del original, OCR español selectivo, 2026-09-29"
   },
   "31d47aaeb7703628b543242f60ee9cfec859612bfb54bc1a3b20def80127fc41": {
-    "translation": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgBootsOfTheWin]{Botas de las Tierras Invernales}",
+    "translation": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgBootsOfTheWin]{Botas de las tierras invernales}",
     "documents": [
       "dmgImplementsUnc"
     ],
