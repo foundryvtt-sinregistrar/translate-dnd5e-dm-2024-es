@@ -1658,5 +1658,1653 @@
       "dmgBastions00000"
     ],
     "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bb2dab570cd3b43c6da0b8471df86565f4fb4a4e54acc2006becf36b2aaa6133": {
+    "translation": "Ponerle fin",
+    "documents": [
+      "dmgBringItToAnEn"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e0e205e30c6942c6fe80c89f4a908f8345b29a4dc3a918c6866d8ee427903a92": {
+    "translation": "<p>La emocionante conclusión de una aventura es el colofón de todo lo que ha sucedido antes. El mejor clímax es aquel que los jugadores ven venir; por ejemplo, si un dragón es el cerebro detrás de toda la actividad perversa de una aventura, hacer que sus secuaces mencionen la naturaleza de su jefe prepara el encuentro culminante que se avecina.</p><p>Aunque el clímax debe depender de los éxitos y fracasos de los personajes hasta ese momento, la tabla Clímax para aventuras ofrece sugerencias para dar forma al final de tu aventura.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgAdventureClim rollable]</p>",
+    "documents": [
+      "dmgBringItToAnEn"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bed295d37ef9c3f676bd6097f2e7385dc61cd38e2b0c16bfe4602f95041674e7": {
+    "translation": "Desenlace",
+    "documents": [
+      "dmgBringItToAnEn"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3f342226032aeea757ee34542ec150dd7f2cf2eb338a8b6f5d464e511af453e8": {
+    "translation": "<p>En la mayoría de las historias hay un periodo posterior al clímax en el que se atan los cabos sueltos y todo queda explicado. Una aventura también puede incluir este tipo de desenlace: el momento de descubrir qué tesoro oculta el dragón, una entrega de premios en la que la reina concede medallas a los héroes victoriosos o incluso un periodo de luto por los compañeros que no sobrevivieron a la batalla.</p><p>El desenlace también puede servir para que los jugadores identifiquen cabos sueltos que puedan conducirlos a la siguiente aventura. El apartado @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgPlanAdventure.JournalEntryPage.nlavKBTWZKXEX1oy]{Episodios y series} ofrece sugerencias para tejer estos hilos conductores.</p>",
+    "documents": [
+      "dmgBringItToAnEn"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "cd8fdbc58db1e48b008f648b49c730ce73659e8d501bd9a60d0cb0e22aace087": {
+    "translation": "Premisa de campaña",
+    "documents": [
+      "dmgCampaignPremi"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "8cb584c1067e038ce67c0ca4cf46f0c24554451f5c90654aa97bd4091a36f03a": {
+    "translation": "<p>Todo lo dicho sobre la @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCreatingAdven.JournalEntryPage.Yj1abxxXzi5U0FVL]{historia de una aventura} en el capítulo 4 también se aplica a la historia de una campaña. Una campaña es como una serie de cómics o de televisión: cada aventura, como un número o un episodio, cuenta una historia independiente que contribuye al relato general. Al igual que en una aventura, la historia de la campaña no está predeterminada, porque las acciones de los personajes influirán en su desarrollo.</p>",
+    "documents": [
+      "dmgCampaignPremi"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "83020b81086b5f4f6c00fe0118807a9d13ab69a5c06849b7fb387ae782fdece4": {
+    "translation": "Personajes de la campaña",
+    "documents": [
+      "dmgCampaignPremi"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3eb261c50b15ec3a3a24b3b52820bd63a37786606bcad20094db72287db2dba6": {
+    "translation": "<p>Los personajes son el centro de toda aventura de D&amp;D, y sus jugadores colaboran contigo para desarrollar sus periplos épicos.</p><p>Si trabajas con tus jugadores para entender qué les entusiasma, podrás crear historias que quieran ver protagonizadas por sus personajes. También podrás implicarlos mejor en las tramas (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDrawInThePlay]{Implicar a los jugadores}) si comprendes qué los motiva a ellos y a sus personajes.</p><h2>Aportaciones de los jugadores</h2><p>No tienes que crear todos los aspectos de una campaña de D&amp;D. Los jugadores contribuyen mediante las acciones de sus personajes y expresando directamente qué les gustaría ver. Puedes conocer sus preferencias de dos formas:</p><p><strong>Aportaciones directas.</strong> Pregúntales qué quieren hacer en la campaña. Interésate regularmente por cómo creen que va, qué les gustaría experimentar más a menudo y qué elementos quieren explorar con mayor profundidad. El final de una sesión y el tiempo entre sesiones son buenos momentos para pedirles su opinión.</p><p><strong>Aportaciones indirectas.</strong> Las decisiones de un jugador, desde la creación de su personaje, pueden indicar qué quiere ver en la partida. Por ejemplo, quien interpreta a un pícaro probablemente desee oportunidades para actuar con sutileza o realizar fechorías, mientras que quien interpreta a un bárbaro quizá busque combates. Observa qué encuentros entusiasman a tus jugadores y busca oportunidades para que sus personajes destaquen.</p><h2>Arcos de personaje</h2><p>Como la mayoría de los protagonistas del cine y la literatura, los aventureros de D&amp;D afrontan desafíos y cambian al superarlos. Incorporar sus motivaciones a las aventuras y aumentar lo que está en juego les ayudará a evolucionar de formas emocionantes. Puedes usar la hoja Registro de personajes del DM para anotar la información esencial de cada uno. Consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgPlanAdventure.JournalEntryPage.XWFimbsTgDSCRcMT]{Implicar a los jugadores en la campaña} para encontrar más ideas.</p><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/vtt-512.png\" /></figure><article><h3>Usar las hojas de personaje para llevar el registro</h3><p>Las hojas de personajes jugadores y PNJ permiten registrar estos detalles.</p></article></section><p><em><strong>Motivaciones de los personajes.</strong></em> Piensa qué impulsa a cada personaje a vivir aventuras. Sus motivaciones suelen encajar en estas categorías:</p><p><strong>Objetivo.</strong> Es una razón a corto plazo para vivir aventuras. Al principio de la campaña puede ser el deseo de obtener tesoros, la búsqueda de emociones o una necesidad relacionada con su pasado. A lo largo de sus aventuras, los personajes encontrarán nuevos objetivos, como recuperar una reliquia perdida, honrar a un antepasado, vengar a un mentor caído o derrotar a un villano.</p><p><strong>Ambición.</strong> Es una aspiración personal amplia que el personaje espera cumplir a lo largo de una vida de aventuras. Podría soñar con convertirse en un caballero legendario o traer la paz a su tierra natal. Sus ambiciones pueden no estar relacionadas con su objetivo actual.</p><p><strong>Peculiaridades y caprichos.</strong> Son preferencias, impulsos u otros rasgos del personaje. A menudo surgen durante la partida, como su tendencia a superar las impertinencias de un posadero grosero o su reiterada afición a las pieles de bestia desplazadora.</p><p>Los jugadores suelen revelar las motivaciones de sus personajes al jugar. Si tienes dudas o parece que han cambiado, puedes pedirles que las aclaren.</p><p><em><strong>Familia, amigos y enemigos.</strong></em> El origen de un personaje, su especie y trasfondo, implica cierto pasado y sugiere cómo es su familia y qué hacía antes de ser aventurero. Toma nota de las personas de su pasado, como amigos, enemigos o familiares, que podrían aparecer en la campaña.</p><p>Si esas personas adquieren importancia, colabora con el jugador para desarrollarlas. Introducir a mitad de campaña un hermano perdido o un rival de la infancia requiere cuidado para mantener la credibilidad. Asegúrate de que el jugador está conforme con las novedades sobre su personaje antes de incorporarlas.</p><p><em><strong>Aventuras centradas en los personajes.</strong></em> De vez en cuando, las aventuras deberían destacar las motivaciones o el pasado de los personajes. Estos son algunos ejemplos:</p><ul><li class=\"Core-Styles_Core-Bulleted\">Un rival del pasado aparece para ajustar cuentas.</li><li class=\"Core-Styles_Core-Bulleted\">Un personaje sigiloso pone a prueba sus habilidades liderando al grupo en un robo.</li><li class=\"Core-Styles_Core-Bulleted\">Un personaje descubre dónde está el objeto mágico que necesita para salvar su población natal.</li><li class=\"Core-Styles_Core-Bulleted\">Un lanzador de conjuros debe superar una prueba para ingresar en un grupo exclusivo de practicantes de magia.</li></ul><p>Una aventura centrada en un personaje debe ofrecer incentivos para que participe todo el grupo, aunque solo sea ayudar a su compañero. Evita centrarte demasiado a menudo en la misma persona y procura ofrecer a cada personaje una aventura propia de vez en cuando.</p><p><em><strong>Fijar nuevos objetivos.</strong></em> Los personajes pueden cambiar sus objetivos cuando quieran, pero puedes animarlos a hacerlo concediéndoles victorias importantes aproximadamente cada 5 niveles. Cuando logren un objetivo, considera estas preguntas:</p><ul><li class=\"Core-Styles_Core-Bulleted\">¿Cómo crea esta victoria un nuevo desafío?</li><li class=\"Core-Styles_Core-Bulleted\">¿En qué sentido es solo una parte de lo que el personaje desea conseguir?</li><li class=\"Core-Styles_Core-Bulleted\">¿A quién podría molestarle que el personaje haya alcanzado su objetivo?</li><li class=\"Core-Styles_Core-Bulleted\">¿Qué recompensa le entusiasmaría y lo acercaría a su ambición?</li></ul><p>Usa las respuestas para desarrollar nuevos objetivos e inspirar aventuras futuras.</p><p><em><strong>Desarrollar las acciones de los personajes.</strong></em> A veces resulta divertido dejar que los jugadores orienten la campaña y que las acciones de sus personajes determinen futuras aventuras. Por ejemplo, si compran una taberna con el tesoro acumulado, puedes darle un papel en próximas aventuras. En una, un competidor podría intentar arruinar el negocio; en otra, la taberna podría ser el escenario de un misterioso asesinato.</p>",
+    "documents": [
+      "dmgCampaignPremi"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "876cf99500d814f17a4e1ec7651b189b987d9d79cfc10c9da6f6f811298fed29": {
+    "translation": "Conflictos de campaña",
+    "documents": [
+      "dmgCampaignPremi",
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a493349fb3908049a4e10145610016528c564288e95e54e9c512136642d446ff": {
+    "translation": "<p>Una forma de dar continuidad a tu campaña es idear tres conflictos atractivos en torno a los que crear aventuras. Preséntalos pronto y alterna aventuras centradas en cada uno para mantener el entusiasmo de los jugadores.</p><p>Arrastra la hoja @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTrackingSheet.JournalEntryPage.d1DCajODZHrrhjvj]{Conflictos de campaña} a tu propio diario para registrar esos conflictos, con espacio para detalles y notas. Pueden ser tan grandes o pequeños como quieras; conviene que al menos uno pueda resolverse pronto. Cada conflicto debería enfrentar a los aventureros con una fuerza antagonista, aunque también puedes plantear disputas entre dos fuerzas poderosas sin saber de antemano con cuál se aliarán, si es que lo hacen. El apartado @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCampaignPremi.JournalEntryPage.POSq3DLFFBnQJF9E]{Tipos de fantasía}, en la página siguiente, ofrece ejemplos de conflictos que refuerzan temas concretos.</p><p>Si un conflicto alcanza un final satisfactorio antes de acabar la campaña, crea otro para sustituirlo. También puedes reemplazar los que no interesen a tus jugadores o te dificulten la creación de aventuras.</p><h2>Arcos de conflicto</h2><p>Igual que piensas en los arcos de los personajes, considera cómo se manifestará cada conflicto a lo largo de la campaña. ¿Cómo lo encontrarán por primera vez? ¿Cómo evolucionará? ¿Cómo podría ser su desenlace culminante?</p><p>Una forma útil de estructurarlo es emplear los @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgLayOutThePrem.JournalEntryPage.ZHU7mBmIXrTBfYsG]{escalones de juego} del capítulo 4. Los niveles 5, 11 y 17 marcan hitos en el poder y las capacidades de los personajes, y también pueden ser hitos narrativos de la campaña. El paso de un escalón a otro es un buen momento para cerrar un conflicto e introducir otro de mayor alcance y peligro. También puede permitir a los personajes comprender la dimensión del conflicto al que se enfrentan: por ejemplo, descubrir que los bandidos de sus cuatro primeros niveles eran meros títeres de una nación enemiga a la que deberán enfrentarse durante el segundo escalón.</p><p>El apartado @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawk00000]{Greyhawk} de este capítulo incluye ejemplos de arcos de conflicto.</p>",
+    "documents": [
+      "dmgCampaignPremi"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ee3536c514eaa7a45e69aafef506dd67cfda9173b9a5863827a205392c6aeff4": {
+    "translation": "Tipos de fantasía",
+    "documents": [
+      "dmgCampaignPremi"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a8e397e6bcc53cd798586b7c5c28ca64fb6bf3a1b5acd9a470f7b843bc75e507": {
+    "translation": "<p>Tu campaña de D&amp;D puede inspirarse en un tipo concreto de fantasía, como los que se describen a continuación. Cualquiera de estos subgéneros puede nutrirse de las culturas, mitos, leyendas y relatos fantásticos de cualquier pueblo: una campaña de fantasía épica podría inspirarse en los romances franceses o en las historias chinas de wuxia; una de fantasía mítica, en los mitos griegos o en la <em>Epopeya de Gilgamesh</em>, y así sucesivamente.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh5ArtHandout.JournalEntryPage.aZuAvdvjcsPjUFiX]</p><h2>Fantasía heroica</h2><p>La fantasía heroica presenta aventureros que recurren a la magia para afrontar amenazas monstruosas. Es el subgénero por defecto de los libros básicos de D&amp;D.</p><p><em><strong>Conflictos de fantasía heroica.</strong></em> Estas campañas suelen girar en torno a la exploración de antiguas mazmorras para encontrar tesoros o acabar con monstruos y villanos. Estos conflictos pueden impulsar la acción:</p><p><strong>Secta malvada.</strong> Unos sectarios malvados se infiltran en un reino pacífico para liberar a una antigua entidad maligna encerrada en una mazmorra. Su liberación supondría la perdición del reino.</p><p><strong>Plaga de hongos.</strong> Para proteger un bosque ancestral de cazadores y colonos, unos druidas desatan una plaga fúngica que no tarda en descontrolarse.</p><p><strong>Viejo enemigo.</strong> Un villano escurridizo que acosó a los personajes hace años reaparece y les da la oportunidad de llevarlo por fin ante la justicia.</p><h2>Espada y brujería</h2><p>Estas campañas presentan un mundo sombrío de lanzadores de conjuros malvados y ciudades decadentes, donde los protagonistas suelen actuar por codicia e interés propio más que por altruismo.</p><p><em><strong>Conflictos de espada y brujería.</strong></em> En este tipo de campaña, quienes usan magia suelen representar la decadencia y corrupción de la civilización, y los magos son villanos clásicos. Por ello, los objetos mágicos escasean y a menudo son peligrosos. Estos conflictos pueden impulsar la campaña:</p><p><strong>Aventureros malvados.</strong> Un grupo de aventureros experimentados y malvados emplea su poder e influencia para oprimir a personas indefensas.</p><p><strong>Arma malvada.</strong> Un caballero bajo la influencia de un arma consciente y maligna aterroriza un reino pacífico. Unos sectarios adoran y protegen el arma, que debe ser capturada y destruida para acabar con la amenaza.</p><p><strong>Dinastía olvidada.</strong> La capital perdida de una dinastía olvidada emerge del mar o de las arenas del desierto, y sus habitantes emprenden una campaña de conquista.</p><h2>Fantasía épica</h2><p>La fantasía épica destaca la lucha entre el bien y el mal, con los aventureros del lado del bien. A estos héroes los mueve un propósito superior al beneficio o la ambición personal. Pueden afrontar dilemas morales y combatir tanto sus propias tendencias malignas como el mal que amenaza al mundo. Estas historias suelen incluir elementos románticos: amores trágicos condenados por el destino, pasiones que trascienden la muerte o la casta devoción entre caballeros y nobles.</p><p><em><strong>Conflictos de fantasía épica.</strong></em> Estos conflictos destacan los temas de una campaña de fantasía épica:</p><p><strong>Apocalipsis.</strong> Una profecía anuncia el fin del mundo si los aventureros no intervienen. Los sectarios del apocalipsis se oponen a ellos a cada paso.</p><p><strong>Dragón tirano.</strong> Un dragón poderoso y malvado se instala en la región, altera su ecología y exige tributos a los asentamientos cercanos.</p><p><strong>El enemigo olvidado por el tiempo.</strong> Un enemigo malvado al que se creía muerto desde hacía mucho emerge de los Parajes Feéricos, vivo y sano tras haberse perdido en el tiempo. Busca vengarse de los descendientes de sus enemigos fallecidos.</p><h2>Fantasía mítica</h2><p>La fantasía mítica se inspira en los temas y relatos de mitos y leyendas antiguos, desde Gilgamesh hasta Cú Chulainn. Los aventureros intentan realizar hazañas legendarias, ayudados u obstaculizados por los dioses y sus agentes; incluso podrían tener ascendencia divina. Sus enemigos pueden compartir ese origen. La quimera de la mazmorra no es una bestia cualquiera, sino el resultado de una maldición divina.</p><p><em><strong>Conflictos de fantasía mítica.</strong></em> Estos conflictos destacan los temas de una campaña de fantasía mítica:</p><p><strong>Pruebas divinas.</strong> Para obtener un regalo o favor de los dioses, los aventureros afrontan pruebas que los llevan a sus dominios, donde podrán presentar su petición.</p><p><strong>Ira divina.</strong> Tras el saqueo de un templo, un dios vengativo envía calamidades cada vez mayores a un reino hasta que se devuelvan las reliquias robadas.</p><p><strong>Gigantes.</strong> Un enorme castillo sobre una nube se instala sobre el territorio. Los personajes pueden luchar contra sus gigantes o intentar negociar una paz duradera.</p><h2>Terror sobrenatural</h2><p>Si quieres dar un tono terrorífico a tu campaña, el <em>Manual de monstruos</em> contiene muchas criaturas adecuadas. Un elemento esencial es la atmósfera de temor, creada con un ritmo cuidado y descripciones evocadoras. Los jugadores también contribuyen: deben estar dispuestos a sumergirse en ese ambiente.</p><p>Tanto si quieres dirigir una campaña de terror completa como una sola aventura inquietante, habla de tus planes con los jugadores de antemano. El terror puede ser intenso y personal, y no todo el mundo se siente cómodo con él. Los consejos sobre límites de @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgEnsuringFunFo]{Diversión para todos} son especialmente importantes en estas partidas.</p><p><em><strong>Conflictos de terror sobrenatural.</strong></em> Estas campañas suelen presentar muertos vivientes o enemigos demoníacos cuya maldad supera la de los mortales. Considera estos conflictos:</p><p><strong>El Señor Sin Rostro.</strong> Juiblex, el Señor Sin Rostro, rezuma desde el Abismo hasta la Infraoscuridad. Los pueblos subterráneos piden ayuda a los personajes para derrotar al señor demoníaco y sus secuaces.</p><p><strong>Escuela de nigromancia.</strong> Unos vampiros abren una escuela de nigromancia que atrae a nigromantes malvados necesitados de cadáveres frescos para sus estudios. Una orden de cazadores de vampiros busca la ayuda de los personajes.</p><p><strong>Monarca inmortal.</strong> Un monarca anciano se aferra al poder adorando a Orcus y convirtiéndose en liche.</p><h2>Intriga</h2><p>La intriga política, el espionaje, el sabotaje y otras actividades clandestinas pueden sostener una campaña emocionante. En ella, a los personajes quizá les interesen más las competencias en habilidades y las amistades influyentes que los conjuros ofensivos y las armas mágicas. La interacción social tiene más peso que el combate. Avisa de antemano a los jugadores de que quieres dirigir este tipo de campaña; de lo contrario, alguien podría crear un personaje centrado en combatir y sentirse fuera de lugar entre diplomáticos y espías.</p><p><em><strong>Conflictos de intriga.</strong></em> Estos conflictos son adecuados para una campaña de intriga:</p><p><strong>Feudos enfrentados.</strong> Dos feudos o asentamientos llevan años enemistados. Los personajes se ven envueltos en la disputa tras ayudar a uno de los bandos.</p><p><strong>Rivales por el trono.</strong> La muerte repentina de un soberano sume al reino en el caos cuando varios rivales desafían y amenazan al heredero legítimo.</p><p><strong>Consejero conspirador.</strong> Tras despertar el interés de un monarca, los personajes se convierten en objetivos de su consejero de mayor confianza, que conspira para hacerse con el verdadero poder del reino.</p><h2>Misterio</h2><p>Una campaña de misterio convierte a los personajes en investigadores, quizá viajando de una población a otra para resolver casos que superan a las autoridades locales. Además de la capacidad de combate, destacan los acertijos y la resolución de problemas. Una aventura formada solo por acertijos puede resultar frustrante, así que varía los tipos de encuentros.</p><p><em><strong>Conflictos de misterio.</strong></em> Un misterio puede servir de base a toda la campaña. Los personajes descubrirán pistas de vez en cuando, mientras que algunas aventuras apenas guardarán relación con él. Considera estos conflictos:</p><p><strong>Organización criminal.</strong> Una organización criminal con múltiples cabecillas busca poder económico y político. Tiene espías por todas partes, incluso entre las familias o amistades de los aventureros.</p><p><strong>Asesinos cambiaformas.</strong> Una asociación secreta de doppelgangers u otros cambiaformas asesina paulatinamente a figuras destacadas, una tras otra.</p><p><strong>Atrapar a un ladrón.</strong> Un ladrón excepcional roba únicamente las joyas y obras de arte más valiosas. Los personajes podrían convertirse en su objetivo al conseguir un tesoro de valor incalculable.</p><h2>Capa y espada</h2><p>Las aventuras de piratas y mosqueteros dan lugar a campañas dinámicas en las que héroes gallardos y encantadores sortean intrigas palaciegas y saltan desde balcones a caballos que los esperan para escapar de perseguidores tenaces. Los personajes suelen pasar mucho tiempo en ciudades, cortes reales y barcos. Aun así, pueden vivir situaciones típicas de mazmorra, como escapar de una prisión o explorar alcantarillas para encontrar las estancias secretas de un villano.</p><p><em><strong>Conflictos de capa y espada.</strong></em> Estos conflictos destacan los temas de una campaña de capa y espada:</p><p><strong>Enemigos heredados.</strong> Un personaje hereda un objeto mágico de un familiar fallecido sin saber que los enemigos de ese familiar lo buscan.</p><p><strong>Piratas y corsarios.</strong> Un nuevo monarca combate la piratería encargando a corsarios y oficiales de su armada que persigan barcos piratas.</p><p><strong>El despertar de las profundidades.</strong> Un horror monstruoso dormido en el fondo del océano comienza a despertar e impulsa a sus siervos, como sahuagins, merrows o dragones tortuga, a atacar barcos.</p><h2>Guerra</h2><p>Una campaña bélica se centra en héroes cuyas acciones cambian el curso de las batallas. Los personajes cumplen misiones concretas: capturar un estandarte mágico que fortalece a ejércitos de muertos vivientes, reunir refuerzos para romper un asedio o atravesar el flanco enemigo para alcanzar a un comandante demoníaco. También pueden apoyar al ejército defendiendo una posición estratégica hasta que lleguen refuerzos, eliminando exploradores enemigos o cortando líneas de suministro. Las misiones de información y diplomacia pueden complementar las aventuras de combate.</p><p><em><strong>Conflictos bélicos.</strong></em> Estos conflictos destacan los temas y el tono de una campaña de guerra:</p><p><strong>Luchadores por la libertad.</strong> Los súbditos de un tirano, mal armados y desorganizados, se rebelan.</p><p><strong>Invasores.</strong> Una nación militarista invade a sus vecinos benevolentes.</p><p><strong>Peones en un juego.</strong> Una guerra dura décadas y su causa original está casi olvidada. Quienes se ven atrapados en ella buscan sentido y propósito en un mundo sombrío y violento.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh5ArtHandout.JournalEntryPage.VCQ8B9WTdy2nznwx classes=\"float-right size-three\"]</p><h2>Mezclar géneros</h2><p>En las raíces de D&amp;D hay elementos de ciencia ficción y fantasía científica, además de muy diversas influencias fantásticas, y tu campaña también puede inspirarse en ellos. Puedes enviar a los personajes a través de un espejo mágico al País de las Maravillas de Lewis Carroll, embarcarlos en una nave que viaja entre las estrellas o ambientar la campaña en un futuro remoto donde las armas láser (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.GMvOOPDd9SacjrYl]{Armas de fuego y explosivos}) coexistan con las <em>Varitas de proyectiles mágicos</em>.</p><p><em><strong>Conflictos para mezclar géneros.</strong></em> Estos conflictos permiten combinar géneros:</p><p><strong>Más allá del espejo mágico.</strong> Un misterioso espejo en una extraña mazmorra es un portal a otro mundo donde suceden relatos caprichosos, o quizá a alguna versión del mundo moderno.</p><p><strong>Gamma World.</strong> Los personajes habitan un páramo posapocalíptico de aspecto principalmente medieval, pero algunos enclaves aislados conservan tecnología futurista anterior al cataclismo.</p><p><strong>Invasores del Espacio Salvaje.</strong> Naves espaciales aterrizan en el mundo de los personajes y de ellas desembarcan criaturas hostiles armadas con tecnología avanzada.</p>",
+    "documents": [
+      "dmgCampaignPremi"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e53965a45c565632a6173129d7ae99125a01a570b796c5f8a0c99b6017c8a323": {
+    "translation": "Ambientación de la campaña",
+    "documents": [
+      "dmgCampaignPremi"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4fec1579b3666e8609a0bdedc03111b9fc7dbfb29c29dd4b83c243ae6cf99c95": {
+    "translation": "<p>Al igual que la @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgLayOutThePrem.JournalEntryPage.js9l546Rt1cRdNXk]{ambientación de una aventura}, la de una campaña es una parte esencial de su premisa y determina qué tipos de historias se desarrollan en ella.</p><p>Como DM, tienes dos opciones al elegir la ambientación:</p><ul><li class=\"Core-Styles_Core-Bulleted\">Usar una ambientación de campaña publicada.</li><li class=\"Core-Styles_Core-Bulleted\">Crear tu propia ambientación.</li></ul><p>Tanto si la creas como si utilizas una publicada, el mundo de tu partida siempre es tuyo. Puedes adaptarlo a tus gustos y a los de tus jugadores.</p><h2>Usar una ambientación publicada</h2><p>Una ventaja de usar una ambientación publicada es que gran parte de la creación del mundo ya está hecha. Sin embargo, los jugadores podrían conocerla tan bien como tú. Puedes evitarlo cambiando aspectos importantes para ajustarlos a tus necesidades, con la ventaja adicional de sorprender a los jugadores.</p><p>La tabla Ambientaciones de D&amp;D describe varios escenarios de campaña establecidos.</p><table><caption>Ambientaciones de D&amp;D</caption><thead><tr><th><p>Ambientación</p></th><th><p>Descripción</p></th></tr></thead><tbody><tr><td><p>Dark Sun</p></td><td><p>Los héroes dejan su huella en un mundo posapocalíptico profanado por la magia y abandonado por <span>los dioses</span>.</p></td></tr><tr><td><p>Dragonlance</p></td><td><p>Las fuerzas del bien luchan contra la malvada reina de los dragones y sus ejércitos en la Guerra de la Lanza, que sacude el mundo.</p></td></tr><tr><td><p>Eberron</p></td><td><p>Tras una guerra mortífera, las naciones avanzadas en magia se reconstruyen mientras una guerra fría amenaza la paz duradera.</p></td></tr><tr><td><p>Exandria</p></td><td><p>Los héroes se forjan una reputación en el mundo popularizado por el programa en línea <em>Critical Role</em>.</p></td></tr><tr><td><p>Reinos Olvidados</p></td><td><p>Héroes y villanos extraordinarios luchan por decidir el destino del mundo mientras <span>exploran</span> las ruinas y mazmorras de reinos caídos e imperios olvidados hace mucho.</p></td></tr><tr><td><p>Greyhawk</p></td><td><p>Mientras aumenta la tensión entre naciones enfrentadas, los héroes saquean mazmorras para obtener la magia y el poder necesarios para derrotar a las crecientes fuerzas del mal.</p></td></tr><tr><td><p>Planescape</p></td><td><p>Sigil, la Ciudad de las Puertas, es el punto de partida para explorar las maravillas del multiverso de D&amp;D y sus numerosos planos de existencia.</p></td></tr><tr><td><p>Ravenloft</p></td><td><p>Los héroes se ven arrastrados a los sombríos Dominios del Terror, reinos malditos gobernados por señores malvados, y deben encontrar una forma de escapar.</p></td></tr><tr><td><p>Ravnica*</p></td><td><p>En una ciudad que abarca todo un mundo, diez facciones muy distintas envuelven a los héroes en una red de aventuras y peligros.</p></td></tr><tr><td><p>Spelljammer</p></td><td><p>Viaja entre las estrellas en una nave de spelljamming y visita mundos que flotan en los majestuosos océanos del Espacio Salvaje.</p></td></tr><tr><td><p>Strixhaven*</p></td><td><p>La escuela de magia Strixhaven es un centro de aprendizaje y aventuras.</p></td></tr><tr><td><p>Theros*</p></td><td><p>Destinos heroicos aguardan su cumplimiento en esta ambientación inspirada en los mitos de la antigua Grecia.</p></td></tr></tbody></table><p>*Esta ambientación se basa en un mundo de <em>Magic: The Gathering</em>.</p><h2>Crear tu propia ambientación</h2><p>Una ventaja de crear tu mundo es que puede ser como tú quieras. Los jugadores nunca sabrán más de él que tú, lo que puede darte tranquilidad y despertar su asombro. Además, no tendrás que memorizar material de referencia que no hayas creado tú mismo.</p><p>Tanto si partes de cero como si tomas elementos de ambientaciones existentes, el resultado debe interesar a los jugadores. Pregúntales qué escenarios y géneros les gustan e inspírate en ellos para crear lugares atractivos, habitantes memorables, conflictos emocionantes y una lógica interna que conecte con sus intereses.</p><p><em><strong>Cinco preguntas a considerar.</strong></em> Cuando prepares una ambientación nueva, piensa en estas preguntas:</p><p><strong>¿Cómo se llama tu ambientación de campaña?</strong> Elige un nombre evocador: una palabra o frase que refleje el tema y el tono de la partida, o simplemente un nombre inventado que te guste. Ve anotando ideas mientras decides otros aspectos del escenario.</p><p><strong>¿Qué facciones y organizaciones destacan?</strong> Naciones, templos, gremios, órdenes, sociedades secretas y centros de enseñanza forman el tejido social del mundo. ¿Cuáles son importantes en tu ambientación? ¿Cuáles podrían intervenir en la vida de los personajes como mecenas, aliados o enemigos? ¿A cuáles pueden unirse los personajes para formar parte de algo mayor?</p><p><strong>¿Cómo de común es la magia?</strong> Los lanzadores de conjuros y las tiendas de objetos mágicos pueden ser habituales, escasos o casi inexistentes. ¿Es fácil acceder a conjuros como <em>Restablecimiento menor</em>, <em>Alzar a los muertos</em> y <em>Círculo de teletransportación</em>? ¿La magia forma parte de la vida cotidiana o es tan rara que suscita todo tipo de supersticiones?</p><p><strong>¿Qué misterios esconde el mundo? </strong>Toda ambientación tiene misterios: una tierra legendaria al otro lado del mar, un bosque sombrío que oculta un secreto terrible, espíritus inquietos que rondan un torreón en ruinas por motivos desconocidos, una antigua mazmorra cuyo propósito se ha olvidado y muchos más. Inventa tantos como quieras, pues nunca sabes cuáles cautivarán a tus jugadores y se volverán centrales en la campaña, y anótalos en tu diario.</p><p><strong>¿Qué papel desempeñan los dioses, si existe alguno? </strong>¿Qué dioses mayores, dioses menores y cuasideidades están presentes o reciben culto? Si hay dioses, ¿cuánto intervienen en el mundo? ¿Son seres distantes y ajenos a él o se aparecen ante sus fieles y se inmiscuyen en los asuntos mortales?</p>",
+    "documents": [
+      "dmgCampaignPremi"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6e56b8d2d3515eb956204872b12e3445735bd3a2f0e85e4510986ed3e9c9f09c": {
+    "translation": "Inicio de la campaña",
+    "documents": [
+      "dmgCampaignStart"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "60a6e5b99bb351de113747594501a2a1e39c13d99c70dd8806c58250dd3f2587": {
+    "translation": "<p>Con tu diario de campaña a mano y su premisa básica en mente —personajes, conflictos y ambientación—, es hora de decidir cómo empezará la campaña.</p>",
+    "documents": [
+      "dmgCampaignStart"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "28e61d85bd1cd9078722f889debba28b52bca808857918452d616495656abdd6": {
+    "translation": "Sesión cero",
+    "documents": [
+      "dmgCampaignStart"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2cf24549fec9916360b930e42c74521ca2345fe34931330b778af0d10613eb0f": {
+    "translation": "<p>Al comenzar una campaña, tú y tus jugadores podéis celebrar una sesión especial, llamada sesión cero porque precede a la primera sesión de juego, para acordar expectativas, compartir ideas y hablar de reglas caseras. El objetivo es que la partida resulte divertida para todos. El apartado @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgEnsuringFunFo]{Diversión para todos} explica algunas de las bases más importantes que debéis establecer al empezar.</p><p>La sesión cero suele incluir la creación conjunta de personajes. Como DM, puedes ayudar a los jugadores aconsejándoles qué opciones encajan mejor con la campaña.</p><h2>Creación de personajes</h2><p>Cuando los jugadores elijan clases y orígenes, puedes restringir las opciones que no sean adecuadas para la campaña.</p><p>Anímalos a elegir clases diferentes para que el grupo tenga capacidades variadas. Es menos importante incluir varias especies o trasfondos: a veces resulta divertido jugar con un grupo formado solo por enanos o una compañía de artistas aventureros.</p><p>Los orígenes elegidos definen quiénes eran los personajes antes de convertirse en aventureros. Piensa cómo pueden influir sus trasfondos en las aventuras. Por ejemplo, si alguien elige el trasfondo Criminal, ayúdale a desarrollar el pasado delictivo de su personaje y usa esa información para incorporar tramas relevantes a la campaña.</p><p><em><strong>Nivel inicial.</strong></em><strong> </strong>¿Con qué nivel empiezan los personajes? Muchas campañas de D&amp;D comienzan en el nivel 1. Si quieres personajes algo más resistentes y tus jugadores tienen experiencia, puedes empezar en el nivel 3. Consulta las reglas para comenzar a niveles superiores en el <em>Manual del jugador</em>.</p><h2>Reunir al grupo</h2><p>Durante la sesión cero, ayuda a los jugadores a explicar cómo se conocen sus personajes y qué pasado comparten, por breve que sea. Para definir sus relaciones, puedes plantear estas preguntas mientras los crean:</p><ul><li class=\"Core-Styles_Core-Bulleted\">¿Hay personajes que sean parientes?</li><li class=\"Core-Styles_Core-Bulleted\">¿Qué mantiene unido al grupo?</li><li class=\"Core-Styles_Core-Bulleted\">¿Qué es lo que más aprecia cada personaje de cada uno de sus compañeros?</li><li class=\"Core-Styles_Core-Bulleted\">¿Tiene el grupo un mecenas, una persona u organización que lo encamine hacia sus aventuras?</li></ul><p>Si les cuesta explicar cómo se conocieron, puedes sugerir estas opciones.</p><p><em><strong>Un acontecimiento que los une.</strong></em> Una boda, fiesta o funeral reúne a los personajes, que enseguida descubren un propósito común.</p><p><em><strong>Casualidad.</strong></em> Alguien busca aventureros para una misión y los personajes responden. También podrían encontrarse por casualidad y descubrir que viajan al mismo lugar, o quedar atrapados juntos.</p><p><em><strong>Un conocido común.</strong></em> Un PNJ en quien todos confían los presenta. Este conocido puede ser su mecenas: un representante de una organización, como una academia, una organización criminal, un gremio, un ejército o una orden religiosa; una persona con poder político, como un aristócrata o incluso un soberano; o una criatura mágica, como una esfinge o un dragón.</p><p><em><strong>Pasado compartido.</strong></em> Los personajes crecieron en el mismo lugar y se conocen desde hace años. Pese a sus distintos trasfondos y formación, ya son buenos amigos.</p><p><em><strong>Encuentro en una taberna.</strong></em> Los personajes se conocen compartiendo jarras de cerveza en una taberna y deciden emprender juntos una vida de aventuras: ¡un clásico que funciona!</p><h2>Presentar el escenario</h2><p>La sesión cero es un buen momento para compartir información básica sobre la campaña, normalmente la siguiente:</p><p><strong>Detalles del lugar inicial.</strong> Los jugadores necesitan conocer el lugar donde empiezan: el nombre del asentamiento, los lugares importantes de su interior y alrededores y los PNJ destacados que sus personajes conocerían (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCampaignStart.JournalEntryPage.bxHujOTV6qbwdHBa]{Lugar inicial}).</p><p><strong>Acontecimientos clave.</strong> Describe sucesos presentes o pasados que enmarquen la campaña. Por ejemplo, podría empezar tras una gran guerra o el día de una festividad. Esto ayuda a establecer el ambiente y preparar a los jugadores para las aventuras.</p><p><strong>Reglas caseras.</strong> Si utilizas @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTheBasics0000.JournalEntryPage.di6PPvo499vRq1NT#house-rules]{reglas caseras} o reglas alternativas de este u otro libro, comunícaselo a los jugadores.</p><p>Recuerda que siempre sabrás más del mundo de campaña que los jugadores. Sin embargo, sus personajes han vivido allí toda su vida y también saben más que quienes los interpretan. Proporciona la información básica que deberían conocer siempre que sea relevante para sus aventuras.</p>",
+    "documents": [
+      "dmgCampaignStart"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b5620044f7259cdb82392e37245d9debd77a8158e54edbbc836eab554b6a50b5": {
+    "translation": "Lugar inicial",
+    "documents": [
+      "dmgCampaignStart"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "92709f2fdabeb367f24cc8975f411e502dd3d7703eb31bd69efa8b2b41fccfe1": {
+    "translation": "<p>Empieza la campaña en un lugar que puedas describir con detalle: una aldea, un barrio de una ciudad grande, un puesto avanzado o una taberna junto al camino. Prepara suficiente información para que los jugadores puedan decidir qué vínculos tienen sus personajes con él, si tienen alguno. Una vez desarrollado este centro de la campaña, crea uno o dos lugares cercanos para vivir aventuras, como una casa encantada a las afueras o un complejo de mazmorras oculto en las colinas.</p><p>Si usas una ambientación publicada, elige un lugar y desarróllalo a tu gusto. Un libro de ambientación o una aventura pueden proporcionar todos los detalles necesarios. La @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFreeCityOfGre]{Ciudad Libre de Falcongrís}, descrita más adelante, es un punto de partida ideal e ilustra los aspectos que conviene considerar.</p><p>Si creas tu propia ambientación, empieza por desarrollar solo esta zona inicial. El resto puede esperar. No dediques demasiado tiempo a la geopolítica del mundo ni a lugares que los aventureros no visitarán pronto; reserva esas tareas para cuando tú y tus jugadores tengáis más claro hacia dónde va la campaña.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh5ArtHandout.JournalEntryPage.YlYQcqllKIRGAd5F]</p>",
+    "documents": [
+      "dmgCampaignStart"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "57ac8dacfe6bbe314f4d5c30eb2b802993b70402440e427680a90f1222c9488c": {
+    "translation": "Primera aventura",
+    "documents": [
+      "dmgCampaignStart"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f1638aea4e4242dd3d3fa57bea02f90fb45e6c8fdd6127cd65e1cffeb37e8df3": {
+    "translation": "<p>Si comienzas la campaña con una aventura publicada, usa sus ganchos para llevar a los personajes desde su lugar inicial hasta la acción. Muchas campañas empiezan así y luego crecen de forma natural cuando los personajes exploran más allá de lo previsto por la aventura.</p><p>Si creas tu propia aventura inicial, consulta los consejos del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCreatingAdven.JournalEntryPage.Yj1abxxXzi5U0FVL]{capítulo 4}. Procura que sea relativamente breve y sencilla, con tiempo suficiente para que los personajes se conozcan mientras los jugadores los interpretan. Lo esencial es que empiecen a sentirse como un grupo de aventureros y se familiaricen con sus capacidades. El alcance completo de la campaña puede revelarse más adelante.</p>",
+    "documents": [
+      "dmgCampaignStart"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b60a673266703facb164d23dfacec5c0b97f3a3ccb9cffd53ce3291610508f29": {
+    "translation": "Ilustraciones",
+    "documents": [
+      "dmgCh1ArtHandout",
+      "dmgCh2ArtHandout",
+      "dmgCh3ArtHandout",
+      "dmgCh4ArtHandout",
+      "dmgCh5ArtHandout",
+      "dmgCh6ArtHandout",
+      "dmgCh7ArtHandout",
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "833ea89a76b53b88d9c2e86b9bc9f4d08a582f7eaa038e0a382c40bf0bfd30ae": {
+    "translation": "Inicio del capítulo",
+    "documents": [
+      "dmgCh1ArtHandout",
+      "dmgCh2ArtHandout",
+      "dmgCh3ArtHandout",
+      "dmgCh4ArtHandout",
+      "dmgCh5ArtHandout",
+      "dmgCh6ArtHandout",
+      "dmgCh7ArtHandout",
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ec1e1c36a862d75160de873d7628e78ea1c17203cae04f847e76f8bcf24dbf01": {
+    "translation": "No necesitas una mesa de juego mágica para jugar a D&D, pero ¿no sería divertido?",
+    "documents": [
+      "dmgCh1ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ea0c2a5e95e6ffa0b3283bb4c5016fa850a619719545fc7c6e06c24e1325b448": {
+    "translation": "Dado ladeado",
+    "documents": [
+      "dmgCh1ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "43ab01ed061ac9d3c7612729b3c79946770e7501acce0241f3bcb1aa390a88a1": {
+    "translation": "¿Qué haces cuando un dado queda ladeado? Encontrarás consejos al final de este capítulo.",
+    "documents": [
+      "dmgCh1ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3802405725f8327cfae75c72e3a92c0de5efffe57291674997836238eff14f3b": {
+    "translation": "Reina Demoníaca de los Hongos",
+    "documents": [
+      "dmgCh1ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2c65706b6dea57dd90090fda0465320cea6d9ec86d158c6edc53e1e03448622f": {
+    "translation": "Igual que Zuggtmoy, la Reina Demoníaca de los Hongos, cultiva sus jardines fúngicos, ¡tú puedes cultivar con esmero una campaña llena de vida!",
+    "documents": [
+      "dmgCh1ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "575a8fa8d6db562c9a13d25466918aa09e358dcdef680caa7a62f67554cb4122": {
+    "translation": "Siluetas al acecho",
+    "documents": [
+      "dmgCh1ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a10ca3c4f95ffc2a2e58392567737e1b41aed7f754a12c68311b6b50f40b5009": {
+    "translation": "Siluetas siniestras acechan cerca de la entrada de la cueva mientras se acercan los aventureros.",
+    "documents": [
+      "dmgCh1ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "df17638ad20c8d42c71d081f632d5c0895e4967c92b156b02d941587f54405c6": {
+    "translation": "Conflictos entre personajes",
+    "documents": [
+      "dmgCh1ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "fc81684dc73afd1ddc4b03066f3a77bce8c2e2c81f6fb49b7b95466879af65f4": {
+    "translation": "Los conflictos entre personajes no siempre son malos, pero pueden entorpecer la partida.",
+    "documents": [
+      "dmgCh1ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "fa8d84566676ee2ee6627116304e7eef7c9b06875d230435a4b23264fcc34f98": {
+    "translation": "Portada",
+    "documents": [
+      "dmgCh1ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "defdae605f5933fe87c423970f2c17393d180c59716391b6a4ecebe6d5a840f8": {
+    "translation": "El grupo de viaje",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bc81346afb5ba0571e9712f6673ed89be110bb90247f83d26d0e77daa94bf84a": {
+    "translation": "Cada jugador disfruta de aspectos diferentes de D&D.",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6e42e19b6b66b334cf996ab55e1087b2bb9533bc6f3b4c2501679aebee4a4948": {
+    "translation": "Infiltración sigilosa",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4bc2efacf9b7ca6a206f1dbf91b3f90e7c6413e5c3de55f8d443a2cc6d1cb27c": {
+    "translation": "Las aventuras que requieren sigilo, como esta infiltración, son ideales para algunos grupos pequeños de aventureros.",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "42126668f430c286137ee18de3cc1de226eb4f8a0c282b7faba2f98f5bfdc6e1": {
+    "translation": "Taza humeante",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "77cb7eef810727952a0bd2dfdfaecf6ccd2158255757e08136453be4e3f5a864": {
+    "translation": "Habitación explorable",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d2146fa63e890f5273ddb29cab78321c1f3c2cda93c169846bc1329c7cb3f268": {
+    "translation": "Una estancia de mazmorra ofrece muchos detalles que los aventureros pueden explorar.",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6938bbbc6a83bbc93b50f5bad860ba6621316e08e01004c0c52e82a84e079b34": {
+    "translation": "Una fortaleza voladora se estrella",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "45663e719258a3e38826bec6caeb8c3c107e459393f4cb5f6a86e43c4997a5f2": {
+    "translation": "¡Cuando una fortaleza voladora se estrella contra el suelo, los desafortunados aventureros que se encuentran a su paso pueden sufrir 18d10 de daño o más!",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "16a1ad8d6d2c71f541bbd985f795a05992a3bf0e5ad312394483e0eb297f6d30": {
+    "translation": "Los aventureros bajan las escaleras",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f4a513b6f06587ae1520e2e66eb8e7d5a943f5b41449afd34ccb6abfc8688078": {
+    "translation": "La exploración atrae a los aventureros a todo tipo de ambientes inusuales.",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "08a51c3f0cdfc0bd8859a68113889e6f7077c2c9276b649360e04fb68691f2d3": {
+    "translation": "Atravesando un río",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0842a6aef276fb7c22f45d5ea4b74a779e8570e636a1b29f1501440198c680f0": {
+    "translation": "Un río supone un obstáculo para los personajes que viajan por tierras salvajes.",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f0e337b8edc2bbfefc05699c8e00a955635d4e2502033f796972b9b9a04eceae": {
+    "translation": "Patio lleno de monstruos",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a9e04fd2c1920415920611683538f1502d1b73389f84e734fc024095009c7b45": {
+    "translation": "En un patio lleno de monstruos, ¿se darán cuenta los personajes de que el árbol tiene ojos?",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "37a3f999e3d3202acf452095fdf2e8e9cf931b7ff9a0c0bbedcebe1ec9a46e2a": {
+    "translation": "Viajar por paisajes fantásticos",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4c8e2f84c86a769a51108f1a3d9b11f16c3b6714bcca36702396c570632fbe42": {
+    "translation": "Viajar por paisajes fantásticos puede ser una parte divertida e interesante de cualquier aventura.",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9aae1bce84f21980ed2e68c8982c805e575010fb6b424a09de2de32c29135af0": {
+    "translation": "Trío de ogros",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b22089c2a709012b70477227ce96519e2dbd74427f054738e7345619343a9702": {
+    "translation": "Tres ogros bloquean un estrecho paso de montaña.",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2b5d2d6019330072687959de72dbd4eeeede7861098cc2f1a35c3852e5362ccf": {
+    "translation": "Tamaño de las criaturas en cuadrícula",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e7bed7f3d85a33c5988cd795f354a4427ae5e4fc6ae3b176cbee3cb2fac7dc0f": {
+    "translation": "Diminuto, Pequeño o Mediano, Grande, Enorme, Gargantuesco",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "133004458f4854eb44102e1bdf3890819fabc89191d4514569d4a6e5ac2de0fc": {
+    "translation": "Tamaño de las criaturas en hexágonos",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "17860a852281334ad1efd51cd1ffb6cb1ec577dfdca0655997f7779470c3eb24": {
+    "translation": "Cobertura en cuadrícula",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0f442d6acf5df499608fcd8c28c7471300b077ea2e70e98bef6b1b90b0eef95b": {
+    "translation": "Cobertura media, cobertura tres cuartos",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "30db746e5edb4218b78fbad80bfc4d78f2bb7aa769a710c8db386b3911077a2c": {
+    "translation": "Cobertura en hexágonos",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1be71ae872d434da07f1eb08a698b1a60b11a9bd1f4b9754469bd8ec047df7b5": {
+    "translation": "Llega un dragón",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "64d2f3c73b6884349942255cd6fc3c08b06eff7414e364952619b457d1b492b9": {
+    "translation": "La llegada de un dragón vuelve mucho más interesante un simple combate contra zombis.",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e16f503e02a53d764eb8193fa6caa4d3e940c1b73102f0117830adbefde9ccd9": {
+    "translation": "El villano infernal Venger utiliza una Bola de cristal para escudriñar a su némesis, Tiamat.",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "37616f647849dcdd7d8efd151bdeeee42f091667a6d75e962fa37379908120a3": {
+    "translation": "Diminuto",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "fc3b0fdbef16c9c071a6229eb9bc60cbde43fe9a25db2a4c6de946060f8dbae7": {
+    "translation": "Pequeño/Mediano",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ab80540d98d274565e355f59f0683df6fb23ff86f735a6f8da60020d3ce05d7b": {
+    "translation": "Grande",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f171571d7344d1354e4619128faa358ae832c8f97b303ef200dd45f0b2a9cb91": {
+    "translation": "Enorme",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a36912afd613f3ac7d9edffbcf2d80e1a321676902f81ea1cf246f5318f5fbce": {
+    "translation": "Gargantuesco",
+    "documents": [
+      "dmgCh2ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "173b2f80ab28c68e975357b0620c0656aa0d76ea7cef3bf85865c524a1345e19": {
+    "translation": "Final de una persecución",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1e74e1285850b47bf3da5390a13e549875c6b8103bed9d6132c0522a4289d797": {
+    "translation": "Una emocionante persecución se acerca a su conclusión.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c43db6684aa6227f2c3f742db5174fca4ec4abdf021adaa97cc2e202f9c52109": {
+    "translation": "Robo imprudente",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6ff1c6001857a2bc2d19cfbd03a53204570d2c8cb364ec5ec9cb5a8ae8fa2b92": {
+    "translation": "Un imprudente intento de robar a Sylgar, el pez dorado de Xanathar, desencadena una intensa persecución.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "16987676160fc98691926e3a63ca73fe60b17445c05403b3e5b850f8a1518eea": {
+    "translation": "Batalla naval",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e78a937f83e4a78ab732da14593e5d8c6cf11524b970863bf4476887717eae03": {
+    "translation": "Puedes modificar el trasfondo Marinero para reflejar la juventud de un personaje en los mares de Greyhawk.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6085e5219d160ebef2866955a96ce7a4c2f62c9f2d0a7912d4dfd1fb4b6ebbb8": {
+    "translation": "Crear una criatura",
+    "documents": [
+      "dmgCh3ArtHandout",
+      "dmgDmsToolbox000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "5364887f16c8c54c597a75d4564efc940f03402e16d135ffac859e2de2582650": {
+    "translation": "Baba Yaga inventa una nueva criatura: un sapo gigante que escupe fuego.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bec1b562a7707418f69e3132fc121d6ad71b42d2bb81629b4263114b49b6b311": {
+    "translation": "Crear un conjuro",
+    "documents": [
+      "dmgCh3ArtHandout",
+      "dmgDmsToolbox000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "86df4c8149475a2684d916051ed2e56b88dfe09eec2e51f4e0aef82a32c7d4a7": {
+    "translation": "La investigación de conjuros de Ringlerun toma un rumbo inesperado cuando crea sin querer un pequeño cubo gelatinoso volador.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bef87847003253bc8fc679eefca102747d99e751e73ee971fec78930113662ee": {
+    "translation": "Caballero poseso",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a11ff76a37ebf7c95816e247caf6ae9a4f2ef7966be1f49653ef4c771ff0437e": {
+    "translation": "La maldición de la posesión demoníaca tiene efectos devastadores.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "15c114059d40a4d9ff8bd911721a6aa627d8ea9b0af0e627c9ee6a1a03b32f83": {
+    "translation": "Viaje con la muerte",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f6ecb6817b1d0620f41a03b80d263bd23ff0a8da31de8ca8c154f1511d52641e": {
+    "translation": "A veces la muerte, incluso la de todo el grupo, es solo un paso hacia nuevas aventuras.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "08c037903d543bd74c25a0c3f73af100a00421f0d6185ce598e92191fac66b89": {
+    "translation": "Mazmorra de gigantes",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "895e60135c6cc25cf284fdfb153252f32bd438f6b170ee68980fdf3b3be14835": {
+    "translation": "Una mazmorra construida por gigantes ofrece enormes aventuras.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6dcf0437c4215e9edc6e7e12506b0487eeabc7f0203abde17ef66de852ac2637": {
+    "translation": "Barco azotado por la tormenta",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6f4c804752e81e0910f5a09c2e2f7fe8fafb4f9b2f3b285152cda574f284c38b": {
+    "translation": "Un amistoso dragón de bronce vigila un barco azotado por la tormenta.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "8abe7d7cc723f76717311dc78c98fa9fb5900de784b576a03c497f06fba7bf1f": {
+    "translation": "¿Luchar, huir o quedarse paralizado?",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4417ede6c55f09270bdedaad3efc8275d2d48cd96704e2e2264aa103ef7c121f": {
+    "translation": "Armas de fuego y explosivos",
+    "documents": [
+      "dmgCh3ArtHandout",
+      "dmgDmsToolbox000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "254c36cd917b9dcec8d6ff6d171e4cee18aedc3fdb8df4e43ebf60f2ac7db697": {
+    "translation": "Ante un trol, no hay tiempo para averiguar cómo se sujeta una escopeta.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6802f4fba7a347306e2b486ebf362a3728c112f9d955d50c4d7b36dc8ae2a40a": {
+    "translation": "Peligros",
+    "documents": [
+      "dmgCh3ArtHandout",
+      "dmgDmsToolbox000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2c36f234ac4db313fd707a344e27501e295b8c56109e76360e9bbcec748c459b": {
+    "translation": "Sheila descubre que el limo verde es más peligroso de lo que parece.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1ec3b637c23a52f410704a08e78d3e49db83ce9f2687362b3807c62f4be6e5b7": {
+    "translation": "Telarañas",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "705a959ae26bd478c40b48737b47893b8ff7cf86e642d0ead1b8a162998471a4": {
+    "translation": "Si quedas atrapado en una telaraña, más vale salir antes de que aparezca la araña.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "deee9f5848576b1d92ff986bd6c69560abb8cd5cb059da962d20b7680c43316c": {
+    "translation": "Medallas",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b47c229c7f30a48c21ca46529f035c6b0f9bec51e7a05261cd62d512491efe55": {
+    "translation": "La reina Yolande de Celene agradece la ayuda de los aventureros.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "32dfcbda15b777425ceea8690e1318c4636c6834bbc9b5f74a6ca630b7a7b823": {
+    "translation": "PNJ",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "478d203181cb24263cb69018834d720d0bde7643adc98b90013c769ec5b1223b": {
+    "translation": "Los personajes no jugadores pueden tener cualquier aspecto y tamaño.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2058b34107e43fd5f90f2572a94494ccf2c80bfc6b886df9ec27019d26e83493": {
+    "translation": "Apariencia del PNJ",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d39a3114cf7fe9eefefcc9791477e443ccd7c62714348516f8ef1b194bcf52bc": {
+    "translation": "PNJ como miembros del grupo",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bbb212a09d31ae253b864a20fffe582868bd847cf219583888f065c4d065499c": {
+    "translation": "Niko, que pertenecía a otro grupo de héroes, se unió inicialmente a Sheila, Diana, Eric y Presto como PNJ sanadora.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "871c819feed15918636a861a539f3afb7f4bbef9b0f069962c61d26ad7edbdd4": {
+    "translation": "Aplicar veneno",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "992247c035e42b23a4ed2d4bc2becd2a0dc08767adbfffaed119aa5e4eab3dad": {
+    "translation": "Zarak aplica veneno a su daga.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b0d706d8b103529ffdd4c3fe8d7baa0f029e889773fcdad5312555daff39dc28": {
+    "translation": "Asentamientos",
+    "documents": [
+      "dmgCh3ArtHandout",
+      "dmgDmsToolbox000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "489e7b0a95269a8d8c8ea9a5c52b05b01668d7039a04e6f0ba7c1088ce12c8ba": {
+    "translation": "¡La vida en una ciudad está llena de sorpresas fantásticas!",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "252bf76ccc2decf60b28dcbfb4fd15a8ec6ff95a2e71144bb63c34f533c5c078": {
+    "translation": "Lanzabarriles",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "114954f365dab9ef0788982de138cee04f7185c78b0ab23d55098ddf5f28b772": {
+    "translation": "Mangonel",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6b8d6f888579493f8a9dd957d185c65c8e3f2ad91d001cb512455e8026f8a8d0": {
+    "translation": "Dones sobrenaturales",
+    "documents": [
+      "dmgCh3ArtHandout",
+      "dmgDmsToolbox000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a6bdbb2b5fc513e72bec723e45a0f4ae3f17ede74fe948420fd361840532d802": {
+    "translation": "Una criatura mágica, como un unicornio, podría conceder un don sobrenatural.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c81c3fb67315a30b099cb7be9e03c63697ac0a4a61885998c0e11b4d1c07ef41": {
+    "translation": "Trampas",
+    "documents": [
+      "dmgCh3ArtHandout",
+      "dmgDmsToolbox000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9e292f1e14b41afe2e9a8a88c86fa4587cd90d1d8ef5417a7e2c6b5be4618775": {
+    "translation": "¡Bobby y Hank esquivan por poco una ráfaga de dardos envenenados!",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9e688327639beed2e499c0c35595fccad0c7edee6d04d1c93d38374c689638ed": {
+    "translation": "Un amasijo de aniquilación ataca Sharn, la Ciudad de las Torres, en el mundo de Eberron.",
+    "documents": [
+      "dmgCh3ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e5a6c841f5f6cb116624ab4ea84a2a2369203ac6a4afea02186ba8b5944b8824": {
+    "translation": "Acontecimientos que sacuden los cimientos",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ae0be8eb45dc5d0b7c8b711a0b817df31b263db76c41d0bef842f887648f5e95": {
+    "translation": "La muerte de un dragón anciano puede sacudir los cimientos del mundo.",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "39d7a350786dcba6d97641920c865486ccfc98e12855d6fc45d8495723024bdf": {
+    "translation": "Símbolos habituales en los mapas",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "aeaeee06ac36a10d782223147e04acde38e7deeb772c0cb3bfd4aaa015c3f931": {
+    "translation": "Facciones",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a6a06f90e36419df26d2886f25764f9501e73c48db642be87c574f4728c4920c": {
+    "translation": "Cuando varias facciones rivales habitan una ciudad en ruinas, ¡a veces lo mejor es no interponerse en su camino!",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "61c8e46d2c898c79ec0087686fd54d6a30e2e595c2c4cb2c019039c2537b87f5": {
+    "translation": "Emboscada de goblins",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0427a2d08a120f90fc391c83b2beb7053d5194e80c2977df3576fddfb45df37a": {
+    "translation": "Unos asaltantes goblins preparan una emboscada en un desfiladero.",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "accff420c2a4ec7a58ff682d38318e3dc6f5f06ca12abdd0479fc4f4884f93ce": {
+    "translation": "Espejo mágico de Otto",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "410e041adadbb7b44d0d1ffc4bccfcff560eace8a543681d9c342460e4eae580": {
+    "translation": "La conversación de Otto con un espejo mágico es un emocionante encuentro de interacción social.",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "eb8fd167abf74bd419e4da22d06ed872eae2566bda7216e05ae03157f5866404": {
+    "translation": "Guerrero esquelético",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "86e25ccd701ad38e8ee3b5a1b3985ceff5f3d84af3dd609d311a381d75d6c455": {
+    "translation": "Comportamiento de los monstruos",
+    "documents": [
+      "dmgCh4ArtHandout",
+      "dmgPlanEncounter"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2f59eeb6fa98bc7625cc8abb4d4229a9c4916902bc479bff751db023da0361f1": {
+    "translation": "Los kobolds construyen una barricada para mantener a los aventureros a raya.",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "672db33cf00c8416c642b8392c28aa4c14220d782551d08cb1caa2bb0f35a8c0": {
+    "translation": "Encuentros aleatorios",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1e850eba422a49735d36ac10e0e06f1c0c701963a7b4a612c1ecef366d16b9dd": {
+    "translation": "Unas luces misteriosas brillan en un remoto lago de montaña y atraen a los aventureros para que lo exploren.",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9ff60c6ba7dbc5865c19521250ce4a30875b639e22b33d53a74a1607ae723c1f": {
+    "translation": "Fin dramático",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "fbf22d6c69385a3a180d99925e54c334318806a793b46581148e497117a315e2": {
+    "translation": "Una batalla culminante en el Templo del Mal Elemental pone un final dramático a una aventura.",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "53ef066101659207cf230e3790725ba8775aa395d9d750989b719a96598dcee3": {
+    "translation": "Minsc, Boo y Delina se desenvuelven entre las intrigas del Baile Boreal.",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6f8bbc699ad6b925cc397b36d16fad902a8b43b92bbcae6510cb0f67930574c7": {
+    "translation": "Un misterioso carruaje lleva al vampiro Strahd von Zarovich fuera del Castillo Ravenloft.",
+    "documents": [
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7e90e014bd18020b5e47b59a458278ca7b49ec52df7c3e8b3cc5749355715e10": {
+    "translation": "La llegada de un nautiloideo de azotamentes trae problemas a cualquier mundo, ¡y aventuras para sus héroes!",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "8e86a6ba5685f6a5c1b4863f4bc25bf15a64cc898d6b157b9c6d8630bb5b16ee": {
+    "translation": "Fortaleza sobre un dragón tortuga",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9240cb91d3a519b5918018d2e77d6489d9279bd963ed82a2f3ba6ce3ba0ba679": {
+    "translation": "Fortalezas sobre los lomos de dragones tortuga emergen de las profundidades y anuncian el regreso de una dinastía desaparecida hace mucho.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3586a3e6e0fd4cb4419816809a5e6135d27c41ce8e0c045c6e3583130cbd6ce4": {
+    "translation": "Murlynd con un reloj parlante",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "861294353aabc9aa49649275f8e2c27615832ac04782d748abcaf98936345556": {
+    "translation": "El audaz aventurero Murlynd ha visitado muchos mundos y siente debilidad por los revólveres de seis tiros y los relojes parlantes.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "07612327183d15e15aa5133b5ffca2355acc43239de31c78ef6ed027bb292aea": {
+    "translation": "Pira funeraria",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "af2b755ab5721ae3110df61c47f187d27761aa5b9bb1eaa84e95fdbfc8b3b71f": {
+    "translation": "Un momento de dolor puede unir a las personas e incluso dar origen a un grupo de aventureros.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c7bcceb32d32dbf849065df6d560edd4f939953fddfa5148419bc7f518bb574d": {
+    "translation": "Taberna de Dragonlance",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "992602d0ce8a80c0ea073d935a689693f19e3a1301e4d7e8fcd40af23377dd59": {
+    "translation": "En la ambientación de Dragonlance, Tanisel y Tika consideran su posada local un hogar donde encontrar caras conocidas, como Fizban el Fabuloso.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f917b5be58e457b6a23e89a4f2524b44550c9c060cee315b89fc188c8fbbcb22": {
+    "translation": "Tiamat pone fin a la campaña",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7d306774886a4d811dca716b1fb6a9ec21dddfe86fbb62202ab88b6d1d437fd0": {
+    "translation": "La propia Tiamat pone un final dramático a una campaña.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3b267a661a7b090fc2036c69477c6199088c9b1c1419f556734e19795a3a983d": {
+    "translation": "Calendario de Greyhawk",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a8b9ecbc1ccebb0f5590fe2fc5ff11ff4f7b602bdddb9b209d965d0e4b321a21": {
+    "translation": "Montaña del Penacho Blanco",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "04afc5a3e8ae8812859f337834b67cc3994a5ac4c76a681457b4457dd57fdce6": {
+    "translation": "La Montaña del Penacho Blanco es una maravilla natural y un refugio del mal.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c507bf658abd9486f71031d1f879f19ee5031ed9c790aed6c546dd10f25e75af": {
+    "translation": "Muelles de la Ciudad Libre de Falcongrís",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ec6dc825df2ea7667b21a7b2390f002937c80f94256d4bf8e101176029f23748": {
+    "translation": "La Ciudad Libre de Falcongrís se alza tras sus bulliciosos muelles.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "33603f5445f73a89746c472b6b72d794effd5cd38ffc6cd4532520ed96ed5fae": {
+    "translation": "Lugares de la ciudad (con etiquetas)",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d9f4fbb7c8b8b1ba02bc13703a165a6f5b7405c87e989b34ed40b189591caa83": {
+    "translation": "Lugares de la ciudad (solo etiquetas de distritos)",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9e2d5322fd3fa48f752c47611f2f81098748bf86a976b9153be38682665ddbba": {
+    "translation": "Lugares de la ciudad (solo etiquetas de lugares)",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "87679d476b82895b2e545ff93722da0e6f831b7360afefee4ccd9dfb0928a63a": {
+    "translation": "Lugares de la ciudad (sin etiquetas)",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0650e3c09cd0780fbb1fb19b2478369394b87be245df4c8bf6cf70b164747a18": {
+    "translation": "Posada del Dragón Plateado",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "45adafdc18519de07d8acd18c35e2c2b71730188817bf919fbfbec3432a75c89": {
+    "translation": "La Posada del Dragón Plateado es un animado centro de actividad del Barrio Extranjero de Falcongrís.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9c041255d15dab60049b6585d63e9cbc2ee0b5b2b37413a69d3f73ee8bd5ee8e": {
+    "translation": "Estantes de Arcanos Desenterrados",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2440cdfbdb9a5f0a2d9e3809555248ca53e251c2b7af7837af0f79c45315c01b": {
+    "translation": "Falcongrís y sus alrededores (con etiquetas)",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ba02e383dbf6993bd2a2af8ed7e077249e793ca2d0d9b5578bf9b7035df80f48": {
+    "translation": "Falcongrís y sus alrededores (lugares principales y caminos)",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "87198f8f02c2169e0d8bd49c89fd67ee177069cfb5bb5f6d459c5dc208079f9e": {
+    "translation": "Falcongrís y sus alrededores (lugares principales, sin caminos)",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6a9b5df0e79834828aaffa716d67beb9db70e317c5014ab4e10520b8e28e9496": {
+    "translation": "Falcongrís y sus alrededores (sin etiquetas)",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bbd1a4df44e5d9624bcaca8ea42b0f490e1618200cb4cfa8f8270ce0685a768e": {
+    "translation": "Mapa de Oerik oriental (con etiquetas)",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f473c9b957a2d51470c5a44091e0cce949b4a4dd5c4a9b97d37c5f2acd01859e": {
+    "translation": "Mapa de Oerik oriental (sin etiquetas)",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4358888c8abda2b9bdc32868f561c44be4566fc45d2eadf61c8512d97eef7da3": {
+    "translation": "Celebración de los días sagrados de Rao",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "18559fe489dbd34ae332e4c910926067fba001fcbd915b38d1b4c1252d57e094": {
+    "translation": "Los días sagrados de Rao son ocasiones de alegres procesiones y fiestas en Veluna.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "15862417a23eb446ec6a4802412276b267cb520b0166662270dd5caae144bd5a": {
+    "translation": "Tumba de los Horrores",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6fc4f431117d509367623e526267a0e3ec61a9441b8ca28062c2ceb9737e6fbb": {
+    "translation": "La Tumba de los Horrores se encuentra en las profundidades del Gran Pantano.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ee5d97e740e88be0c9199b4bcd983e07b88a3c253e62e92edfa0880deea42c69": {
+    "translation": "Aventureros del Reino del Norte",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ce58c85a07c7e4d27d81525353c4f7a5c985d71a61d4d8d21fe9c1348e37afd9": {
+    "translation": "En los Reinos Septentrionales, unos aventureros ayudan al mamut mascota de un gigante de escarcha a encontrar el camino a casa.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ded1fd7ab10d35ac651b907983938707c71d4a0692fa90b1e97021bb4214bef5": {
+    "translation": "Bajo la superficie de los Volcanes del Averno",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7cca732b446a8efe75ce6281b228897639ee5c469855785efd6576e9ff2d439a": {
+    "translation": "Bajo la hermosa superficie de los Volcanes del Averno se ocultan males sin fin.",
+    "documents": [
+      "dmgCh5ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d682e2b60569ef91daebaa8dca0d0d2dca3a2c3bc56ef94dc4d5ecc0a91b9e0a": {
+    "translation": "La Señora del Dolor aparece sin previo aviso en las bulliciosas calles de Sigil, y los residentes de la ciudad se alejan de su camino.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "df0f0c71b0eda726d2519f97e5bc0527cc9deda981030015fc2268e3ffe549a6": {
+    "translation": "Planos",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a9d8e75f351d69c51186496ff494662cb083aefb89a1145354aeed41131fcb01": {
+    "translation": "Portal planar",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "44704fa533df75009d5f34f40e1f8c7eff61b7e1bc0a56b5cef4ae35faf069dd": {
+    "translation": "Un portal a las Tierras de las Bestias se abre entre las ramas del Árbol del Mundo.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7d35fd9ad0d87be25d55ee79604ee59ef98ebcf544019b34ea4013c48d8f5223": {
+    "translation": "La Telaraña Demoníaca",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "34afe5fd7da6f9b7e1f82313f5706636ce15a8439a9aced1986b86035155a1f9": {
+    "translation": "Los desechos de los planos se enredan en la Telaraña Demoníaca.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "862fb10dce17f8aaae44e803f6c54afacab02bb5b6aab932799b4ccb717512fa": {
+    "translation": "Árbol rosado",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "fc927a11a43a8b14b8c57775eee44f4a81e96e59f9c4cc460dd86c0b38b7cab8": {
+    "translation": "Nave avispa de spelljamming",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f0179f9968a82f7e764b5075e4ba4605460ff99d8f228d07fbe9139fecdc2fc0": {
+    "translation": "Una nave avispa de spelljamming se acerca a la ciudad githyanki de Tu’narath.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "02779b450c6e1936ea269fc1dfcd102507d135a1e05995e4109c083c69ef0ecd": {
+    "translation": "Carceri",
+    "documents": [
+      "dmgCh6ArtHandout",
+      "dmgCosmology0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2b0092f6b9464d4f52c289ac77fe2ea6f4feaba012cbab9234da3a2eb2da4ec6": {
+    "translation": "Los horrores desconocidos están atrapados en el hielo de Carceri.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "14fab3d8afdc71ea8b93f7c507959370b931091658dd818a6441e2ef78c7fea0": {
+    "translation": "Plano Elemental del Aire",
+    "documents": [
+      "dmgCh6ArtHandout",
+      "dmgCosmology0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "5eb660f89e21c64d2ed17ce5f36ac6798052b3d54689b52e64bda3f348700d8c": {
+    "translation": "Unos exploradores aarakocras vuelven a su hogar en una ciudad del Plano del Aire.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "153a2f7d95b9f9bc76d3baa0e2302e2e9098aa37dc1752f5fdaffa5a92be8574": {
+    "translation": "Ciudad de Oropel",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "12a63c6aa116a59e2c1d6478cee12ca957b641c63a404ef4ef1bdcda07028150": {
+    "translation": "La Ciudad de Oropel es un centro de comercio de todo el multiverso.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "380e2afc3908d111bcec51631e4999a8d69c368c0c6ae12cc3f4451e27b4043b": {
+    "translation": "Plano Etéreo",
+    "documents": [
+      "dmgCh6ArtHandout",
+      "dmgCosmology0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6357589fe85df3769735a078089c5fe48ceac519ce52597e5e0c63ad505581fa": {
+    "translation": "La Ciudadela Radiante es un refugio en el Plano Etéreo, a pesar de su proximidad a un ciclón de éter furioso.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bad66907c4252da92e78d5118a13c2ed2960f48c82032e5838ef45d4cdb88d42": {
+    "translation": "Flor etérea",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "8babf2bd632bf5d36aba74687d0bd118d4d8a3887b5c7fd5aa47bf0f304a4d48": {
+    "translation": "Reino Lejano",
+    "documents": [
+      "dmgCh6ArtHandout",
+      "dmgCosmology0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "acfa14436966856407f6ee382e0d6669137649d1782b5bee9d3c4c8a8771756f": {
+    "translation": "Cuando el cometa Lágrima del Dragón aparece sobre el pico Tormenta de Fuego, el Portal de la Inmensidad tiende un puente hacia el Reino Lejano.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1b4500923cbfb7d22c0c1b2a834a5786d53bbdff448c391eb76937ee01a0e8a0": {
+    "translation": "Festejo feérico",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e60c0cab4edddccc09d64fe0700f294bfe3e37f8a6db354c7434b63726f9357a": {
+    "translation": "Los feéricos festejan en la Corte Crepuscular bajo la atenta mirada de la Reina del Aire y la Oscuridad.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "cb79bee3fec8f1d1775883109cf566d8089efbdf7b53e60c673f4002554de2f6": {
+    "translation": "Eberron",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6fb234c55e54598d467b04656f07417332b68e7b2e76ddae604872b49107e277": {
+    "translation": "Con sus maravillas de tecnología mágica, Eberron es uno de los incontables mundos del Plano Material.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "dd3c265e6212bad3429b370bda396d10df9343b3c78eddb9f88ddfcd3b27b056": {
+    "translation": "Monte Celestia",
+    "documents": [
+      "dmgCh6ArtHandout",
+      "dmgCosmology0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d96a7c5893749fc0c4f68592c8177fd13607316064dab31bf518ccfe108471d1": {
+    "translation": "Los siete cielos del Monte Celestia llaman a las almas virtuosas hacia alturas cada vez mayores.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "64e581a918a8b3c0cb21be8cf89f7e6bb6a9e5f860a1366646a36b6b37bcf3d5": {
+    "translation": "Averno",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0e25ee7841c15b1b2eec5bca8b3f66c3379976245499020bf4a04f7909081707": {
+    "translation": "El primero de los Nueve Infiernos, Averno, es un campo de batalla eterno en la Guerra de Sangre.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "175b3e360cfd99e326c236def374b5b5e64f3a7315157d8b0c18d0ca90284ba9": {
+    "translation": "Asmodeo",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b10698f349ab0a51d6d24bdbfddcea1ed5478a0563151611d30264133fc9c4d4": {
+    "translation": "Asmodeo, el Señor de los Nueve, mantiene una apariencia de cortesía mientras atormenta a las almas cautivas.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2bce2982deda92e4334e1eba413174b87e2853485b88b8b192f3d5178d886985": {
+    "translation": "Pandemónium",
+    "documents": [
+      "dmgCh6ArtHandout",
+      "dmgCosmology0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "632478598e0827d57fe444a64c478b60dced06620390246ed7fbf7d950346c81": {
+    "translation": "Tres aventureros afrontan los aullantes vientos de Pandemónium en busca del Peñasco de los Aullidos.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ad60d32b2a87cd2db8c477478fe84f3471f273604ef6e1bea045d9502778fcb9": {
+    "translation": "Páramo Sombrío",
+    "documents": [
+      "dmgCh6ArtHandout",
+      "dmgCosmology0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "5b39d1b52627cd74b497efeeadb50e44a27f5186ac410f6b428585f52e77a8c9": {
+    "translation": "El Páramo Sombrío es un reino de muerte, desesperación y terror.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2dadf0e96594ba872327cd8cb48e45e471dcef191fd36a8dfeef398f094a2f93": {
+    "translation": "Sigil",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d3f82bb4b413b5645dae16ecd03b5b12308212b9284fa83a97e7b02997a33e3f": {
+    "translation": "En las calles cosmopolitas de Sigil, las criaturas de todo el multiverso conviven en una paz incómoda.",
+    "documents": [
+      "dmgCh6ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f4ea62eb7c48a10d9d1c3579a255fb2288b3535ba5239d3424ce5769cdfcd351": {
+    "translation": "La dragona negra Ónice custodia su tesoro en las ruinas de Xak Tsaroth.",
+    "documents": [
+      "dmgCh7ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ff87fd942e418737669c55ae7635929f4c6033e682cc180ca0c24e5408d50d30": {
+    "translation": "Bolsa de monedas",
+    "documents": [
+      "dmgCh7ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0207edd277bfb7f90c72c86c9e40887ed12e6a94fc037cc17b74b8a200583bad": {
+    "translation": "Fabricar objetos mágicos",
+    "documents": [
+      "dmgCh7ArtHandout",
+      "dmgMagicItems000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3ee6d13b08f8c17c7af195c410178310ce8e6a4e7094c74180961c2dbc511d4c": {
+    "translation": "Fabricar objetos mágicos requiere tiempo e investigación.",
+    "documents": [
+      "dmgCh7ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d0c2b3417ed009e646f4a98ecddffd1949304117521f017d11586b1f001f85c1": {
+    "translation": "Libro artefacto",
+    "documents": [
+      "dmgCh7ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f22a496f93eac86f114de66e058d0acf54da18686c4071b53ca061ff82d4abb9": {
+    "translation": "Kobolds con tesoro",
+    "documents": [
+      "dmgCh7ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0e71110e678d446501c95c41aeafbfb2ee0252f44648826236da19ef7229c5e4": {
+    "translation": "Un bastión junto al mar es más que el retiro de un aventurero. Allí pueden ocurrir muchas cosas que nutran las historias de la campaña.",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "736d88261379a451baaf34bd383ca9277dad4b4aaa92c2b36c1689bdb270e95f": {
+    "translation": "El bastión con el paso del tiempo",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "098535d1937d42c86b6657ea73536fda6043074c15a11c9a94ec9cc262a31b3d": {
+    "translation": "Un bastión crece con el tiempo.",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6e25fcb41217f0ca4f500cfe246ad4b4268b7babab5f789dcfe1bad619e2fe97": {
+    "translation": "Caldero de un laboratorio de pociones",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "71334a04b66936275ef3ce2340b95cb3ec472f6a5cfab1e38bcc9b1122492b72": {
+    "translation": "El caldero es un utensilio habitual en el laboratorio de quien elabora pociones.",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ce1ce912461203bbda6439e6ac12befa6f680a1ab0c8bf48d22ac3c01aa66e06": {
+    "translation": "Observatorio",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c7633d7fff68328c6033ae273a3983a5c911efea4de7ece4f5ba16aa47282a7f": {
+    "translation": "Añadir un observatorio puede llevar a descubrir secretos arcanos perdidos entre las estrellas.",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6b2109e898455eb82d8f658e6bfb6c2b20df0adae926661580727e0060be6997": {
+    "translation": "Escritorio de un scriptorium",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "27edd02507388e5930ab53ddde8e797df4f58714acabb41e3bf93b54a7bd2c86": {
+    "translation": "Un scriptorium tiene escritorios y materiales para elaborar libros, pergaminos y otros documentos.",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "869856f31dc8901ea62172ba47b3d09ac70fa0b73111b80330f9110383f5e347": {
+    "translation": "Festival de primavera",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4c2fdd4246c575de19e09676871de2588d02e933dc42eea42527ed6d098b915e": {
+    "translation": "El bastión de un héroe acoge un festival de primavera al que todo el mundo está invitado.",
+    "documents": [
+      "dmgCh8ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b54ce5658cc8182929fd48671c3576bba8bf65ecc01a0023dee689bf85792e88": {
+    "translation": "Registro de cambios de la Guía del Dungeon Master",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "92521fc3cbd964bdc9f584a991b89fddaa5754ed1cc96d6d42445338669c1305": {
+    "translation": "1.0.0",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "778cbc52492167ae17fc481ab62401186f1afaa537739bb0552f1ca49ac37aa0": {
+    "translation": "<p>Publicación inicial.</p>",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7fbd210ebec11f65a97190ef900795c4b8da3805af3f5a1b8d1d272556b292ca": {
+    "translation": "1.1.0",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "64f0cd77832b82a6d52949f414c163a1f422d4c3e2a2c0e0732fc4858e9beb8f": {
+    "translation": "<h1>Corrección de errores</h1><ul><li><p>Corregido un error tipográfico en el recuadro «Próximamente». <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/836\">[#836]</a></p></li><li><p>Corregidos los enlaces de @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgRunningCombat.JournalEntryPage.6UthtPzF3dIb2EnV#change-the-terrain]{Dirigir el combate}. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/837\">[#837]</a></p></li><li><p>@UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTheBasics0000.JournalEntryPage.crbl7kSxiGnU8X29]{Ejemplo de juego} incluye ahora los bordes de los recuadros. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/838\">[#838]</a></p></li><li><p>Corregidos los enlaces de las regiones de teletransportación de las escenas que no apuntaban correctamente a su región de destino. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/839\">[#839]</a></p></li><li><p>Añadido el objeto @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgBrownMold0000]{Moho marrón}, que corrige el enlace y la inserción rotos en @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.lVkdQivhFHqVmxg7#example-hazards]{Ejemplos de peligros}. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/840\">[#840]</a> y <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/856\">[#856]</a></p></li><li><p>Corregidas las rutas de las ilustraciones @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh5ArtHandout.JournalEntryPage.NLscoKNP7uuyBQt0]{Oerik oriental (sin etiquetas)} y @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh5ArtHandout.JournalEntryPage.ITXwJmk9IRhKhJXL]{Lugares de la ciudad (solo etiquetas de distritos)}. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/842\">[#842]</a> y <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/852\">[#852]</a></p></li><li><p>Corregida la fórmula de tirada de la tabla @UUID[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg25GpArtObject]{Objetos de arte de 25 po}. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/843\">[#843]</a></p></li><li><p>Corregida la fórmula de tirada de la tabla @UUID[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg13CardDeckOfM]{Baraja de múltiples cosas: 13 cartas}. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/844\">[#844]</a></p></li><li><p>Corregida la fórmula de tirada de la tabla @UUID[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgArmamentsRare]{Armamento - Raro}. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/845\">[#845]</a></p></li><li><p>Completada la tabla @UUID[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgSenSenses0000]{Sentidos}. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/846\">[#846]</a></p></li><li><p>Corregido un error tipográfico en @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgRunningExplor.JournalEntryPage.52a3vRwhCNY60oEZ]{Meteorología}, en Dirigir la exploración. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/848\">[#848]</a></p></li><li><p>Eliminadas las tablas vacías Tesoro individual aleatorio y Tesoro acumulado aleatorio, que contienen datos y no admiten tiradas como tablas independientes. Se encuentran aquí: @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAdventureRewa.JournalEntryPage.EBcNErEifQuAkTR5]{Tesoro individual} y @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAdventureRewa.JournalEntryPage.BPBTY8qIVTjIZ9Zl]{Tesoros acumulados}. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/849\">[#849]</a></p></li><li><p>Marcados varios objetos como mágicos. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/853\">[#853]</a></p></li><li><p>Corregidos varios problemas de muros y mejorada la iluminación de algunas escenas con iluminación global y regiones subterráneas que la desactivan. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/863\">[#863]</a></p><ul><li><p>No se aplicaron algunos cambios propuestos en la incidencia, como cerrar con muros ciertas zonas de las criptas: no están marcadas como puertas normales ni secretas y se pretende que sean arcos abiertos. Se ha consultado si otros elementos, en particular las cortinas ante ventanas, deben bloquear la visión.</p></li></ul></li><li><p>La tabla @UUID[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgHappenstanceH]{Ganchos fortuitos} contiene ahora los resultados correctos. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/869\">[#869]</a></p></li><li><p>El @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgHatOfWizardry]{Sombrero de hechicería} incluye usos limitados que consume su actividad. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/870\">[#870]</a></p></li><li><p>La @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgWandOfMagicMi]{Varita de proyectiles mágicos} tiene ahora un aumento máximo de 3 o del número de usos restantes, lo que sea menor. [Comentarios de Discord]</p></li></ul><h1>Mejoras funcionales</h1><ul><li><p>Implementados los @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.RYnuZEZ9wXoKpHbD#creature-traits]{Rasgos de las criaturas} de las herramientas del DM. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/847\">[#847]</a></p></li><li><p>Añadida una imagen de @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh1ArtHandout.JournalEntryPage.DtDJc9DEHjVssHu6]{portada} a las ilustraciones del capítulo 1.</p></li><li><p>Configurada la @UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.dmgGiantSpider00]{Araña gigante} para usar imágenes de ficha con comodines, de modo que pueda utilizar cualquiera de las dos imágenes incluidas.</p></li></ul>",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9f77034b1eb57d24f21ac7deb65c9cc99f63b72775e311f1f280ab2b6c2e06a2": {
+    "translation": "1.2.0",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f2115a6ed9069260c2c2f24a183e199a4a6935647b39ff72817f5440103970c0": {
+    "translation": "<h2>Mejoras funcionales</h2><ul><li><p>Mejorado el aspecto de las @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTrackingSheet]{Hojas de seguimiento}. También se han unificado y simplificado las reglas CSS generales.</p></li><li><p>Cuando esté instalado el Manual de monstruos, todos los objetos que invoquen criaturas las tomarán de él en lugar del SRD de 2014. Cuando se publique el SRD actualizado, se usarán sus criaturas si no está presente el Manual de monstruos.</p></li><li><p>Al importar desde el compendio de escenas, los comportamientos de teletransportación actualizan sus identificadores para usar el ID generado dinámicamente de la escena importada. Ya no es necesario marcar «Mantener ID» para que funcionen las regiones de teletransportación.</p></li><li><p>Divididas las @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgMagicItemList]{Listas de objetos mágicos} en varias páginas para mejorar la velocidad de carga.</p></li><li><p>Las criaturas de las @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAdventureExam]{aventuras de ejemplo} enlazan ahora a sus actores del Manual de monstruos.</p></li><li><p>Creado el objeto @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgCharmOfTheBor]{Sortilegio del baile boreal}.</p></li></ul><h2>Corrección de errores</h2><ul><li><p>Añadida la recuperación durante descansos largos al @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgHatOfWizardry]{Sombrero de hechicería}. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/882\">#882</a>]</p></li><li><p>Añadida la fórmula de tirada a la tabla @UUID[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgDungeonDecay0]{Deterioro de mazmorras}. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/892\">#892</a>]</p></li><li><p>Actualizada la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgEnspelledArmo]{Armadura lanzaconjuro}. Se indican los niveles de conjuro en las actividades de lanzamiento del conjuro vinculado y se añaden instrucciones paso a paso de uso en una nota de Foundry. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/893\">#893</a>]</p></li><li><p>El diario se titula ahora «Registro de cambios de la Guía del Dungeon Master» para proporcionar contexto tras las actualizaciones del módulo. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/894\">#894</a>]</p></li><li><p>Corregidas las rarezas del @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgfirBeltofGian]{Cinturón de fuerza de gigante (fuego)} y del @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgstoBeltofGian]{Cinturón de fuerza de gigante (piedra)}. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/895\">#895</a>]</p></li><li><p>Eliminadas la imagen y el pie de imagen de Kyuss de la página de Keraptis. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/936\">#936</a>]</p></li><li><p>Añadidos los UUID que faltaban a las dos referencias de instrumentos de los bardos de la tabla @UUID[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgImplementsRar]{Instrumentos - Raros}. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/951\">#951</a>]</p></li><li><p>Sustituidos los conjuros del @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgMacfuirmidhCi]{Instrumento de los bardos: cítara de Mac-Fuirmidh} por el conjuro <em>Nube de oscurecimiento</em>. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/952\">#952</a>]</p></li><li><p>Añadido @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgWhelm00000000]{Rotundo} al módulo, como objeto y entrada de diario. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/961\">#961</a>]</p></li><li><p>Actualizado «system.description.value» en todos los efectos activos de @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgAmmunition12o]{Munición +1, +2 o +3}. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/989\">#989</a>]</p></li><li><p>Marcados como mágicos el @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgHatOfVermin00]{Sombrero de alimañas}, la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPipeOfSmokeMo]{Pipa de monstruos de humo}, la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPotOfAwakenin]{Maceta del despertar}, la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPotionOfClimb]{Poción de trepar}, la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPotionOfCompr]{Poción de comprensión}, la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgProstheticLim]{Extremidad protésica}, la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgRivalCoin0000]{Moneda rival}, la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgRopeOfMending]{Cuerda reparadora} y el @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgVeteransCane0]{Bastón del veterano}.</p></li><li><p>El @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgSilveredWeapo]{Arma plateada} ya no añade un dado de daño adicional a todas las tiradas de daño.</p></li></ul>",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "206620a657f1ccc8af72b866fdcef20e641c48f39ce27f338ce8313949c63e53": {
+    "translation": "1.2.1",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ed3e292df92ba00fac56fb7c9eb00a58ce966f1c856e4b9c206aa9f996f34019": {
+    "translation": "<h2>Corrección de errores</h2><ul><li><p>El actor @UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.dmgApparatusofKw]{Aparato de Kwalish} tiene ahora las velocidades de movimiento correctas. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1044\">#1044</a>]</p></li><li><p>Añadida una palabra que faltaba en @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCreatingCampa]{Campañas paso a paso}. [<a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1001\">#1001</a>]</p></li><li><p>Mejorado el código de actualización de las regiones de teletransportación de las escenas incluidas para manejar los casos en los que no existe «compendiumSource».</p></li><li><p>Corregidos los precios del @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgfirBeltofGian]{Cinturón de fuerza de gigante (fuego)} y del @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgstoBeltofGian]{Cinturón de fuerza de gigante (piedra)} según su rareza.</p></li><li><p>@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgWhelm00000000]{Rotundo} usa ahora el icono del martillo de guerra en lugar del de otro objeto parecido.</p></li></ul>",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f22abd6773ab232869321ad4b1e47ac0c908febf4f3a2bd10c8066140f741261": {
+    "translation": "2.0.0",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6cfdd3e9f474102903baaff8901a5ec188aae16f4c4ce34935c4ed2204daec09": {
+    "translation": "<h2>Diarios</h2>\n<ul>\n<li>Aplicadas las <a href=\"https://media.dndbeyond.com/compendium-images/errata/DMG-24/DMG-24_v1.pdf\">erratas v1.0</a> en los diarios. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1222\">#1222</a></li>\n<li>Corregido un error tipográfico en las ilustraciones del capítulo 2: «Ina courtyard full of monsters…» pasa a ser «In a courtyard full of monsters…». <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1108\">#1108</a></li>\n<li>Añadida la palabra que faltaba (<strong>en negrita</strong>) al comienzo de Vista general de la ciudad, en Ciudad Libre de Falcongrís: «La ciudad es tuya para adaptarla a tu gusto. En los <strong>apartados</strong> siguientes se describen algunos de sus lugares y características importantes…». <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1120\">#1120</a></li>\n</ul>\n<h3>Diarios AppV2</h3>\n<ul>\n<li>Actualizadas las clases de los diarios del módulo para usar las clases AppV2 del sistema.</li>\n<li>Compatibilidad completa con los ajustes de esquema de color, incluido el índice, controlado actualmente por el tema de la interfaz.</li>\n<li>Corregida la clase CSS «hide in embed». <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1350\">#1350</a></li>\n</ul>\n<h2>Equipo y objetos mágicos</h2>\n<ul>\n<li>Actualizada la rareza del Morral práctico de Heward, la Bolsa de contención y otros objetos mágicos que carecían de ella. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1211\">#1211</a></li>\n</ul>\n<h3>Vara de alerta</h3>\n<ul>\n<li>La actividad «Plantar vara» pasa a llamarse «Aura protectora» para relacionarla directamente con el texto del objeto.</li>\n<li>Añadido un efecto activo que concede ventaja en pruebas de Percepción e iniciativa. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1341\">#1341</a></li>\n</ul>\n<h3>Carcaj de Ehlonna</h3>\n<ul>\n<li>Corregidos los límites de cantidad de objetos de los compartimentos largo, corto y mediano: 6, 60 y 18, respectivamente. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1253\">#1253</a></li>\n</ul>\n<h3>Botas de velocidad</h3>\n<ul>\n<li>La activación de las Botas de velocidad pasa de acción a acción adicional. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1243\">#1243</a></li>\n</ul>\n<h3>Botas élficas</h3>\n<ul>\n<li>Añadido un efecto activo que concede ventaja en Sigilo.</li>\n</ul>\n<h3>Capa del murciélago</h3>\n<ul>\n<li>Añadido un efecto activo que concede ventaja en Sigilo.</li>\n</ul>\n<h3>Arma feroz</h3>\n<ul>\n<li>Actualizado el atributo de encantamiento del Arma feroz a <code>system.damage.parts | Add | [[\"2d6\"]]</code>, para que los dados de daño adicionales aparezcan en la fórmula de tirada. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1161\">#1161</a></li>\n</ul>\n<h3>Piedras ioun</h3>\n<ul>\n<li>Corregida la errata inglesa «Regneration» por «Regeneration» en la Piedra ioun de regeneración y el objeto Piedra ioun. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1205\">#1205</a></li>\n</ul>\n<h3>Vara de poder señorial</h3>\n<ul>\n<li>Desmarcada la sintonización en la pestaña Detalles de la Vara de poder señorial y la Vara de mando. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1241\">#1241</a></li>\n</ul>\n<h3>Pergamino de invocación de titanes</h3>\n<ul>\n<li>Añadidas las referencias al señor de los animales, amasijo de aniquilación, cataclismo elemental, empíreo, kraken y larva al archivo de redirecciones del módulo. Los PNJ vacíos deben conservarse como origen de esas redirecciones. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1345\">#1345</a></li>\n</ul>\n<h3>Consumibles</h3>\n<ul>\n<li>Cambia la activación de todas las pociones a una acción adicional. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1140\">#1140</a></li>\n<li>Poción de curación (mayor)<ul>\n<li>Corregido el ajuste de destrucción al agotarse. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1295\">#1295</a></li></ul></li>\n<li>Disolvente universal<ul>\n<li>La actividad «Aplicar pegamento» pasa a llamarse «Aplicar disolvente». <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1276\">#1276</a></li>\n<li>Simplificada la actividad «Determinar onzas»: el objeto empieza con todos sus usos gastados (0/7 cargas) y una actividad de un solo uso recupera 1d6 + 1 cargas.</li>\n<li>Corregido el tipo del objeto a «Consumible», con destrucción al agotarse.</li>\n<li>El tamaño de la plantilla pasa de «número de onzas en pies cuadrados» a «plantilla de un cuadrado de 1 pie por onza utilizada», para ajustarse mejor al uso y al texto del objeto.</li></ul></li>\n<li>Perfume embelesador<ul>\n<li>Corregido el tipo del objeto a «Consumible».</li>\n<li>Añadida ventaja en las pruebas de habilidad indicadas mediante un efecto activo.</li></ul></li>\n<li>Sangre de asesino<ul>\n<li>Corrige la ortografía del nombre no identificado. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1240\">#1240</a></li></ul></li>\n</ul>\n<h3>Tesoro</h3>\n<ul>\n<li>Añadida la miniatura que faltaba en el objeto «Objeto de arte (750 po)». <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1132\">#1132</a></li>\n</ul>\n<h3>Correcciones de precios</h3>\n<ul>\n<li>Actualizados los precios de los siguientes objetos para incluir tanto la rareza como el objeto base. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1246\">#1246</a><ul>\n<li>@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgAnimatedShiel]{Escudo animado},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgArrowcatching]{Escudo atrapa-flechas},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGlamouredStud]{Cuero tachonado glamuroso},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgSentinelShiel]{Escudo centinela},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgShieldOfExpre]{Escudo de la expresión},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgShieldOfMissi]{Escudo de atracción de proyectiles},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgShieldOfTheCa]{Escudo del caballero},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgSpellguardShi]{Escudo guardaconjuros},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgElementalGem0]{Gema elemental},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGreaterPotion]{Poción de curación (mayor)},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgSuperiorPotio]{Poción de curación (superior)},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgSupremePotion]{Poción de curación (suprema)},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgQuaalsFeather]{Ficha de pluma de Quaal},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFoldingBoat00]{Bote plegable},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgChimeOfOpenin]{Campanilla de apertura},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgClothesOfMend]{Ropas reparadoras},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgHeadbandOfInt]{Cinta de intelecto},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgHelmOfBrillia]{Yelmo de brillantez},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgManualOfBodil]{Manual de salud corporal},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgManualOfQuick]{Manual de rapidez de acción},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPotOfAwakenin]{Maceta del despertar},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpSilverRave]{Cuervo de plata},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgEarthRingOfEl]{Anillo de control de los elementales (tierra)},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgRingOfElement]{Anillo de control de los elementales},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgRingOfResista]{Anillo de resistencia},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDaggerOfVenom]{Daga de la ponzoña},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDwarvenThrowe]{Martillo arrojadizo enano},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgJavelinOfLigh]{Jabalina del relámpago},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgMaceOfDisrupt]{Maza de disrupción},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgMaceOfSmiting]{Maza de castigo},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgScimitarOfSpe]{Cimitarra de velocidad},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgSunBlade00000]{Hoja solar},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgSwordOfAnswer]{Espada de respuesta},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgTridentOfFish]{Tridente de mando sobre peces},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfAdornm]{Bastón de adornos},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfBirdca]{Bastón de cantos de aves},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfCharmi]{Bastón de encantamiento},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfFire00]{Bastón de fuego},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfFlower]{Bastón de flores},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfFrost0]{Bastón de escarcha},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfHealin]{Bastón de curación},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfPower0]{Bastón de poder},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfStriki]{Bastón de golpe},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfSwarmi]{Bastón de enjambre de insectos},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfTheAdd]{Bastón de la víbora},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfTheMag]{Bastón de los magos},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfTheWoo]{Bastón de los bosques},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfThunde]{Bastón de trueno y relámpago},\n@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfWither]{Bastón marchitador}</li></ul></li>\n</ul>\n<h2>Tablas de tiradas</h2>\n<ul>\n<li>Actualizada la fórmula de tirada de la fila de VD 0-4 de Tesoros acumulados. Al pulsar la tirada integrada, el resultado aparece ahora en el chat. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1219\">#1219</a></li>\n<li>Actualizada la fila 2 de la tabla del Anillo de resistencia a «Frío (turmalina)». El cambio también se refleja en el objeto y el diario que hacen referencia al anillo. <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/1227\">#1227</a></li>\n</ul>\n<h2>Trampas</h2>\n<ul>\n<li>Además de como equipo, las trampas están disponibles como PNJ con el tipo de criatura «Trampas» y la disposición de ficha «Secreta». <a href=\"https://github.com/foundryvtt/foundryvtt-premium-content/issues/963\">#963</a></li>\n</ul>\n<h2>Peligros</h2>\n<ul>\n<li>La disposición de las fichas de todos los actores de peligros también se ha establecido como «Secreta».</li>\n</ul>",
+    "documents": [
+      "dmgChangelog0000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f6dde4712462b0dbddc6088c726c7f3eae85a1a556aa0d16c3945696c163ca4f": {
+    "translation": "Progreso de los personajes",
+    "documents": [
+      "dmgCharacterAdva"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e783aafacfae342efd3eab4ade2675f1009d591e958473cd76549dc0a0a882fc": {
+    "translation": "<p>Los puntos de experiencia (PX) permiten que los personajes jugadores suban de nivel y suelen concederse como recompensa por superar encuentros de combate.</p><h2>Conceder PX</h2><p>Cada monstruo tiene un valor en PX basado en su valor de desafío. Cuando los aventureros superan a uno o varios monstruos, normalmente matándolos, ahuyentándolos, capturándolos o evitándolos con ingenio, se reparten sus PX totales a partes iguales. Si recibieron ayuda importante de uno o varios PNJ, cuéntalos como miembros del grupo al repartir los PX, pues facilitaron el desafío. Consulta también @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.5GOEEHaai1dsSxbx]{Personajes no jugadores}.</p><h3>Desafíos fuera del combate</h3><p>Tú decides si conceder PX por superar desafíos ajenos al combate. Si los aventureros concluyen una tensa negociación con un barón, firman un acuerdo comercial con un gremio de herreros hoscos o atraviesan a salvo el Abismo de la Perdición, puedes decidir que merecen PX.</p><p>Como punto de partida, usa las reglas para crear @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgPlanEncounter.JournalEntryPage.WKL34lGhm9cZOavY]{encuentros de combate} para estimar la dificultad del desafío. Después concede PX como si hubieran superado un combate de esa dificultad.</p><h3>Hitos</h3><p>También puedes conceder PX cuando los personajes alcancen hitos importantes. Al preparar la aventura, designa ciertos sucesos o desafíos como hitos, por ejemplo:</p><ul><li>Cumplir uno de los objetivos necesarios para completar la aventura.</li><li>Descubrir un lugar oculto o información relevante para la aventura.</li><li>Llegar a un destino importante.</li></ul><p>Al conceder PX, trata un hito importante como un encuentro de dificultad alta y uno menor como un encuentro de dificultad baja.</p><p><em><strong>Otras recompensas por hitos.</strong></em> Si quieres recompensar el progreso con algo más que PX y tesoros, también puedes conceder pequeñas recompensas al alcanzar hitos, como estas:</p><ul><li>Los aventureros reciben los beneficios de un descanso corto.</li><li>Los personajes recuperan un dado de puntos de golpe o un espacio de conjuro de nivel 1.</li><li>Los personajes recuperan los usos agotados de sus objetos mágicos de usos limitados.</li></ul><h2>Subir de nivel</h2><p>Algunos DM permiten obtener los beneficios del nuevo nivel en cuanto se reúnen los PX necesarios, para que los jugadores disfruten de inmediato de sus nuevos rasgos y conjuros. Otros esperan a un descanso largo o al final de la sesión para mantener el ritmo de la aventura y permitir que los jugadores estudien las opciones durante una pausa o entre sesiones. Haz lo que mejor funcione para tu grupo.</p><p>Si un personaje sube de nivel fuera de un descanso largo, sus puntos de golpe actuales y máximos aumentan en la cantidad correspondiente al nuevo nivel. Obtiene acceso a las capacidades y espacios de conjuro adicionales que le correspondan, pero no recupera los que ya haya gastado.</p><h3>Variante: entrenar para subir de nivel</h3><p>Como regla alternativa, puedes exigir que los personajes dediquen tiempo entre aventuras a entrenar o estudiar antes de recibir los beneficios de un nuevo nivel. Esta variante ralentiza el paso del tiempo en el mundo de juego y puede favorecer un tono más realista o crudo.</p><p>Si eliges esta opción, cuando un personaje consiga los PX necesarios deberá entrenar durante varios días antes de obtener los rasgos de clase del nuevo nivel. Puedes decidir si entrena por su cuenta o necesita un instructor.</p><p>El tiempo necesario depende del nivel que vaya a alcanzar, como indica la tabla Entrenar para subir de nivel. El coste corresponde a todo el periodo de entrenamiento.</p><table><caption>Entrenar para subir de nivel</caption><thead><tr><th><p>Nivel alcanzado</p></th><th><p>Tiempo de entrenamiento</p></th><th><p>Coste del entrenamiento</p></th></tr></thead><tbody><tr><td><p>2–4</p></td><td><p>10 días</p></td><td><p>20 po</p></td></tr><tr><td><p>5–10</p></td><td><p>20 días</p></td><td><p>40 po</p></td></tr><tr><td><p>11–16</p></td><td><p>30 días</p></td><td><p>60 po</p></td></tr><tr><td><p>17–20</p></td><td><p>40 días</p></td><td><p>80 po</p></td></tr></tbody></table><h2>Subir de nivel sin PX</h2><p>Puedes prescindir por completo de los PX y hacer que los personajes suban de nivel según el número de sesiones jugadas o al alcanzar objetivos narrativos importantes. Esto resulta especialmente útil si hay poco combate o tanto que llevar la cuenta de los PX se vuelve tedioso.</p><h3>Progreso por sesiones</h3><p>Un buen ritmo consiste en alcanzar el nivel 2 tras la primera sesión, el nivel 3 tras otra y el nivel 4 después de dos sesiones más. Luego dedica dos o tres sesiones a cada nivel posterior. Por encima del nivel 10, puedes acelerar el progreso a un nivel cada una o dos sesiones. Esto supone sesiones de unas cuatro horas, con encuentros de dificultad variada y un hito importante al final, como se ha descrito antes. Ajusta el ritmo si tus sesiones son mucho más cortas o largas y según lo que el grupo consiga en una sesión habitual.</p><h3>Progreso por la historia</h3><p>En lugar de subir de nivel tras cierto número de sesiones, puedes vincular el progreso a objetivos concretos de la campaña. Cuando los personajes los alcancen, subirán de nivel. Procura distribuir los objetivos importantes para que el ritmo se parezca al del progreso por sesiones.</p>",
+    "documents": [
+      "dmgCharacterAdva"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
   }
 }

@@ -36,6 +36,11 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Segundo lote de diarios: 533 campos registrados y 19 diarios completos;
+  corregidos 173 campos de 15 documentos sobre campañas, ilustraciones,
+  historial oficial y progreso de personajes. Foundry verifica 873 documentos
+  y 3468 referencias sin errores. Quedan 416 campos de diarios por cotejar.
+
 - Primer lote amplio de diarios: 262 campos cotejados, con seis documentos
   completos (glosario, ejemplos de aventuras, recompensas, ilustraciones de los
   apéndices, mapas y bastiones). Corregidos 157 campos, conservando las cifras,

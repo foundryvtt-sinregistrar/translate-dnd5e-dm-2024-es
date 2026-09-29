@@ -283,6 +283,39 @@ sin cambios de todos los registros. La validación Foundry de las 09:31:11 UTC
 precede a este lote y no se atribuye a estos textos nuevos. Quedan 687 campos
 de diarios por cotejar y la concordancia final de nombres y menciones en prosa.
 
+## Diarios — segundo lote amplio del 29 de septiembre
+
+El registro alcanza **533 de 949 campos**, con 464 huellas de fuente y 128
+textos de página. Se completan otros trece diarios: cierre de aventuras,
+premisa e inicio de campaña, las ocho colecciones de ilustraciones de capítulos,
+historial oficial y progreso de personajes. El total es de 19 diarios completos.
+Los 271 campos añadidos incluyen muchos títulos y pies de ilustración; este
+recuento no equivale al porcentaje de palabras revisadas.
+
+El lote cambia 173 campos de 15 documentos. Corrige tipos de campaña,
+motivaciones, creación de personajes, concesión de PX, recuperación al subir de
+nivel, nombres de lugares y pies de imagen. Se conservan los nombres comerciales
+Critical Role, Spelljammer y Magic: The Gathering. «Cover» corresponde a la portada
+del libro, comprobada mediante la ruta de imagen del original.
+
+El historial oficial se traduce como documento histórico, sin convertir sus
+afirmaciones en resultados de QA actuales. En particular, la entrada 1.2.0 dice
+que ya no se necesita conservar el ID al importar escenas; los requisitos y
+limitaciones comprobados para las escenas del entorno actual siguen descritos
+en la documentación funcional. También se restaura el fragmento técnico
+`system.damage.parts | Add |` que el borrador había dejado incompleto.
+
+Pasan las 25 pruebas Node y la auditoría completa, sin cambios pendientes al
+reaplicar los textos revisados. Foundry validó **873 documentos y 3468
+referencias a las 10:16:12 UTC**, sin errores ni destinos pendientes.
+Evidencia local: `tmp/content-review-2-validation.json`. No se importaron
+documentos al mundo; se restauraron la macro y los módulos, y se verificó la
+partida en pausa con cero módulos activos.
+
+Quedan **416 campos de diarios** por cotejar, incluyendo capítulos extensos
+de cosmología, herramientas y dirección de partidas, además de la concordancia
+final de menciones y etiquetas.
+
 ## Alcance pendiente
 
 Los lotes revisados **no acreditan la revisión íntegra de los 6021
