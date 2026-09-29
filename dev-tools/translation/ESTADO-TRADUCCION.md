@@ -11,7 +11,7 @@ final ni interpretar la presencia de un campo como certificación de calidad.
 |---|---:|---:|---|
 | Rasgos | 23 | 48 | Revisados con la referencia española |
 | Bastiones | 35 | 89 | Revisados; incluye la página de instalaciones básicas |
-| Equipo | 548 | 2449 | Reutilización y borrador automático con correcciones parciales |
+| Equipo | 548 | 2449 | Revisión parcial: 835 campos registrados, incluidas 79 descripciones completas; no todos los objetos revisados |
 | Tablas | 125 | 1738 | Revisadas contra el original; contraste español selectivo, nombres y limitaciones documentados |
 | Actores | 72 | 606 | Revisados contra el original; contraste terminológico selectivo con el OCR español |
 | Contenido | 46 | 949 | Borrador de 473 páginas; revisión parcial |

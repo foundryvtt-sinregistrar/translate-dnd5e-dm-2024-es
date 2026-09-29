@@ -93,7 +93,7 @@
     "pack": "equipment",
     "id": "dmgPeriaptOfHeal",
     "english": "Periapt of Health",
-    "name": "Talism?n de salud",
+    "name": "Talismán de salud",
     "previousNames": [
       "Periapt de salud"
     ]
@@ -183,7 +183,7 @@
     "pack": "equipment",
     "id": "dmgPeriaptOfWoun",
     "english": "Periapt of Wound Closure",
-    "name": "Talism?n de cerrar heridas",
+    "name": "Talismán de cerrar heridas",
     "previousNames": [
       "Periapt de cierre de heridas"
     ]

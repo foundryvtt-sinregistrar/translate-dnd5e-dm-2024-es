@@ -3085,7 +3085,7 @@
     "reference": "DMG 2.0.0: tablas; revisión del original, OCR español selectivo, 2026-09-29"
   },
   "fd7b1466a4d47902df5a726783ad0c4990dcc015955d4c6bdd2f70a5c705edd3": {
-    "translation": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfHeal]{Talism?n de salud}",
+    "translation": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfHeal]{Talismán de salud}",
     "documents": [
       "dmgArcanaUncommo",
       "dmgRelicsUncommo"
@@ -9308,7 +9308,7 @@
     "reference": "DMG 2.0.0: tablas; revisión del original, OCR español selectivo, 2026-09-29"
   },
   "31fb60ea0f242ee04062c0ff4fa1c0770e768878dda3282ed22bbea68f68f660": {
-    "translation": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfWoun]{Talism?n de cerrar heridas}",
+    "translation": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfWoun]{Talismán de cerrar heridas}",
     "documents": [
       "dmgRelicsUncommo"
     ],

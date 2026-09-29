@@ -6,6 +6,10 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Added
 
+- Diagnóstico del acceso nulo en `getGroupingKey`: dos combatientes sin ficha
+  reproducen el error de dnd5e 6.0.3 sin módulos; sus copias en memoria sin
+  iniciativa no fallan. Documentado sin modificar el sistema ni el encuentro.
+
 - Paquete local independiente del ajuste de idioma para ravanno 6.0.3, con diff,
   licencias, hashes y comprobación de aplicación y reversión sobre una copia limpia.
 - Ampliación QA: importación de tres escenas y resolución de 32 destinos de región,
@@ -31,6 +35,11 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 - Pruebas funcionales reproducibles en Foundry: diarios importados, enlaces, imágenes, rangos y tiradas de tablas, y seis objetos comparados con sus originales. Informe en `dev-tools/translation/VALIDACION-FUNCIONAL.md` y macro auxiliar `validate-functional.mjs`.
 
 ### Changed
+
+- Ampliada la revisión de equipo a 835 campos registrados, incluidas 79
+  descripciones completas: 179 correcciones en 96 objetos. Corregidos también
+  acentos dañados en tres campos de tablas y uno de bastiones. La revisión del
+  resto de equipo y de diarios continúa abierta.
 
 - Revisados los 1738 campos de las 125 tablas: 803 correcciones en tablas y
   29 campos de equipo y diarios para concordar nombres y enlaces. Documentado

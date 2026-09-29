@@ -2415,7 +2415,7 @@
           "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgNecklaceOfAda]{Collar de adaptación}"
         },
         "yunAgbyzwXHKo6gz": {
-          "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfHeal]{Talism?n de salud}"
+          "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfHeal]{Talismán de salud}"
         },
         "AMqrfdBf1ddIVRhD": {
           "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPhilterOfLove]{Filtro de amor}"
@@ -5000,10 +5000,10 @@
     "dmgRelicsUncommo": {
       "results": {
         "xRnSKahu9aa5ZKQm": {
-          "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfHeal]{Talism?n de salud}"
+          "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfHeal]{Talismán de salud}"
         },
         "qWs790TNyxf4HGqA": {
-          "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfWoun]{Talism?n de cerrar heridas}"
+          "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfWoun]{Talismán de cerrar heridas}"
         },
         "FOR2aXLhZP2RpENH": {
           "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPotionOfAnima]{Poción de amistad con los animales}"

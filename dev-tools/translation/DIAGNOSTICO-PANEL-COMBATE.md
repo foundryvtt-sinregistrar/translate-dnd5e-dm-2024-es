@@ -73,6 +73,30 @@ Se restauró también el comando de la macro usada temporalmente para ejecutar
 el diagnóstico. No se cubren fichas no vinculadas, varios clientes ni otras
 versiones. No se afirma ausencia de avisos ajenos en la consola.
 
+## Error adicional de agrupación sin ficha
+
+El 29 de septiembre, a las **07:44:11 UTC**, se reprodujo el error de
+`getGroupingKey` con cero módulos activos. Dos combatientes QA sin ficha y con
+iniciativa (20 y 19) provocaron el acceso a un valor nulo. El método de dnd5e
+6.0.3 llama a `this.token.getGroupingKey(...)` sin comprobar que exista la ficha
+cuando está activada la agrupación y hay iniciativa.
+
+El auxiliar [diagnose-combat-grouping.mjs](diagnose-combat-grouping.mjs) compara
+cada combatiente con una copia temporal en memoria sin iniciativa. Las dos
+copias devolvieron `null` correctamente: **dos casos, cero errores del
+diagnóstico y documento del encuentro sin cambios**. Evidencia local:
+`tmp/combat-grouping-diagnostic.json`. Se restauró el comando de la macro.
+
+Usar combatientes asociados a fichas evita esta configuración. Para un ensayo
+sin fichas se puede dejar la iniciativa vacía; aquí se comprobó únicamente
+el método sobre copias en memoria, no todo el recorrido visual del panel.
+No se alteraron iniciativas persistentes, ajustes globales ni el sistema.
+El defecto permanece en dnd5e 6.0.3 y no se añade un parche al módulo DM.
+
+Fuente instalada: `systems/dnd5e/dnd5e.mjs`, método `getGroupingKey`, líneas
+92676–92679; SHA-256
+`09dd3d9d373abc45c5f873a22426f2306cca981ff5c8bf623c6646980d01936c`.
+
 ## Fuentes locales
 
 Inspeccionadas en el contenedor instalado; las copias de referencia quedan en

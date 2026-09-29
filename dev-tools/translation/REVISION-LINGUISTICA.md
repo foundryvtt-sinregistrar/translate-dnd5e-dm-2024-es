@@ -123,6 +123,34 @@ referencia está en el original DMG 2.0.0 y se conserva. El destino existe, por 
 que una comprobación de enlaces resolubles no detecta este error semántico.
 Para ese resultado, abrir manualmente el cuerno de bronce en Equipo.
 
+## Equipo — cuarto lote del 29 de septiembre
+
+El registro `reviewed-equipment-texts.json` cubre **835 de los 2449 campos**
+de equipo, en 311 documentos, incluidas **79 descripciones completas**. Combina
+el cotejo de los primeros objetos, las seis descripciones anteriores, etiquetas
+ya aprobadas y textos completos idénticos a los revisados en actores. Cada
+decisión conserva la huella SHA-256 de la fuente y los documentos de aplicación.
+No se considera revisado un objeto entero por tener solo una etiqueta aprobada.
+
+Este lote cambia **179 campos de 96 objetos**. Incluye la jarra alquímica,
+armaduras, bolsas, bendiciones, instrumentos de los bardos, libros artefacto y
+botas. Corrige aceite, unidades de capacidad, tipos de criatura, salvaciones,
+inmunidades, órdenes, iniciativa y efectos. Se conservan las unidades de Foundry,
+las referencias, fórmulas, cifras y etiquetas HTML. Se corrigieron además tres
+campos de tablas y uno de bastiones con acentos dañados en nombres o mensajes.
+
+El contraste con el OCR español sigue siendo selectivo. Se verificaron los
+nombres Oleaje y Rotundo en el pasaje de Negrarma (página 297), las herramientas
+del Hacha de los Señores Enanos (páginas 282–283) y la barcaza del Bote plegable
+(página 255). Se conserva el **ocaso** del original inglés para el conflicto
+de Negrarma, aunque el OCR español indica amanecer.
+
+Reproducción: `python -B dev-tools/translation/apply_reviewed_equipment_texts.py`
+(previsualización; añadir `--apply` para escribir). El auxiliar rechaza cambios
+de referencias, cifras o estructura HTML. Los auxiliares de nombres, etiquetas
+y las seis descripciones anteriores no proponen cambios tras aplicar este lote.
+Pasaron las 25 pruebas Node y la auditoría completa de originales.
+
 ## Alcance pendiente
 
 Este lote corrige etiquetas, **no acredita la revisión íntegra de los 6021

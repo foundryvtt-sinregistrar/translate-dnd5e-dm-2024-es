@@ -120,6 +120,8 @@ Se restauró la macro y se verificó la interfaz en pausa y con cero módulos ac
 El arranque sigue registrando un error de dnd5e 6.0.3 en `renderCombatTracker`
 al acceder a `getGroupingKey` desde un valor nulo en este mundo QA; aparece tanto
 sin módulos como con las dependencias. No impidió la validación del catálogo.
+Se reprodujo posteriormente con dos combatientes sin ficha y se documentó la
+causa en [DIAGNOSTICO-PANEL-COMBATE.md](DIAGNOSTICO-PANEL-COMBATE.md).
 No se atribuye a estos cambios de traducción ni se declara resuelto.
 
 ## Revalidación del lote de tablas
@@ -134,3 +136,12 @@ La revisión semántica detectó que una etiqueta de Cuerno de Valhalla en
 Reliquias muy raras abre una figurilla de grifo: el UUID ya es erróneo en DMG
 2.0.0. Se conserva y documenta en [REVISION-LINGUISTICA.md](REVISION-LINGUISTICA.md).
 Un enlace resuelto no garantiza que su etiqueta describa correctamente el destino.
+
+## Revalidación del primer lote amplio de equipo
+
+El **29 de septiembre de 2026, 08:04:31 UTC**, pasaron los 873 documentos,
+sin errores ni enlaces sin resolver, después de las 179 correcciones de equipo
+y las cuatro correcciones de acentos en tablas y bastiones. Evidencia local:
+`tmp/equipment-review-1-validation.json`. Las 25 pruebas Node y la auditoría de
+los siete compendios también pasaron. La revisión lingüística de equipo sigue
+siendo parcial; este resultado valida la aplicación del lote por Babele.
