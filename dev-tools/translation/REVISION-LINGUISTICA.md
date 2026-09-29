@@ -406,6 +406,32 @@ cero diferencias numéricas pendientes y reaplicación sin cambios. La validaci�
 en Foundry de las 10:16:12 UTC sigue siendo anterior a este lote. Quedan
 **207 campos de diarios**, la concordancia final y la validación actualizada.
 
+### Sexto lote de diarios — planificación y objetos mágicos
+
+El registro alcanza **825 de 949 campos**, 755 huellas de fuente, 279 textos
+de página y **38 diarios completos**. Se incorporan 83 campos y se corrigen
+41 de cinco documentos: Plantear la premisa, listas y reglas de objetos mágicos,
+Planificar aventuras y Planificar encuentros.
+
+Se revisan la libertad de decisión de los jugadores, objetivos de encuentros,
+presupuesto de PX y sus ejemplos, tácticas de reacción, descansos y encuentros
+aleatorios. Se corrigen nombres deformados de criaturas, como osgos, ramas
+marchitas, estirges y tumularios. Las tablas numéricas mantienen todos los valores
+del original, sin multiplicadores ni cambios de edición añadidos.
+
+Las reglas de objetos conservan acciones, concentración, requisitos de clase y
+de lanzador, sintonización, cargas, resistencia, fabricación, ayudantes y materiales.
+Se restituyen el segundo guante de los objetos emparejados y las excepciones de
+los pergaminos a las reglas de tiempo, coste y valor. El catálogo A–Z conserva
+su orden inglés y lo explica; las páginas formadas por enlaces e inclusiones
+reutilizan el equipo ya revisado. Las tres bolsas de trucos concuerdan con sus
+objetos de destino.
+
+Pasan las 25 pruebas Node y la auditoría: cero errores y cero diferencias
+numéricas pendientes. Quedan **124 campos de diarios**, la concordancia final
+y la validación actualizada en Foundry. La sesión de las 10:16:12 UTC no se
+atribuye a estos nuevos textos.
+
 Los lotes revisados **no acreditan la revisión íntegra de los 6021
 campos ni de las aproximadamente 233 000 palabras** de los siete compendios.
 Quedan por revisar los párrafos de diarios,

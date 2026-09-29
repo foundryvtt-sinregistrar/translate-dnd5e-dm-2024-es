@@ -40,6 +40,11 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Sexto lote de diarios: premisa, planificación de aventuras y encuentros,
+  listas y reglas de objetos mágicos. Corregidos 41 campos de cinco diarios;
+  registro de 825 de 949 campos, 279 textos de página y 38 diarios completos.
+  Quedan 124 campos y la concordancia final.
+
 - Quinto lote de diarios: revisados Greyhawk completo, diversión compartida,
   implicación de los jugadores, cierre de campaña y referencias de Foundry.
   Corregidos 55 campos; registro de 742 de 949 campos, 237 textos de página y
