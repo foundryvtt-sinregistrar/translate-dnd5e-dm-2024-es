@@ -36,6 +36,11 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Cuarto lote de equipo: 151 correcciones en 107 objetos y tres concordancias
+  en actores, tablas y diarios. Registrados 1914 campos revisados, con 377
+  descripciones completas. Documentada la discrepancia 23/25 de Fuerza en la
+  poción de gigante de fuego del original; se conserva su efecto de Fuerza 25.
+
 - Tercer lote de equipo: 182 correcciones en 96 objetos y concordancia de cinco
   etiquetas de tablas/diarios. El registro alcanza 1561 campos revisados, con
   257 descripciones completas. Corregidos tipos de daño, figurillas, explosivos,

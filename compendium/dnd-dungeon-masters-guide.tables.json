@@ -1602,7 +1602,7 @@
     },
     "dmg250GpArtObjec": {
       "name": "Objetos de arte de 250 po",
-      "description": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgJewelry250GP0]{Objeto de Arte (250 po)}</em></p>",
+      "description": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgJewelry250GP0]{Objeto de arte (250 po)}</em></p>",
       "results": {
         "dyaLCOti2Lfo4zdi": {
           "description": "Anillo de oro con piedras de sangre"

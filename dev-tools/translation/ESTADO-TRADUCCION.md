@@ -11,7 +11,7 @@ final ni interpretar la presencia de un campo como certificación de calidad.
 |---|---:|---:|---|
 | Rasgos | 23 | 48 | Revisados con la referencia española |
 | Bastiones | 35 | 89 | Revisados; incluye la página de instalaciones básicas |
-| Equipo | 548 | 2449 | Revisión parcial: 1561 campos registrados, incluidas 257 descripciones completas; no todos los objetos revisados |
+| Equipo | 548 | 2449 | Revisión parcial: 1914 campos registrados, incluidas 377 descripciones completas; no todos los objetos revisados |
 | Tablas | 125 | 1738 | Revisadas contra el original; contraste español selectivo, nombres y limitaciones documentados |
 | Actores | 72 | 606 | Revisados contra el original; contraste terminológico selectivo con el OCR español |
 | Contenido | 46 | 949 | Borrador de 473 páginas; revisión parcial |
@@ -142,3 +142,10 @@ de las descripciones y párrafos completos que se detalla a continuación.
   la interfaz de Foundry y la sesión real de jugador. El enlace de mundo ya está documentado
   y su destino se comprobó tras importar el capítulo 3.
 - Preparar publicación y URLs de descarga solo cuando cierre la revisión.
+
+**Discrepancia de la fuente:** la descripción de `dmgFirePotionOfG` indica
+Fuerza 23, mientras que la tabla general de pociones de fuerza de gigante
+indica 25 y el efecto `Men77BWldNXaCmrA` aplica 25 a
+`system.abilities.str.value`. Los tres valores ya están así en DMG 2.0.0.
+Se conservan las cifras del original y el efecto; al usar esta poción, tener
+en cuenta que su descripción individual discrepa de la tabla y la automatización.

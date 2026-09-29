@@ -1006,5 +1006,50 @@
     "previousNames": [
       "Granada, fragmentación"
     ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgInstrumentOfT",
+    "english": "Instrument of the Bards",
+    "name": "Instrumento de los bardos",
+    "previousNames": [
+      "Instrumento de los Bardos"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgJewelry2000GP",
+    "english": "Art Object (2,000 GP)",
+    "name": "Objeto de arte (2.000 po)",
+    "previousNames": [
+      "Objeto de Arte (2.000 po)"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgJewelry250GP0",
+    "english": "Art Object (250 GP)",
+    "name": "Objeto de arte (250 po)",
+    "previousNames": [
+      "Objeto de Arte (250 po)"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgRam0000000000",
+    "english": "Ram",
+    "name": "Ariete",
+    "previousNames": [
+      "Embestida"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgRazorvine0000",
+    "english": "Razorvine",
+    "name": "Enredadera feroz",
+    "previousNames": [
+      "Enredadera afilada"
+    ]
   }
 ]

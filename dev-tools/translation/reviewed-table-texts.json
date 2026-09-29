@@ -908,7 +908,7 @@
     "reference": "DMG 2.0.0: tablas; revisión del original, OCR español selectivo, 2026-09-29"
   },
   "89a98bb5ed3983fd32013c87e0ec74fc6a558147b6bcc15756e277426ef9ddf8": {
-    "translation": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgJewelry250GP0]{Objeto de Arte (250 po)}</em></p>",
+    "translation": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgJewelry250GP0]{Objeto de arte (250 po)}</em></p>",
     "documents": [
       "dmg250GpArtObjec"
     ],

@@ -1417,7 +1417,7 @@
           "description": "<p><em>Peligro moderado (niveles 1–4)</em></p><p>La enredadera afilada crece formando marañas y setos silvestres. También se adhiere a las fachadas de los edificios y a otras superficies, como la hiedra. Un muro o seto de esta planta de 10 pies de alto, 10 pies de ancho y 5 pies de grosor tiene CA 11, 25 PG e inmunidad al daño contundente, perforante y psíquico.</p><p>Cuando una criatura entra en contacto con la enredadera por primera vez en un turno, debe superar una tirada de salvación de Destreza con CD 10 o recibe 5 (1d10) de daño cortante por sus espinas afiladas.</p>",
           "activities": {
             "poB0ZrbjCHw6CyW4": {
-              "name": "Colocar enredadera afilada"
+              "name": "Colocar enredadera feroz"
             }
           }
         }

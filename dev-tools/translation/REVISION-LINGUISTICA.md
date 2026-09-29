@@ -191,6 +191,28 @@ Foundry volvió a validar los 873 documentos a las **08:39:25 UTC**, con cero
 errores y cero enlaces pendientes. La evidencia local se conserva en
 `tmp/equipment-review-3-validation.json`. No se importaron documentos nuevos.
 
+## Equipo — séptimo lote del 29 de septiembre
+
+El registro alcanza **1914 campos en 453 documentos**, incluidas **377
+descripciones completas**: 353 campos más que el lote anterior. Este lote
+cambia 151 campos de 107 objetos y una etiqueta en cada uno de los compendios
+de actores, tablas y diarios.
+
+Incluye instrumentos de bardo, piedras ioun, armas, trampas, orbes, pociones
+y objetos de captura. Corrige condiciones de activación, tipos de criatura,
+componentes, efectos y notas de uso. La reutilización de «Ram» se concreta como
+«Ariete» en el objeto de asedio; «Embestida» se mantiene en los ataques de actores.
+Se concordó además «Colocar enredadera feroz» en ambos compendios.
+
+Se detectó una discrepancia propia del original DMG 2.0.0: la descripción de
+`dmgFirePotionOfG` indica Fuerza 23, pero la tabla general indica 25 y su efecto
+`Men77BWldNXaCmrA` configura 25. Se conservan los datos de la fuente y se
+documenta el requisito de interpretar esa descripción junto a su tabla y efecto.
+
+La auditoría de originales, las 25 pruebas Node y la reaplicación de los
+registros pasan. La comprobación de Foundry de las 08:39:25 UTC corresponde
+al lote anterior; no se atribuye a estos cambios posteriores.
+
 ## Alcance pendiente
 
 Los lotes revisados **no acreditan la revisión íntegra de los 6021
