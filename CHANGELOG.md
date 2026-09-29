@@ -40,6 +40,11 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Quinto lote de diarios: revisados Greyhawk completo, diversión compartida,
+  implicación de los jugadores, cierre de campaña y referencias de Foundry.
+  Corregidos 55 campos; registro de 742 de 949 campos, 237 textos de página y
+  33 diarios completos. Quedan 207 campos y la concordancia final.
+
 - Cuarto lote de diarios: cotejo completo de Herramientas de DM, con 30 campos
   corregidos. El registro alcanza 662 de 949 campos, 199 textos de página y
   24 diarios completos; quedan 287 campos y la concordancia final.

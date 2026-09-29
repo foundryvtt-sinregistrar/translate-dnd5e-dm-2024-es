@@ -379,6 +379,33 @@ en Foundry de las 10:16:12 UTC precede a este lote; no acredita los textos nuevo
 Quedan **287 campos de diarios** y la concordancia final, incluidas las etiquetas
 de páginas y las menciones a objetos y peligros en distintos compendios.
 
+### Quinto lote de diarios — Greyhawk y preparación de la mesa
+
+El registro alcanza **742 de 949 campos**, 672 huellas de fuente, 237 textos
+de página y **33 diarios completos**. Se incorporan 80 campos cotejados y se
+corrigen 55 campos de ocho documentos. Se completa el capítulo de Greyhawk:
+Ciudad Libre, alrededores, cinco regiones, historia, conflictos, calendario,
+facciones, magia, misterios y tabla de deidades. También se revisan implicación
+de los jugadores, final de campaña, diversión compartida y referencias de Foundry.
+
+El cotejo recupera topónimos y nombres propios de la edición española, corrige
+géneros y especies omitidas de gobernantes y distingue dioses mayores, menores
+y semidioses. Se eliminan errores como «espada y orgía», «Reino de España»,
+«Ducado de Luxemburgo» y «Horno Unicornio» presentes en el borrador. Las
+instrucciones de seguridad de mesa mantienen los límites firmes y flexibles,
+las señales, el anonimato y la ausencia de obligación de justificar un límite.
+
+Se conservan los niveles, fechas, unidades originales de Foundry, referencias
+y estructura HTML. Los títulos de productos sin traducción española empleada
+por el OCR se mantienen en inglés. El OCR presenta variantes de Bright Desert
+(Brillante y Deslumbrante); este lote utiliza Desierto Brillante de forma coherente
+en los textos revisados, pendiente de la concordancia final con mapas y etiquetas.
+
+Pasan las 25 pruebas Node y la auditoría de los siete compendios: cero errores,
+cero diferencias numéricas pendientes y reaplicación sin cambios. La validación
+en Foundry de las 10:16:12 UTC sigue siendo anterior a este lote. Quedan
+**207 campos de diarios**, la concordancia final y la validación actualizada.
+
 Los lotes revisados **no acreditan la revisión íntegra de los 6021
 campos ni de las aproximadamente 233 000 palabras** de los siete compendios.
 Quedan por revisar los párrafos de diarios,
