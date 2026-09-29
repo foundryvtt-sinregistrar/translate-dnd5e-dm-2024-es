@@ -247,6 +247,42 @@ con cero errores y cero destinos pendientes. Evidencia local:
 `tmp/equipment-review-5-validation.json`. Se conservaron los documentos del
 mundo y se restauraron la macro y la configuración de módulos tras la prueba.
 
+## Diarios — primer lote amplio del 29 de septiembre
+
+El registro `reviewed-content-texts.json` cubre **262 de los 949 campos**,
+mediante 233 huellas del original inglés. Incluye 111 campos de texto de página.
+Se han cotejado por completo seis documentos: glosario de trasfondo (151 campos),
+ejemplos de aventuras (13), recompensas (11), ilustraciones de los apéndices (12),
+mapas del apéndice B (31) y bastiones (21). Los otros 23 campos son títulos
+compartidos de otros diarios; no acreditan sus párrafos.
+
+El lote cambia 157 campos de siete documentos. Corrige omisiones, negaciones,
+género de personajes, nombres, criaturas, acciones e instrucciones. Se conservan
+los identificadores, cifras, unidades de Foundry y secuencia de etiquetas HTML.
+Las guías fonéticas entre paréntesis conservan la notación inglesa del original;
+no se presentan como una adaptación fonética española.
+
+El contraste selectivo con el OCR español detecta discrepancias entre fuentes:
+
+- En Compañeros del Salón, el original inglés dice «his adoptive father» y el
+  OCR español «padre adoptivo de ella». Se conserva la construcción del inglés
+  con «su padre adoptivo», sin afirmar que las dos fuentes coincidan.
+- En El arroyo corrompido, la entrada a la cueva está al sureste en el original
+  de Foundry y al suroeste en el OCR español. Se conserva el sureste del módulo.
+- Se conserva la referencia a `Quests from the Infinite Staircase` de la entrada
+  de Zargon, presente en Foundry y ausente del pasaje español cotejado.
+
+Las instrucciones de bastiones usan las etiquetas de configuración de la
+dependencia local. `Advance Bastion Turn` conserva el texto inglés del botón:
+ravanno 6.0.3 no traduce la clave `DND5E.Bastion.Action.Advance` del sistema.
+La tabla de espacios mantiene reducido/amplio/enorme, como el texto ya revisado;
+el diccionario de la interfaz usa estrecho/espacioso/vasto para esas categorías.
+
+Pasan las 25 pruebas Node, la auditoría de los siete compendios y la reaplicación
+sin cambios de todos los registros. La validación Foundry de las 09:31:11 UTC
+precede a este lote y no se atribuye a estos textos nuevos. Quedan 687 campos
+de diarios por cotejar y la concordancia final de nombres y menciones en prosa.
+
 ## Alcance pendiente
 
 Los lotes revisados **no acreditan la revisión íntegra de los 6021

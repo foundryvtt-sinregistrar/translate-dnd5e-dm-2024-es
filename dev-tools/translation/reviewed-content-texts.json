@@ -1,0 +1,1662 @@
+{
+  "3e391c6ff516fa26b91a6f03d721e647a877a2658e6026d6ca4671051b8c8ce4": {
+    "translation": "Apéndice A: Glosario de trasfondo",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b605350bc00209520b7cd8f546322663356ba630708f71bbf30aead6b3dd608e": {
+    "translation": "Introducción",
+    "documents": [
+      "dmgALoreGlossary",
+      "dmgAdventureExam",
+      "dmgAdventureRewa",
+      "dmgBastions00000",
+      "dmgCampaignPremi",
+      "dmgCampaignStart",
+      "dmgCosmology0000",
+      "dmgCreatingAdven",
+      "dmgCreatingCampa",
+      "dmgDmsToolbox000",
+      "dmgDrawInThePlay",
+      "dmgEndingACampai",
+      "dmgEnsuringFunFo",
+      "dmgFreeCityOfGre",
+      "dmgGreyhawk00000",
+      "dmgGreyhawkGazet",
+      "dmgGreyhawksPrem",
+      "dmgMagicItems000",
+      "dmgPlanAdventure",
+      "dmgPlanEncounter",
+      "dmgResolvingOutc",
+      "dmgRunningCombat",
+      "dmgRunningExplor",
+      "dmgRunningSocial",
+      "dmgRunningTheGam",
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "23d6b987c2f03896a6fafcf2655788e0930d674cc56c265e801c6f21f58f250c": {
+    "translation": "<p>Este apéndice ofrece breves descripciones de muchos de los héroes, villanos, criaturas, lugares y materiales más famosos de D&amp;D. Si algo no figura aquí, consulta el índice para comprobar si se trata en otra parte del libro. Las entradas se presentan en orden alfabético.</p><p>Los términos en <strong>negrita</strong> tienen su propia entrada en este apéndice.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "85afcd4dfd36adf6fb5b63b9ed5e448536bf5fc7c29133b23ffd1b47fdefe3cd": {
+    "translation": "Acererak",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "625e83657f47b04d441586f9337addfd90f80fb8e2ff30dc9f1ebca506895792": {
+    "translation": "<p>Acererak <em>(ah-SAIR-er-rack)</em><span class=\"CharOverride-1\"> </span>es un poderoso liche que viaja entre mundos y disfruta devorando las almas de los aventureros, a quienes atrae a mazmorras llenas de trampas para que sufran muertes horribles. La más famosa es la Tumba de los Horrores, oculta en el Gran Pantano de la ambientación de Greyhawk (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawkGazet]{Guía geográfica de Greyhawk}); otra se encuentra bajo la ciudad perdida de Omu, en las selvas de Chult de la ambientación de los Reinos Olvidados, y se describe en la aventura <em>La tumba de la aniquilación</em>.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAppendixArtHa.JournalEntryPage.mzvSKixR1ZDA19I4 caption=false]</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f0a5b7ff631ae28e52a50a344e48d30b3e0deef657757a41c9053be4ba05cf3e": {
+    "translation": "Adamantina",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0422afc2b3ff932f7743615bcecd40c8643b46cb6c9b66716d521d148bc4e131": {
+    "translation": "<p>La adamantina es una de las sustancias más duras que existen: un metal oscuro presente en meteoritos y vetas minerales extraordinarias. Consulta los objetos mágicos <em>Armadura de adamantina</em> y <em>Arma de adamantina</em> del capítulo 7.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f5478baeb6683b55b229e4e1fc21d9add717ae1421042c5f1c1db8c94e2ae819": {
+    "translation": "Alustriel Manoargéntea",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6f827a80bce4de46331aa84465a8467921e4f8eae57c0b09ad47552416a28ffc": {
+    "translation": "<p>Alustriel <em>(ah-LOOSE-tree-ell)</em><span class=\"CharOverride-1\"> </span>Manoargéntea es la segunda de las siete hijas de Mystra, una deidad de la magia de la ambientación de los Reinos Olvidados. <strong>@UUID[.J1rHDseefNO0ptJO]{Laeral Manoargéntea}</strong> es su hermana menor. Gobernó la ciudad de Luna Plateada durante siglos, pero renunció al cargo hace poco más de un siglo para promover la bondad y la compasión en el multiverso. Con ese fin, ha entablado amistad con aventureros como <strong>@UUID[.0hfbBhp8ZYM2j1oX]{Drizzt Do’Urden}</strong> y ha colaborado con los <strong>@UUID[.9nYf5sFuuYgBLqW7]{Arpistas}</strong>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c2a5328dec5147270c2697ece00b6768465e167c3cd3eba564ed8892def796d3": {
+    "translation": "Ashardalon",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "8002f780552a0b118bae0a68aa9e8cfffda8bf5949feb5451c862408f3e4531a": {
+    "translation": "<p>El terrible dragón rojo Ashardalon <em>(ah-SHAR-duh-lawn) </em>es legendario en todo el multiverso por sus devastadores ataques, que convirtieron exuberantes praderas en llanuras de ceniza e hicieron que la tierra se tragara poderosas ciudadelas. Al descubrir que existían mundos más allá del suyo, reclutó a un demonio balor llamado Ammet, el Devorador de Almas, para ampliar su influencia y aumentar su poder. Cuando un aventurero asestó un golpe mortal al corazón de Ashardalon, el dragón sustituyó el órgano herido por el balor. Sus rasgos adquirieron entonces un aspecto infernal y ahora sus ojos brillan con llamas demoníacas. Un culto secreto formado por sus seguidores y descendientes le sirve en el Plano Material y favorece sus planes para alcanzar la divinidad.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "14ce2da599525593f604240bb4edbff7dd265b4d57be8cb810c1347495bc9684": {
+    "translation": "Baba Yaga",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4656c0e83ab59e94f0f7c34dd55dcf2cbb10b702346eefd1013cbe020a378595": {
+    "translation": "<p>Baba Yaga <em>(BAH-bah YAH-gah) </em>es una archisaga conocida como la Madre de Todas las Brujas. También es la madre adoptiva de <strong>@UUID[.M5Ctj4fNMIhQGbIU]{Iggwilv}</strong>. Es famosa por su cabaña con patas de gallina, en la que viaja por los planos del multiverso. Esta saga impaciente y malhumorada es una fuente de conocimientos sobre todo lo relacionado con la magia.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7d15f4bf17611ab8c6f809c6720f7ee027a89bf294b5bdc54bca2da379a051f8": {
+    "translation": "Bahamut",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "968ea03f111f7bef6fc7319a13452494932981d5499e2ecbdada9a00ccee35f7": {
+    "translation": "<p>Bahamut <em>(ba-HA-mutt) </em>es uno de los dragones primordiales que, según se dice, crearon el <strong>@UUID[.uzNl4zjOGLJANBOF]{Primer Mundo}</strong> junto con <strong>@UUID[.3zwaOX4DWSsRx0vJ]{Tiamat}</strong>. A efectos prácticos, es un dios que no envejece y es inmortal, y habita en el @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.hkG0B6B2hX1RYQDL]{Monte Celestia} desde la destrucción del Primer Mundo. En la ambientación de Dragonlance, donde recibe el nombre de Paladine <em>(PAL-a-deen)</em>, es el más grande de los dioses del bien. En otros mundos se lo venera como dios de la justicia y la nobleza, y goza del favor de los paladines.</p><p>Para los dragones metálicos, Bahamut se asemeja más a un rey que a un dios. Pueden deberle lealtad, respetarlo, rendirle tributo y esforzarse por emularlo, pero no lo adoran.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "15703ecc8ea4f58ca0446bf36d422cc3b774297124e81cc6c97f820311c84754": {
+    "translation": "Puerta de Baldur",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "667938ef2afc0ab54df1bca979d91e109146445df869e14b431d8045305ba0c6": {
+    "translation": "<p>La ciudad de Puerta de Baldur <em>(BAWL-durz GATE)</em>, en la ambientación de los Reinos Olvidados, es una metrópolis bulliciosa acosada por la influencia persistente de tres dioses malvados —Perdición, Bhaal y Myrkul— que se niegan a permanecer muertos. Allí, un mercenario puede encontrar un patrón rico, unirse a un gremio secreto, perseguir asesinos a cambio de una recompensa o ayudar a ciudadanos desesperados. La ciudad ofrece oportunidades para que los campeones de buen corazón combatan la corrupción y lleven a los asesinos ante la justicia, mientras los mercenarios menos escrupulosos obtienen un buen precio por sus servicios. Puerta de Baldur alberga el mercado más fiable y despiadado de la <strong>@UUID[.bT0sJC4afzBm3Ace]{Costa de la Espada}</strong>. Información, tesoros, secretos y almas pueden comprarse o venderse por el precio adecuado.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "98305d74f70a37955bdf0e2894f6e338f5faced2a9e51f80f25ed96e46c5e219": {
+    "translation": "Barovia",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "92c6c7429ba3157258ee7abc50796509a79e6fed3edbc859e548124ef8914407": {
+    "translation": "<p>Barovia <em>(buh-ROVE-ee-ah) </em>es un Dominio del Terror aislado en el @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.mG9cIFR0V3B2x1ch]{Páramo Sombrío}: una especie de prisión espiritual para <strong>@UUID[.eKoPq67ouskOaAQ9]{Strahd von Zarovich}</strong> en su <strong>@UUID[.OThsxxS6UGEhiQvF]{Castillo Ravenloft}</strong>. También es el nombre de una aldea de ese dominio.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1eac3cdd25454c147c2b9f2d3dbe8a7e265a4d06fe463197621a94bd84631787": {
+    "translation": "Bigby",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "491ef1007b3a64b32df19306490c53b7cfd7c37c9b561934cfef5ee8dd397fb8": {
+    "translation": "<p>Bigby <em>(BIG-bee) </em>es un antiguo aprendiz de <strong>@UUID[.lN9PR9v6oxOFTFmR]{Mordenkainen}</strong>. Aunque comenzó su carrera decidido a utilizar la magia para dominar y controlar a otros, acabó cambiando de conducta y se ha esforzado por reparar sus fechorías pasadas. Mordenkainen lo acogió en la compañía de aventureros conocida como la Ciudadela de los Ocho, que más tarde se convirtió en el @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawksPrem.JournalEntryPage.2AzNEF4DFq39dBGe#factions-and-organizations]{Círculo de los Ocho}. Tímido y de voz suave, Bigby solía quedar eclipsado por su mentor, quien le enseñó a controlar sus ambiciones. Tras años de aventuras, creó varios conjuros que le granjearon una amplia fama. Entre ellos, <em>Mano de Bigby</em> es su obra maestra indiscutible.</p><p>Una desventura reciente provocó la muerte prematura de Bigby: un gigante de escarcha lo aplastó con una roca. Después fue objetivo de un conjuro <em>Reencarnar</em>, que lo transformó de humano en gnomo. Antes de partir hacia su siguiente aventura, se le oyó expresar su curiosidad por experimentar el multiverso desde la perspectiva de un gnomo.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bf66f3e41e470b7d073db8c5fb82e737962d63080edbcc4f9ef3c3ce735472ea": {
+    "translation": "Boo",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a275d41f9658a4fe8bab45c418c8a29004eb5d84e5ede1119471c474a9f47ff5": {
+    "translation": "<p>Boo es un hámster. Más exactamente, es un hámster espacial gigante en miniatura, una especie inteligente y telepática originaria del Espacio Salvaje (consulta el capítulo 6). Sus aventuras con <strong>@UUID[.SE04dgx5WfzNXtEt]{Minsc}</strong>, junto con su ferocidad, le han otorgado una fama legendaria, especialmente en la ciudad de <strong>@UUID[.b2o37loyjMR2Q5pB]{Puerta de Baldur}</strong>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1fa8907ac9cafd6d0ef42e72fbf31c6eb8b50636e3229133ca09ad37663135cf": {
+    "translation": "Castillo Ravenloft",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f319832fe7f9343c83e85102868128ed87769927d3ca80ee2ba7454892043a34": {
+    "translation": "<p>El Castillo Ravenloft <em>(RAY-ven-loft) </em>es el corazón del dominio de <strong>@UUID[.6A2VLRe93f7e6IG1]{Barovia}</strong> y el hogar del vampiro <strong>@UUID[.eKoPq67ouskOaAQ9]{Strahd von Zarovich}</strong>. <em>Ravenloft</em> es también una de las aventuras de mazmorras más famosas de la historia de D&amp;D. Su experiencia de terror inspiró la creación de la ambientación de Ravenloft y de la aventura <em>La maldición de Strahd</em>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "401da8e678552a357b6d73ed94cdb12a61059a8ffeccc672021791de2d9d73e0": {
+    "translation": "Compañeros del Salón, los",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1a9a36b139661f036c73b3aa320f6cfe73219bdf2d2adef0b47c9754c7900948": {
+    "translation": "<p>Los Compañeros del Salón, llamados así por la fortaleza enana del Salón de Mithral de la ambientación de los Reinos Olvidados, son un grupo de aventureros heroicos cuyas hazañas abarcan siglos e incluso han traspasado los límites de la muerte. <strong>@UUID[.0hfbBhp8ZYM2j1oX]{Drizzt Do’Urden}</strong> es la figura central del grupo; todos sus compañeros han muerto y se han reencarnado en nuevas formas en los últimos años. Sus compañeros son Catti-brie, su esposa; Bruenor Martillo de Batalla, su padre adoptivo; y sus amigos Wulfgar y Regis.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "004c5904878445746f3d89dcac35f4b59f319f1524d31cc4dd46e6f1a4ba85c9": {
+    "translation": "Compañía de los Siete, la",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d9ad6ba2dc53774aefece51e61d1ea137bf0f222b2ef27ff94cdb5dfe491871d": {
+    "translation": "<p>La Compañía de los Siete fue un grupo de aventureros que estuvo activo hace cientos de años en la ambientación de Greyhawk. Sus miembros eran Heward, Keoghtom, Murlynd, Nolzur, Quaal, Tasha (consulta <strong>@UUID[.M5Ctj4fNMIhQGbIU]{Iggwilv}</strong>) y Zagig (consulta <strong>@UUID[.8hztu98T1SZMcjFl]{Zagyg}</strong>). Algunos alcanzaron una condición casi divina y la mayoría son recordados por los objetos mágicos que llevan sus nombres. El grupo inspiró la formación del Círculo de los Ocho, descrito en @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawk00000]{Greyhawk}.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3bdaf7a097ab6e1497a984f18559a943b2246a81da28887a646bca8a3bd90259": {
+    "translation": "Corellon",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "56c29b1088128c0d210538712cf95cb50d080c6fddfdc4ea69d2e1c1bfab8210": {
+    "translation": "<p>En los albores del multiverso, Corellon <em>(core-ELL-on o CORE-eh-lawn)</em> danzaba de mundo en mundo y de plano en plano. Dotado de una mutabilidad absoluta y una gracia infinita, es un cambiaformas caprichoso capaz de adoptar la forma de un arroyo risueño, una brisa juguetona, un rayo incandescente, un banco de peces o una bandada de aves. Su personalidad extravagante y voluble impregna todas las formas que adopta. Corellon ama de todo corazón y disfruta de cada encuentro con otros seres divinos del multiverso.</p><p>Según la leyenda, los primeros elfos surgieron de la sangre derramada de Corellon y compartían su naturaleza cambiante y audaz. Muchos elfos y miembros de otras especies veneran a Corellon.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7b6120d53fa9b42c56a6f733f57465265bb09c5936bd7cf3b640846a59d18d9d": {
+    "translation": "Delina",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a7769e36cfbb3751dc58796af3fa2570699b185633f8abbe1efee634f254162b": {
+    "translation": "<p>Delina <em>(dell-EEN-ah) </em>es una joven hechicera elfa que domina el poder impredecible de la magia salvaje. Al encontrarse en apuros en la ciudad de <strong>@UUID[.b2o37loyjMR2Q5pB]{Puerta de Baldur}</strong>, despertó accidentalmente a su antiguo héroe, <strong>@UUID[.SE04dgx5WfzNXtEt]{Minsc}</strong>, y se vio envuelta en nuevas aventuras mientras buscaba a su hermano gemelo desaparecido.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f334995b6e3332ae488eecc72527cff3654d52a48798ce64a2acb60adcdfbe8b": {
+    "translation": "Diancastra",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ef499638cfc07c91997e7416a727e7608956b055538aee41db895d77f57de336": {
+    "translation": "<p>Diancastra <em>(DIE-ann-CAST-rah) </em>es una semidiosa e hija de Annam, el antepasado divino de los gigantes. Es una embaucadora, aventurera y estudiosa de la magia que disfruta recorriendo el Plano Material en busca de nuevas curiosidades y conjuros que aprender. Anhela que los descendientes de Annam —los gigantes de las tormentas, de las nubes, de fuego, de escarcha, de piedra y de las colinas— recuperen la posición de honor y respeto que ocupaban en la antigüedad.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ce00fa748f007c96e2585d90d6d26c082ad16b820250281bd67d8ee415dc0834": {
+    "translation": "Drizzt Do’Urden",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "5d4392b43a85e8309343987652c6802b69f347f98ce7d9e0be0988c69ab94daa": {
+    "translation": "<p>Drizzt Do’Urden <em>(DRIZT doh-UR-den) </em>es un drow exiliado de la ciudad de <strong>@UUID[.lrMzjkEr7bWGOkIJ]{Menzoberranzan}</strong> que huye de la ira de @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.eebjYzXomRPabghO]{Lolth} y sus sacerdotes. Recorrió el mundo de la superficie y reunió a un círculo de amigos que llegó a conocerse como los <strong>@UUID[.YPp4hrQAzRyVWZTG]{Compañeros del Salón}</strong>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "488a3edd4b27009e148b11278a988cb4d8e734725c729e4ba204c4efb7b4383f": {
+    "translation": "Males Ancianos",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a3eb63e13328ad673cbd94671e81c0d972615f223275954165387334a5384d7f": {
+    "translation": "<p>Los Males Ancianos son diversas entidades cuya existencia se remonta a los comienzos del multiverso, o quizá los precede. Algunos son criaturas del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.3YeYFKFfukJt5zy5]{Reino Lejano}, mientras que otros se asemejan a dioses o seres primordiales de los Planos Elementales. Se cree que algunos están presos y que otros duermen hasta que despierten durante algún cataclismo apocalíptico.</p><p>Los nombres de estas terribles entidades incluyen descripciones tan extrañas como Atropus, el Mundo Nacido Muerto; Dendar, la Serpiente Nocturna; <strong>@UUID[.gt0tRFCpFLzsm5fY]{Hadar}</strong>, el Hambre Tenebrosa; Haemnathuun, el Señor Sangriento; Ityak-Ortheel, el Devoraelfos; Kezef, el Sabueso del Caos; <strong>@UUID[.l5XcqkTUmvedbzzA]{Kyuss}</strong>, el Gusano que Camina; la Reina del Caos; <strong>@UUID[.dMXki2c7g6LZb2oI]{Tharizdun}</strong>, el Dios Encadenado; Tyranthraxus, el Flamígero; y <strong>@UUID[.CEohx1d4MauIpvmk]{Zargon}</strong>, el Ente que Regresa. Todos son fuerzas de corrupción y maldad. Nada bueno puede surgir de su influencia, y los pactos con ellos terminan en catástrofe o muerte.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e4b2b0f53c442214a77b95c74d603416829718b0e5fc0d77ad5d2f64edc4ee4f": {
+    "translation": "Elminster",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f87735282413e678e6fa24d297a484c7d514fa9aee5ddbc526a408ec314858ee": {
+    "translation": "<p>Elminster <em>(el-MIN-ster) </em>es un poderoso y antiguo archimago de la ambientación de los Reinos Olvidados. Como uno de los Elegidos de Mystra, convocado y dotado de poder por la deidad de la magia, promueve la magia y protege su tejido en el mundo. Aunque esa responsabilidad exige cierta neutralidad y un juicio desapasionado, Elminster tiene un corazón esencialmente bondadoso y compasivo.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "399250b95ceff7323a1022ed7f9ed721b6f92c1bfc26ed8deafe79c5a0fa4179": {
+    "translation": "Euríale",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "625aa0c0cd61d36069d29d551989ffbd8cd9be756857e95b4b8688a4218a9ea1": {
+    "translation": "<p>Una carta de la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDeckOfManyThi]{Baraja de múltiples cosas} lleva el nombre propio de una persona: Euríale <em>(YUR-ee-ale o yur-EYE-a-lee), </em>sobre quien abundan las especulaciones. Aunque suele suponerse que es una temible semidiosa, quizá la primera medusa, o la portadora de una maldición destructiva, Euríale es en realidad una figura clave en la creación de la baraja. Tras entablar amistad con una princesa llamada Asteria y pasar muchos años en compañía de su querida amiga, Euríale fue capturada y condenada a muerte por el padre de Asteria. La princesa suplicó a los dioses que salvaran a su amiga e Istus, una deidad de la @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawksPrem.JournalEntryPage.2AzNEF4DFq39dBGe#gods-of-greyhawk]{ambientación de Greyhawk}, intervino para ayudarlas a reescribir su historia creando la <em>Baraja de múltiples cosas</em>. La magia de la baraja les permitió escapar y juntas vivieron aventuras por el multiverso. Con el tiempo, Euríale se convirtió en una druida anciana, sabia y poderosa y se estableció en las @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.Qnk3pL93xGVxq5Co]{Tierras Exteriores}, donde aún actúa a veces como patrona, mentora o aliada de aventureros.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "56264d5fb254129d3e49ebfa4127c62bbee3b792683edbcb8e3641dcc8decbd0": {
+    "translation": "Último Recurso, el",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a9e2cfe88b4c990a86fa271caa37f09b9f6caa27aeac63d1ba384601e1a29dd1": {
+    "translation": "<p>Tessalynde es una joven pícara elfa que sueña con dirigir al grupo de aventureros más destacado de la ambientación de los Reinos Olvidados. Aunque el equipo que ha reunido aún no es legendario, confía en que su liderazgo lo lleve a serlo. El grupo, llamado el Último Recurso, incluye a Anson, un guerrero humano demasiado testarudo para permanecer derrotado; Cazrin, una maga humana autodidacta decidida a poner a prueba su supuesto temple en el mundo real; Baldric, un clérigo enano que se niega a vincularse a una sola deidad cuando puede intercambiar favores con todas; Lark, un bardo tiefling con tantos secretos como canciones; y Uggie, un otyugh que tienen como mascota.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "64894fe9bb96d8ff1d1ebb8a2a7189d49e72acd16e76bc7deb47ddc8e257097a": {
+    "translation": "Primer Mundo, el",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "fdd8cf60d635aa435c4017931d1b03ab3a8e453ca7a995810812dfc4ca4f670e": {
+    "translation": "<p>Los eruditos hablan de un estado primordial: una única realidad, llamada el Primer Mundo, que precedió al Plano Material. Muchos de los pueblos y monstruos que habitan los mundos del Plano Material se originaron allí. Después de que un gran cataclismo fragmentara el Primer Mundo y diera origen a los mundos que lo sucedieron, los descendientes de los primeros elfos, enanos, contempladores y otras criaturas emblemáticas echaron raíces en un mundo tras otro, como semillas dispersadas por un viento cósmico. Si las reflexiones de estos grandes sabios son ciertas, cada mundo del Plano Material es un reflejo del Primer Mundo o, en algunos casos, una distorsión de él.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b166c4fd7e0b8808aae036a78334365dbf903c9f29b65fb85e24a82220775199": {
+    "translation": "Fizban",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "84585ef02c96e1fd633c28bcabd987ffdb0ebf58802f50b34cb68626242904d4": {
+    "translation": "<p>En la ambientación de Dragonlance, <strong>@UUID[.QxXdDfgNgBHyij7R]{Bahamut}</strong>, conocido allí como Paladine, vivió un tiempo entre los mortales bajo apariencia humana y ayudó a las fuerzas del bien contra Takhisis (consulta <strong>@UUID[.3zwaOX4DWSsRx0vJ]{Tiamat}</strong>). Adoptó la apariencia de un anciano mago torpe llamado Fizban <em>(FIZZ-ban) </em>el Fabuloso.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "25be8936dd21c9d519ea865001bb5d929a7ee9f9f61cab1bb9e9743c20208492": {
+    "translation": "Gran Marcha de los Modrones, la",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "323f7bd765aa7e5f549b121616439c84b3db0a265a0d3177a42553dfd42e2409": {
+    "translation": "<p>Cuando los engranajes del plano de @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.g2QByNfLI7njiToV]{Mechanus} completan diecisiete ciclos, una vez cada 289 años, el líder de los modrones <em>(MOE-dron) </em>, Primus, envía un enorme ejército de modrones a recorrer los Planos Exteriores. El propósito de esta marcha es incierto. La mayoría cree que se trata de una misión de recopilación de datos para determinar el estado del cosmos, pero algunos la consideran un reconocimiento previo a una futura conquista. La marcha es larga y peligrosa, y solo unos pocos modrones regresan a Mechanus.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAppendixArtHa.JournalEntryPage.e7yn8SEI1dKMTzlM caption=false]</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "681a9f944200c20eb2215d790777f9b8664441a5a5c312826c68deafbe8258d8": {
+    "translation": "Gruumsh",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e11b512714c5548d152dde3fe56600a34c57b04bfa3048c1f90b68169b8077ae": {
+    "translation": "<p>Gruumsh <em>(GROOMSH) </em>es un dios guerrero al que suele describirse como creador o patrón del pueblo orco. Algunos orcos atribuyen su tenacidad y resistencia a su influencia duradera. Ciertos mitos narran un conflicto primigenio entre Gruumsh y <strong>@UUID[.8aMR4ESXorwGL7vg]{Corellon}</strong>, en el que Gruumsh perdió un ojo y la sangre derramada de Corellon se convirtió en los primeros elfos.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "00ce2d4b3eb395e57abd986505b3357cddc314464faedaeecdf69c2d4a256d16": {
+    "translation": "Hadar",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "cfbe563b664b661f0b08d3165c67a432bd12582278ec662f8f90c5891455ee19": {
+    "translation": "<p>Hadar <em>(HAY-dar o ha-DARR)</em>, el Hambre Tenebrosa, es una antigua entidad estelar originaria del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.3YeYFKFfukJt5zy5]{Reino Lejano}. Parece una estrella moribunda de color rojo brasa, apenas visible en el cielo nocturno, y absorbe la vida de sus esbirros para evitar su propia muerte. Dos conjuros de brujo muy utilizados invocan su poder: <em>Brazos de Hadar</em> y <em>Hambre de Hadar</em>, descritos en el <em>Manual del jugador</em>. Algunos brujos tienen a este <strong>@UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgALoreGlossary.JournalEntryPage.hJvjfl6xRxurDUtn]{Mal Anciano}</strong> como patrón Primigenio.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ce60a3d584f8a164a88403b8d21822a4df2e33f909173c127e2292a695e12d36": {
+    "translation": "Arpistas, los",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4151cdb6bf6ccddc7f1a598fe58f3c0923d49884daf7dceac0904986da8d2407": {
+    "translation": "<p>Los Arpistas son una red dispersa de lanzadores de conjuros y espías de la ambientación de los Reinos Olvidados. Sus miembros defienden la igualdad y se oponen de forma encubierta al abuso de poder, sea mágico o de otro tipo.</p><p>Los Arpistas han surgido, han sido desarticulados y han resurgido varias veces. Su longevidad y resistencia se deben en gran medida a su carácter descentralizado, de base y secreto, y a la autonomía de sus miembros. Disponen de pequeñas células y agentes solitarios por todos los Reinos Olvidados, que colaboran y comparten información cuando hace falta. Su ideología es noble y sus miembros se enorgullecen de su ingenio e incorruptibilidad. Los Arpistas no buscan poder ni gloria, sino un trato justo para todos.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0f8a7b9f2490106b722f859fd9cd0f6e8b896ec07b4342d5006f0352d2b47151": {
+    "translation": "Héroes de la Lanza, los",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e124c6d0606f5e95d3802961a78e4a8a43b82d31f6bf23a1dfe74f2aa031e18f": {
+    "translation": "<p>Los aventureros conocidos como los Héroes de la Lanza, cuyas hazañas ayudaron a impedir que Takhisis (consulta <strong>@UUID[.3zwaOX4DWSsRx0vJ]{Tiamat}</strong>) y sus dragones malvados conquistaran el mundo de Dragonlance, comenzaron como un pequeño grupo de jóvenes aventureros y su mentor, un enano de edad avanzada. Este grupo original, conocido como los Compañeros de la Posada, estaba formado por Tanis el Semielfo; los hermanos Raistlin y Caramon Majere; Sturm Brightblade; un kender, similar a un mediano, llamado Tasslehoff Burrfoot; el enano Flint Fireforge; y Kitiara Uth Matar, la hermanastra mayor de Raistlin y Caramon. Aunque Kitiara acabó sirviendo a Takhisis, otros se unieron a los héroes: Riverwind y Goldmoon, de los pueblos nómadas de las llanuras; Gilthanas y Laurana, amigos elfos de la infancia de Tanis; y Tika Waylan, una joven tabernera a la que los Compañeros de la Posada originales recordaban como una niña.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "08085f74fdb298007ef3ea19d864d0898c29722791b34e02d7a0c26d23e18599": {
+    "translation": "Héroes del Reino, los",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ec189a19bf2e1713fbf1cd0c64cddc8e2c070d6f4f1104e19f1c666a5faafb4b": {
+    "translation": "<p>Los llamados «héroes del Reino» son un grupo de jóvenes aventureros —Bobby, Diana, Eric, Hank, Presto y Sheila— que viajaron desde la Tierra en la década de 1980 a un mundo del multiverso de D&amp;D. Equipados con poderosos objetos mágicos, frustraron los planes de enemigos como <strong>@UUID[.edqhuNOGdrw13fxU]{Venger}</strong> y <strong>@UUID[.3zwaOX4DWSsRx0vJ]{Tiamat}</strong> mientras buscaban una forma de regresar a casa. Con el tiempo, a medida que mejoraban sus habilidades como aventureros, descubrieron los secretos de viajar entre mundos, aunque aún no han encontrado el camino a su hogar.</p><p>Los héroes del Reino no fueron los únicos niños transportados desde la Tierra a los mundos de D&amp;D. Otros jóvenes aventureros, como Niko la clériga, siguen explorando el inmenso multiverso de D&amp;D.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f229ee42ce3c116bfb758636568498d8abe856afd71bc83dcafa77e6459957f9": {
+    "translation": "Valle del Viento Helado",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "92cad05850fb4a137ee6fa021ae1daf179d23c50d1edb0cb146e1230231ca86f": {
+    "translation": "<p>El Valle del Viento Helado es la región habitada más septentrional de la ambientación de los Reinos Olvidados. Un viento gélido barre la tundra, se cuela por cada grieta y se lleva cualquier rastro de calor. Entre los acantilados de hielo del glaciar oriental, los picos nevados de las montañas del sur y el Mar del Hielo Móvil al norte y al oeste, diez pequeñas poblaciones se agrupan alrededor de tres lagos helados.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3a47c91915e08819fc9d8d26c8c333bf4b5e3b72498ee5154dda2fc65012ef42": {
+    "translation": "Iggwilv",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "dace6d69c35911ac6344d1dc386018d3acda20c04848d859cb9d67145fbe11e8": {
+    "translation": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAppendixArtHa.JournalEntryPage.iAlQ8EMmEMPVKZr2 caption=false classes=\"float-right size-three\"]</p><p>Antes de cambiarse el nombre y conquistar suficiente territorio de Oerik oriental, en la ambientación de Greyhawk, para llamarse con justicia Reina Bruja de Perrenlandia, Iggwilv <em>(IGG-wilv) </em>era conocida como Tasha, una maga humana que comenzó su carrera como aprendiz de Zagig Yragerne (consulta <strong>@UUID[.8hztu98T1SZMcjFl]{Zagyg}</strong>). Más tarde, como aventurera, creó nuevos conjuros, entre ellos <em>Risa horrible de Tasha</em> y <em>Caldero burbujeante de Tasha</em>, basándose en las enseñanzas de su madre adoptiva, la archisaga <strong>@UUID[.a6Gift3a1E1sR20r]{Baba Yaga}</strong>. A medida que aumentaba su poder y se granjeaba enemigos poderosos, se cambió el nombre a Iggwilv. Bajo esa identidad, quedó fascinada por el poder del Abismo y escribió el tratado definitivo sobre los demonios: el @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDemonomiconOf]{Demonomicón de Iggwilv}. También sometió y apresó al señor demoníaco Graz’zt.</p><p>Iggwilv gobernó Perrenlandia con tiranía. Cuando Graz’zt escapó de su prisión mágica, ella se ocultó. Se desconoce su paradero actual, pero dejó un hijo cambion, <strong>@UUID[.peAOEK4tp0xZu15C]{Iuz}</strong>, que comparte sus inclinaciones tiránicas, y una hija, Drelnza, que ahora es una vampira y habita en las cavernas perdidas de Tsojcanth (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawkGazet]{Guía geográfica de Greyhawk}), no lejos de los antiguos dominios de su madre.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "835719c4af77a769c82dacfdee18cd6afa00f637321de1c6e1412690fbea744b": {
+    "translation": "Iuz",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b2b82f75a3653104b2af957c17247faea1caa03d60d0ac0d45c04a20bdb7dc85": {
+    "translation": "<p>Iuz <em>(EYE-ooze o eye-OOZE) </em>es un cambion, hijo de <strong>@UUID[.M5Ctj4fNMIhQGbIU]{Iggwilv}</strong> y @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.eebjYzXomRPabghO]{Graz’zt}. Es tan malvado como su padre y tan ávido de conquistas como su madre en sus peores momentos. Gobierna una parte considerable de Oerik oriental, en la ambientación de @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawk00000]{Greyhawk}, y algunos temen que aspire a conquistar aún más territorio. Consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawksPrem]{Premisa de Greyhawk}.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "330ed944cc9ad3bc4ae02c4cbcf76af566e44c9360eecb5a7289345d8ee87120": {
+    "translation": "Jallarzi Sallavarian",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b870afa26bd5a9543af45d455bf02cd0998fcd161bd64eb6f846f668838324bf": {
+    "translation": "<p>Jallarzi Sallavarian <em>(juh-LAR-zee sal-ah-VAIR-ee-en) </em>, la integrante más joven y de incorporación más reciente del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawksPrem.JournalEntryPage.2AzNEF4DFq39dBGe#factions-and-organizations]{Círculo de los Ocho}, es una bruja con un patrón celestial. Está más inclinada al bien que los miembros más neutrales del Círculo y disfruta recorriendo disfrazada la @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFreeCityOfGre]{Ciudad Libre de Greyhawk} para vigilar a los elementos siniestros de su sociedad.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3064be047f71e7213c5e38fce98ca3b24debab1b35300eb37d7bc35c5386fb29": {
+    "translation": "Kas el Traidor",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "597e152a2556218fb44ad197cac28f5cc6033e5fdba846391f048d4cec728ed0": {
+    "translation": "<p>Kas <em>(KOSS) </em>es un vampiro, un espadachín legendario y un caudillo despiadado. Fue el líder de los ejércitos de <strong>@UUID[.nCN5Z6z5F8CHFc0j]{Vecna}</strong> y el lugarteniente de mayor confianza del liche, y empuñaba una espada que su señor había creado para él: la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgSwordOfKas000]{Espada de Kas}. Sin embargo, el arma malvada lo convenció de traicionar a Vecna. Ahora, la principal motivación de Kas es su odio hacia su antiguo señor.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "29cf1a1233641c8d2cfcb9af888048d17b12e16d2a8deb40913dfce6de0421f4": {
+    "translation": "Keraptis",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "73be645ef612a7916c3973fd07c1d5fd7b5f2d1ac6fdf22b4faa64973da6d64e": {
+    "translation": "<p>Según la leyenda, Keraptis <em>(kuh-RAP-tiss) </em>era un archimago malvado que, hace mucho tiempo, se hizo con el poder como tirano local en algún lugar de las montañas septentrionales de Greyhawk. Cuando sus exigencias a la población se volvieron excesivas, una revuelta lo obligó a ocultarse. Desapareció en los túneles bajo la Montaña del Penacho Blanco (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawksPrem]{Premisa de Greyhawk}). Es posible que se convirtiera en liche como sombría culminación de sus investigaciones mágicas.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c639a2d5693b8b5d69932995103f160f1c37c4b5c638ccf4c26156c7b2cb58a5": {
+    "translation": "Kyuss",
+    "documents": [
+      "dmgALoreGlossary",
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "5a7c02f41b7bd3c792f41894951e81cd8fa068826a2d2a80ab1c0045dc45dca2": {
+    "translation": "<p>Identificado a veces como un <strong>@UUID[.hJvjfl6xRxurDUtn]{Mal Anciano}</strong>, un semidiós o un sacerdote mortal del señor demoníaco @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.eebjYzXomRPabghO]{Orcus}, Kyuss <em>(KYE-uss) </em>es una figura misteriosa conocida como el Gusano que Camina. Se manifiesta en el Plano Material como una masa colosal de larvas y gusanos animados por una única voluntad malvada.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAppendixArtHa.JournalEntryPage.2IdmVtiKCe65CfrN caption=false]</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c90eb5704ff0898a0320a7dd92a7b29c4de15c63a0a0bbc6a1906dc5b9951373": {
+    "translation": "Laeral Manoargéntea",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "cfb29998f39b8e2695e58b551621a6a636c7f47a7887ae4bc01facbdfd0621ff": {
+    "translation": "<p>Laeral <em>(LAIR-ull) </em>Manoargéntea es la quinta de las siete hijas de Mystra, una deidad de la magia de la ambientación de los Reinos Olvidados. <strong>@UUID[.Zh7yymheQZYP8Of2]{Alustriel Manoargéntea} </strong>es su hermana mayor. Tiene más de 700 años y, tras un periodo apartada de la vida pública, ocupa ahora el cargo de señora pública de <strong>@UUID[.Vnpjrf6V9fbOHJri]{Aguas Profundas}</strong>: la única de los aproximadamente veinte señores de la ciudad cuya identidad se conoce públicamente. Aunque su poder ha fluctuado según la implicación de Mystra en el mundo y se ha reducido considerablemente en los últimos años, Laeral sigue siendo una de las lanzadoras de conjuros más formidables de un mundo famoso por sus poderosos usuarios de magia.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0d5e9e67bbfb53a223a515294aaff1172942618673e35c60f539c2b5c65001ae": {
+    "translation": "Liga del Mal, la",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9591ecef9d8e2136c74180e4377a71cbcc71f3ef0fbf35fba83090d5dc7c2092": {
+    "translation": "<p>La Liga del Mal es una aborrecible coalición de villanos unidos por un propósito: acumular poder. Su fundador, Kelek el hechicero, espera que sus aliados colaboren para su beneficio mutuo, pero también los anima a perseguir sus propios planes malvados. Otros miembros son Warduke, un asesino a sueldo sin remordimientos; el asesino Zarak; y el malvado Zargash, un sirviente de Orcus. Skylla, una bruja cuyo poder procede de un pacto con <strong>@UUID[.a6Gift3a1E1sR20r]{Baba Yaga}</strong>, mantiene una frágil alianza con la liga, aunque desprecia a Kelek.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c38d252e0b330a8ef71d29e7699e1f9895be701969e2eae6b40146a4b86eac1c": {
+    "translation": "Lord Soth",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "35f30b72c9f32067fa4f63e753aa45c473fd4ca94b2ade8cdc211f2a2980d480": {
+    "translation": "<p>Lord Soth es un caballero de la muerte de la ambientación de Dragonlance: un antiguo paladín que permitió que su orgullo lo condujera al mal. Tuvo la oportunidad de redimirse evitando una catástrofe, pero el orgullo volvió a llevarlo a abandonar su misión y permitir la devastación de su mundo. Su vida mortal terminó en aquel cataclismo, aunque se alzó de las cenizas como muerto viviente y se retiró a su castillo maldito, el alcázar de Dargaard. Ignoró el mundo exterior durante siglos, hasta que la Reina de los Dragones, Takhisis (consulta <strong>@UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgALoreGlossary.JournalEntryPage.3zwaOX4DWSsRx0vJ]{Tiamat}</strong>), lo convocó para servirla en la Guerra de la Lanza.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a1515b23fa802a996ae931ee4dfa411c0796ec321689839a08902aa17b8b012f": {
+    "translation": "Menzoberranzan",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e073de55352b97b1d0e19e48ad4ab7ed694d20daef8d3cdf7d94e22144610ddb": {
+    "translation": "<p>La ciudad de la <strong>@UUID[.GgQkd3CWqqBROyO0]{Infraoscuridad}</strong> llamada Menzoberranzan <em>(men-zoh-buh-RAN-zan)</em>, situada en las profundidades bajo la región de la <strong>@UUID[.bT0sJC4afzBm3Ace]{Costa de la Espada}</strong> de los Reinos Olvidados, está gobernada por sacerdotes tiránicos de Lolth, la @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.eebjYzXomRPabghO]{Reina Demoníaca de las Arañas}. La mayoría de sus habitantes son drows, cuyas casas nobles luchan constantemente por el favor de Lolth y el poder que conlleva.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d030a460701de20f52f0da186c2002d46fd56249dcaca7cf94c8aa280e1852c9": {
+    "translation": "Minsc",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2e7c862d74f58b0ee408e0efcedced8e5d59ebfec94bc7e69744611c4bc61a92": {
+    "translation": "<p>Minsc <em>(MINSK) </em>es un heroico explorador de la tierra de Rashemen, en la ambientación de los Reinos Olvidados. Conocido por su buen humor, su enérgico optimismo y su mascota, el hámster espacial gigante en miniatura <strong>@UUID[.xPMh7VIzgH39S2ic]{Boo}</strong>, Minsc es especialmente querido en la ciudad de <strong>@UUID[.b2o37loyjMR2Q5pB]{Puerta de Baldur}</strong>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9fa9461ffbfcca3b7b3203da27165ead66c1522c7a41b9cfaf14897a4fa69395": {
+    "translation": "Mithral",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "79ca0da89ab3c529ef19a193347ad9c66f133d794377dde5a2eba1b26ec9c6e6": {
+    "translation": "<p>El mithral <em>(MITH-ral)</em> es un metal ligero y flexible que se parece a la plata, pero es mucho más resistente. Se utiliza sobre todo para fabricar armaduras de poco peso que ofrecen una excelente protección sin resultar voluminosas ni pesadas (consulta @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgMithralArmor0]{Armadura de mithral}).</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "814092892528d5f84aa818fd963f27cae3906725a7763d415efa147474489058": {
+    "translation": "Moradin",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b7d6757609d4b017a4b70b374be0ac0dec0c05ab8cee31bf72d034e29fa450d4": {
+    "translation": "<p>Los mitos de muchos mundos cuentan que Moradin <em>(MORE-ah-din) </em>forjó a todos los pueblos del Plano Material en su gran taller del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.hkG0B6B2hX1RYQDL]{Monte Celestia}, infundiendo vida al metal inerte al enfriar con su aliento las piezas recién fundidas. De estos mitos procede su apelativo de «Padre de Todos». Muchos pueblos del multiverso, incluidos numerosos enanos, veneran a Moradin.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7548a6efbd1311b76a005bd5a8516d05e63af8b579a8d68992e3e04dc88d153e": {
+    "translation": "Mordenkainen",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "18aeb9083b8312cb30d1fc7c923febf2943c821c400a96a33f6790c835c11dbc": {
+    "translation": "<p>Mordenkainen <em>(mor-den-KIGH-nen o mor-den-KAY-nen) </em>es un archimago humano que tiene una residencia en la Ciudad Libre de Greyhawk y otra oculta en algún lugar de las montañas Yatil, entre @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawkGazet.JournalEntryPage.RGuWdlWj7PvscnWV#central-flanaess-culture]{Perrenlandia y Ket}. Es el fundador y líder del Círculo de los Ocho, que creó para llevar a la práctica su filosofía de equilibrio en el mundo. Entre sus logros más célebres se encuentran varios conjuros que llevan su nombre, incluidos los que crean mansiones extradimensionales, espadas de fuerza espectral y perros guardianes fantasmales, descritos en el <em>Manual del jugador</em>.</p><p>Mordenkainen ha visitado numerosos mundos y planos de existencia, donde ha hecho amigos y alimentado rivalidades. Mantiene una estrecha amistad con su antiguo aprendiz <strong>@UUID[.DGmEsD4jL2RFneYJ]{Bigby}</strong> y con el famoso archimago <strong>@UUID[.MDV5RhJWfxZzBVCq]{Elminster}</strong> del Valle de las Sombras. Su mayor rival es <strong>@UUID[.M5Ctj4fNMIhQGbIU]{Iggwilv}</strong>, una antigua compañera de aventuras.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "dacec1e87db929fecb9da7b2fc2dba9ce59b2b84a69b3e014d170cf8248de3b6": {
+    "translation": "Nuncainvierno",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9e9677cce30ed6ec40b6eb8767b577cc3a7bc30c246a0224826249b5e61a3c02": {
+    "translation": "<p>La ciudad de Nuncainvierno, conocida antaño como la Joya del Norte en la ambientación de los Reinos Olvidados, sufrió graves daños cuando un volcán cercano entró en erupción hace unos cincuenta años. Ahora sus habitantes trabajan sin descanso para reconstruirla. Parte de sus murallas exteriores sigue en ruinas y varios barrios permanecen abandonados.</p><p>Dagult Neverember es el lord protector de Nuncainvierno y gobierna en ausencia de un heredero legítimo a la corona. Sueña con que Nuncainvierno supere en riqueza y prosperidad a la cercana <strong>@UUID[.Vnpjrf6V9fbOHJri]{Aguas Profundas}</strong>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1ebdf04db9a6e844d7b0d03e1ea278721522cd139828bd47ac36baedaecbcfef": {
+    "translation": "Otiluke",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "520b7da2344841a07e97d60a9f5866dd5f1c9c0f1b0b47df18ac064673fbfbbd": {
+    "translation": "<p>Otiluke <em>(AW-teh-luke) </em>es un mago impulsivo y agresivo que actúa como principal agente del Círculo de los Ocho en la @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFreeCityOfGre]{Ciudad Libre de Greyhawk}. Ocupa un cargo de poder político y mantiene en secreto su pertenencia al Círculo. Es conocido sobre todo por sus conjuros que crean esferas mágicas, descritos en el <em>Manual del jugador</em>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d7c7abb4946bb0436e890825e93edf8490b06cfd74756c018e064a630f9a5e21": {
+    "translation": "Otto",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a4bca6135a4802e98ad37b8d7837ea3dfb3c388ad54c67fc6f240e49bada87f0": {
+    "translation": "<p>Otto <em>(AW-toe) </em>es un afable bardo enano aficionado a la buena comida, la buena música y la ropa cara hecha a medida. Su personalidad sociable y extrovertida oculta que también pertenece al @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawksPrem.JournalEntryPage.2AzNEF4DFq39dBGe#factions-and-organizations]{Círculo de los Ocho} y está comprometido con sus objetivos. Es conocido en todo el multiverso por haber creado el conjuro <em>Baile irresistible de Otto</em>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "00e0c8a8a6dcf0094c60b0f0a6b93e44095b2c8fc7d98dbdbea470ec79fd977c": {
+    "translation": "Phandalin",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "75c84021a2209fc3152eb4620b17ff456574f1afcdbcec771503b722416a35b2": {
+    "translation": "<p>La población fronteriza de Phandalin <em>(FAN-duh-lin o fan-DAY-lin) </em>, en la región de la <strong>@UUID[.bT0sJC4afzBm3Ace]{Costa de la Espada}</strong> de los Reinos Olvidados, está construida sobre las ruinas de un asentamiento mucho más antiguo. Hace cientos de años, la vieja Phandalin era una población próspera, hasta que fue saqueada por bandidos y quedó abandonada durante siglos.</p><p>En los últimos años, gentes recias de las ciudades de <strong>@UUID[.NzQNkBmhpHRac4RK]{Nuncainvierno}</strong> y <strong>@UUID[.Vnpjrf6V9fbOHJri]{Aguas Profundas}</strong> han comenzado a establecerse sobre sus ruinas. Ahora viven allí agricultores, leñadores, comerciantes de pieles y prospectores atraídos por los relatos de oro y platino en las estribaciones de las Montañas de la Espada, además de bastantes rufianes y bandidos.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "90ad7274814bd5c832c8cae586d2974c285de79af017cacae56e2af8eaab527b": {
+    "translation": "Príncipe de la Escarcha, el",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "58ce1b66b6937cdd812db007da2c0617831910d05e4e5e5f972d2b46912fff2a": {
+    "translation": "<p>El Príncipe de la Escarcha es hijo de Titania, la <strong>@UUID[.fo9e7Z8Yzf0WMUM4]{Reina del Verano}</strong>. Antes se lo conocía como el Príncipe del Sol, pero su corazón se enfrió cuando la noble feérica a la que amaba lo rechazó. Ahora es un ser de ira e invierno que gobierna desde la Fortaleza de las Lágrimas Congeladas, en el Valle de la Larga Noche de los @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.z54Gr7MC6dOLMlYO]{Parajes Feéricos}. Detesta a los mortales del Plano Material y sueña con cubrir sus muchos mundos de un invierno perpetuo.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAppendixArtHa.JournalEntryPage.RiS1IHvWecVbJgfx caption=false]</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "838df72c28ed61b53d90472c8c1a184f12aeb1e18fe877f55f72faf7ccfdcbe2": {
+    "translation": "Reina del Aire y la Oscuridad, la",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4e03fa3799bae3761af9ec6a50e9387d91f5aa98716e6f26adf6d6b3ed8e9b99": {
+    "translation": "<p>La misteriosa Reina del Aire y la Oscuridad es la señora feérica que gobierna la Corte Crepuscular de los @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.z54Gr7MC6dOLMlYO]{Parajes Feéricos}. Aunque suele describirse como mezquina y malvada, sus motivaciones son tan oscuras y caprichosas como las de cualquier otro señor feérico. Concede dones sobrenaturales e impone terribles maldiciones con el mismo capricho, sin apenas respetar las elaboradas costumbres sobre regalos y favores de otras cortes de los Parajes Feéricos. Aunque se dice que tiene una forma espectral semejante a una elfa aterradora, a simple vista parece un extraño diamante negro que flota en el aire como la pupila rasgada de un gato invisible.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "09807f0f35b3e8265f74cd239b46b62a18356436b9061ed5b3085640e8c45c8b": {
+    "translation": "Reina Cuervo, la",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2045afdcfca555a6904ec2b0a2b99bf8240ce9d5bc23eb4640aacdf5fefb1017": {
+    "translation": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAppendixArtHa.JournalEntryPage.1S2wvP7WwZGjOQmX caption=false classes=\"float-right size-three\"]</p><p>La Reina Cuervo es un ser misterioso. Quienes afirman haberla encontrado describen imágenes perturbadoras muy diversas: una sombra terrible que arañaba sus pensamientos más íntimos, una elfa pálida y majestuosa que estallaba en innumerables cuervos, una maraña tambaleante de raíces resbaladizas y palos que los abrumaba de terror, o una presencia desconocida que los arrastraba entre gritos a la penumbra.</p><p>A pesar de los intentos de desvelar sus misterios, la Reina Cuervo sigue siendo enigmática y distante. Gobierna desde el Trono de los Cuervos de la Fortaleza de los Recuerdos, un castillo laberíntico en las desoladas profundidades del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.mG9cIFR0V3B2x1ch]{Páramo Sombrío}. Desde allí envía a sus sirvientes cuervos a buscar almas interesantes que pueda arrancar de los planos de existencia. Una vez que esas almas están en el Páramo Sombrío, las observa mientras intentan desentrañar el misterio de su propio ser.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f98a970c13279afe3fdac4d9a3de3c87ec533f3e673117467cac0b0b7f65a16d": {
+    "translation": "Roca de Bral, la",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "dce4444789403ba176c4684d81d45558ad87d71f7c40a2d181fb53485709bfa9": {
+    "translation": "<p>Bral es una ciudad construida sobre un asteroide que se desplaza por el @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.lNqkZFfXDs9S3sft#wildspace]{Espacio Salvaje}. Sus habitantes, procedentes de muchos mundos del Plano Material, suelen llamarla la Roca. No existe otro lugar igual en el Espacio Salvaje: un bullicioso centro de negocios que se extiende por todo el Mar Astral.</p><p>Bral está poblada por una extravagante mezcla de comerciantes, sinvergüenzas, mercenarios, piratas, nobles y emprendedores. La ley suele aplicarse de forma esporádica, por lo que resulta difícil mantener el orden. La mayoría de quienes viven en la Roca siguen dos principios: ocuparse de sus propios asuntos siempre que sea posible y confiar en que el oro suficiente puede arreglar cualquier cosa.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "fcec0050ae156fb81764b5b00155f893ee324269760536093bc73c381f4780ed": {
+    "translation": "Rudolph van Richten",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "86b9429463404b8e7e4de3fc8c52ad34ec2afd26956f598ca4f44b195e25f194": {
+    "translation": "<p>Rudolph van Richten, erudito y cazador de monstruos, ha viajado a decenas de Dominios del Terror del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.mG9cIFR0V3B2x1ch]{Páramo Sombrío} para investigar noticias sobre seres monstruosos y documentarlos en una serie de guías publicadas. La más conocida es la <em>Guía de Van Richten de los vampiros</em>.</p><p>En tiempos más felices, Rudolph vivía con su esposa Ingrid y su hijo Erasmus, pero perdió a ambos por culpa de un vampiro malvado. Durante la caza del vampiro sufrió una terrible maldición: «Vive siempre entre monstruos y contempla cómo todos tus seres queridos mueren bajo sus garras».</p><p>En las décadas posteriores, van Richten ha cazado monstruos y proporcionado a otros los conocimientos necesarios para enfrentarse al mal. Aunque ha hecho muchos aliados leales, los mantiene a distancia por temor a su maldición.</p><p>Van Richten está estrechamente relacionado con otros héroes que recorren los Dominios del Terror, entre ellos el detective Alanik Ray y su compañero Arthur Sedgwick, la exploradora Ez d’Avenir y las gemelas Gennifer y Laurie Weathermay-Foxgrove.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f009ff480a3bad62669b81d51d47abe508b0aacd34d3737a376f138d9dc5437d": {
+    "translation": "Strahd von Zarovich",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "20a2f0794dd607aa047bab4bac181f08deb9315a642c936001378b1261e7c207": {
+    "translation": "<p>Strahd von Zarovich <em>(STRAWD von zuh-ROH-vitch o ZAR-oh-vitch) </em>fue en vida un pensador brillante y un guerrero capaz que libró innumerables batallas por su pueblo. Tras una larga vida de guerras y matanzas, se estableció en el remoto valle de <strong>@UUID[.6A2VLRe93f7e6IG1]{Barovia}</strong> y construyó un castillo sobre un imponente pináculo. Su hermano Sergei fue a vivir con él al <strong>@UUID[.OThsxxS6UGEhiQvF]{Castillo Ravenloft}</strong> y se convirtió en su consejero y compañero constante.</p><p>Strahd veía en su hermano todo lo que él no era. El resentimiento tiñó su relación y acabó convirtiéndose en odio. Tatyana, la amada de Strahd, lo rechazó por Sergei, con quien prometió casarse.</p><p>En un intento desesperado de recuperar el amor de Tatyana, Strahd pactó con poderes oscuros que lo hicieron inmortal. Durante la boda de Sergei y Tatyana, se enfrentó a su hermano y lo mató. Tatyana huyó y se arrojó desde las murallas de Ravenloft. Los guardias dispararon flechas a Strahd, pero no murió. Se convirtió en un vampiro; según muchos sabios, el primero.</p><p>En los siglos transcurridos desde su transformación, la sed de vida de Strahd ha aumentado. Se encierra en su castillo, consumido por pensamientos sombríos, y maldice a los vivos por todo lo que ha perdido, sin admitir nunca su responsabilidad en la tragedia.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f7f776a3feecbc3d7f31e42205f6dfbf31a498fa738abd596e29e484bc946775": {
+    "translation": "Reina del Verano, la",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e4d86611a6dc61369c635d978231bbf2a24e8d7182aa65a24a3f238d393d5530": {
+    "translation": "<p>Titania, la Reina del Verano, es la majestuosa y carismática gobernante de la Corte del Verano de los @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.z54Gr7MC6dOLMlYO]{Parajes Feéricos}. Quizá sea la más poderosa de los señores feéricos: puede hacer madurar una cosecha con una sonrisa y provocar incendios forestales con apenas fruncir el ceño.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAppendixArtHa.JournalEntryPage.pLKm7oPe93B3mXHH caption=false]</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9d1ab93f884b13c5098c18e1d44e05099267a75a1c8a5830808bc4dbc8d45b01": {
+    "translation": "Costa de la Espada, la",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7d0be540515712ddf2fce71184e4a0e52789ce54b59ba119ae54fb16ddd148b1": {
+    "translation": "<p>La Costa de la Espada es el extremo occidental del continente de la ambientación de los Reinos Olvidados y se extiende junto al Mar de las Espadas. Es una franja estrecha de territorio dominada por varias grandes ciudades estado, desde <strong>@UUID[.NzQNkBmhpHRac4RK]{Nuncainvierno}</strong> al norte hasta <strong>@UUID[.b2o37loyjMR2Q5pB]{Puerta de Baldur}</strong> al sur, con <strong>@UUID[.Vnpjrf6V9fbOHJri]{Aguas Profundas}</strong> entre ambas.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4aabf8f09c34a6719991b80f6ab7c666cdbceeac81d7758aebd3cf368d55b1a3": {
+    "translation": "Szass Tam",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "621aa8cc74319f185968a7e246db7141b36beab7b28e20e8030cfb46bf59f83c": {
+    "translation": "<p>Szass Tam <em>(ZASS TAM)</em> es un poderoso liche y nigromante en el escenario de los Reinos Olvidados. Como líder de los Magos Rojos de Thay, tiene incontables espías, asesinos y otros agentes a su servicio, y sus planes abarcan siglos y llegan hasta los confines del mundo.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d976c88dc8ef7fe544bac751a3804d703ce607848d96edfd5532fc2f3656d927": {
+    "translation": "Tasha",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "5a424335e6d67a2527e0ea96e9fc84c20eed454a5d817dda87809d8862889041": {
+    "translation": "<p>Ver <strong>@UUID[.M5Ctj4fNMIhQGbIU]{Iggwilv}</strong>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "cb9b6a9ae575fab30b3d8fca99000daab6dfe49fb5dde828cea0e1bc645c6f55": {
+    "translation": "Tharizdun",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "18e93f371e6f5f8b76a955a114eabe16b99e620e4436630891a953e8d5810da1": {
+    "translation": "<p>Pese a ser conocido como el Dios Encadenado, el <strong>@UUID[.hJvjfl6xRxurDUtn]{Mal Anciano}</strong> Tharizdun <em>(thuh-RIZZ-dun o thair-izz-DOON) </em>ha logrado extender su funesta influencia desde la ambientación de Greyhawk por muchos mundos del Plano Material. Es una antigua fuerza de entropía, del fin de todas las cosas y de la extinción de la vida. Sus adoradores son nihilistas que buscan acabar con todos los mundos liberando a su dios. Tharizdun suele vincularse a los cultos del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawksPrem.JournalEntryPage.6xM2odCqHP4JlcuS]{Mal Elemental}.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "99bcbbc42ddaa72f481aab92d8ba15ddc333a3b82e9a03b58cf73c9cec0e1368": {
+    "translation": "Tiamat",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "724ce6db98bef25e218d5e4c57249878f0841841c559f2e2036fc098dd7d7d8c": {
+    "translation": "<p>Tiamat <em>(TEE-a-mat) </em>es uno de los dragones primordiales que, según se dice, crearon el <strong>@UUID[.uzNl4zjOGLJANBOF]{Primer Mundo}</strong> junto con <strong>@UUID[.QxXdDfgNgBHyij7R]{Bahamut}</strong>. Desde la destrucción de aquel mundo, habita en los @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.t7aLOZKWzHoVOVL5]{Nueve Infiernos}, donde la sirven diablos y recibe la adoración de mortales de todo el multiverso. En la ambientación de Dragonlance, donde se la conoce como Takhisis <em>(ta-KEE-sis)</em>, es la mayor de las deidades del mal. En muchos mundos se la considera una diosa de la codicia, la riqueza y la venganza.</p><p>Los dragones cromáticos pueden temer, respetar, envidiar y aplacar a Tiamat como soberana, pero no la adoran. Su devoción hacia ella rara vez supera la que sienten por sus propios objetivos.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "8e2b31df6d0c270dc54d47d70c68048145c5416981e971c34aa02ad1fa5e5af5": {
+    "translation": "Infraoscuridad, la",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c38575a1e0e770e457cd90492f7d257b42b201c99743c557fbc8c4a3d706c96c": {
+    "translation": "<p>La Infraoscuridad es un vasto reino subterráneo de cavernas y pasadizos naturales que se extiende muy por debajo de la superficie de la mayoría de los mundos de D&amp;D. Allí habitan muchas criaturas, incluidos drows, duergars, svirfneblins y otras especies adaptadas al mundo subterráneo.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "19505245c6acaea378bf7b9811049555dfdc65374e14644c497a5c9efcd3ea55": {
+    "translation": "Bajomontaña",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "14b5f7877d8f0f2c9c09d2d1a24a24a416f6409f7a2a8801644f65a1303ca8fa": {
+    "translation": "<p>Bajomontaña es la mazmorra más grande y profunda de la ambientación de los Reinos Olvidados. Sus niveles interconectados se extienden muy por debajo de la ciudad de <strong>@UUID[.Vnpjrf6V9fbOHJri]{Aguas Profundas}</strong>. Sus túneles conectan con minas preexistentes de <strong>@UUID[.f2tPA4FI1NYrdC2T]{mithral}</strong> y cavernas naturales de la <strong>@UUID[.GgQkd3CWqqBROyO0]{Infraoscuridad}</strong>. La entrada más conocida se encuentra en la taberna <strong>@UUID[.TD3grLAs78SjonKC]{El Portal Bostezante}</strong> de Aguas Profundas, aunque existen otros accesos. Un archimago solitario y cascarrabias llamado Halaster Capanegra considera Bajomontaña su dominio, pero los demás habitantes de la mazmorra rara vez reconocen su autoridad.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7934babbcd2fa49f48bed543fdea02ad34289be7a71c96f0133060fe288006d0": {
+    "translation": "Vajra Safahr",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "5c2e6013a7402c61fd2f931f5ae5fa3a9f5ab779740d10976e1cf0e086156f60": {
+    "translation": "<p>Vajra Safahr <em>(VAWJ-rah sah-FAR) </em>es una maga humana de unos treinta y cinco años, la persona más joven que ha ocupado el cargo de Vara Negra: principal maga de <strong>@UUID[.Vnpjrf6V9fbOHJri]{Aguas Profundas}</strong> y directora de la Academia Vara Negra, una escuela de magia. Varios magos de Aguas Profundas, mayores y más experimentados, la consideran una advenediza, pero son lo bastante sensatos para no desafiarla. Como insignia de su cargo, porta la <em>Vara Negra</em>, un artefacto que contiene los espíritus de todos sus predecesores.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "39b6ada75b609c84e4004aa433b3d5413dcdf3903434033f81f5709db63d2209": {
+    "translation": "Llamada del Valor, la",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e44b6cf80c612275533b856e0995692b7c8f41be3e17f31fa18f28c444b5647b": {
+    "translation": "<p>El noble grupo de aventureros conocido como la Llamada del Valor fue fundado por Fortecor, un decidido paladín humano dedicado a destruir el mal dondequiera que aparezca. Solo Fortecor decide quién puede ingresar en este prestigioso grupo, y siempre busca héroes valientes dispuestos a entregarse a una buena causa.</p><p>Solo los personajes de alineamiento bueno pueden unirse a la Llamada del Valor. El grupo cuenta con el patrocinio de <strong>@UUID[.3dIIt0w0g27ofzgf]{Yolande}</strong>, reina de Celene, y cumple misiones en su nombre tanto en la ambientación de @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawk00000]{Greyhawk} como en los @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.z54Gr7MC6dOLMlYO]{Parajes Feéricos}.</p><p>Entre sus miembros destacados se encuentran el guerrero enano Cuernoalce, la clériga humana Mercion, le pícare humane Molliver y el mago humano Ringlerun.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9b403b7b7f2e7f45273e8f8fb64a7884d2de996388ac22b843d12bea96846260": {
+    "translation": "Vecna",
+    "documents": [
+      "dmgALoreGlossary",
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "eed5a7b69b6f98967dabc48fd349157368cf148c3ec8adbecf53c098ebfbf0aa": {
+    "translation": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAppendixArtHa.JournalEntryPage.A9ZkyJaRzzT9MugU caption=false classes=\"float-right size-two\"]</p><p>Vecna <em>(VECK-nah) </em>tuvo unos comienzos humildes en Greyhawk, donde una orden de magos lo empleaba como limpiabotas y escriba. Estudió magia en secreto hasta reunir poder suficiente para masacrar a la orden. Después se dedicó a escribir el <em>Libro de la oscuridad vil</em>, descrito en el capítulo 7. Armado con aquel temible tomo, fundó un reino que gobernó con el vampiro <strong>@UUID[.Km8NHi86erOT2IJu]{Kas}</strong> como lugarteniente. Sin embargo, Kas lo traicionó y lo mató, dejando intactos únicamente una mano y un ojo: el @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgEyeAndHandOfV]{Ojo y Mano de Vecna}.</p><p>La voluntad malvada de Vecna era tan grande que perduró más allá de la muerte y acabó convirtiéndose en un semidiós de los secretos y la magia maligna. Su ambición lo impulsa a buscar un poder divino aún mayor por todo el multiverso.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7aab3970e562c88394079e659f463273c069d8ce41029ae2f59e7deb8491fd37": {
+    "translation": "Venger",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2b1a25fde83b444bae37f63e417ff6e3f5a371ece46313b3343af99204d5c013": {
+    "translation": "<p>Venger <em>(VEN-jur) </em>fue en otro tiempo un humano de buen corazón, pero una fuerza infernal lo transformó en un villano alado con un solo cuerno. Sus intrigas abarcan siglos y mundos en su afán por hacerse con un poder mágico cada vez mayor. Siente una aversión especial por <strong>@UUID[.3zwaOX4DWSsRx0vJ]{Tiamat}</strong> y anhela derrocarla. Suele verse montado en un corcel negro volador, acompañado de su tenebroso consejero.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4ab924a2c4364b07abe1862cb7cd2df5d6848516fd8ee33d27e19925cbe68937": {
+    "translation": "Vi",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "61cdba446b4b9288dbe7a361fd1632189217d91643abe4ebb86d2bed3efd7e7d": {
+    "translation": "<p>Vi <em>(VYE) </em>es una artífice gnoma, emprendedora y viajera de muchos mundos, originaria de Eberron. Tras ayudar a crear armas terriblemente destructivas durante la Última Guerra, intentó expiar su culpa fundando los Solucionadores, una organización dedicada a resolver problemas aparentemente imposibles. Desde su sede en Sigil, Vi ha llevado su ingenio, su bondad y su afición a los tragos fuertes a muchos mundos del multiverso.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bd46fc817eae62675a93a70240e42991d760fd52817749d9b57a4a5274cb882b": {
+    "translation": "Vlaakith",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "9dc40f915f2e6db8e55ad6b0ff0e3b3864355e7beb44a10847fdff05720d7de4": {
+    "translation": "<p>Vlaakith <em>(VLAH-kith) </em>es la reina liche de la ciudad githyanki de Tu’narath, que vaga por el @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.lNqkZFfXDs9S3sft]{Plano Astral}. Es tan antigua que luchó junto a una líder llamada Gith para liberar a su pueblo de los azotamentes que lo esclavizaban. Los githyankis de Tu’narath juran obediencia incondicional a la reina liche, que promete la entrada al paraíso a quienes la sirven con lealtad. En realidad, se alimenta de las almas de los súbditos que llegan a ser lo bastante poderosos como para soñar con desafiarla.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "152ed5be72de8c577cef4deda9ff45ef2710640171d5d732b004670946bfbdf2": {
+    "translation": "Aguas Profundas",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0c1d798d1ff219da83f11992a1241896988a39aa9708ab5c0f3b60dcf6de0671": {
+    "translation": "<p>Aguas Profundas es la ciudad más famosa y cosmopolita de la ambientación de los Reinos Olvidados. Es un centro de riqueza e influencia al que la gente acude para hacer realidad sus sueños. Allí se encuentra <strong>@UUID[.TD3grLAs78SjonKC]{El Portal Bostezante}</strong>, el acceso más conocido a la inmensa mazmorra de <strong>@UUID[.AhjCqech2zRNasMC]{Bajomontaña}</strong>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d09acf6e5d345d4935e9c574229abcf21de425b2bc677f41f70285791d5426c6": {
+    "translation": "Xanathar",
+    "documents": [
+      "dmgALoreGlossary",
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "22afad7b2bdace3d20d6652980aa15e71eb753d34f840d5d1b41fcf2872c7f5f": {
+    "translation": "<p>Xanathar <em>(ZAN-a-thar) </em>es un excéntrico señor del crimen contemplador que habita bajo <strong>@UUID[.Vnpjrf6V9fbOHJri]{Aguas Profundas}</strong>. Deseoso de saber todo lo que se pueda saber, reúne conocimientos de todo el multiverso, pero su posesión más preciada es su pez dorado Sylgar.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAppendixArtHa.JournalEntryPage.G6p9OU5DLESHWmoJ caption=false]</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "8aed43ba91acfcd5abb9cd0de7fc1b417fd4fdfb4068670ff267061e4663f8e7": {
+    "translation": "Portal Bostezante, el",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0d5bb34da2be3a6db04024f17f09ab5c812f290a5d8e9d2ae281281ba7b98656": {
+    "translation": "<p>El Portal Bostezante es una taberna de <strong>@UUID[.Vnpjrf6V9fbOHJri]{Aguas Profundas}</strong>, construida alrededor de una entrada a la infame mazmorra de <strong>@UUID[.AhjCqech2zRNasMC]{Bajomontaña}</strong>. Aventureros de todos los Reinos Olvidados y de otros lugares del multiverso visitan El Portal Bostezante para intercambiar conocimientos sobre Bajomontaña y otras mazmorras. La mayoría se conforma con compartir historias junto a la chimenea, pero algunos pagan el peaje para entrar en Bajomontaña, que cobra Durnan, el misterioso propietario y tabernero.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "88b818b40a55d778130e953c660dbf5cb7c4cd145afbb1c6bbd8d611c289c5f4": {
+    "translation": "Yolande",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "88037bd78720696627a6d3f09f5b20e754224b9b279a8dc41006575119e69dc6": {
+    "translation": "<p>Yolande <em>(yoh-LAWND</em>), conocida como la reina de las hadas,<em> </em>es la bondadosa y querida monarca elfa de @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawkGazet.JournalEntryPage.RGuWdlWj7PvscnWV#central-flanaess-culture]{Celene}. Criada en la corte de la <strong>@UUID[.fo9e7Z8Yzf0WMUM4]{Reina del Verano}</strong>, no deseaba gobernar: prefería la vida de una maga aventurera. Se ganó su reputación con hazañas como la captura del bandido fomoré Solgna y el robo de la espada consciente del <strong>@UUID[.Ae1DO4Y8HnNBFvjc]{Príncipe de la Escarcha}</strong>, <em>Destello Invernal</em>. Yolande estuvo entre los primeros elfos que emigraron de los Parajes Feéricos a la ambientación de Greyhawk.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7c452b9904bf83e34bfe97d211e2b58080f18aa4f48f259da1e53b4b93d3a19c": {
+    "translation": "Zagyg",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3c6a8174699c35b5fef923a6a20553545bfd5dc96f707de9cbabed42958669c6": {
+    "translation": "<p>El archimago Zagig Yragerne <em>(ZAG-igg EE-rag-airn) </em>fue un aventurero de la ambientación de Greyhawk y miembro de la <strong>@UUID[.Kklcuj7r91Ym1n3K]{Compañía de los Siete}</strong>. En la culminación de una larga y próspera carrera, construyó una fortaleza llamada Castillo Falcongrís a las afueras de la @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFreeCityOfGre]{Ciudad Libre de Falcongrís}. Desde allí adquirió un papel cada vez más poderoso en la política de la ciudad y contribuyó a su fama como «la gema de Flaenia». Excavó obsesivamente cada vez más hondo bajo su castillo y se aisló del mundo exterior hasta conseguir encerrar a nueve semidioses en prisiones mágicas y apropiarse de un fragmento de su poder divino. Ascendió a una forma menor de divinidad, adoptó el nombre de Zagyg y pasó a ocupar un lugar en la corte de Boccob, un dios de la magia.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e1a95ec6d47da6cf3bc157e60a28df3124c5a759be4305753abc57eaa96f219e": {
+    "translation": "Zargon",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "43f73b14c28915ed4c2e6ad6e01bbde0cc253cd4546e56b8a23e8722e545bfb3": {
+    "translation": "<p>Zargon <em>(ZAR-gawn)</em> es un <strong>@UUID[.hJvjfl6xRxurDUtn]{Mal Anciano}</strong>: una abominación inmortal de hace eones con un apetito insaciable. Es un horror tentaculado cubierto de cieno, con un único ojo rojo y un cuerno indestructible. Corrompe a las criaturas que no devora y transforma a sus víctimas en sirvientes amorfos. Zargon está encerrado en una prisión en las profundidades de la tierra del Plano Material, descrita en la antología de aventuras <em>Quests from the Infinite Staircase</em>.</p>",
+    "documents": [
+      "dmgALoreGlossary"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "681630a0423ac094fe27eb8f40d503fe10c67c73abbc03350a48c9a07fcb11d9": {
+    "translation": "Ejemplos de aventuras",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "daa676401568db830d6f1ad0f289d6c636bf9472c9f219448238e9af3f4d1080": {
+    "translation": "<p>Esta sección contiene aventuras de ejemplo que ilustran los principios descritos a lo largo del capítulo. Cada una proporciona información suficiente para dirigir una aventura de una sesión, con ayuda de los mapas del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBMaps00000000]{apéndice B} y de los perfiles de monstruos del <em>Manual de monstruos</em>.</p><p>Cada aventura de esta sección incluye la siguiente información:</p><p><strong>Título.</strong> El título de una aventura puede ayudarte a organizar tus notas de campaña y, si lo compartes con tus jugadores, a establecer el tono de lo que les espera.</p><p><strong>Nivel de los personajes.</strong> Cada aventura indica el nivel de los personajes a los que va dirigida. La dificultad de sus encuentros está ajustada para cuatro personajes de ese nivel. Puedes utilizarlas con personajes de nivel superior o inferior o con grupos más grandes o pequeños, pero los encuentros podrían resultar más fáciles o difíciles de lo esperado si no los ajustas.</p><p><strong>Situación.</strong> Cada aventura explica lo que sucede: la situación que los aventureros deben afrontar. Consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgLayOutThePrem.JournalEntryPage.dJFwJ0rXm0k7OMEQ]{Plantear la premisa}, al principio de este capítulo.</p><p><strong>Gancho.</strong> Cada aventura propone una forma de implicar a los personajes. Consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDrawInThePlay]{Implicar a los jugadores}, al principio de este capítulo.</p><p><strong>Encuentros.</strong> El resto de cada aventura describe una serie de encuentros. El texto presenta el lugar donde sucede cada uno, a menudo remitiendo a los mapas del apéndice B, y cualquier suceso que pueda desencadenarlo. Los nombres de monstruos en <strong>negrita </strong>remiten a sus perfiles del <em>Manual de monstruos</em>. Algunos encuentros también indican los tesoros que pueden encontrar los personajes.</p><p>Usa tu imaginación para dar vida a los lugares y encuentros y desarrollar las ideas que aporten los jugadores. Modifica libremente estos esquemas para adaptarlos a tus gustos, a los de tus jugadores y a tus ideas para la campaña.</p><aside class=\"notable\"><h3>Una campaña inicial</h3><p>Puedes utilizar estas aventuras para poner en marcha una campaña nueva. Están vinculadas a lugares cercanos a la @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFreeCityOfGre]{Ciudad Libre de Falcongrís}. Puedes dirigir las tres primeras en orden y hacer que los personajes suban un nivel tras cada aventura. Podrían regresar a su base en la ciudad entre aventuras o viajar a Falcongrís tras completar @UUID[.17Y145VmLb7x1nGQ]{El dios alado}. Usa sus encuentros e interacciones en estos primeros niveles y las situaciones que interesen a tus jugadores para planear las siguientes aventuras.</p></aside>",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "50ffbab66f9e77b714bda0a2cd46fc0d65525095f0ec451b67df4ade3b470a77": {
+    "translation": "El arroyo corrompido",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d20457c05e5e2cdd61bd992018fc92485533a8ff469bcd9910c71741abdc0a96": {
+    "translation": "<p class=\"Core-Styles_Core-Metadata\">Aventura para personajes de nivel 1</p><p><strong>Situación.</strong> Un hongo extraño en una cueva contamina el arroyo que pasa junto a la aldea de Alto Ery. El hongo ha engendrado criaturas malignas tanto dentro de la cueva como en sus alrededores.</p><p><strong>Gancho.</strong> Los habitantes de Alto Ery han observado hongos en las orillas del río y una capa de inmundicia sobre el agua. Los personajes podrían vivir en la aldea o recibir una petición de un contacto de la @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFreeCityOfGre]{Ciudad Libre de Falcongrís} para investigar.</p><h2>Encuentros</h2><p>La aventura consta de los siguientes encuentros.</p><p><em><strong>La primera bifurcación.</strong></em> A una milla río arriba de la aldea, un arroyo desemboca en el río desde un pequeño bosque de la orilla sur. Los personajes pueden darse cuenta de que este arroyo es el origen de la contaminación.</p><p><em><strong>Viaje río arriba.</strong></em> Arboroleda, un bondadoso @UUID[Compendium.dnd-monster-manual.actors.Actor.mmTreant00000000]{ent}, vigila el bosque y se encuentra con los personajes mientras siguen el arroyo contaminado. Sabe que el origen de la corrupción está en una cueva de la que nace el arroyo. Entrega a los personajes una bellota mágica que, al tragarse, proporciona los beneficios de una @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPotionOfHeali]{Poción de curación} y del conjuro @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLesserRest]{Restablecimiento menor}.</p><p><em><strong>Ramas marchitas.</strong></em> Justo fuera de la cueva, los personajes se encuentran con seis @UUID[Compendium.dnd-monster-manual.actors.Actor.mmTwigBlight0000]{ramas marchitas}.</p><p><em><strong>Cueva corrompida.</strong></em> Utiliza el mapa Madriguera de la Infraoscuridad del apéndice B. Ignora la puerta secreta y las cámaras interiores situadas tras ella. Cierra los túneles que salen del mapa hacia el sur, el este y el norte. Los personajes entran en la cueva por el sureste, siguiendo el arroyo. Sus principales características y habitantes son los siguientes:</p><p><strong>Entrada.</strong> Un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmShriekerFungus]{hongo chillón} situado justo dentro de la entrada alerta a los habitantes de la llegada de los personajes. Cerca de la entrada montan guardia cuatro @UUID[Compendium.dnd-monster-manual.actors.Actor.mmBullywugWarrio]{guerreros bullywugs} cubiertos de hongos, que responden rápidamente al grito del chillón.</p><p><strong>Oso furioso.</strong> En una cueva lateral al sureste hay un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmBrownBear00000]{oso pardo} que ha bebido del arroyo. Está alterado porque el agua lo ha enfermado. Si los personajes consiguen que coma la bellota de Arboroleda o le quitan de otra forma el estado de &amp;Reference[Poisoned], el oso se recupera de inmediato y los deja en paz.</p><p><strong>Guarida del cieno.</strong> En el extremo norte del arroyo hay un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmPsychicGrayOoz]{cieno gris psíquico} y seis @UUID[Compendium.dnd-monster-manual.actors.Actor.mmStirge00000000]{estirges}. Tras derrotarlos, los personajes pueden destruir el hongo con forma de cerebro que hay en el agua y que es el origen de la corrupción. Si lo hacen, cada personaje obtiene [[/award 100xp]] adicionales.</p><p><em><strong>De vuelta a casa.</strong></em> Al salir del bosque, los personajes vuelven a encontrarse con Arboroleda. Si han utilizado su bellota, les entrega otra. Si han purificado el nacimiento del arroyo, les regala un @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgStaffOfFlower]{Bastón de las flores} en agradecimiento.</p>",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "5ef85cc563a02c2df8390462521d154226b6fea7c1fbc794e3b753bcb5488890": {
+    "translation": "Las dificultades de los mineros",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f51cdd31d1758b42cceda14d554e086eee998be93cf483e79e276adce1c87d3c": {
+    "translation": "<p class=\"Core-Styles_Core-Metadata\">Aventura para personajes de nivel 2</p><p><strong>Situación.</strong> Después de que unos mineros excavaran hasta un túnel de la Infraoscuridad, un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmHookHorror0000]{horror ganchudo} entró en la mina y quedó atrapado. Ha devorado a varios mineros y los demás están demasiado aterrados por los chasquidos que resuenan en la mina como para dar caza al depredador.</p><p><strong>Gancho.</strong> La alcaldesa de la aldea de Rocanegra, Kristryd Quiebrayunque (una @UUID[Compendium.dnd-monster-manual.actors.Actor.mmToughBoss00000]{pendenciera} enana legal buena), contrata a los aventureros, quizá por lo bien que resolvieron la situación de @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAdventureExam.JournalEntryPage.5JFl3aizjNsUlCH3]{El arroyo corrompido}, para que se ocupen del monstruo de las minas. Ofrece un topacio precioso de 500 po a quienes maten o ahuyenten a la criatura.</p><h2>Encuentros</h2><p>La aventura consta de los siguientes encuentros.</p><p><em><strong>Exploración de la mina.</strong></em> Utiliza el mapa @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBMaps00000000.JournalEntryPage.CxnP0tB9lupvWdBg]{Mina}. Durante las semanas transcurridas desde que los mineros abandonaron el lugar, las alimañas han proliferado en los túneles. Cada vez que los personajes entren en una zona distinta de la mina, tira en la siguiente tabla.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgMinerDifficul rollable]</p><p><em><strong>Sonidos terroríficos.</strong></em> La primera vez que tenga lugar este encuentro, los personajes oyen espeluznantes chasquidos y arañazos que resuenan en los pozos de la mina y observan surcos en las paredes. La segunda vez encuentran el origen de los sonidos y las marcas: el @UUID[Compendium.dnd-monster-manual.actors.Actor.mmHookHorror0000]{horror ganchudo}. La criatura tiene hambre, pero lo que realmente desea es regresar a la Infraoscuridad. Se retira de un combate que le vaya mal.</p><p><em><strong>Conexión con la Infraoscuridad.</strong></em> El túnel de la esquina sureste del nivel inferior de la mina es donde los mineros conectaron por accidente con un pasaje de la Infraoscuridad. El horror ganchudo entró por un agujero en la pared que quedó cerrado tras él por un derrumbe. Si los personajes retiran los escombros, oyen chasquidos y arañazos al otro lado. El horror ganchudo también los oye y se apresura a reunirse con los suyos. Mientras no se interpongan en su camino, ignora a los personajes y atraviesa el agujero para no volver a amenazar la mina. Cada personaje obtiene entonces [[/award 200xp]] adicionales.</p>",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "44037206b20ad68ead024ac98b3b150dbd379d6982a205b4101fa479eefc1826": {
+    "translation": "El dios alado",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7ceb1f14f0a10b13ae1f5f17430cc46ee9b520375428c5686e03bbbe800e20e7": {
+    "translation": "<p class=\"Core-Styles_Core-Metadata\">Aventura para personajes de nivel 3</p><p><strong>Situación.</strong> Hace unas semanas, una @UUID[Compendium.dnd-monster-manual.actors.Actor.mmRedDragonWyrml]{cría de dragón rojo} expulsó a un grupo de kobolds de su madriguera para convertirla en su guarida. Ahora algunos de esos kobolds causan problemas en las Colinas de los Túmulos: asaltan a mercaderes con la esperanza de que el dragón les permita volver a su hogar como siervos leales.</p><p><strong>Gancho.</strong> Un mercader llamado Nondy Barducks (un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmCommoner000000]{plebeyo} gnomo legal neutral) contrata a los personajes para escoltar su carro hasta la remota aldea minera de Lago Diamante, situada cerca de la nueva guarida del dragón. Unos kobolds lo robaron en su último viaje y esta vez quiere protección. Ofrece pagar 150 po a cada personaje.</p><h2>Encuentros</h2><p>La aventura consta de los siguientes encuentros.</p><p><em><strong>Bandidos kobolds.</strong></em> Durante el viaje, ocho @UUID[Compendium.dnd-monster-manual.actors.Actor.mmKoboldWarrior0]{guerreros kobolds} neutrales rodean el carro y exigen al mercader que entregue sus bienes. En combate gritan cosas como «¡Por el Dios Alado!» y «¡Luchad para recuperar nuestro hogar!». Si cuatro caen en combate, los restantes intentan huir. Cualquier kobold capturado explica la situación.</p><p><em><strong>Kobolds suplicantes.</strong></em> Si los personajes continúan su camino sin perseguirlos, doce @UUID[Compendium.dnd-monster-manual.actors.Actor.mmKoboldWarrior0]{guerreros kobolds}, incluidos los supervivientes del primer encuentro, y seis @UUID[Compendium.dnd-monster-manual.actors.Actor.mmWingedKobold00]{kobolds alados}, todos neutrales, se acercan al carro. Piden humildemente ayuda a los aventureros y prometen devolver los bienes robados a Nondy si ahuyentan al dragón.</p><p><em><strong>Campamento kobold.</strong></em> Si siguen a los kobolds que huyen, los aventureros encuentran su campamento en un afloramiento rocoso cercano. Allí los kobolds no luchan, sino que les suplican ayuda, como en «Kobolds suplicantes».</p><p><em><strong>Guarida del dragón.</strong></em> Utiliza el mapa Cuevas volcánicas del apéndice B, pero cierra algunos pasadizos para que la guarida sea pequeña. Cerca de la entrada, los personajes se encuentran con cuatro @UUID[Compendium.dnd-monster-manual.actors.Actor.mmMagmaMephit000]{mefits de magma} y tres @UUID[Compendium.dnd-monster-manual.actors.Actor.mmSmokeMephit000]{mefits de humo}, atraídos por la magia del dragón.</p><p>En la cueva interior, la problemática @UUID[Compendium.dnd-monster-manual.actors.Actor.mmRedDragonWyrml]{cría de dragón rojo} descansa sobre su pequeño tesoro:</p><ul><li class=\"List-Styles_List-Item-Bulleted\">Una caja con los bienes robados a Nondy, valorados en 400 po</li><li class=\"List-Styles_List-Item-Bulleted\">4.200 pc, 2.000 pp y 180 po</li><li class=\"List-Styles_List-Item-Bulleted\">Siete gemas de 50 po cada una</li><li class=\"List-Styles_List-Item-Bulleted\"><em>@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPotionOfHeali]{Poción de curación}</em></li><li class=\"List-Styles_List-Item-Bulleted\"><em>@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgRopeOfClimbin]{Cuerda de escalada}</em></li><li class=\"List-Styles_List-Item-Bulleted\">Dos <em>Pergaminos de conjuro</em> (<em>Alarma</em> y <em>Comprensión idiomática</em>)</li></ul><p>Si los personajes derrotan o ahuyentan al dragón, cada uno obtiene [[/award 400xp]] adicionales.</p>",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e6b9cfc140393ff150cecd613229dceef6d83a982d41bb2563a1c0a1cc500259": {
+    "translation": "Los cuernos de la bestia",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d10dc4284787d7b918fc22a92f1de9e5315ca57b881000b0e1bfde1537f3e46f": {
+    "translation": "<p class=\"Core-Styles_Core-Metadata\">Aventura para personajes de nivel 5</p><p><strong>Situación.</strong> Se rumorea que unas ruinas olvidadas albergan un artefacto infernal llamado <em>Cuernos de la bestia</em>. Un villano pretende apoderarse de él y emplearlo con fines terribles.</p><p><strong>Gancho.</strong> Un modesto mercader humano llamado Melchis, en secreto un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmFiendCultist00]{sectario infernal} caótico malvado devoto de Iuz, contrata a los personajes para escoltarlo en una expedición a un antiguo templo perdido en la jungla. Les ofrece un total de 2.000 po en lingotes comerciales, la mitad al llegar al templo y la otra mitad al regresar a salvo a la civilización. Promete ayudarlos con lo que él describe como «una capacidad mágica limitada».</p><h2>Encuentros</h2><p>Puedes utilizar el mapa desplegable del mundo de Greyhawk para esta aventura. El templo está cerca del extremo sur del mapa, en la Jungla de Amedio. El viaje transcurre en tres etapas (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgRunningExplor.JournalEntryPage.QrGAynDfEKmKX14L]{Viajes}) y culmina con el descubrimiento de las ruinas y el artefacto.</p><p><em><strong>Etapa 1</strong></em><strong>.</strong> Melchis alquila un barco para llevar al grupo a la Jungla de Amedio. Usa el mapa para calcular la duración del viaje según el punto de partida, teniendo en cuenta que el barco recorre aproximadamente 1½ hexágonos al día. Cerca del final del viaje, al cruzar la Bahía de Jeklea, un grupo de sahuagins hostiles ataca el barco: dos @UUID[Compendium.dnd-monster-manual.actors.Actor.mmSahuaginPriest]{sacerdotes sahuagins}, seis @UUID[Compendium.dnd-monster-manual.actors.Actor.mmSahuaginWarrio]{guerreros sahuagins} y un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmWaterElemental]{elemental de agua}. Supón que la tripulación se mantiene alejada de estos monstruos aterradores y deja que los personajes y Melchis afronten la amenaza. La etapa 1 termina cuando Melchis y los personajes llegan a la costa remando en un bote.</p><p><em><strong>Etapa 2</strong></em><strong>.</strong> Melchis guía a los personajes por la jungla hacia la orilla del lago. Esta etapa cubre unas 180 millas de bosque denso. Cada día, tira una vez en la siguiente tabla para determinar qué encuentran durante el trayecto, si es que encuentran algo.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgHornsOfTheBea rollable]</p><p><em><strong>Etapa 3.</strong></em> Al llegar al lago, Melchis los guía hacia el suroeste por la orilla hasta encontrar las ruinas. Esta etapa cubre 90 millas de terreno costero. El segundo día, una lluvia intensa dificulta la visión y crea pozos de arenas movedizas (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.xgLA30rErlkjIPAK]{Efectos ambientales} y @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.lVkdQivhFHqVmxg7]{Peligros}). La primera fila del grupo podría caer en un pozo de arenas movedizas mientras dos @UUID[Compendium.dnd-monster-manual.actors.Actor.mmGiantCrocodile]{cocodrilos gigantes} atacan a la vez. El resto del viaje transcurre sin incidentes.</p><p><em><strong>Las ruinas.</strong></em> Utiliza la mitad occidental de la planta baja del mapa @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBMaps00000000.JournalEntryPage.wVL4JytyIFxNWKZY]{Escondite en una mazmorra} del apéndice B e ignora las escaleras a los niveles inferiores. En las ruinas viven seis @UUID[Compendium.dnd-monster-manual.actors.Actor.mmMinotaurOfBaph]{minotauros de Baphomet}, hostiles hacia todos los intrusos. Están repartidos por las ruinas, pero acuden rápidamente al oír un combate.</p><p><em><strong>El artefacto.</strong></em> Los <em>Cuernos de la bestia</em>, una corona dentada hecha con cuernos de demonios y animales salvajes, reposan sobre un pedestal en la esquina noroeste de las ruinas. Melchis intenta de inmediato apoderarse del artefacto y ponérselo en la cabeza. Si lo consigue, se transforma en un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmHezrou00000000]{hezrou} e intenta matar a los personajes. Un personaje que se ponga el artefacto queda maldito con posesión demoníaca (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.PsUeY10v8e07V3g2]{Maldiciones y contagios mágicos}). El artefacto no puede retirarse de su cabeza hasta que se lance sobre él el conjuro <em>Levantar maldición</em>. Si derrotan a Melchis y lo registran, encuentran una <em>@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgBagOfHolding0]{Bolsa de contención}</em> con doce lingotes comerciales de oro de 5 libras, valorados en 250 po cada uno, y un <em>Pergamino de conjuro</em> de <em>Círculo de teletransportación</em>. El pergamino también contiene la secuencia de sellos de un círculo de teletransportación permanente. Al concluir la aventura, cada personaje obtiene [[/award 1000xp]] adicionales.</p><p><em><strong>Destruir el artefacto.</strong></em> Los <em>Cuernos de la bestia</em> solo pueden destruirse arrojándolos al @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCosmology0000.JournalEntryPage.T2dIePvU6Bz9AvVB#river-oceanus]{río Océano}, que fluye por los Planos Superiores. Un personaje puede descubrirlo lanzando <em>Identificar</em> sobre el artefacto.</p>",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "748a2c9f78712f49d5c5071e00cf853a9c5d18562e8d11c95cd390373443b3a7": {
+    "translation": "El baile boreal",
+    "documents": [
+      "dmgAdventureExam",
+      "dmgCh4ArtHandout"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d53760c7121bf5257a87bb0bc2232d416ca7acb682b7d6d2afeddef6fe0bfe58": {
+    "translation": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh4ArtHandout.JournalEntryPage.Q5WsufxMP7V8vMhS]</p><p>Aventura para personajes de nivel 7</p><p><strong>Situación.</strong> El barón del Baile Boreal, un noble menor de los Parajes Feéricos, celebra un baile sin fin en su palacio de hielo. Tras los festejos, el baile es escenario de intrigas y conspiraciones.</p><p><strong>Gancho.</strong> Los aventureros reciben una invitación mágica al Baile Boreal que teletransporta al grupo a la fiesta a la hora señalada.</p><h2>Encuentros</h2><p>La aventura se desarrolla a lo largo de tres bailes. En cada uno, los personajes pueden bailar, relacionarse con otros invitados, observar a los bailarines o realizar otra actividad. El mapa Mansión del apéndice B puede servir como plano del palacio. Cada personaje tiene la oportunidad de ganar prestigio para el grupo (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.QnYXlS4TpZlmqSt2]{Prestigio}) causando una buena impresión a quienes trate: un posible aumento de 1 en la puntuación de prestigio por personaje y baile. Estos invitados les prestan especial atención:</p><ul><li>Cannifer es un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmSatyrRevelmast]{gran vividor sátiro} acostumbrado a ser el centro de atención en todos los bailes a los que asiste, por lo que se muestra hostil hacia los aventureros.</li><li>Daris es una @UUID[Compendium.dnd-monster-manual.actors.Actor.mmDryad000000000]{dríade} amistosa y amante de la diversión que quiere que la vean bailar con todos los aventureros.</li><li>Zarandilla es una @UUID[Compendium.dnd-monster-manual.actors.Actor.mmPixie000000000]{pixie} juguetona e indiferente que molesta a los aventureros con bromas durante toda la velada, sin causarles daño real.</li><li>Yaya Víbora es una @UUID[Compendium.dnd-monster-manual.actors.Actor.mmGreenHag000000]{saga cetrina} hostil que ve a los aventureros como herramientas potencialmente útiles. Les ofrece ayuda a cada paso con la esperanza de que queden en deuda con ella.</li><li>Raxas Albrethin es un arrogante @UUID[Compendium.dnd-monster-manual.actors.Actor.mmMage0000000000]{mago} drow caótico neutral, inicialmente hostil, que quiere ver humillados a los aventureros. Sin embargo, cuando su puntuación de prestigio llega a 6, admite que los ha juzgado mal y se vuelve amistoso.</li></ul><p><em><strong>Interrupción descortés.</strong></em> Tras el segundo baile, Varka, un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmHobgoblinWarlo]{señor de la guerra hobgoblin} neutral malvado, interrumpe la fiesta acompañado de un @UUID[Compendium.dnd-monster-manual.actors.Actor.mmHobgoblinCapta]{capitán hobgoblin} y cinco @UUID[Compendium.dnd-monster-manual.actors.Actor.mmHobgoblinWarri]{guerreros hobgoblins}. Ofendidos por la presencia de los aventureros, los atacan. Si los personajes derrotan a los hobgoblins, su puntuación de prestigio aumenta en 2.</p><p><em><strong>Conclusión.</strong></em> Tras tres bailes aparece el barón del Baile Boreal. Si la puntuación de prestigio del grupo es al menos 6, concede a cada personaje un @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgCharmOfTheBor]{Sortilegio del baile boreal}. Este sortilegio (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.U9qU1oUFTPAK7g50]{Dones sobrenaturales}) permite lanzar la versión de nivel 3 del conjuro <em>Cuchillo de hielo</em>. Tras usarlo, el sortilegio desaparece. Cada personaje también obtiene [[/award 1700xp]] adicionales.</p>",
+    "documents": [
+      "dmgAdventureExam"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "cfc1ad2d1a940ab8513e5d9920a2ff57f6d5a258659b6510be3ffbde5c789825": {
+    "translation": "Recompensas de aventuras",
+    "documents": [
+      "dmgAdventureRewa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "72d648405aeb47c579764e34592bb1893b32ef6333432b65a6678cdd9c6e64ef": {
+    "translation": "<p>Para algunos personajes, la perspectiva de una recompensa material es el principal motivo para vivir aventuras. Para otros, es un beneficio adicional bienvenido mientras persiguen otros objetivos.</p><p>El @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTreasure00000]{capítulo 7} describe distintos tipos de tesoro, pero también puedes consultar @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.XpmEG4yalu71L9ed]{Muestras de prestigio}, en el capítulo 3, para conocer otras recompensas.</p><p>Los siguientes apartados explican cómo suele repartirse el tesoro en una aventura.</p>",
+    "documents": [
+      "dmgAdventureRewa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d90133fa02d4f048073ed138fe9c629213dce55a2ab1b8171ae5351d6f49cce1": {
+    "translation": "Tesoro individual",
+    "documents": [
+      "dmgAdventureRewa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "156a95e0d9f8cc1d2a737a98667e90ac3c757c39a75c5db987103b842a794c27": {
+    "translation": "<p>Los personajes pueden encontrar pequeñas cantidades de tesoro en los bolsillos, bolsas o escondites personales de monstruos individuales. Aunque un monstruo no reúna tesoros de forma deliberada, pueden encontrar monedas dispersas y otros tesoros monetarios abandonados por sus víctimas anteriores.</p><p>Puedes usar la tabla Tesoro individual aleatorio para determinar cuánto tesoro tiene un monstruo según su valor de desafío (VD). La tabla incluye el total medio entre paréntesis, que puedes usar en lugar de tirar. Para calcular el tesoro total de un grupo de criaturas similares, puedes tirar una vez y multiplicar el resultado por el número de criaturas.</p><table><caption>Tesoro individual aleatorio</caption><thead><tr><th><p>VD</p></th><th><p>Tesoro</p></th></tr></thead><tbody><tr><td><p>0–4</p></td><td><p>[[/award 3d6gp]] (10 po)</p></td></tr><tr><td><p>5–10</p></td><td><p>[[/award 2d8*10gp]] (90 po)</p></td></tr><tr><td><p>11–16</p></td><td><p>[[/award 2d10*10pp]] (110 ppt)</p></td></tr><tr><td><p>17+</p></td><td><p>[[/award 2d8*100pp]] (900 ppt)</p></td></tr></tbody></table>",
+    "documents": [
+      "dmgAdventureRewa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "357bd6822cdf764a333122a474e57088160c7de02bdc3edc8931e4cace02136b": {
+    "translation": "Tesoros acumulados",
+    "documents": [
+      "dmgAdventureRewa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a3a31042fd65557d38f3da6386caa430d04a8b1ebed9e280bb4ae25d99fecc1a": {
+    "translation": "<p>En ocasiones, los aventureros descubren grandes reservas de tesoro: la riqueza acumulada por un grupo numeroso de criaturas o las posesiones de una sola criatura poderosa que atesora objetos valiosos. La tabla Tesoro acumulado aleatorio puede ayudarte a crearlas. Para determinar el contenido del tesoro de un monstruo, usa la fila de su valor de desafío (VD). Si el tesoro pertenece a un grupo numeroso, usa el VD del monstruo que lo dirige. Cada fila incluye resultados medios para el tesoro monetario, que puedes usar en lugar de tirar. Para crear un tesoro de un monstruo especialmente aficionado a acumular riquezas, como un dragón, puedes tirar dos veces en la tabla o tirar una vez y duplicar el total.</p><p>Como orientación general, procura tirar en la tabla Tesoro acumulado aleatorio aproximadamente una vez por sesión de juego. Usa las indicaciones del capítulo 7 para determinar los objetos mágicos del tesoro (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgMagicItems000.JournalEntryPage.FD4qYfk5uK3MbytC]{Conceder objetos mágicos} y @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgMagicItemList.JournalEntryPage.1asrgLIXBkZK96Uz]{Objetos mágicos aleatorios}).</p><table><caption>Tesoro acumulado aleatorio</caption><thead><tr><th><p>VD</p></th><th><p>Tesoro monetario</p></th><th><p>Objetos mágicos</p></th></tr></thead><tbody><tr><td><p>0–4</p></td><td><p>[[/award 2d4*100gp]] (500 po)</p></td><td><p>[[/r 1d4−1]]{1d4 − 1}</p></td></tr><tr><td><p>5–10</p></td><td><p>[[/award 8d10*100gp]] (4.400 po)</p></td><td><p>[[/r 1d3]]</p></td></tr><tr><td><p>11–16</p></td><td><p>[[/award 8d8*1000gp]] (36.000 po)</p></td><td><p>[[/r 1d4]]</p></td></tr><tr><td><p>17+</p></td><td><p>[[/award 6d10*10000gp]] (330.000 po)</p></td><td><p>[[/r 1d6]]</p></td></tr></tbody></table>",
+    "documents": [
+      "dmgAdventureRewa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6efb9820872af3bcff42cc19375027f5835b35b65f691d4c0a337e46ba1fdba5": {
+    "translation": "Recompensas de misiones",
+    "documents": [
+      "dmgAdventureRewa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "628e14789702e275c8fd725ee12a54a2d7d24357b512561b052ab8929dcb553f": {
+    "translation": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh4ArtHandout.JournalEntryPage.6i0mlLzRlAWvu13R]</p><p>A veces, los personajes reciben un pago por completar una misión. Para determinar una recompensa adecuada, tira una vez en la @UUID[.BPBTY8qIVTjIZ9Zl]{tabla Tesoro acumulado aleatorio}, usando el nivel de los personajes como valor de desafío (VD).</p>",
+    "documents": [
+      "dmgAdventureRewa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "12c32d4c01a0a9bce50ade15edc259a8cd9676dedc7e83be9aa32175caa17ecc": {
+    "translation": "Preferencias de tesoro de los monstruos",
+    "documents": [
+      "dmgAdventureRewa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "908488e8a80b072c21559e603cf6d263c82adda57a47e5fb8c197d953a84bfcb": {
+    "translation": "<p>El <em>Manual de monstruos</em> indica las preferencias de tesoro de sus monstruos, clasificadas de la siguiente manera:</p><p><strong>Cualquiera.</strong> El monstruo posee un tesoro acumulado, cuyo contenido puedes determinar tirando en la @UUID[.BPBTY8qIVTjIZ9Zl]{tabla Tesoro acumulado aleatorio}. El tesoro monetario puede consistir en @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTreasure00000.JournalEntryPage.lHIlmKsXY7Z6vc4p]{monedas}, @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTreasure00000.JournalEntryPage.alHxModFLga80BOe]{lingotes comerciales}, @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTreasure00000.JournalEntryPage.ctRdFYRoxmYc5yh5]{mercancías}, @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTreasure00000.JournalEntryPage.mctHyBqXCIxHZoHN]{gemas} u @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTreasure00000.JournalEntryPage.zueK5h0fQ5iiYoUB]{objetos de arte}. Los objetos mágicos pueden pertenecer a cualquier temática o categoría (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTreasure00000.JournalEntryPage.fQpftaSbOhQlbEJK]{Temáticas de tesoro} y @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgMagicItems000.JournalEntryPage.ECu9eaTCA5POlB30]{Categorías de objetos mágicos}).</p><p><strong>Individual.</strong> El monstruo no posee un tesoro acumulado, pero puede tener tesoro monetario, que puedes determinar tirando en la tabla Tesoro individual aleatorio. Puede consistir en monedas, lingotes comerciales, mercancías, gemas u objetos de arte.</p><p><strong>Temática de tesoro (arcanos, armamento, utensilios o reliquias).</strong> El monstruo posee un tesoro acumulado orientado a una temática concreta (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTreasure00000.JournalEntryPage.fQpftaSbOhQlbEJK]{Temáticas de tesoro}). Puedes determinar su tamaño tirando en la tabla Tesoro acumulado aleatorio. Si contiene objetos mágicos, usa las indicaciones y tablas del capítulo 7 para determinar cada uno.</p>",
+    "documents": [
+      "dmgAdventureRewa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e942d462e5c73aa3cb1a460e6a6b7c9d4a687450d724d4dbba276f13f032e3df": {
+    "translation": "Ilustraciones de los apéndices",
+    "documents": [
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e89a862f72739183cafd41de7b6e4298ba06e15cbea2a499b2e2468c9b58ebd4": {
+    "translation": "Acerak",
+    "documents": [
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "43f529227358f89e5b0a13739e29ea1feb2bae508cfd111736a82368383aeada": {
+    "translation": "La Gran Marcha de los Modrones",
+    "documents": [
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1df7dedc6162be2ef9c5d86ee9aa7e000081175cad0472525d9ac86299cc446d": {
+    "translation": "Iggwilv, Tasha",
+    "documents": [
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "0c29b23cbec6d1bbcc94bb0b5f58b1b9c7fb6852d6f745b5350464019fba819a": {
+    "translation": "La maga Tasha, antes de convertirse en Iggwilv, la Reina Bruja.",
+    "documents": [
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "347b4ec8800cc16a0887639680f562b095f66b382e94b46e4dfee1cc7dea1d94": {
+    "translation": "El Príncipe de la Escarcha",
+    "documents": [
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2467678eb4812456c7368da788800e14ce063a56ed05d646534980f120efe49e": {
+    "translation": "La Reina Cuervo",
+    "documents": [
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b8bf2c92564fbf4dbd3ab61e80e943ebdffbbbdd02b5b24af830c7424c80edce": {
+    "translation": "La Reina del Verano",
+    "documents": [
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a2cebe48c28a903a0c6473ded474ddea565965e5c4d7e7a46278e6eed24d4483": {
+    "translation": "Xanathar es un señor del crimen tiránico, además de un contemplador.",
+    "documents": [
+      "dmgAppendixArtHa"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "8366dc9884522ff4cbe66c97e8c11aceb5319293e9e40f49b1ea47e3995a565b": {
+    "translation": "Apéndice B: Mapas",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ee9ab596b7153bebbe9aab426538fcfa8e7998ab05e653c4a16649d22508c2e9": {
+    "translation": "Cripta de túmulo",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a6b7a4cc4e3589852cdf2ab498cac2821b1015eeb51d7f05a0fc27a4a712a3f4": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgBarrowCrypt00]{Cripta de túmulo}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/barrow-crypt-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "929450f8387fb8b29ab900491be58289150a19ebe1b4076205bd297da43a4b42": {
+    "translation": "Campamento de caravana",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ccebf6a323a8363f5f337aca5703ad72c156945d8d3c6457b17d9c4a8640bfa1": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgCaravanEncamp]{Campamento de caravana}</p><h2>Vista de la escena</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/caravan-encampment.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "729ad133ded19255a1c8931fec8c13216ea74b7af9f6eeb520789b57abf2a4e1": {
+    "translation": "Aldea en una encrucijada",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a4bcb433f6a0eb2ed17f4ab8f55978e22204fb03f50a869b59157c666519b919": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgCrossroadsVil]{Aldea en una encrucijada}</p><h2>Vista de la escena</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/crossroads-village.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "8f045895a7852a1d88e11416b8daf56881a073e9f96f744e0700a6508af68a48": {
+    "translation": "Guarida de dragón",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b092990cf59d746700744a9440fe5d95c8f6b892636232eca36c8a0d7a1042bb": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgDragonsLair00]{Guarida de dragón}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/dragons-lair-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "da6ddb76916818c148b472dbba9fa7f1d69a926c4cb59b8600ad27135ca1b7ea": {
+    "translation": "Escondite en una mazmorra",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c91d5366e5254d0c05edc7a85a1b4c2b5fb6d441e4553d10de715a2ee4e87a5e": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgDungeonHideou]{Escondite en una mazmorra}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/dungeon-hideout-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d9e73bd52ef8e10ce39d879e722b064fbbae94f920b832fec03c38c18e9e544c": {
+    "translation": "Granja",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bd7473a7584154e7e6a57590f56a104db7f665963b4ee89c234df3c29a6d63ae": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgFarmstead0000]{Granja}</p><h2>Vista de la escena</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/farmstead.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "183f00f483d3844e875d26eac74c676054383aef38ed5a8e4d1505ef21008585": {
+    "translation": "Torreón",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "fb93695adf2043ac3c35ef3aef39354e0b1235cba7c31609ef3c5747e1d31b0a": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgKeep000000000]{Torreón}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/keep-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "e9ca0299dded6ed824cca9d99682e5d6615559399936f5a7af17814e94af3963": {
+    "translation": "Mansión",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3ed2ad37701614effbe798597dbf2bdd7280503a8b66335dfd209fbe4cda81d5": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgManor00000000]{Mansión}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/manor-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f57afb7d275a26df0de0e933b28c16f2462e84c09ad605945a4c6163f2be3baa": {
+    "translation": "Mina",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4c5fde5eff04665293a41d907147071ef8f3f17ff70b387c02598275208df59b": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgMine000000000]{Mina}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/mine-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b7fb041e298164e0cc1ee552eeb5f476b30fb7ad4c34a7a5427c7b3dda0dfdf4": {
+    "translation": "Posada junto al camino",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "30dfab46bdf35ebb5bb4d0c5b3b3a7cf02c0cea17484e70c1c0a5588829b4868": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgRoadsideInn00]{Posada junto al camino}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/roadside-inn-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "40970cf7b5e2e4deffe19b3447affc897de1f9ee34b8a391cf6975be024e2ed1": {
+    "translation": "Barco",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "20d7561b8319b3d0ffc05b4284ad0ffb36102ff78823cb7ad239caea3be9fe2e": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgShip000000000]{Barco}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/ship-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "15c4b28eb3bc6f0c38c71114aebef3083a0473faa432b3f26bcadab77ef96a03": {
+    "translation": "Casa espeluznante",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "47defd6f15c584e9e70b69e514f2dd4afe220ac6f8c57ac2df7d0508991ad6a3": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgSpookyHouse00]{Casa espeluznante}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/spooky-house-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "2a5bbf509529e1e7dfdadb5f851344035d20f7165ac5e8f81c28c1c92c375713": {
+    "translation": "Madriguera de la Infraoscuridad",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "cf83eae1de5b08cc68864eb9f70e7a9e36ed542a2bf7418107fca16720dd0072": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgUnderdarkWarr]{Madriguera de la Infraoscuridad}</p><h2>Vista de la escena</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/underdark-warren.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "344748812d27c311b4e589c5581a39a305dc33f8dfc2138cbe8be5124145cbdb": {
+    "translation": "Cuevas volcánicas",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ebf6373dfaa7e9e5be9c0d79b4ab857280b0aa4a2edd6db469216698c244a714": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgVolcanicCaves]{Cuevas volcánicas}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/volcanic-caves-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6000f0005011bf96581e0687b70880360457b9405d347224c7e1572946b54068": {
+    "translation": "Torre de magos",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "67b8ec4704eb724b118f4de278d7e8328332ed44eb68a1d2070fa893c5334e50": {
+    "translation": "<p><strong>Escena:</strong> @UUID[Compendium.dnd-dungeon-masters-guide.scenes.Scene.dmgWizardsTower0]{Torre de magos}</p><h2>Vista del DM</h2><img src=\"modules/dnd-dungeon-masters-guide/assets/scenes/wizards-tower-dm.webp\" />",
+    "documents": [
+      "dmgBMaps00000000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "4a71affabde7552c079ef94b313214af2357c43556bb31613486f05b98307d44": {
+    "translation": "Bastiones",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d6c155fd1caebbc889884b7915ac2ebbc472d6d44a118e032cd6a19aa4d8c0ba": {
+    "translation": "Obtener un bastión",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "6eec1628697e48338ee91d0a97b5011dc573cf4af5e4332b8b3ead9fbc8d08cb": {
+    "translation": "<p>Si permites bastiones en tu campaña, los personajes los adquieren al alcanzar el nivel 5. Tú y los jugadores podéis decidir cómo se crean. Un personaje podría heredar o recibir un terreno en el que construir su bastión (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.XpmEG4yalu71L9ed]{Muestras de prestigio}) o reformar una estructura existente. Puedes suponer que las obras han avanzado en segundo plano durante sus primeras aventuras, de modo que el bastión esté listo al alcanzar el nivel 5.</p><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/vtt-512.png\" /></figure><article><h3>Bastiones en las hojas de personaje</h3><p>Para habilitar los bastiones, abre la pestaña <span class=\"reference\"><em class=\"fas fa-cogs\"> </em></span> Ajustes, pulsa <span class=\"reference\"><em class=\"fas fa-cogs\"> </em>Configurar preferencias</span>, abre <span class=\"reference\"><em class=\"fas fa-chess-rook\"> </em>Configurar Bastiones</span> y marca <span class=\"reference\">Activar la Funcionalidad de Bastión</span>. También puedes activar <span class=\"reference\"><em class=\"fas fa-chess-rook\"> </em>Mostrar Botón de Turno del Bastión</span>, que añade el botón <span class=\"reference\">Advance Bastion Turn</span> en la esquina inferior izquierda de la interfaz, sobre la lista de jugadores, y configurar los días entre turnos de bastión.</p><p>Cuando esté habilitado, al llegar al nivel 5 los personajes tendrán una pestaña Bastión en su hoja con información sobre sus instalaciones, instalaciones especiales, empleados y defensores. Desde ella podrán dar órdenes, cambiar el tamaño de las instalaciones y realizar otras gestiones.</p></article></section><p>Cada jugador decide la forma, el estilo y la función del bastión de su personaje. Por ejemplo, un mago podría construir una torre; un clérigo, un santuario; un guerrero, un torreón fortificado o una fortaleza similar; y un pícaro, una casa gremial o un pabellón. Los personajes de otras clases pueden elegir una de estas formas o combinarlas: el bastión de un paladín podría parecerse al santuario de un clérigo, pero estar tan fortificado como la fortaleza de un guerrero. Varios personajes también pueden unir sus bastiones en una sola estructura grande (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000.JournalEntryPage.g54ZbPuk3pmRzRpS]{Mapa del bastión}).</p><p>Todos los bastiones tienen instalaciones que cubren las necesidades básicas y otras especiales, como bibliotecas, casas de fieras y talleres (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000.JournalEntryPage.egGwpYfZ81d1AZps]{Instalaciones básicas} e @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000.JournalEntryPage.9F2xr2BLwvCHCAie]{Instalaciones especiales}).</p>",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "7f4697b44b265bdad870af84a8e67632fd3e13b8cb531f2ee83cac5f539759ac": {
+    "translation": "Turnos de bastión",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "bb193e4cdda3fefafe4433f9510ef6465f33b49dd954c942337dedbe4652e850": {
+    "translation": "<p>Con el paso del tiempo en la campaña, los jugadores realizan turnos de bastión para reflejar la actividad de sus bastiones, estén o no presentes sus personajes. En cada turno, un personaje puede dar órdenes a sus instalaciones especiales o dar la orden Mantener a todo el bastión (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000.JournalEntryPage.mGsmnl2Tqkc3GUlU]{Órdenes}).</p><h2>Frecuencia de los turnos de bastión</h2><p>Por defecto, hay un turno de bastión cada 7 días de tiempo de juego. Estos son ejemplos habituales de cuándo resolver uno o varios turnos:</p><ul><li>Los personajes hacen un viaje largo lejos de sus bastiones. Tras 7 días de ausencia, podrías decir: «Es hora de un turno de bastión. Como no estáis allí, supondremos que dais la orden Mantener». Después tira para determinar los eventos, como se describe en @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000.JournalEntryPage.KiujX8sthhH791vM]{Eventos de bastión}, en este capítulo.</li><li>Los personajes pasan 7 días o más en sus bastiones entre aventuras. Podrías decir: «Tenéis seis semanas para estar en vuestros bastiones. Resolved seis turnos de bastión».</li><li>Los personajes regresan a sus bastiones en medio de una aventura. Podrías decir: «Tenéis el tiempo justo para resolver un turno de bastión antes de volver a partir por la mañana».</li><li>Los personajes viven aventuras cerca de sus bastiones y descansan allí por la noche. Podrías decir: «Ha pasado una semana desde vuestro último turno de bastión, así que podéis resolver otro».</li></ul><p>Puedes reducir la frecuencia de los turnos para adaptarlos a tus jugadores y a la campaña. Por ejemplo, si transcurren meses entre aventuras, puedes resolver un turno al mes en lugar de cada 7 días, para que los personajes no den tantas órdenes ni obtengan demasiados beneficios de golpe.</p>",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "fb91d0c589b56bd1725b0e48ff694e424fa711c6a33bf35d18becb71c72eac74": {
+    "translation": "Mapa del bastión",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ae1cab85da3d8d6cd966e296a4d00cd5ebcf5db41388641a3798209da35bc75c": {
+    "translation": "<p>Anima a los jugadores a dibujar planos de los bastiones de sus personajes, distribuyendo las instalaciones a su gusto y usando las mismas técnicas con las que creas mapas de mazmorras (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.cAULYgJV0ZDbHOy1]{Mazmorras} y @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgLayOutThePrem.JournalEntryPage.js9l546Rt1cRdNXk#adventure-maps]{Mapas de aventuras}).</p><p>Además de instalaciones básicas y especiales, descritas más adelante, un bastión puede tener los siguientes elementos:</p><p><strong>Armarios.</strong> Una instalación básica o especial puede tener uno o varios armarios, aseos o recintos similares. Deben estar dentro de ella y no pueden aumentar su superficie en casillas. Son gratuitos.</p><p><strong>Pasillos, rampas y escaleras.</strong> Una instalación puede contener uno o varios pasillos, rampas o escaleras que conduzcan a otras instalaciones del bastión. Son gratuitos.</p><p><strong>Murallas defensivas.</strong> Un personaje puede rodear su bastión con murallas defensivas. Cada muralla mide 20 pies de altura y puede incluir una pasarela superior y un medio de acceso, como una escalera o un elevador. Cada casilla de 5 pies de muralla tarda 10 días en construirse y cuesta 250 po. Si el bastión está completamente rodeado de murallas defensivas y sufre un ataque (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000.JournalEntryPage.KiujX8sthhH791vM]{Eventos de bastión}, al final del capítulo), reduce en 2 el número de dados que se tiran para determinar cuántos defensores del bastión se pierden.</p><p><strong>Puertas y ventanas.</strong> Cada instalación incluye una o varias puertas y ventanas con contraventanas, situadas donde el jugador prefiera. Consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.yikJniojZy6OTkRZ]{Puertas} para elegir tipos, como puertas cerradas con llave, puertas secretas y rastrillos. Estos elementos son gratuitos.</p><h2>Combinar bastiones</h2><p>Dos o más jugadores pueden unir los bastiones de sus personajes en una sola estructura. Esto no cambia cuántas instalaciones especiales puede tener cada uno, cómo funcionan ni quién da las órdenes a cada bastión. Cada bastión conserva sus propios empleados, que no pueden enviarse a otro ni compartirse. Los defensores funcionan de otro modo: si un evento hace que un bastión pierda defensores, otro personaje puede asumir todas o parte de esas pérdidas en su propio bastión, siempre que ambos estén unidos.</p><h2>Espacio de las instalaciones</h2><p>El espacio de una instalación básica o especial determina su superficie máxima en casillas de 5 pies, como indica la tabla Espacio de las instalaciones. Cada jugador puede distribuirlas a su gusto en el mapa de su bastión. Las casillas pueden apilarse para distribuir la superficie entre varios niveles o plantas.</p><table><caption>Espacio de las instalaciones</caption><thead><tr><th><p>Espacio</p></th><th><p>Superficie máxima</p></th></tr></thead><tbody><tr><td><p>Reducido</p></td><td><p>4 casillas</p></td></tr><tr><td><p>Amplio</p></td><td><p>16 casillas</p></td></tr><tr><td><p>Enorme</p></td><td><p>36 casillas</p></td></tr></tbody></table>",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "1432ebc710eb4131505ae57a3d0f4f2d3fbc6d34cf35fd22456c5420708faa85": {
+    "translation": "Instalaciones básicas",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "38f9d9fe81718f6b0b2d896ef607e2fcdac59e28e7d4d4459e90dc669770ba0f": {
+    "translation": "<p>El bastión de un personaje empieza con dos instalaciones básicas gratuitas, que su jugador elige de la lista siguiente. Una de ellas es reducida y la otra amplia (consulta la tabla Espacio de las instalaciones). Un bastión puede tener más de una instalación básica de cada tipo.</p><p><strong>Instalaciones básicas</strong></p><ul class=\"columns-two\" style=\"columns:2;max-width:300px\"><li><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgBedroom000000]{Dormitorio}</p></li><li><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgDiningRoom000]{Comedor}</p></li><li><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgParlor0000000]{Salón}</p></li><li><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgCourtyard0000]{Patio}</p></li><li><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgKitchen000000]{Cocina}</p></li><li><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgStorage000000]{Trastero}</p></li></ul><p>Una instalación básica incluye mobiliario y decoración no mágicos apropiados para ella.</p><p>Las instalaciones básicas no tienen efectos mecánicos, pero pueden inspirar oportunidades de interpretación y hacer más verosímil un bastión. Un bastión con cocina funciona igual que uno sin ella, pero el primero os ofrece a ti y a tus jugadores un escenario divertido para iniciar las sesiones, conversar como vuestros personajes o presentar nuevos PNJ.</p><p>Un personaje puede añadir instalaciones básicas o ampliar las existentes invirtiendo dinero y tiempo, como se explica a continuación. Se puede añadir o ampliar cualquier cantidad de instalaciones básicas a la vez. El personaje no necesita estar en su bastión mientras se realizan estas obras.</p><h3>Añadir instalaciones básicas</h3><p>Un personaje puede añadir una instalación básica a su bastión invirtiendo dinero y tiempo. El coste y el tiempo necesarios dependen del espacio de la instalación, como se indica en la tabla siguiente.</p><table><thead><tr><th><p>Espacio de la instalación</p></th><th><p>Coste</p></th><th><p>Tiempo necesario</p></th><th></th></tr></thead><tbody><tr><td><p>Reducido</p></td><td><p>500 po</p></td><td><p>20 días</p></td><td></td></tr><tr><td><p>Amplio</p></td><td><p>1000 po</p></td><td><p>45 días</p></td><td></td></tr><tr><td><p>Enorme</p></td><td><p>3000 po</p></td><td><p>125 días</p></td><td></td></tr></tbody></table><h3>Ampliar instalaciones básicas</h3><p>Ampliar una instalación básica no aporta beneficios mecánicos, pero un personaje puede hacerlo por motivos estéticos o para aumentar el tamaño de su bastión.</p><p>Un personaje puede invertir dinero y tiempo para aumentar en una categoría el espacio de una instalación básica de su bastión, como se indica en la tabla siguiente.</p><table><thead><tr><th><p>Aumento de espacio</p></th><th><p>Coste</p></th><th><p>Tiempo necesario</p></th><th></th></tr></thead><tbody><tr><td><p>De reducido a amplio</p></td><td><p>500 po</p></td><td><p>25 días</p></td><td></td></tr><tr><td><p>De amplio a enorme</p></td><td><p>2000 po</p></td><td><p>80 días</p></td><td></td></tr></tbody></table>",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "38c7253ebe055e492848cfdafa5eb5a59629150e74f040b366331eff10c12f8f": {
+    "translation": "Instalaciones especiales",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "af3acfe9cce76f0a9a182ab2aa24ae84a9a5ba1034f42e89168d5b2a90aef3c6": {
+    "translation": "<p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh8ArtHandout.JournalEntryPage.X9jduQDYloxFJQ3P]</p><p>Las instalaciones especiales son lugares del bastión donde ciertas actividades proporcionan beneficios mecánicos. Al principio, el bastión de un personaje tiene dos instalaciones especiales a su elección para las que cumpla los requisitos. Solo puede elegir cada instalación una vez, salvo que su descripción indique lo contrario.</p><p>A diferencia de las instalaciones básicas, las especiales no se pueden comprar: se obtienen al subir de nivel. En el nivel 9, el personaje obtiene otras dos a su elección para las que cumpla los requisitos; obtiene una más en el nivel 13 y otra en el nivel 17. La tabla Adquisición de instalaciones especiales muestra su número total. Cada instalación nueva se incorpora inmediatamente al bastión cuando el personaje alcanza el nivel correspondiente.</p><p>Cada vez que sube de nivel, el personaje puede sustituir una de las instalaciones especiales de su bastión por otra para la que cumpla los requisitos.</p><table class=\"right three\"><caption>Adquisición de instalaciones especiales</caption><thead><tr><th><p>Nivel</p></th><th><p>Instalaciones especiales</p></th></tr></thead><tbody><tr><td><p>5</p></td><td><p>2</p></td></tr><tr><td><p>9</p></td><td><p>4</p></td></tr><tr><td><p>13</p></td><td><p>5</p></td></tr><tr><td><p>17</p></td><td><p>6</p></td></tr></tbody></table><h3>Requisitos</h3><p>Cada instalación especial tiene un nivel. El personaje debe tener ese nivel o uno superior para obtenerla. También puede tener un requisito adicional que deba cumplir. Por ejemplo, solo un personaje que pueda utilizar un canalizador arcano o una herramienta como canalizador mágico puede tener un estudio arcano.</p><h3>Espacio</h3><p>Cada instalación especial ocupa cierta superficie (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000.JournalEntryPage.g54ZbPuk3pmRzRpS#facility-space]{Espacio de las instalaciones}). El jugador puede distribuir sus casillas a su gusto en el mapa del bastión. Una instalación especial puede ampliarse para proporcionar beneficios adicionales si así lo indica su descripción.</p><h3>Empleados</h3><p>Cada instalación especial incluye uno o varios empleados que trabajan en ella, la mantienen y ejecutan las órdenes de bastión, como se explica en el siguiente apartado. Los jugadores pueden dar nombres y personalidades a sus empleados con las mismas herramientas que utiliza el DM para @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.5GOEEHaai1dsSxbx]{crear PNJ}.</p><p>Cada instalación especial genera ingresos suficientes para pagar el salario de sus empleados. Estos siguen las órdenes que reciben y son leales al propietario del bastión.</p>",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b7e8acdd522e6190ac9567ad16dff9873cbb78882bbf435b7e189c440a949159": {
+    "translation": "Órdenes",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c21693eb824a2fbce8f012c8e1237cecb7154278458c27a1e51b0a1fd44b3cd0": {
+    "translation": "<p>Durante un turno de bastión, un personaje que esté en su bastión puede dar órdenes especiales, llamadas órdenes de bastión, a una o varias de sus instalaciones especiales. No tiene que dar órdenes a todas ellas en cada turno.</p><p>La orden Mantener es particular: se dirige a todo el bastión, en lugar de a una o varias instalaciones especiales. Si el personaje no está en su bastión durante un turno, este actúa como si hubiera recibido la orden Mantener, salvo que su propietario pueda comunicarse con los empleados mediante el conjuro <em>Recado</em> o una magia similar.</p><p>Las órdenes son las siguientes:</p><p><strong>Fabricar.</strong> Los empleados fabrican un objeto que pueda elaborarse en esa instalación especial. Mientras dure el proceso, la instalación no puede fabricar otra cosa, aunque una aptitud especial le permita ejecutar dos órdenes a la vez. Los empleados tienen competencia con las herramientas de artesano indicadas en la descripción de la instalación.</p><p><strong>Potenciar.</strong> La instalación especial te concede una mejora temporal a ti o a otra persona.</p><p><strong>Cosechar.</strong> Los empleados recogen un recurso producido en la instalación especial. Mientras dure el proceso, no puede cosecharse otra cosa en ella, aunque una aptitud especial permita ejecutar dos órdenes a la vez.</p><p><strong>Mantener.</strong> Todos los empleados se dedican a mantener el bastión en lugar de ejecutar órdenes en instalaciones especiales. Dar esta orden impide dar otras al bastión durante el turno actual. Cada vez que se da, el DM tira una vez en la tabla Eventos de bastión al final de este capítulo. Los eventos se resuelven antes del siguiente turno de bastión.</p><p><strong>Reclutar.</strong> Los empleados reclutan criaturas para el bastión. Pueden incluir uno o varios defensores, cuya función principal es defenderlo si sufre un ataque (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000.JournalEntryPage.KiujX8sthhH791vM]{Eventos de bastión}). El bastión genera ingresos suficientes para cubrir sus necesidades.</p><p><strong>Investigar.</strong> Los empleados de la instalación especial reúnen información.</p><p><strong>Comerciar.</strong> Los empleados compran y venden bienes o servicios almacenados o producidos en esta instalación especial.</p>",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "69162e3de05a6d2a0d0bff135f45c6d757fd9cede9f8b62dbbcd300a1650151c": {
+    "translation": "Eventos de bastión",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "a6f1d0b0a35c73531462787624550d39ceea44633b5b66806421fcda1df6f49e": {
+    "translation": "<aside class=\"notable size-three float-right\"><h3>Registro de bastión</h3><p>Los jugadores pueden usar la hoja Registro de bastión para anotar las instalaciones y otras características de sus bastiones. Anímalos a incluir a sus empleados y desarrollarlos como PNJ en hojas separadas, quizá usando el Registro de PNJ del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgDmsToolbox000.JournalEntryPage.5GOEEHaai1dsSxbx#use-the-npc-sheet-for-tracking]{capítulo 3}. El Registro de bastión también permite indicar el espacio de cada instalación especial, pero anima a los jugadores a dibujar mapas de sus bastiones (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000.JournalEntryPage.g54ZbPuk3pmRzRpS]{Mapa del bastión}).</p></aside><p>Inmediatamente después de que un personaje dé la orden Mantener a su bastión, el DM tira una vez en la tabla Eventos de bastión para determinar qué ocurre, si es que ocurre algo, antes del siguiente turno. Si hay un evento, el DM lo lee en voz alta al jugador cuyo personaje controla el bastión. Todos se describen tras la tabla. El evento se resuelve inmediatamente y el jugador y el DM desarrollan juntos los detalles de la historia que hagan falta. Si varios personajes dan la orden Mantener en el mismo turno, tira una vez por cada uno y resuelve los eventos por separado, aunque sus bastiones estén unidos.</p><p>Los eventos solo ocurren cuando el bastión funciona bajo la orden Mantener, por lo que a menudo su propietario está ausente. Pueden ser oportunidades para que el jugador interprete a los empleados y sus reacciones. El DM puede incluso convertir el evento en una escena intercalada en la que cada jugador interprete a un empleado, bajo la orientación del jugador cuyo personaje sea dueño del bastión.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgBastionEvents rollable]</p><h2>Descripción de los eventos</h2><p>Los eventos de la tabla se detallan a continuación en el orden alfabético del original.</p><h3>Todo va bien</h3><p>No ocurre nada significativo. Tira en la siguiente tabla y desarrolla los detalles como prefieras.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgAllIsWell0000 rollable]</p><h3>Ataque</h3><p>Una fuerza hostil ataca tu bastión, pero es derrotada.</p><p>Tira 6d6: por cada dado que saque un 1, muere un defensor del bastión. Retira esas bajas de la lista de defensores. Si el bastión no tiene defensores, una instalación especial elegida al azar sufre daños y debe cerrar.</p><p>Una instalación especial cerrada no puede usarse en tu siguiente turno de bastión. Después se repara y vuelve a funcionar sin coste para ti.</p><h3>Empleado delincuente</h3><p>El pasado delictivo de un empleado sale a la luz cuando unos agentes de la autoridad o cazarrecompensas llegan con una orden de arresto. Puedes conservar al empleado pagando un soborno de 1d6 × 100 po. De lo contrario, lo arrestan y se lo llevan. Si una instalación queda sin empleados, no puede usarse en tu siguiente turno de bastión. Después se contrata a un sustituto sin coste para ti.</p><h3>Oportunidad extraordinaria</h3><p>Tu bastión tiene la oportunidad de acoger una fiesta o celebración importante, financiar la investigación de un poderoso lanzador de conjuros o apaciguar a un noble autoritario. Acuerda los detalles con el DM.</p><p>Si aceptas, debes pagar 500 po para cubrir los gastos. A cambio, el bastión recibe una oleada de reconocimiento o atención y el DM vuelve a tirar en la tabla Eventos de bastión, repitiendo la tirada si vuelve a salir este resultado.</p><p>Si rechazas la oportunidad, no pagas nada ni sucede nada más.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh8ArtHandout.JournalEntryPage.pcxBJh58cl6tNX2r rollable]</p><h3>Visitantes amistosos</h3><p>Unos visitantes amistosos quieren usar una de tus instalaciones especiales y ofrecen 1d6 × 100 po por hacerlo brevemente. Por ejemplo, un caballero podría necesitar tu herrería para sustituir una herradura o reparar un arma o armadura, o unos eruditos podrían usar tu estudio arcano para resolver una disputa. Esto no interrumpe ninguna orden que hayas dado a la instalación.</p><h3>Huésped</h3><p>Un huésped amistoso llega para alojarse en tu bastión. Tira en la siguiente tabla para determinar quién es y desarrolla los detalles con el DM.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgGuest00000000 rollable]</p><h3>Pérdida de empleados</h3><p>Una instalación especial elegida al azar pierde a sus empleados. Tú decides por qué se marchan. No puedes usarla en el siguiente turno de bastión, pero en ese momento se contrata a sustitutos sin coste para ti.</p><h3>Descubrimiento mágico</h3><p>Tus empleados descubren o crean por accidente un objeto mágico poco común a tu elección, sin coste para ti. Debe ser una poción o un pergamino.</p><h3>Refugiados</h3><p>Un grupo de 2d4 refugiados que huyen del ataque de un monstruo, de un desastre natural o de otra calamidad busca refugio en tu bastión. Si no hay una instalación básica suficientemente grande para alojarlos, acampan justo fuera. Te ofrecen 1d6 × 100 po por tu hospitalidad y protección. Se quedan hasta que les encuentres un nuevo hogar o una fuerza hostil ataque el bastión.</p><h3>Petición de ayuda</h3><p>Se pide a tu bastión que ayude a un dirigente local. Quizá se busque a una persona desaparecida o unos bandidos asolen la zona. Si aceptas, debes enviar a uno o varios defensores del bastión. Tira 1d6 por cada uno que envíes. Si el total es 10 o más, el problema se resuelve y recibes 1d6 × 100 po. Si es inferior a 10, el problema también se resuelve, pero la recompensa se reduce a la mitad y muere uno de los defensores enviados. Retíralo de la lista de defensores.</p><h3>Tesoro</h3><p>Tu bastión obtiene un objeto de arte o un objeto mágico, determinado tirando en la tabla siguiente y después en la tabla indicada del capítulo 7. Tú decides cómo lo consigue: podría ser una herencia, el regalo de un huésped o admirador, un robo o un hallazgo afortunado. Si estás en el bastión, puedes recogerlo de inmediato; si no, queda almacenado hasta que puedas hacerlo.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgTreasure00000 rollable]</p>",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "d91cb343ff1cbc20026760157f78b7c0759390df8540c9ea5a89788809b32484": {
+    "translation": "Caída de un bastión",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "119ef5055c2a997b453ca858cde61f24d2fe2a31f2171ceb6ae26452e9747c73": {
+    "translation": "<p>Un personaje jugador puede perder su bastión de las siguientes maneras:</p><p><strong>Renuncia.</strong> Puede renunciar a su bastión en cualquier momento, despidiendo a sus empleados y abandonando el lugar. El bastión se vacía rápidamente y acaba saqueado; incluso podría arder hasta los cimientos.</p><p><strong>Desatención.</strong> Si el personaje no da órdenes durante tantos turnos de bastión consecutivos como su nivel, normalmente por haber muerto o estar incapacitado, los empleados abandonan el bastión y el lugar acaba saqueado. Si el personaje regresa, puede fundar uno nuevo, quizá sobre las ruinas del anterior.</p><p><strong>Ruina.</strong> Sacar la carta @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDmtRuin000000]{Ruina} de la @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDeckOfManyThi]{Baraja de múltiples cosas} priva inmediatamente al personaje de su bastión. El jugador decide qué terrible destino sufre: por ejemplo, podría ser saqueado por enemigos o destruido por un terremoto.</p><p>Sea cual sea la causa de la caída, el jugador y el DM pueden crear un nuevo bastión y decidir cómo surge. Usa la @UUID[.9F2xr2BLwvCHCAie#requirements]{tabla Adquisición de instalaciones especiales} para determinar cuántas instalaciones especiales incluye. También comienza con dos instalaciones básicas a elección del jugador, una reducida y otra amplia.</p>",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "c0c599a0f04ee19ffd5366155a6fdf0311d94a30801db9568c50bbfbcab3fd1a": {
+    "translation": "<p>Un bastión es un lugar que pertenece a un personaje jugador: un hogar, una fortaleza y un centro de poder que desarrolla a lo largo de la campaña. Ofrece refugio temporal frente al peligroso mundo de las aventuras y permite fabricar objetos mágicos, investigar, cosechar venenos, construir barcos y realizar muchas otras actividades.</p><p>Como DM, decides si los bastiones están disponibles en la campaña. Encajan mejor en campañas que permiten a los personajes regresar a ellos entre aventuras. No todos los personajes necesitan uno: algunos jugadores pueden elegir tener un bastión y otros pueden prescindir de él.</p><section class=\"fvtt advice\"><figure class=\"icon\"><img src=\"icons/vtt-512.png\" /></figure><article><h3>Bastiones en las hojas de personaje</h3><p>Para habilitar los bastiones, abre la pestaña <span class=\"reference\"><em class=\"fas fa-cogs\"> </em></span> Ajustes, pulsa <span class=\"reference\"><em class=\"fas fa-cogs\"> </em>Configurar preferencias</span>, abre <span class=\"reference\"><em class=\"fas fa-chess-rook\"> </em>Configurar Bastiones</span> y marca <span class=\"reference\">Activar la Funcionalidad de Bastión</span>. También puedes activar <span class=\"reference\"><em class=\"fas fa-chess-rook\"> </em>Mostrar Botón de Turno del Bastión</span>, que añade el botón <span class=\"reference\">Advance Bastion Turn</span> en la esquina inferior izquierda de la interfaz, sobre la lista de jugadores, y configurar los días entre turnos de bastión.</p><p>Cuando esté habilitado, al llegar al nivel 5 los personajes tendrán una pestaña Bastión en su hoja con información sobre sus instalaciones, instalaciones especiales, empleados y defensores. Desde ella podrán dar órdenes, cambiar el tamaño de las instalaciones y realizar otras gestiones.</p></article></section><p>No hay que elegir entre vivir aventuras y dirigir un bastión: un personaje puede hacer ambas cosas a la vez. Sus instalaciones especiales generan beneficios y pueden acometer proyectos mientras el personaje se ocupa de otros asuntos.</p><p>Ante todo, el bastión es un espacio de creatividad para su jugador y de narración compartida en la campaña. Sé tan flexible como puedas con las historias que los jugadores cuentan en sus bastiones, pero hazles saber que su control puede estar limitado por la historia general de la campaña, que intentas hacer divertida para todos.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh8ArtHandout.JournalEntryPage.9nn5SkBB7zXAMdva]</p>",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "18af12c28e5bc96b24aa52bbfb9d152e930de4dcbb2d5576ba72adb6cc118153": {
+    "translation": "Descripciones de las instalaciones especiales",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "852f010ceb58eeb6f96fa50ebdef470d136317e6f4d88a353878f30f3bb05ca6": {
+    "translation": "<p>Las instalaciones especiales se presentan en el orden alfabético del original. La tabla Instalaciones especiales enumera todas las de esta sección, con sus requisitos y órdenes. Algunas conceden beneficios adicionales, indicados en sus descripciones.</p><table><caption>Instalaciones especiales</caption><thead><tr><th><p>Nivel</p></th><th><p>Instalación especial</p></th><th><p>Prerrequisito</p></th><th><p>Orden</p></th><th></th></tr></thead><tbody><tr><td><p>5</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgArcaneStudy00]{Estudio arcano}</p></td><td><p>Capacidad para usar un canalizador arcano o una herramienta como canalizador mágico</p></td><td><p>Fabricar</p></td><td></td></tr><tr><td><p>5</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgArmory0000000]{Armería}</p></td><td><p>Ninguno</p></td><td><p>Comerciar</p></td><td></td></tr><tr><td><p>5</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgBarrack000000]{Barracón}</p></td><td><p>Ninguno</p></td><td><p>Reclutar</p></td><td></td></tr><tr><td><p>5</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGarden0000000]{Huerto}</p></td><td><p>Ninguno</p></td><td><p>Cosechar</p></td><td></td></tr><tr><td><p>5</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgLibrary000000]{Biblioteca}</p></td><td><p>Ninguno</p></td><td><p>Investigar</p></td><td></td></tr><tr><td><p>5</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSanctuary0000]{Santuario}</p></td><td><p>Capacidad para usar un símbolo sagrado o un canalizador druídico como canalizador mágico</p></td><td><p>Fabricar</p></td><td></td></tr><tr><td><p>5</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSmithy0000000]{Herrería}</p></td><td><p>Ninguno</p></td><td><p>Fabricar</p></td><td></td></tr><tr><td><p>5</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgStorehouse000]{Almacén}</p></td><td><p>Ninguno</p></td><td><p>Comerciar</p></td><td></td></tr><tr><td><p>5</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgWorkshop00000]{Taller}</p></td><td><p>Ninguno</p></td><td><p>Fabricar</p></td><td></td></tr><tr><td><p>9</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGamingHall000]{Sala de juegos}</p></td><td><p>Ninguno</p></td><td><p>Comerciar</p></td><td></td></tr><tr><td><p>9</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGreenhouse000]{Invernadero}</p></td><td><p>Ninguno</p></td><td><p>Cosechar</p></td><td></td></tr><tr><td><p>9</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgLaboratory000]{Laboratorio}</p></td><td><p>Ninguno*</p></td><td><p>Fabricar</p></td><td></td></tr><tr><td><p>9</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSacristy00000]{Sacristía}</p></td><td><p>Capacidad para usar un símbolo sagrado o un canalizador druídico como canalizador mágico</p></td><td><p>Fabricar</p></td><td></td></tr><tr><td><p>9</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgScriptorium00]{Scriptorium}</p></td><td><p>Ninguno*</p></td><td><p>Fabricar</p></td><td></td></tr><tr><td><p>9</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgStable0000000]{Establo}</p></td><td><p>Ninguno</p></td><td><p>Comerciar</p></td><td></td></tr><tr><td><p>9</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTeleportation]{Círculo de teletransportación}</p></td><td><p>Ninguno</p></td><td><p>Reclutar</p></td><td></td></tr><tr><td><p>9</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTheater000000]{Teatro}</p></td><td><p>Ninguno</p></td><td><p>Potenciar</p></td><td></td></tr><tr><td><p>9</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTrainingArea0]{Zona de entrenamiento}</p></td><td><p>Ninguno</p></td><td><p>Potenciar</p></td><td></td></tr><tr><td><p>9</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTrophyRoom000]{Sala de trofeos}</p></td><td><p>Ninguno</p></td><td><p>Investigar</p></td><td></td></tr><tr><td><p>13</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgArchive000000]{Archivo}</p></td><td><p>Ninguno</p></td><td><p>Investigar</p></td><td></td></tr><tr><td><p>13</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgMeditationCha]{Cámara de meditación}</p></td><td><p>Ninguno</p></td><td><p>Potenciar</p></td><td></td></tr><tr><td><p>13</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgMenagerie0000]{Casa de fieras}</p></td><td><p>Ninguno</p></td><td><p>Reclutar</p></td><td></td></tr><tr><td><p>13</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgObservatory00]{Observatorio}</p></td><td><p>Capacidad para usar un canalizador mágico</p></td><td><p>Potenciar</p></td><td></td></tr><tr><td><p>13</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgPub0000000000]{Taberna}</p></td><td><p>Ninguno</p></td><td><p>Investigar</p></td><td></td></tr><tr><td><p>13</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgReliquary0000]{Relicario}</p></td><td><p>Capacidad para usar un símbolo sagrado o un canalizador druídico como canalizador mágico</p></td><td><p>Cosechar</p></td><td></td></tr><tr><td><p>17</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgDemiplane0000]{Semiplano}</p></td><td><p>Capacidad para usar un canalizador arcano o una herramienta como canalizador mágico</p></td><td><p>Potenciar</p></td><td></td></tr><tr><td><p>17</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGuildhall0000]{Casa gremial}</p></td><td><p>Pericia en una habilidad</p></td><td><p>Reclutar</p></td><td></td></tr><tr><td><p>17</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSanctum000000]{Sanctasanctórum}</p></td><td><p>Capacidad para usar un símbolo sagrado o un canalizador druídico como canalizador mágico</p></td><td><p>Potenciar</p></td><td></td></tr><tr><td><p>17</p></td><td><p>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgWarRoom000000]{Sala de operaciones}</p></td><td><p>Rasgo Estilo de combate o Defensa sin armadura</p></td><td><p>Reclutar</p></td><td></td></tr></tbody></table><p>* Ciertas órdenes que se pueden emitir a estas instalaciones tienen requisitos previos adicionales.</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgArcaneStudy00]{Estudio arcano}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgArcaneStudy00 caption=false cite=false]{Estudio arcano}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgArchive000000]{Archivo}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgArchive000000 caption=false cite=false]{Archivo}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgArmory0000000]{Armería}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgArmory0000000 caption=false cite=false]{Armería}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgBarrack000000]{Barracón}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgBarrack000000 caption=false cite=false]{Barracón}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgDemiplane0000]{Semiplano}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgDemiplane0000 caption=false cite=false]{Semiplano}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGamingHall000]{Sala de juegos}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGamingHall000 caption=false cite=false]{Sala de juegos}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGarden0000000]{Huerto}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGarden0000000 caption=false cite=false]{Huerto}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGreenhouse000]{Invernadero}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGreenhouse000 caption=false cite=false]{Invernadero}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGuildhall0000]{Casa gremial}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgGuildhall0000 caption=false cite=false]{Casa gremial}</p><hr /><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh8ArtHandout.JournalEntryPage.1pBsy6I5mXtJt5rh classes=\"right two\"]</p><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgLaboratory000]{Laboratorio}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgLaboratory000 caption=false cite=false]{Laboratorio}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgLibrary000000]{Biblioteca}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgLibrary000000 caption=false cite=false]{Biblioteca}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgMeditationCha]{Cámara de meditación}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgMeditationCha caption=false cite=false]{Cámara de meditación}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgMenagerie0000]{Casa de fieras}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgMenagerie0000 caption=false cite=false]{Casa de fieras}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgObservatory00]{Observatorio}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgObservatory00 caption=false cite=false]{Observatorio}</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh8ArtHandout.JournalEntryPage.O0YsyP2yRVBqbv0y]</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgPub0000000000]{Taberna}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgPub0000000000 caption=false cite=false]{Taberna}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgReliquary0000]{Relicario}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgReliquary0000 caption=false cite=false]{Relicario}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSacristy00000]{Sacristía}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSacristy00000 caption=false cite=false]{Sacristía}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSanctuary0000]{Santuario}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSanctuary0000 caption=false cite=false]{Santuario}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSanctum000000]{Sanctasanctórum}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSanctum000000 caption=false cite=false]{Sanctasanctórum}</p><hr /><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh8ArtHandout.JournalEntryPage.ufe2sKoHBTiwkyFF classes=\"right three\"]</p><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgScriptorium00]{Scriptorium}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgScriptorium00 caption=false cite=false]{Scriptorium}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSmithy0000000]{Herrería}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgSmithy0000000 caption=false cite=false]{Herrería}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgStable0000000]{Establo}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgStable0000000 caption=false cite=false]{Establo}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgStorehouse000]{Almacén}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgStorehouse000 caption=false cite=false]{Almacén}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTeleportation]{Círculo de teletransportación}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTeleportation caption=false cite=false]{Círculo de teletransportación}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTheater000000]{Teatro}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTheater000000 caption=false cite=false]{Teatro}</p><p><em>Instalación de bastión de nivel 9</em></p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTrainingArea0]{Zona de entrenamiento}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTrainingArea0 caption=false cite=false]{Zona de entrenamiento}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTrophyRoom000]{Sala de trofeos}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgTrophyRoom000 caption=false cite=false]{Sala de trofeos}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgWarRoom000000]{Sala de operaciones}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgWarRoom000000 caption=false cite=false]{Sala de operaciones}</p><hr /><h3>@UUID[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgWorkshop00000]{Taller}</h3><p>@Embed[Compendium.dnd-dungeon-masters-guide.bastions.Item.dmgWorkshop00000 caption=false cite=false]{Taller}</p>",
+    "documents": [
+      "dmgBastions00000"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  }
+}

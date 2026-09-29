@@ -36,6 +36,12 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Primer lote amplio de diarios: 262 campos cotejados, con seis documentos
+  completos (glosario, ejemplos de aventuras, recompensas, ilustraciones de los
+  apéndices, mapas y bastiones). Corregidos 157 campos, conservando las cifras,
+  referencias y estructura HTML. Registradas discrepancias entre fuentes;
+  continúan pendientes otros 687 campos y la concordancia final.
+
 - Completado el cotejo del equipo: 2449 campos en 548 objetos, incluidas 539
   descripciones. El último lote corrige 261 campos y concordancias de enlaces,
   conserva cifras y referencias y distingue enredadera afilada de enredadera

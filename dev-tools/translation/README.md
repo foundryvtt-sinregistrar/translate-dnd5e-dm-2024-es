@@ -28,9 +28,11 @@ limitaciones y reproducción; [GLOSARIO.md](GLOSARIO.md) contiene los criterios.
   los 1738 campos de tablas; misma validación con alcance explícito por documento.
 - `reviewed-names.json` y `apply_reviewed_names.py`: nombres revisados y etiquetas
   completas de enlaces al mismo documento; previsualización y opción `--apply`.
-- `reviewed-equipment-texts.json` y `apply_reviewed_equipment_texts.py`: subconjunto
-  revisado de equipo, con huellas de fuente y ámbito por documento. No certifica
-  los campos restantes ni el contenido completo de cada objeto.
+- `reviewed-equipment-texts.json` y `apply_reviewed_equipment_texts.py`: cotejo de
+  los 2449 campos de equipo, con huellas de fuente y ámbito por documento.
+- `reviewed-content-texts.json` y `apply_reviewed_content_texts.py`: cotejo parcial
+  de diarios, con las mismas garantías. Solo acredita los campos registrados;
+  los títulos compartidos no acreditan la revisión de los párrafos de otro diario.
 
 Las exportaciones, cachés, procedencia por campo y resultados de auditoría se
 guardan localmente en `../export/data/`, excluidos de Git. Conservarlos para

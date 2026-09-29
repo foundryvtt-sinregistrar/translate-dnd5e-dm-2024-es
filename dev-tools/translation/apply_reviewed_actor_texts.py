@@ -11,7 +11,7 @@ def main(pack='actors'):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--apply', action='store_true', help='Write reviewed texts')
     args = parser.parse_args()
-    stem = {'actors': 'actor', 'tables': 'table', 'equipment': 'equipment'}[pack]
+    stem = {'actors': 'actor', 'tables': 'table', 'equipment': 'equipment', 'content': 'content'}[pack]
     reviews = load(ROOT / f'dev-tools/translation/reviewed-{stem}-texts.json')
     original = load(DATA / f'dnd-dungeon-masters-guide.{pack}.en.json')
     path = ROOT / f'compendium/dnd-dungeon-masters-guide.{pack}.json'
