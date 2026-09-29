@@ -45,6 +45,7 @@ determina la estructura y las reglas aplicables a cada entrada.
 | Charm | Sortilegio | PDF es, p. 342 |
 | Roomy | Amplio | PDF es, p. 342; la interfaz del sistema puede mostrar «Espacioso» |
 | Potion of Healing | Poción de curación | PDF es, p. 305 |
+| Dagger of Venom | Daga de la ponzoña | PDF es, p. 266; revisado 2026-09-29 |
 | Bring It to an End | Ponerle fin | PDF es, p. 120 |
 | Adventure Climax | Clímax para aventuras | PDF es, p. 120 |
 | Denouement | Desenlace | PDF es, p. 120 |

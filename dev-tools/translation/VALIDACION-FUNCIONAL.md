@@ -456,6 +456,15 @@ Se recargó Foundry y se verificaron cero módulos activos y la partida en pausa
 
 ## Reproducción y evidencias
 
+### Seguimiento del 29 de septiembre
+
+La revisión posterior corrige las etiquetas «Haga clic en tacones» y «Espada de
+abrigo con veneno» descritas históricamente arriba. La muestra ampliada cubre
+tres escenas, destinos de regiones, un ciclo de fabricación de bastión,
+reparación, mantenimiento, el modelo de permisos y una actualización entre dos
+clientes GM. Resultados, requisito de conservar el ID del Torreón y límites en
+[VALIDACION-CIERRE.md](VALIDACION-CIERRE.md).
+
 Herramienta: [validate-functional.mjs](validate-functional.mjs), de uso explícito
 en desarrollo y excluida del ZIP instalable. Requiere las exportaciones inglesas
 locales en `dev-tools/export/data/`, los siete JSON de traducción, la carpeta

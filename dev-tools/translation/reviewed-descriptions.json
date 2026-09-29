@@ -1,0 +1,27 @@
+{
+  "dmgBagOfHolding0": {
+    "reference": "PDF español, p. 252; unidades y estructura de DMG 2.0.0 inglés",
+    "description": "<div><p>Esta bolsa tiene un espacio interior considerablemente mayor que sus dimensiones exteriores: aproximadamente 2 pies de lado y 4 pies de profundidad. Puede contener hasta 500 libras, sin superar un volumen de 64 <span class=\"no-break\">pies cúbicos</span>. La bolsa pesa 5 libras, independientemente de su contenido. Sacar un objeto de la bolsa requiere una acción de utilizar.</p><p>Si se sobrecarga, perfora o rasga la bolsa, se destruye y su contenido se dispersa por el Plano Astral. Si se pone del revés, su contenido cae sin sufrir daños, pero hay que volver a ponerla del derecho antes de usarla de nuevo. La bolsa contiene aire suficiente para respirar durante 10 minutos, divididos entre el número de criaturas que necesiten respirar en su interior.</p><p>Introducir una <em>bolsa de contención</em> en un espacio extradimensional creado por un <em>@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgHewardsHandyH]{Morral práctico de Heward}</em>, un <em>@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPortableHole0]{Agujero portátil}</em> u otro objeto similar destruye al instante ambos objetos y abre un portal al Plano Astral. El portal aparece donde se introdujo un objeto en el otro. Todas las criaturas situadas en una esfera de 10 pies de radio centrada en el portal son absorbidas por él y transportadas a un lugar aleatorio del Plano Astral. A continuación, el portal se cierra. Solo permite viajar en un sentido y no puede volver a abrirse.</p></div>"
+  },
+  "dmgBootsOfSpeed0": {
+    "reference": "PDF español, p. 254; nota de Foundry de DMG 2.0.0 inglés",
+    "description": "<div><p><em>Objeto maravilloso, raro (requiere sintonización)</em></p></div><p>Mientras lleves puestas estas botas, puedes usar una acción adicional para entrechocar los talones. Si lo haces, las botas duplican tu velocidad y cualquier criatura que realice un ataque de oportunidad contra ti tiene desventaja en la tirada de ataque. Si vuelves a entrechocar los talones, el efecto termina.</p><p>Cuando hayas usado esta propiedad de las botas durante un total de 10 minutos, la magia deja de funcionar para ti hasta que termines un descanso largo.</p><section class=\"secret\" id=\"secret-KMziCIYbAAst6X5k\"><p><strong>Nota de Foundry</strong></p><p>Los usos limitados de este objeto permiten llevar un control manual del número de <em>segundos</em> durante los que se ha utilizado.</p></section>"
+  },
+  "dmgDaggerOfVenom": {
+    "reference": "PDF español, p. 266; nombre oficial Daga de la ponzoña",
+    "name": "Daga de la ponzoña",
+    "description": "<div><p><em>Arma (daga), rara</em></p></div><p>Obtienes un bonificador de +1 a las tiradas de ataque y de daño realizadas con esta arma mágica.</p><p>Puedes usar una acción adicional para recubrir mágicamente la hoja con veneno. El veneno permanece durante 1 minuto o hasta que un ataque con esta arma impacte a una criatura. Esa criatura debe superar una tirada de salvación de Constitución con CD 15 o recibe 2d10 de daño de veneno y tiene el estado &amp;Reference[Poisoned apply=false] durante 1 minuto. El arma no puede volver a usarse de esta forma hasta el siguiente amanecer.</p>"
+  },
+  "dmgPotionOfHeali": {
+    "reference": "PDF español, p. 305; variante común individual de Foundry",
+    "description": "<p><em>Poción, común</em></p><p>Recuperas 2d4 + 2 puntos de golpe cuando bebes esta poción.</p><p>Sea cual sea su potencia, el líquido rojo de la poción brilla al agitarlo.</p>"
+  },
+  "dmgRingOfProtect": {
+    "reference": "PDF español, p. 233",
+    "description": "<p><em>Anillo, raro (requiere sintonización)</em></p><p>Obtienes un bonificador de +1 a la CA y a las tiradas de salvación mientras lleves puesto este anillo.</p>"
+  },
+  "dmgWandOfMagicMi": {
+    "reference": "PDF español, p. 322; conjuro Proyectil mágico y dados de Foundry",
+    "description": "<p><em>Varita, infrecuente</em></p><p>Esta varita tiene 7 cargas. Mientras la sostengas, puedes gastar hasta 3 cargas para lanzar @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMagicMissi]{Proyectil mágico} con ella. Si gastas 1 carga, lanzas la versión de nivel 1 del conjuro. Puedes aumentar el nivel del conjuro en 1 por cada carga adicional que gastes.</p><p><em><strong>Recuperar cargas.</strong></em> La varita recupera 1d6 + 1 cargas gastadas cada día, al amanecer. Si gastas la última carga de la varita, tira [[/r 1d20]]. Con un 1, la varita se convierte en cenizas y se destruye.</p>"
+  }
+}

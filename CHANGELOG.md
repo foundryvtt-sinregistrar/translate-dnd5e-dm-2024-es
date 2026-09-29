@@ -6,6 +6,12 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Added
 
+- Paquete local independiente del ajuste de idioma para ravanno 6.0.3, con diff,
+  licencias, hashes y comprobación de aplicación y reversión sobre una copia limpia.
+- Ampliación QA: importación de tres escenas y resolución de 32 destinos de región,
+  reparación, mantenimiento y fabricación de bastión en original y traducción,
+  modelo de permisos de jugador y sincronización entre dos clientes GM.
+
 - Diagnóstico del icono de veneno persistente: reproducido con cero módulos activos en combatientes sin ficha; dos casos comparativos verifican el refresco automático al asociar una ficha. Documentada la mitigación, sin parche de ejecución en DM.
 
 - Validación desde el botón «Turno siguiente»: tres transiciones correctas con cuatro efectos QA, avance real de seis segundos y restauración del reloj. El icono persistente observado se analiza en el diagnóstico del panel de combate.
@@ -25,6 +31,13 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 - Pruebas funcionales reproducibles en Foundry: diarios importados, enlaces, imágenes, rangos y tiradas de tablas, y seis objetos comparados con sus originales. Informe en `dev-tools/translation/VALIDACION-FUNCIONAL.md` y macro auxiliar `validate-functional.mjs`.
 
 ### Changed
+
+- Revisadas 424 etiquetas: 395 campos en 207 objetos y 29 en 8 escenas. Corregidos
+  errores de significado en actividades, efectos, tipos de criatura y navegación,
+  conservando las mecánicas, cifras y referencias. La revisión de párrafos continúa pendiente.
+- Revisadas seis descripciones representativas con la referencia española;
+  corregidas las dimensiones de la bolsa y la terminología. Adoptado el nombre
+  oficial Daga de la ponzoña y actualizadas sus cuatro etiquetas de enlaces.
 
 - Documentado en ambos README el requisito de importar el capítulo 3 del DMG para resolver el enlace de Sortilegio del santuario. Comprobada la importación normal y la apertura del destino en Foundry; se conserva la referencia original.
 - Documentada la ausencia de resultados 8–12 en la tabla oficial `dmgWildernessCha` de DMG 2.0.0; la traducción conserva las fórmulas y rangos originales.

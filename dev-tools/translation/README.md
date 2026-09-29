@@ -11,6 +11,15 @@ limitaciones y reproducción; [GLOSARIO.md](GLOSARIO.md) contiene los criterios.
 - `reviewed-segments.json`: correcciones terminológicas y de segmentos concretos.
   Su presencia no acredita una revisión completa de los párrafos generados.
 - `audit_translation.py`: comprueba cobertura, tipos, referencias y cifras.
+- `reviewed-labels.json` y `apply_reviewed_labels.py`: decisiones explícitas por
+  etiqueta y compendio; previsualización por defecto y escritura con `--apply`.
+  Alcance en [REVISION-LINGUISTICA.md](REVISION-LINGUISTICA.md).
+- `reviewed-descriptions.json` y `apply_reviewed_descriptions.py`: seis
+  descripciones contrastadas con el OCR y sus originales; comprueba HTML,
+  números y referencias antes de aplicar. También conserva las etiquetas
+  revisadas de enlaces a objetos renombrados.
+- `build_target_patch.py`: empaqueta el parche independiente de idioma, comprobando
+  aplicación y reversión; instrucciones en [PARCHE-IDIOMA.md](PARCHE-IDIOMA.md).
 - `validate-pilot.mjs`: comprueba los textos aplicados por Babele en Foundry.
 
 Las exportaciones, cachés, procedencia por campo y resultados de auditoría se

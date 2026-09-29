@@ -5,6 +5,11 @@ copia local de `ravanno-dnd5e-es`, comprobados tras recargar Foundry. La tarjeta
 de la poción muestra **Cualquier criatura**. Las secciones iniciales conservan
 el diagnóstico previo; aplicaciones, respaldos y reversión se detallan al final.
 
+El 29 de septiembre se añadió una distribución local independiente con diff,
+licencias, hashes y comprobación de aplicación/reversión en una copia desechable.
+Construcción e instrucciones: [PARCHE-IDIOMA.md](PARCHE-IDIOMA.md). No supone una
+publicación oficial de ravanno ni el envío de cambios a su mantenedor.
+
 ## Causa confirmada
 
 La cadena observada en la tarjeta de la poción procede del diccionario instalado

@@ -46,6 +46,13 @@ For manual installation, download `translate-dnd5e-dm-2024-es.zip` from [release
 
 Registration is automatic for `es` and its regional variants. Other languages do not enable the Spanish translation.
 
+### Scene imports
+
+When importing the **Keep** scene (**Torreón** in Spanish), preserve its original
+ID (`dmgKeep000000000`): some official teleport destinations depend on it.
+Importing with a new ID may leave unresolved region links. Details and
+reproduction: [scene validation](dev-tools/translation/VALIDACION-CIERRE.md).
+
 ### Sanctuary Charm journal link
 
 **Sanctuary Charm** links to **Supernatural Gifts** in a world journal. To use this link, open the Dungeon Master's Guide content compendium (`dnd-dungeon-masters-guide.content`), open **Chapter 3: DM's Toolbox**, and click **Import** in its header. Then reopen the item sheet. With the Spanish translation enabled, these are **Sortilegio del santuario**, **Regalos sobrenaturales**, and **Capítulo 3: Herramientas de DM**.

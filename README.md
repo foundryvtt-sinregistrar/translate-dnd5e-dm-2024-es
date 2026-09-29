@@ -46,6 +46,13 @@ Para instalar manualmente, descarga `translate-dnd5e-dm-2024-es.zip` de las [rel
 
 El registro es automático para `es` y sus variantes regionales. Otros idiomas no activan la traducción española.
 
+### Importación de escenas
+
+Al importar la escena **Torreón**, conserva su ID original (`dmgKeep000000000`):
+algunos destinos de teletransporte oficiales lo utilizan. La importación con un
+ID nuevo puede dejar enlaces de regiones sin resolver. Detalles y reproducción:
+[validación de escenas](dev-tools/translation/VALIDACION-CIERRE.md).
+
 ### Enlace de Sortilegio del santuario
 
 El objeto **Sortilegio del santuario** enlaza con **Regalos sobrenaturales** en un diario del mundo. Para que funcione, abre el compendio de contenido de la Guía del Dungeon Master (`dnd-dungeon-masters-guide.content`), abre **Capítulo 3: Herramientas de DM** y pulsa **Importar** en su cabecera. Después vuelve a abrir la ficha del objeto.

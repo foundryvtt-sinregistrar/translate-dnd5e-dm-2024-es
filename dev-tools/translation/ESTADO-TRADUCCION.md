@@ -1,4 +1,4 @@
-# Estado de la traducción — 2026-09-22
+# Estado de la traducción — actualización 2026-09-29
 
 Se han generado los siete ficheros de Babele para los 873 documentos de DMG
 2.0.0. La cobertura estructural es completa; **la revisión lingüística del
@@ -119,6 +119,13 @@ await validatePilot({allEntries: true, importDocuments: false});
 Resultado local: `dev-tools/export/data/dmg-translation-validation.json`.
 
 ## Trabajo pendiente antes de publicar
+
+Los lotes del 29 de septiembre corrigen 424 etiquetas de equipo y escenas y
+revisan seis descripciones completas con el OCR español. Incluyen el nombre
+oficial Daga de la ponzoña y sus etiquetas de enlaces: 434 campos cambiados,
+conservando cifras y referencias. Véase
+[REVISION-LINGUISTICA.md](REVISION-LINGUISTICA.md). No sustituye la revisión
+de las descripciones y párrafos completos que se detalla a continuación.
 
 - Revisar equipo, actores, tablas y diario por lotes contra el texto español;
   atender a negaciones, condiciones, duración, nombres propios y frases cortadas.

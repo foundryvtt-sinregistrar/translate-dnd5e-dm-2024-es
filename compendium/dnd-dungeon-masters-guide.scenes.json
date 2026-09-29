@@ -80,10 +80,10 @@
           "name": "Nivel 1 (izquierda)"
         },
         "9jZ9PPsXtwELxLuf": {
-          "name": "Nivel de superficie (a la derecha)"
+          "name": "Nivel de superficie (derecha)"
         },
         "TDE9TYciyQ3btZNF": {
-          "name": "Nivel 1 (a la derecha)"
+          "name": "Nivel 1 (derecha)"
         },
         "DZwv0s90exc7kfSh": {
           "name": "Nivel 1 (izquierda interior)"
@@ -95,7 +95,7 @@
           "name": "Nivel 2 (derecha interior)"
         },
         "1OPOVTNP3S3MFxdO": {
-          "name": "Nivel 1 (derecha interna)"
+          "name": "Nivel 1 (derecha interior)"
         }
       }
     },
@@ -234,7 +234,7 @@
       "name": "Torreón",
       "regions": {
         "upI6PjNB7XpARXvH": {
-          "name": "3er nivel derecho Turrent"
+          "name": "Torreta derecha, nivel 3"
         },
         "MxwgxnZHqdRZwy1O": {
           "name": "Torreta derecha, nivel 2"
@@ -261,13 +261,13 @@
           "name": "Escala (izquierda), nivel 2"
         },
         "en1a8MVrs0fS2CaW": {
-          "name": "1er nivel escaleras comedor"
+          "name": "Escaleras del comedor, nivel 1"
         },
         "jSDQ17lHmvtxEMAm": {
           "name": "Escaleras de los dormitorios, nivel 2"
         },
         "57edbJ8P4Dm1nIPR": {
-          "name": "Torreta izquierda del 4o nivel"
+          "name": "Torreta izquierda, nivel 4"
         },
         "O1H0EjPlqgjqf2Lh": {
           "name": "Torreta izquierda, nivel 3"
@@ -335,13 +335,13 @@
           "name": "Torreta (parte superior), nivel 3"
         },
         "Rn46OA9kocSAF1Yo": {
-          "name": "Torreta del 4o piso (en la parte inferior)"
+          "name": "Torreta (parte inferior), nivel 4"
         },
         "mYObZqIDtasTPSxK": {
-          "name": "Turreta de 4o nivel (arriba)"
+          "name": "Torreta (parte superior), nivel 4"
         },
         "Oi9ti39fbmobMGMZ": {
-          "name": "Torreta del 5o nivel"
+          "name": "Torreta, nivel 5"
         }
       }
     },
@@ -352,10 +352,10 @@
           "name": "Nivel 1"
         },
         "o1co7iZ2NI0nKmmP": {
-          "name": "3er nivel (izquierda)"
+          "name": "Nivel 3 (izquierda)"
         },
         "7o0ARhEenAq1mXr7": {
-          "name": "Lado derecho, nivel 3"
+          "name": "Nivel 3 (derecha)"
         },
         "D1hUNDg5SWTH3GZq": {
           "name": "Nivel 2"
@@ -372,7 +372,7 @@
           "name": "Escaleras traseras, nivel 1"
         },
         "DaFMM7W36xiKjmSy": {
-          "name": "1er nivelEscaleras de Barn"
+          "name": "Escaleras del granero, nivel 1"
         },
         "01WrxXyOQMpfgklK": {
           "name": "Escaleras traseras, nivel 2"
@@ -392,16 +392,16 @@
           "name": "Nivel inferior (izquierda)"
         },
         "Hk36H0uI5f6CTIkM": {
-          "name": "Nivel inferior (a la derecha)"
+          "name": "Nivel inferior (derecha)"
         },
         "TI6dNipJwP6ShrLU": {
-          "name": "Nivel superior (a la derecha)"
+          "name": "Nivel superior (derecha)"
         },
         "TP9i0AGqZbFou5gY": {
           "name": "Nivel superior (izquierda)"
         },
         "D3A6DZM17Bbu9DK9": {
-          "name": "Desactivar la iluminación mundial"
+          "name": "Desactivar la iluminación global"
         }
       }
     },
@@ -409,25 +409,25 @@
       "name": "Casa espeluznante",
       "regions": {
         "KR87AwBpiYIEUGmW": {
-          "name": "Escalera principal de arriba a la izquierda"
+          "name": "Escalera principal izquierda de la planta superior"
         },
         "UdrDRCv7afN1n9C0": {
-          "name": "Arriba, escalera principal derecha"
+          "name": "Escalera principal derecha de la planta superior"
         },
         "bOz3tw2rnvoNI0op": {
-          "name": "Planta baja a la izquierda Escalera principal"
+          "name": "Escalera principal izquierda de la planta baja"
         },
         "oBLcfwkV0HGyW7Wk": {
           "name": "Escalera principal derecha de la planta baja"
         },
         "APSk9DNpIEMeNgS7": {
-          "name": "Escalera de cocina de planta baja"
+          "name": "Escalera de la cocina de la planta baja"
         },
         "bV4yCkYmJSu65dCd": {
-          "name": "Escalera de la celda izquierda"
+          "name": "Escalera izquierda del sótano"
         },
         "NlvxbDx3EuRvALS1": {
-          "name": "Escalera de la celda derecha"
+          "name": "Escalera derecha del sótano"
         },
         "vHyegwRSo9fliV5M": {
           "name": "Escaleras secretas"
@@ -447,28 +447,28 @@
           "name": "Nivel 5"
         },
         "2MecbQmgN28TPVLv": {
-          "name": "Nivel 4 (abajo)"
+          "name": "Nivel 4 (bajada)"
         },
         "uBuylZQPEi3ykdo7": {
-          "name": "Nivel 4 (arriba)"
+          "name": "Nivel 4 (subida)"
         },
         "lc7FEzjl8N6wZ9qA": {
-          "name": "Nivel 3 (abajo)"
+          "name": "Nivel 3 (bajada)"
         },
         "TaDBkHeYTku5FtPx": {
-          "name": "Nivel 3 (hasta)"
+          "name": "Nivel 3 (subida)"
         },
         "fcdCtrgq25Ftz9NL": {
-          "name": "Nivel 2 (abajo)"
+          "name": "Nivel 2 (bajada)"
         },
         "7uDdOOovPXNlt7x4": {
-          "name": "Nivel 2 (hasta)"
+          "name": "Nivel 2 (subida)"
         },
         "PJfsHplUxKBLPdvw": {
-          "name": "Nivel 1 (abajo)"
+          "name": "Nivel 1 (bajada)"
         },
         "6dhKExB3zy2HykUX": {
-          "name": "Nivel 1 (hasta)"
+          "name": "Nivel 1 (subida)"
         },
         "8sg5zBCT5NR7MdJt": {
           "name": "Mazmorras"
