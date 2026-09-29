@@ -40,6 +40,11 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Tercer lote de diarios: 617 campos registrados y 23 diarios completos.
+  Cotejados cosmología, creación de aventuras y campañas y créditos; corregidos
+  64 campos, incluidas reglas planares y nombres de autores dañados por el
+  borrador. Se conservan cifras, referencias y HTML. Quedan 332 campos por cotejar.
+
 - Segundo lote de diarios: 533 campos registrados y 19 diarios completos;
   corregidos 173 campos de 15 documentos sobre campañas, ilustraciones,
   historial oficial y progreso de personajes. Foundry verifica 873 documentos

@@ -318,6 +318,41 @@ final de menciones y etiquetas.
 
 ## Alcance pendiente
 
+### Tercer lote de diarios — cosmología, creación y créditos
+
+El registro alcanza **617 de 949 campos**, con 548 huellas de fuente,
+173 textos de página y **23 diarios completos**. Se completa el cotejo de
+Cosmología, Crear aventuras, Creación de campañas y Créditos. Este lote cambia
+64 campos de esos cuatro documentos; mantiene las cifras, referencias técnicas
+y secuencia de etiquetas HTML del original.
+
+Se corrigen las tiradas y transformaciones de los planos, tamaños de objetos
+en el Limbo, distinción entre diablos, demonios e infernales, y nombres del OCR
+español: Parajes Feéricos, Páramo Sombrío, Monte Celestia, río Estigio, río Océano,
+Prismalia y ciudades portal. Las reglas de muerte de Ysgard conservan la
+restricción a combate y excluyen autómatas y muertos vivientes.
+
+Se recuperan nombres de autores alterados por el borrador: CoupleOfKooks,
+Linda Lithen, Even Amundsen y Justice Ramin Arman. Los créditos se cotejan con
+el texto inglés íntegro; no se sustituyen titulares ni se altera el aviso de
+derechos del producto oficial.
+
+El original de Agua contiene dos frases incompletas («from within the at the
+horizon» y «The nominal of the marids»). Se regulariza la primera sin inventar
+un elemento ausente; la segunda se completa como «emperador nominal», con apoyo
+del OCR español y de la referencia al emperador en el mismo párrafo inglés.
+Prismalia omite el sujeto de «resides»; se restituye Zybilna, identificada en
+el párrafo y en el OCR. «Llanos de Sal» conserva el nombre de la edición española
+para Silt Flats, aunque su descripción corresponde a sedimentos y lodo.
+
+Quedan **332 campos de diarios** y la concordancia final. Los nombres de páginas
+revisados todavía pueden tener menciones antiguas en los capítulos restantes.
+Las comprobaciones estructurales no sustituyen ese cotejo editorial.
+
+Pasan las 25 pruebas Node y la auditoría de los siete compendios; reaplicar
+el registro no genera cambios. La prueba Foundry de las 10:16:12 UTC precede
+a este lote y no se atribuye a estos nuevos textos.
+
 Los lotes revisados **no acreditan la revisión íntegra de los 6021
 campos ni de las aproximadamente 233 000 palabras** de los siete compendios.
 Quedan por revisar los párrafos de diarios,
