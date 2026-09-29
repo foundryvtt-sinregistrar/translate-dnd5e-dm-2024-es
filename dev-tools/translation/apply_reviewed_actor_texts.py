@@ -7,13 +7,14 @@ from audit_translation import leaves
 from reuse_verified import ROOT, DATA, load, save, fields, technical, numbers, put
 
 
-def main():
+def main(pack='actors'):
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--apply', action='store_true', help='Write reviewed texts')
     args = parser.parse_args()
-    reviews = load(ROOT / 'dev-tools/translation/reviewed-actor-texts.json')
-    original = load(DATA / 'dnd-dungeon-masters-guide.actors.en.json')
-    path = ROOT / 'compendium/dnd-dungeon-masters-guide.actors.json'
+    stem = {'actors': 'actor', 'tables': 'table'}[pack]
+    reviews = load(ROOT / f'dev-tools/translation/reviewed-{stem}-texts.json')
+    original = load(DATA / f'dnd-dungeon-masters-guide.{pack}.en.json')
+    path = ROOT / f'compendium/dnd-dungeon-masters-guide.{pack}.json'
     translated = load(path)
     matched, changes, reviewed_fields = set(), [], []
     for doc in original['documents']:
@@ -25,6 +26,8 @@ def main():
                 continue
             fingerprint = hashlib.sha256(english.encode('utf8')).hexdigest()
             if fingerprint not in reviews:
+                continue
+            if doc['_id'] not in reviews[fingerprint].get('documents', [doc['_id']]):
                 continue
             after = reviews[fingerprint]['translation']
             if technical(english) != technical(after) or numbers(english) != numbers(after):
@@ -42,7 +45,7 @@ def main():
         raise ValueError(f'Reviewed source texts absent: {sorted(missing)}')
     if args.apply:
         save(path, translated)
-        save(DATA / 'reviewed-actor-texts-application.json',
+        save(DATA / f'reviewed-{stem}-texts-application.json',
              {'reviewedFields': reviewed_fields, 'changes': changes})
     print(f'{len(matched)} source texts, {len(reviewed_fields)} reviewed fields, '
           f'{len(changes)} changes; mode={"apply" if args.apply else "preview"}')

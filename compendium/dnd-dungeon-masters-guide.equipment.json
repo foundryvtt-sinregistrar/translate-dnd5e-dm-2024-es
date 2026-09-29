@@ -191,7 +191,7 @@
       "description": "<p><em>Objeto maravilloso, Poco común (Requiere vinculación)</em></p><p>Mientras lleves este amuleto, no puedes ser objetivo de conjuros de &amp;Reference[schoolsofmagic]{Adivinación} ni ser percibido mediante sensores mágicos de escrutinio a menos que lo permitas.</p>"
     },
     "dmgAmuletOfThePl": {
-      "name": "Amuleto de los Planos",
+      "name": "Amuleto de los planos",
       "description": "<p><em>Objeto maravilloso, Muy raro (Requiere vinculación)</em></p><p>Mientras lleves este amuleto, puedes realizar una acción Mágica para nombrar una ubicación que te sea familiar en otro plano de existencia. Luego realiza una prueba de Inteligencia (Arcana) CD 15. Si la superas, lanzas @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPlaneShift]{Desplazamiento entre planos}. Si fallas, tú y cada criatura y objeto a 15 pies o menos de ti viajáis a un destino aleatorio determinado al tirar 1d100 y consultar la siguiente tabla.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgAmuletOfThePl rollable caption=false]</p>",
       "activities": {
         "dvOMEBqGJTMYibUN": {
@@ -1675,7 +1675,7 @@
       }
     },
     "dmgDustOfSneezin": {
-      "name": "Polvo de estornudar y ahogar",
+      "name": "Polvo de estornudar y atragantarse",
       "description": "<p><em>Objeto maravilloso, Poco común</em></p><p>Encontrado en un pequeño recipiente, este polvo se parece a @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgDustOfDisappe]{Polvo de desaparición}, y <em>Identificar</em> revela que lo es. Hay cantidad suficiente para un uso.</p><p>Como acción Utilizar, puedes lanzar el polvo al aire, obligándote a ti y a cada criatura en una Emanación de 30 pies originada en ti a realizar una tirada de salvación de Constitución CD 15. Constructos, Elementales, Mocos, Plantas y No muertos superan la salvación automáticamente.</p><p>Con una salvación fallida, una criatura comienza a estornudar incontrolablemente; tiene la condición Incapacitado y se está asfixiando. La criatura [[/save ability=con dc=15]]{repite la salvación} al final de cada uno de sus turnos, terminando el efecto sobre sí misma con una salvación exitosa. El efecto también termina en cualquier criatura que sea objetivo de un conjuro <em>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLesserRest]{Restablecimiento menor}</em>.</p>",
       "effects": {
         "AZcO17cLsTHbb0P9": {
@@ -1745,7 +1745,7 @@
       }
     },
     "dmgEfreetiChain0": {
-      "name": "Cota de efriti",
+      "name": "Cota de ifrit",
       "description": "<p><em>Armadura (@UUID[Compendium.dnd-players-handbook.equipment.Item.phbarmChainMail0]{Cota de malla} o @UUID[Compendium.dnd-players-handbook.equipment.Item.phbarmChainShirt]{Camisote de malla}), Legendaria (Requiere vinculación)</em></p><p>Mientras llevas esta armadura, obtienes un bonificador de +3 a la Clase de Armadura, tienes Inmunidad al daño de Fuego y conoces Primordial. Además, puedes ponerte de pie y moverte sobre roca fundida como si fuera suelo sólido.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFoundryRefere.JournalEntryPage.Ok4iCgD25ENgoRxE cite=false caption=false classes=\"hide-in-embed\"]</p>",
       "activities": {
         "VJjkxcSagZzMFDam": {
@@ -2326,7 +2326,7 @@
       }
     },
     "dmgGemOfSeeing00": {
-      "name": "Gema de ver",
+      "name": "Gema de visión",
       "description": "<p><em>Objeto maravilloso, Raro (Requiere vinculación)</em></p><p>Esta gema tiene 3 cargas. Como acción Mágica, puedes gastar 1 carga. Durante los siguientes 10 minutos, tienes &amp;Reference[Truesight]{Visión verdadera} hasta 120 pies cuando miras a través de la gema.</p><p>La gema recupera 1d3 cargas gastadas diariamente al amanecer.</p>",
       "activities": {
         "V8TgfBF0TyhZDshW": {
@@ -3262,7 +3262,7 @@
     },
     "dmgPearlOfPower0": {
       "description": "<p><em>Objeto maravilloso, Poco común (Requiere vinculación por un lanzador de conjuros)</em></p><p>Mientras esta perla esté en tu persona, puedes realizar una acción Mágica para recuperar un espacio de conjuro gastado de nivel 3 o inferior. Una vez que usas la perla, no puede volver a usarse hasta el siguiente amanecer.</p>",
-      "name": "Perla del Poder",
+      "name": "Perla de poder",
       "activities": {
         "FUQeRJkGx21tdCMI": {
           "name": "Recuperar espacio de conjuro"
@@ -3270,11 +3270,11 @@
       }
     },
     "dmgPeriaptOfHeal": {
-      "name": "Periapt de salud",
+      "name": "Talism?n de salud",
       "description": "<p><em>Objeto maravilloso, Poco común (Requiere vinculación)</em></p><p>Mientras llevas este colgante, puedes realizar una acción Mágica para recuperar 2d4 + 2 Puntos de Golpe. Una vez usado, esta propiedad no puede volver a usarse hasta el siguiente amanecer.</p><p>Además, tienes Ventaja en las tiradas de salvación para evitar o terminar la condición &amp;Reference[Poisoned apply=false] mientras lleves este colgante.</p>"
     },
     "dmgPeriaptOfProo": {
-      "name": "Periapt de protección contra el veneno",
+      "name": "Periapto de protección contra el veneno",
       "description": "<p><em>Objeto maravilloso, Raro (Requiere vinculación)</em></p><p>Esta delicada cadena de plata tiene un colgante con una gema negra de talla brillante. Mientras lo llevas puesto, tienes Inmunidad a la condición &amp;Reference[Poisoned apply=false] y al daño de veneno.</p>",
       "effects": {
         "4gvBhVBKAHuIetno": {
@@ -3283,7 +3283,7 @@
       }
     },
     "dmgPeriaptOfWoun": {
-      "name": "Periapt de cierre de heridas",
+      "name": "Talism?n de cerrar heridas",
       "description": "<p><em>Objeto maravilloso, Poco común (Requiere vinculación)</em></p><p>Mientras llevas este colgante, obtienes los siguientes beneficios.</p><p><em><strong>Preservación de la vida.</strong></em> Siempre que hagas una tirada de salvación contra la muerte, puedes cambiar un resultado de 9 o menos por un 10, convirtiendo una salvación fallida en una salvación exitosa.</p><p><em><strong>Impulso de curación natural.</strong></em> Siempre que tires un Dado de Golpe para recuperar Puntos de Golpe, duplica el número de Puntos de Golpe que restaura.</p>"
     },
     "dmgPhilterOfLove": {
@@ -3674,7 +3674,7 @@
       }
     },
     "dmgRingOfDjinniS": {
-      "name": "Anillo de invocación de djinni",
+      "name": "Anillo de invocar djinns",
       "description": "<p><em>Anillo, legendario (requiere sintonía)</em></p><p>Mientras lleva este anillo, usted puede tomar una acción mágica para convocar a un particular <strong>@UUID[Compendium.dnd-dungeon-masters-guide.actors.Actor.5P1VGAZQwOilwZQf]{Djinni}</strong> del plano de aire elemental. El djinni aparece en un espacio desocupado que elegiste a menos de 120 pies de ti mismo. Queda siempre y cuando mantengas la Concentración, a un máximo de 1 hora, o hasta que baje a 0 puntos de impacto.</p><p>Mientras se le llama, el Djinni es Amistoso contigo y con tus aliados, y obedece tus órdenes. Si no lo mandas, el djinni se defiende contra los atacantes pero no toma ninguna otra acción.</p><p>Después de que el djinni se vaya, no puede ser convocado de nuevo durante 24 horas, y el anillo se vuelve no mágico si el djinni muere.</p><p><em>Anillos de Invocación Djinni</em> a menudo son creados por el djinn que invocan y dados a los mortales como regalos de amistad o fichas de estima.</p>",
       "activities": {
         "rND5FpFgyChafJQN": {
@@ -3690,7 +3690,7 @@
     },
     "dmgRingOfEvasion": {
       "description": "<p><em>Anillo, Raro (Requiere vinculación)</em></p><p>Este anillo tiene 3 cargas y recupera 1d3 cargas gastadas cada día al amanecer. Cuando fallas una tirada de salvación de Destreza mientras llevas puesto el anillo, puedes usar tu Reacción para gastar 1 carga y, en su lugar, tener éxito en esa salvación.</p>",
-      "name": "Anillo de Evasión",
+      "name": "Anillo de evasión",
       "activities": {
         "8uTVtEN7h4Mp33gB": {
           "name": "Éxito"
@@ -3719,7 +3719,7 @@
     },
     "dmgRingOfProtect": {
       "description": "<p><em>Anillo, raro (requiere sintonización)</em></p><p>Obtienes un bonificador de +1 a la CA y a las tiradas de salvación mientras lleves puesto este anillo.</p>",
-      "name": "Anillo de Protección",
+      "name": "Anillo de protección",
       "effects": {
         "vKSASCidlRLgY3lA": {
           "name": "Anillo de Protección"
@@ -4390,7 +4390,7 @@
       }
     },
     "dmgStaffOfTheMag": {
-      "name": "Bastón de los Magos",
+      "name": "Bastón de los magos",
       "description": "<p><em>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbafcStaffalsoa]{Bastón}, Legendario (Requiere vinculación por un hechicero, brujo o mago)</em></p><p>Este bastón tiene 50 cargas y puede blandirse como un bastón/vara (Quarterstaff) mágico que otorga un bonificador de +2 a las tiradas de ataque y de daño hechas con él. Mientras lo sostienes, obtienes un bonificador de +2 a las tiradas de ataque de conjuro.</p><p><em><strong>Absorción de conjuros.</strong></em> Mientras sostienes el bastón, tienes Ventaja en las tiradas de salvación contra conjuros. Además, puedes usar una Reacción cuando otra criatura lance un conjuro que tenga como objetivo solo a ti. Si lo haces, el bastón absorbe la magia del conjuro, cancela su efecto y gana un número de cargas igual al nivel del conjuro absorbido. Sin embargo, si al hacerlo el total de cargas del bastón supera 50, el bastón explota como si activaras su Golpe retributivo (ver más abajo).</p><p><em><strong>Conjuros.</strong></em> Mientras sostienes el bastón, puedes lanzar uno de los conjuros de la tabla siguiente desde él, usando la CD de salvación de tus conjuros. La tabla indica cuántas cargas debes gastar para lanzar el conjuro.</p><details><summary>Tabla de costes de conjuros</summary><table><thead><tr><th><p>Conjuro</p></th><th><p>Coste en cargas</p></th><th></th></tr></thead><tbody><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplArcaneLock]{Cerradura arcana}</p></td><td><p>0</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplConjureEle]{Conjurar elemental}</p></td><td><p>7</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDetectMagi]{Detectar magia}</p></td><td><p>0</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplDispelMagi]{Disipar magia}</p></td><td><p>3</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplEnlargeRed]{Agrandar/Reducir}</p></td><td><p>0</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFireball00]{Bola de fuego} (versión de nivel 7)</p></td><td><p>7</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplFlamingSph]{Esfera de llamas}</p></td><td><p>2</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplIceStorm00]{Tormenta de hielo}</p></td><td><p>4</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplInvisibili]{Invisibilidad}</p></td><td><p>2</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplKnock00000]{Abrir}</p></td><td><p>2</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLight00000]{Luz}</p></td><td><p>0</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplLightningB]{Relámpago} (versión de nivel 7)</p></td><td><p>7</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplMageHand00]{Mano de mago}</p></td><td><p>0</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPasswall00]{Pasamuros}</p></td><td><p>5</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplPlaneShift]{Desplazamiento entre planos}</p></td><td><p>7</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbEvilAndGoodPr]{Protección contra el bien y el mal}</p></td><td><p>0</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplTelekinesi]{Telequinesis}</p></td><td><p>5</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWallofFire]{Muro de fuego}</p></td><td><p>4</p></td><td></td></tr><tr><td><p>@UUID[Compendium.dnd-players-handbook.spells.Item.phbsplWeb0000000]{Telaraña}</p></td><td><p>2</p></td><td></td></tr></tbody></table></details><p><em><strong>Recuperar cargas.</strong></em> El bastón recupera 4d6 + 2 cargas gastadas diariamente al amanecer. Si gastas la última carga, tira [[/r 1d20]]. Con un 20, el bastón recupera [[/r 1d12 + 1]] cargas.</p><p><em><strong>Golpe retributivo.</strong></em> Puedes realizar una acción Mágica para partir el bastón sobre tu rodilla o contra una superficie sólida. El bastón se destruye y libera su magia en una explosión que llena una Emanación de 30 pies originada en él mismo. Tienes un 50% de probabilidad de viajar instantáneamente a un plano de existencia aleatorio, evitando la explosión ([[/r 1d2]], teletransportado con un 1). Si no evitas el efecto, sufres daño de Fuerza igual a 16 veces el número de cargas del bastón. Cada otra criatura en el área hace una tirada de salvación de Destreza CD 17. Con un fallo, una criatura sufre daño de Fuerza igual a 6 veces el número de cargas del bastón. Con un éxito, sufre la mitad.</p><section class=\"secret\" id=\"secret-aWlDNImPrAgu7dbv\"><p><strong>Nota de Foundry</strong></p><p>La actividad <strong>Absorción de conjuros</strong> te permite seleccionar el nivel del conjuro lanzado y restaura ese número de cargas.</p></section>",
       "activities": {
         "QcfPhLX9LBvOnShu": {
@@ -4424,7 +4424,7 @@
       }
     },
     "dmgStaffOfTheWoo": {
-      "name": "Bastón de los Bosques",
+      "name": "Bastón de los bosques",
       "description": "<p><em>@UUID[Compendium.dnd-players-handbook.equipment.Item.phbafcStaffalsoa]{Bastón}, Raro (Requiere vinculación por un druida)</em></p><p>Este bastón tiene 6 cargas y puede blandirse como un bastón/vara (Quarterstaff) mágico que otorga un bonificador de +2 a las tiradas de ataque y de daño hechas con él. Mientras lo sostienes, obtienes un bonificador de +2 a las tiradas de ataque de conjuro.</p><p><em><strong>Conjuros.</strong></em> Mientras sostienes el bastón, puedes lanzar uno de los conjuros de la tabla siguiente desde él, usando la CD de salvación de tus conjuros. La tabla indica cuántas cargas debes gastar para lanzar el conjuro.</p><table><thead><tr><th><p>Conjuro</p></th><th><p>Coste en cargas</p></th><th></th></tr></thead><tbody><tr><td><p><em>Amistad con los animales</em></p></td><td><p>1</p></td><td></td></tr><tr><td><p><em>Despertar</em></p></td><td><p>5</p></td><td></td></tr><tr><td><p><em>Piel de corteza</em></p></td><td><p>2</p></td><td></td></tr><tr><td><p><em>Localizar animales o plantas</em></p></td><td><p>2</p></td><td></td></tr><tr><td><p><em>Pasar sin dejar rastro</em></p></td><td><p>2</p></td><td></td></tr><tr><td><p><em>Hablar con los animales</em></p></td><td><p>1</p></td><td></td></tr><tr><td><p><em>Hablar con las plantas</em></p></td><td><p>3</p></td><td></td></tr><tr><td><p><em>Muro de espinas</em></p></td><td><p>6</p></td><td></td></tr></tbody></table><p><em><strong>Forma de árbol.</strong></em> Puedes realizar una acción Mágica para plantar un extremo del bastón en tierra en un espacio desocupado y gastar 1 carga para transformar el bastón en un árbol sano. El árbol mide 60 pies de alto y tiene un tronco de 5 pies de diámetro, y sus ramas en la copa se extienden en un radio de 20 pies. El árbol parece normal, pero irradia un tenue aura de magia de Transmutación que puede discernirse con el conjuro <em>Detectar magia</em>. Mientras tocas el árbol y usando una acción Mágica, devuelves el bastón a su forma normal. Cualquier criatura en el árbol cae cuando el árbol revierte a bastón.</p><p><em><strong>Recuperar cargas.</strong></em> El bastón recupera 1d6 cargas gastadas diariamente al amanecer. Si gastas la última carga, tira [[/r 1d20]]. Con un 1, el bastón pierde sus propiedades y se convierte en un bastón/vara (Quarterstaff) no mágico.</p>",
       "activities": {
         "eoNl5saIm2pOFmsu": {
@@ -5501,7 +5501,7 @@
     },
     "dmgBlessingOfWou": {
       "name": "Bendición del cierre de heridas",
-      "description": "<p>Esta bendición le otorga los beneficios de un @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfWoun]{Periapt de cierre de heridas}.</p>"
+      "description": "<p>Esta bendición le otorga los beneficios de un @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgPeriaptOfWoun]{Talism?n de cerrar heridas}.</p>"
     },
     "dmgBomb000000000": {
       "name": "Bomba",
@@ -5872,7 +5872,7 @@
       }
     },
     "dmgDeckOfManyThi": {
-      "name": "Baraja de muchas cosas",
+      "name": "Baraja de múltiples cosas",
       "description": "<div><p><em>Objeto maravilloso, legendario</em></p></div><p>Usualmente se encuentra en una caja o bolsa, esta baraja contiene un número de cartas hechas de marfil o terciopelo. La mayoría (75%) de estas barajas tienen trece cartas, pero algunas tienen veintidós. Utilice la columna apropiada de la tabla Deck of Many Things cuando determine al azar las cartas sacadas de la baraja.</p><p>Antes de dibujar una carta, debes declarar cuántas cartas tienes intención de dibujar y luego dibujarlas al azar. Cualquier carta extraída en exceso de este número no tiene efecto. De lo contrario, tan pronto como se saca una carta de la baraja, su magia tiene efecto. Cada carta no debe ser extraída más de 1 hora después del sorteo anterior. Si no logras dibujar el número elegido, el número restante de cartas vuela desde la baraja por su cuenta y surtir efecto de una vez.</p><p>Una vez que se saca una carta, desaparece. A menos que la carta sea el tonto o el bufón, la carta reaparece en la baraja, lo que permite dibujar la misma carta dos veces. (Una vez que el tonto o el bufón haya salido de la baraja, vuelva a rodar sobre la mesa si la carta vuelve a subir.)</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg13CardDeckOfM rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg22CardDeckOfM rollable]</p><section class=\"secret\" id=\"secret-89gUJH8GuylznwxV\"><p><strong>Nota de Foundry</strong></p><p>Tras el descubrimiento, el propietario (o GM) debe utilizar el <strong>Comprobar el tamaño de la cubierta</strong> actividad con el fin de determinar el número de cartas en la baraja. La actividad establecerá los usos restantes de este ítem (de 22) según el número de cartas en esta baraja. Alternativamente, el MM puede establecer el <em>Usos máximos</em> basado en el tamaño de la cubierta.</p><p>En cualquier caso, ambos <strong>Comprobar el tamaño de la cubierta</strong> la actividad y el enlace de la tabla de rollos integrada correspondiente al tamaño de la cubierta no utilizada pueden eliminarse después de que se haya realizado esta determinación.</p></section>",
       "activities": {
         "kX6QeM68hTgCv7do": {
@@ -6507,7 +6507,7 @@
       }
     },
     "dmgInstrumentOfI": {
-      "name": "Instrumento de Ilusiones",
+      "name": "Instrumento de ilusiones",
       "description": "<p><em>Objeto maravilloso, común</em></p><p>Mientras tocas este instrumento musical, puedes tomar una acción mágica para crear efectos visuales inofensivos e ilusorios dentro de una Emanación de 5 pies originada en el instrumento. Si usted es un Bardo, el tamaño de la Emanación aumenta a 15 pies. Muestra de efectos visuales incluyen notas musicales luminosas, una bailarina espectral, mariposas y nieve que cae suavemente. Los efectos mágicos no tienen sustancia ni sonido, y obviamente son ilusorios. Los efectos terminan cuando dejas de jugar.</p>",
       "activities": {
         "o82iyvrJv9bOEyF0": {
@@ -6702,7 +6702,7 @@
       "description": "<p><em>Artículo maravilloso, poco frecuente (requiere sintonía por un druida o un Ranger)</em></p><p>Esta capa cambia de color y textura para mezclarse con el terreno que te rodea. Mientras usas la capa, puedes usarla como un foco de conjuros para tus conjuros Druid y Ranger.</p><p>Mientras que usted está en un área que es &amp;Reference[Lightly Obscured], usted puede Ocultar como una acción adicional, incluso si usted está siendo observado directamente.</p>"
     },
     "dmgNecklaceOfPra": {
-      "name": "Collar de cuentas de oración",
+      "name": "Collar de plegarias",
       "description": "<p><em>Objeto maravilloso, raro (requiere sintonía por un clérigo, druida o paladín)</em></p><p>Este collar tiene [[/r 1d4 + 2#Magic beads]] cuentas mágicas hechas de aguamarina, perla negra o topacio. También tiene muchas cuentas no mágicas hechas de piedras como ámbar, piedra de sangre, citrino, coral, jade, perla o cuarzo. Si un grano mágico es removido del collar, ese grano pierde su magia.</p><p>Existen seis tipos de cuentas mágicas. El DM decide el tipo de cada cuenta en el collar o lo determina aleatoriamente rodando en la tabla de abajo. Un collar puede tener más de una cuenta del mismo tipo. Para usar uno, debes estar usando el collar. Cada cuenta contiene un conjuro que puedes lanzar de él como una acción adicional (utilizando tu conjuro salvar CD si es necesario un ahorro). Una vez que el conjuro de una cuenta mágica es lanzado, esa cuenta no puede ser usada de nuevo hasta el siguiente amanecer.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgNecklaceOfPra caption=false rollable]</p><section class=\"secret\" id=\"secret-T9EktTumIxEuAXft\"><p><strong>Nota de Foundry</strong></p><p>Este artículo incluye una actividad para cada conjuro con un uso limitado por amanecer. Puedes eliminar las actividades para las cuentas que no están disponibles en este collar y duplicar las que se incluyen varias veces antes de dárselas a un jugador.</p></section>"
     },
     "dmgObservatoryCh": {
@@ -6722,7 +6722,7 @@
       "description": "<p><em>Objeto maravilloso, común</em></p><p>Este orbe se puede utilizar como un enfoque arcano.</p><p>Mientras sostienes el orbe, puedes tomar una acción mágica para determinar si es por la mañana, tarde, noche o noche. Esta propiedad sólo funciona en el Plano Material.</p>"
     },
     "dmgPerfumeOfBewi": {
-      "name": "Perfume de conjuro",
+      "name": "Perfume embelesador",
       "description": "<p><em>Objeto maravilloso, común</em></p><p>Este pequeño vial contiene perfume mágico, suficiente para un uso. Usted puede tomar una acción mágica para aplicar el perfume a sí mismo, y su efecto dura 1 hora. Durante el tiempo que dure, usted tiene Ventajas en todos los controles de Carisma (Decepción y Persuasión) realizados para influir en una criatura a menos de 5 pies de ti mismo.</p><section class=\"secret\" id=\"secret-csXfXvBZjs3cCGRi\"><p><strong>Nota de Foundry</strong></p><p>Los <strong>Emocionante</strong> El efecto activo proporciona ventaja en las comprobaciones de habilidades enumeradas y debe ser desactivado si las condiciones no se cumplen.</p></section>",
       "activities": {
         "IdE6PO7aquMG6Oqc": {
@@ -6804,7 +6804,7 @@
       "description": "<p><em>Poción, poco frecuente</em></p><p>Cuando usted bebe esta poción, usted gana el efecto “ampliar” del @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplEnlargeRed]{Ampliar/Reducir} deletrear durante 10 minutos (no requiere concentración).</p><p>El rojo en el líquido de la poción se expande continuamente de una cuenta pequeña para colorear el líquido claro alrededor de ella y luego se contrae. Agitar la botella no puede interrumpir este proceso.</p>"
     },
     "dmgPotionOfPugil": {
-      "name": "Poción de Pugilismo",
+      "name": "Poción de pugilismo",
       "description": "<p><em>Poción, poco frecuente</em></p><p>Después de beber esta poción, cada huelga desarmada que haces tratos un daño adicional 1d6 Fuerza en un golpe. Este efecto dura 10 minutos.</p><p>Esta poción es un líquido verde espeso que sabe a espinacas.</p>",
       "activities": {
         "RoR08ONPd8se88h5": {
@@ -6986,7 +6986,7 @@
       "description": "<p><em>Objeto maravilloso, común</em></p><p>Esta bobina de 50 pies de cuerda puede repararse cuando se corta en cualquier número de piezas más pequeñas. Como una acción mágica, puedes hacer que todas las piezas de la cuerda que están en contacto entre sí y no de otra manera en uso para tejer juntos de nuevo. A <em>Cuerda reparadora</em> se acorta para siempre si una sección de la misma se pierde o se destruye.</p>"
     },
     "dmgRubyOfTheWarM": {
-      "name": "Rubí del Mago de Guerra",
+      "name": "Rubí del mago de guerra",
       "description": "<p><em>Artículo maravilloso, común (requiere sintonía por un castrador de conjuros)</em></p><p>Grabado con runas de eldritch, este rubí de 1 pulgada de diámetro te permite usar un arma simple o marcial como un foco de conjuro para tus conjuros. Para que esta propiedad funcione, debe sujetar el rubí al arma presionando el rubí contra él durante al menos 10 minutos. Después, el rubí no puede ser removido a menos que lo desprendas como una acción mágica, el arma es destruida, o tu Afinación a los extremos del rubí.</p><section class=\"secret\" id=\"secret-7HuDc1Pk8WvCut5V\"><p><strong>Nota de Foundry</strong></p><p>Los <strong>Adjuntar Ruby</strong> actividad le permite seleccionar una sola arma simple o marcial y la marca como un foco y añade \"del mago de guerra\" a su nombre para facilitar el seguimiento. Puede enviar el <em>Rubí del Mago de Guerra</em> otra vez para ver el elemento encantado y, opcionalmente, quitarlo.</p></section>",
       "activities": {
         "0MLZS5sr6okDOQWs": {
@@ -7033,7 +7033,7 @@
         }
       },
       "name": "Pergamino de protección",
-      "description": "<p><em>@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgsupBasicScrol]{Pergamino}Raros</em></p><p>Cada uno <em>Pergamino de protección</em> trabaja contra criaturas de un tipo específico de criatura elegido por el DM o determinado rodando sobre la siguiente tabla.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgScrollOfProte rollable caption=false]{Desplazamiento de protección: Tipo de criatura}</p><p>El uso de una acción mágica para leer el pergamino crea una Emanación de 5 pies que se origina en ti. Durante 5 minutos, criaturas del tipo especificado no pueden entrar ni afectar a nada en el área. Sin embargo, si usted se mueve de tal manera que una criatura del tipo especificado estaría dentro del área, el efecto termina.</p><p>Como una acción mágica, una criatura a menos de 5 pies de la Emanación puede tratar de superarla, lo que obliga a la criatura a hacer un [[/save ability=cha dc=15 format=long]]. En una salvada exitosa, la criatura deja de ser afectada por la Emanación.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFoundryRefere.JournalEntryPage.Ok4iCgD25ENgoRxE cite=false caption=false classes=\"hide-in-embed\"]</p>",
+      "description": "<p><em>@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgsupBasicScrol]{Pergamino}Raros</em></p><p>Cada uno <em>Pergamino de protección</em> trabaja contra criaturas de un tipo específico de criatura elegido por el DM o determinado rodando sobre la siguiente tabla.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmgScrollOfProte rollable caption=false]{Pergamino de protección: tipo de criatura}</p><p>El uso de una acción mágica para leer el pergamino crea una Emanación de 5 pies que se origina en ti. Durante 5 minutos, criaturas del tipo especificado no pueden entrar ni afectar a nada en el área. Sin embargo, si usted se mueve de tal manera que una criatura del tipo especificado estaría dentro del área, el efecto termina.</p><p>Como una acción mágica, una criatura a menos de 5 pies de la Emanación puede tratar de superarla, lo que obliga a la criatura a hacer un [[/save ability=cha dc=15 format=long]]. En una salvada exitosa, la criatura deja de ser afectada por la Emanación.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFoundryRefere.JournalEntryPage.Ok4iCgD25ENgoRxE cite=false caption=false classes=\"hide-in-embed\"]</p>",
       "effects": {
         "BFfhMUlqxRCc8RVd": {
           "name": "Pergamino de protección: aberraciones"
@@ -7326,7 +7326,7 @@
       }
     },
     "dmgSwordOfVengea": {
-      "name": "Espada de Venganza",
+      "name": "Espada de venganza",
       "description": "<p><em>Arma (@UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepGlaive0000]{Glaive}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepGreatsword]{Espada grande}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepLongsword0]{Espada larga}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepRapier0000]{Rapier}, @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepScimitar00]{Scimitar}o bien @UUID[Compendium.dnd-players-handbook.equipment.Item.phbwepShortsword]{Shortsword}), Poco frecuentes (requiere sintonía)</em></p><p>Usted gana un bono +1 para atacar rollos y rollos de daño hechos con esta arma mágica.</p><section class=\"secret\" id=\"secret-hu61F3XDHe1eXb3m\"><p><em><strong>Maldición.</strong></em> Esta arma está maldita y poseída por un espíritu vengativo. Estar en sintonía con ella extiende la maldición hacia ti. Mientras permanezcas maldito, no estás dispuesto a separarte del arma, manteniéndola en tu persona en todo momento. Mientras que sintonizado con esta arma, usted tiene Desventaja en rollos de ataque hechos con armas que no sean ésta.</p><p>Además, mientras el arma está en su persona, usted debe tener éxito en un lanzamiento de ahorro de sabiduría CD 15 (<strong>Llamada a venganza</strong> actividad) cada vez que recibes daño de otra criatura en combate. En un ahorro fallido, debes atacar a la criatura que te dañó hasta caer a 0 puntos de impacto o lo hace o hasta que no puedas alcanzar a la criatura para hacer un ataque cuerpo a cuerpo contra ella.</p><p>Puedes romper la maldición de la manera habitual. Alternativamente, fundición @UUID[Compendium.dnd-players-handbook.spells.Item.phbsplBanishment]{Destierro} en el arma fuerza al espíritu vengativo a dejarlo. El arma entonces se convierte en un <em>+1 Arma</em> sin otras propiedades.</p></section><p> @Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgFoundryRefere.JournalEntryPage.Ok4iCgD25ENgoRxE cite=false caption=false classes=\"hide-in-embed\"]</p>",
       "activities": {
         "nTfJsgV2sJIIUqXr": {
@@ -7492,7 +7492,7 @@
       }
     },
     "dmgWandOfPyrotec": {
-      "name": "Varita de Pirotecnia",
+      "name": "Varita de pirotecnia",
       "description": "<p><em>Varita, común</em></p><p>Esta varita tiene 7 cargos. Mientras lo sostienes, puedes tomar una acción mágica para gastar 1 carga y crear un estallido inofensivo de luz multicolor en un punto que puedes ver hasta 120 pies de distancia. El estallido de luz está acompañado por un ruido crepitante que se puede escuchar hasta 300 pies de distancia. La luz es tan brillante como una llama de antorcha, pero dura sólo un segundo.</p><p><em><strong>Recuperar cargos.</strong></em> La varita recupera 1d6 + 1 cargas gastadas diariamente al amanecer. Si gastas la última carga de la varita, rueda [[/r 1d20]]. En un 1, la varita estalla en una pantalla pirotécnica inofensiva y es destruida.</p>",
       "activities": {
         "m5DyC0Wd1pRPzhQg": {

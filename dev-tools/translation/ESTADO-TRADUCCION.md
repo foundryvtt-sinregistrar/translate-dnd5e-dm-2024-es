@@ -12,7 +12,7 @@ final ni interpretar la presencia de un campo como certificación de calidad.
 | Rasgos | 23 | 48 | Revisados con la referencia española |
 | Bastiones | 35 | 89 | Revisados; incluye la página de instalaciones básicas |
 | Equipo | 548 | 2449 | Reutilización y borrador automático con correcciones parciales |
-| Tablas | 125 | 1738 | Borrador; piloto y tablas vinculadas de bastiones revisados |
+| Tablas | 125 | 1738 | Revisadas contra el original; contraste español selectivo, nombres y limitaciones documentados |
 | Actores | 72 | 606 | Revisados contra el original; contraste terminológico selectivo con el OCR español |
 | Contenido | 46 | 949 | Borrador de 473 páginas; revisión parcial |
 | Escenas | 24 | 142 | Textos revisados; no incluye texto incrustado en imágenes |
@@ -129,7 +129,10 @@ de las descripciones y párrafos completos que se detalla a continuación.
 
 - Actores y escenas: segundo lote revisado, 262 campos corregidos; alcance y
   método en el informe lingüístico. Queda la concordancia con menciones en otros compendios.
-- Revisar equipo, tablas y diario por lotes contra el texto español;
+- Tablas: revisados los 1738 campos; tercer lote de 832 correcciones, incluidas
+  concordancias de nombres en equipo y diarios. Se documenta un UUID equivocado
+  del original en Reliquias muy raras, además del rango ausente ya conocido.
+- Revisar equipo y diario por lotes contra el texto español;
   atender a negaciones, condiciones, duración, nombres propios y frases cortadas.
 - Unificar los nombres citados en párrafos con los nombres finales de entradas.
 - Revisar inglés residual en HTML, atributos visibles y títulos; distinguirlo de

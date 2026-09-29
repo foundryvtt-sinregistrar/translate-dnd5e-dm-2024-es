@@ -121,3 +121,16 @@ El arranque sigue registrando un error de dnd5e 6.0.3 en `renderCombatTracker`
 al acceder a `getGroupingKey` desde un valor nulo en este mundo QA; aparece tanto
 sin módulos como con las dependencias. No impidió la validación del catálogo.
 No se atribuye a estos cambios de traducción ni se declara resuelto.
+
+## Revalidación del lote de tablas
+
+El **29 de septiembre de 2026, 07:37:49 UTC**, pasaron nuevamente los 873
+documentos y 3468 enlaces tras las 832 correcciones del lote de tablas y nombres:
+cero errores y cero destinos pendientes. Evidencia: `tmp/tables-review-validation.json`.
+Las 25 pruebas Node y la auditoría de originales también pasaron. Se restauraron
+la macro y la configuración anterior y se recargó el mundo.
+
+La revisión semántica detectó que una etiqueta de Cuerno de Valhalla en
+Reliquias muy raras abre una figurilla de grifo: el UUID ya es erróneo en DMG
+2.0.0. Se conserva y documenta en [REVISION-LINGUISTICA.md](REVISION-LINGUISTICA.md).
+Un enlace resuelto no garantiza que su etiqueta describa correctamente el destino.

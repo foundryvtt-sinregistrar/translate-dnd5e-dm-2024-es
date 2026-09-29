@@ -86,12 +86,49 @@ etiquetas de escenas. No se revisa el texto dibujado dentro de imágenes.
 Este segundo lote añade **262 campos cambiados**. La auditoría de los siete
 compendios mantiene cero errores técnicos, numéricos o campos ausentes.
 
+## Tablas y nombres enlazados — tercer lote del 29 de septiembre
+
+Revisados los **1738 campos de las 125 tablas**: 1555 textos de origen distintos,
+incluidas referencias que no requieren traducción. Se corrigieron **803 campos
+de 117 tablas**, más **23 campos de equipo y seis de diarios** para unificar
+nombres y etiquetas de enlaces: **832 campos cambiados** en este lote.
+
+La revisión compara significado, condiciones y cifras con el original inglés.
+El OCR español se consultó selectivamente: gemas, cartas, nombres, planos,
+objetos y categorías de tesoro. No se certifica una coincidencia literal con
+todas las tablas de la edición española. Los nombres propios propuestos se
+conservan con la grafía inglesa cuando no se estableció una equivalencia española
+inequívoca; se eliminan las deformaciones del traductor automático. Al combinar
+fragmentos de nombres de tabernas, el DM debe ajustar orden y concordancia.
+
+Se corrigen, entre otros, gules traducidos como perros, estados y salvaciones
+mal expresados, pergaminos «ortográficos», confusión entre dados y muerte,
+espíritus y aguardiente, daño adicional y PG, y supresión de negaciones.
+Se mantienen todos los rangos, UUID, fórmulas y etiquetas HTML originales.
+
+Decisiones: `reviewed-table-texts.json`, con huella del original y documentos
+de aplicación. Reproducción: `python -B dev-tools/translation/apply_reviewed_table_texts.py`
+(añadir `--apply` para escribir). `reviewed-names.json` y
+`apply_reviewed_names.py` mantienen los nombres explícitamente revisados y solo
+las etiquetas completas de enlaces que correspondan al documento. No sustituyen
+libremente menciones de texto ni etiquetas abreviadas con otro contexto.
+
+Los auxiliares previsualizan cero cambios después de aplicar el lote. La
+auditoría de los siete compendios y las 25 pruebas Node pasan con los originales.
+
+**Defecto de la fuente:** en `dmgRelicsVeryRar`, resultado `RgbHDoIKuQzusHhk`,
+la etiqueta «Cuerno de Valhalla (bronce)» contiene un UUID dirigido a
+`equipment.Item.dmgFwpBronzeGrif`, la figurilla de grifo de bronce. La misma
+referencia está en el original DMG 2.0.0 y se conserva. El destino existe, por lo
+que una comprobación de enlaces resolubles no detecta este error semántico.
+Para ese resultado, abrir manualmente el cuerno de bronce en Equipo.
+
 ## Alcance pendiente
 
 Este lote corrige etiquetas, **no acredita la revisión íntegra de los 6021
 campos ni de las aproximadamente 233 000 palabras** de los siete compendios.
-Quedan por revisar las descripciones extensas de equipo, los párrafos de diarios
-y tablas, además de la concordancia entre etiquetas nuevas y menciones
+Quedan por revisar las descripciones extensas de equipo y los párrafos de diarios,
+además de la concordancia entre etiquetas nuevas y menciones
 en párrafos. La referencia para esa revisión es el OCR español local y el
 original inglés exportado; se conservan las unidades de Foundry.
 

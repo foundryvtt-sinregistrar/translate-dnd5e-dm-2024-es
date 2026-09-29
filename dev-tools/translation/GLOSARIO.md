@@ -55,3 +55,13 @@ determina la estructura y las reglas aplicables a cada entrada.
 | Unearthed Arcana (tienda) | Arcanos Desenterrados | PDF es, p. 152 |
 | High Tower Inn | Posada de la Torre Alta | PDF es, p. 155 |
 | Temple of the Far Horizon | Templo del Horizonte Lejano | PDF es, p. 156 |
+| Arcana (tesoro) | Objetos arcanos | PDF es, p. 326 y 328 |
+| Implements (tesoro) | Instrumentos | PDF es, p. 326 |
+| Deck of Many Things | Baraja de múltiples cosas | PDF es, p. 243 |
+| Ring of Djinni Summoning | Anillo de invocar djinns | PDF es, p. 233 |
+| Perfume of Bewitching | Perfume embelesador | PDF es, p. 301 |
+| Periapt of Health | Talismán de salud | PDF es, p. 312 |
+| Periapt of Wound Closure | Talismán de cerrar heridas | PDF es, p. 312 |
+| Dust of Sneezing and Choking | Polvo de estornudar y atragantarse | PDF es, p. 308 |
+| Hag Eye | Ojo de bruja | PDF es, p. 297; se conserva este nombre específico |
+| Astral Color Pools | Estanques de color astrales | PDF es, p. 198 |

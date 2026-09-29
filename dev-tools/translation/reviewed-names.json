@@ -1,0 +1,866 @@
+[
+  {
+    "pack": "equipment",
+    "id": "dmgInstrumentOfI",
+    "english": "Instrument of Illusions",
+    "name": "Instrumento de ilusiones",
+    "previousNames": [
+      "Instrumento de Ilusiones"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgPerfumeOfBewi",
+    "english": "Perfume of Bewitching",
+    "name": "Perfume embelesador",
+    "previousNames": [
+      "Perfume de conjuro"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgRubyOfTheWarM",
+    "english": "Ruby of the War Mage",
+    "name": "Rubí del mago de guerra",
+    "previousNames": [
+      "Rubí del Mago de Guerra"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgWandOfPyrotec",
+    "english": "Wand of Pyrotechnics",
+    "name": "Varita de pirotecnia",
+    "previousNames": [
+      "Varita de Pirotecnia"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgDeckOfManyThi",
+    "english": "Deck of Many Things",
+    "name": "Baraja de múltiples cosas",
+    "previousNames": [
+      "Baraja de muchas cosas"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgRingOfDjinniS",
+    "english": "Ring of Djinni Summoning",
+    "name": "Anillo de invocar djinns",
+    "previousNames": [
+      "Anillo de invocación de djinni"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgStaffOfTheMag",
+    "english": "Staff of the Magi",
+    "name": "Bastón de los magos",
+    "previousNames": [
+      "Bastón de los Magos"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgGemOfSeeing00",
+    "english": "Gem of Seeing",
+    "name": "Gema de visión",
+    "previousNames": [
+      "Gema de ver"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgDustOfSneezin",
+    "english": "Dust of Sneezing and Choking",
+    "name": "Polvo de estornudar y atragantarse",
+    "previousNames": [
+      "Polvo de estornudar y ahogar"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgPearlOfPower0",
+    "english": "Pearl of Power",
+    "name": "Perla de poder",
+    "previousNames": [
+      "Perla del Poder"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgPeriaptOfHeal",
+    "english": "Periapt of Health",
+    "name": "Talism?n de salud",
+    "previousNames": [
+      "Periapt de salud"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgAmuletOfThePl",
+    "english": "Amulet of the Planes",
+    "name": "Amuleto de los planos",
+    "previousNames": [
+      "Amuleto de los Planos"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgEfreetiChain0",
+    "english": "Efreeti Chain",
+    "name": "Cota de ifrit",
+    "previousNames": [
+      "Cota de efriti"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgRingOfProtect",
+    "english": "Ring of Protection",
+    "name": "Anillo de protección",
+    "previousNames": [
+      "Anillo de Protección"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgPotionOfPugil",
+    "english": "Potion of Pugilism",
+    "name": "Poción de pugilismo",
+    "previousNames": [
+      "Poción de Pugilismo"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgSwordOfVengea",
+    "english": "Sword of Vengeance",
+    "name": "Espada de venganza",
+    "previousNames": [
+      "Espada de Venganza"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgRingOfEvasion",
+    "english": "Ring of Evasion",
+    "name": "Anillo de evasión",
+    "previousNames": [
+      "Anillo de Evasión"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgNecklaceOfPra",
+    "english": "Necklace of Prayer Beads",
+    "name": "Collar de plegarias",
+    "previousNames": [
+      "Collar de cuentas de oración"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgPeriaptOfProo",
+    "english": "Periapt of Proof against Poison",
+    "name": "Periapto de protección contra el veneno",
+    "previousNames": [
+      "Periapt de protección contra el veneno"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgStaffOfTheWoo",
+    "english": "Staff of the Woodlands",
+    "name": "Bastón de los bosques",
+    "previousNames": [
+      "Bastón de los Bosques"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgPeriaptOfWoun",
+    "english": "Periapt of Wound Closure",
+    "name": "Talism?n de cerrar heridas",
+    "previousNames": [
+      "Periapt de cierre de heridas"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg1000GpGemston",
+    "english": "1,000 GP Gemstones",
+    "name": "Piedras preciosas de 1.000 po",
+    "previousNames": [
+      "1.000 piedras preciosas del po"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg100GpGemstone",
+    "english": "100 GP Gemstones",
+    "name": "Piedras preciosas de 100 po",
+    "previousNames": [
+      "100 piedras preciosas del po"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg10GpGemstones",
+    "english": "10 GP Gemstones",
+    "name": "Piedras preciosas de 10 po",
+    "previousNames": [
+      "10 piedras preciosas del po"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg1116Adventure",
+    "english": "Level 11-16 Adventure Situations",
+    "name": "Situaciones de aventura de niveles 11-16",
+    "previousNames": [
+      "Nivel 11-16 Situaciones de aventura"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg1116RandomMag",
+    "english": "Level 11-16",
+    "name": "Niveles 11-16",
+    "previousNames": [
+      "Nivel 11-16"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg13CardDeckOfM",
+    "english": "Deck of Many Things: 13 Cards",
+    "name": "Baraja de múltiples cosas: 13 cartas",
+    "previousNames": [
+      "Baraja de muchas cosas: 13 cartas"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg14AdventureSi",
+    "english": "Level 1-4 Adventure Situations",
+    "name": "Situaciones de aventura de niveles 1-4",
+    "previousNames": [
+      "Situaciones de aventura de nivel 1-4"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg14RandomMagic",
+    "english": "Level 1-4",
+    "name": "Niveles 1-4",
+    "previousNames": [
+      "Nivel 1-4"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg1720Adventure",
+    "english": "Level 17-20 Adventure Situations",
+    "name": "Situaciones de aventura de niveles 17-20",
+    "previousNames": [
+      "Nivel 17-20 Situaciones de aventura"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg1720RandomMag",
+    "english": "Level 17-20",
+    "name": "Niveles 17-20",
+    "previousNames": [
+      "Nivel 17-20"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg22CardDeckOfM",
+    "english": "Deck of Many Things: 22 Cards",
+    "name": "Baraja de múltiples cosas: 22 cartas",
+    "previousNames": [
+      "Baraja de muchas cosas: 22 cartas"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg2500GpArtObje",
+    "english": "2,500 GP Art Objects",
+    "name": "Objetos de arte de 2.500 po",
+    "previousNames": [
+      "2.500 po objetos de arte"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg250GpArtObjec",
+    "english": "250 GP Art Objects",
+    "name": "Objetos de arte de 250 po",
+    "previousNames": [
+      "250 po objetos de arte"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg25GpArtObject",
+    "english": "25 GP Art Objects",
+    "name": "Objetos de arte de 25 po",
+    "previousNames": [
+      "25 po objetos de arte"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg5000GpGemston",
+    "english": "5,000 GP Gemstones",
+    "name": "Piedras preciosas de 5.000 po",
+    "previousNames": [
+      "5000 po piedras preciosas"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg500GpGemstone",
+    "english": "500 GP Gemstones",
+    "name": "Piedras preciosas de 500 po",
+    "previousNames": [
+      "500 piedras preciosas del po"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg50GpGemstones",
+    "english": "50 GP Gemstones",
+    "name": "Piedras preciosas de 50 po",
+    "previousNames": [
+      "50 piedras preciosas del po"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg510AdventureS",
+    "english": "Level 5-10 Adventure Situations",
+    "name": "Situaciones de aventura de niveles 5-10",
+    "previousNames": [
+      "Nivel 5-10 Situaciones de aventura"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg510RandomMagi",
+    "english": "Level 5-10",
+    "name": "Niveles 5-10",
+    "previousNames": [
+      "Nivel 5-10"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg7500GpArtObje",
+    "english": "7,500 GP Art Objects",
+    "name": "Objetos de arte de 7.500 po",
+    "previousNames": [
+      "7.500 po objetos de arte"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmg750GpArtObjec",
+    "english": "750 GP Art Objects",
+    "name": "Objetos de arte de 750 po",
+    "previousNames": [
+      "750 objetos de arte po"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgAdventureConn",
+    "english": "Adventure Connection",
+    "name": "Conexión entre aventuras",
+    "previousNames": [
+      "Conexión de aventura"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgAllIsWell0000",
+    "english": "All is Well",
+    "name": "Todo está bien",
+    "previousNames": [
+      "Todo está bien."
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgAmuletOfThePl",
+    "english": "Amulet of the Planes Destination",
+    "name": "Amuleto de los planos: destino",
+    "previousNames": [
+      "Amuleto de los Planos: Destino"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArcanaCommon0",
+    "english": "Arcana - Common",
+    "name": "Objetos arcanos - Comunes",
+    "previousNames": [
+      "Arcana - Frecuentes"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArcanaLegenda",
+    "english": "Arcana - Legendary",
+    "name": "Objetos arcanos - Legendarios",
+    "previousNames": [
+      "Arcana - Legendario"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArcanaRare000",
+    "english": "Arcana - Rare",
+    "name": "Objetos arcanos - Raros",
+    "previousNames": [
+      "Arcana - Raras"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArcanaUncommo",
+    "english": "Arcana - Uncommon",
+    "name": "Objetos arcanos - Infrecuentes",
+    "previousNames": [
+      "Arcana - Poco frecuentes"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArcanaVeryRar",
+    "english": "Arcana - Very Rare",
+    "name": "Objetos arcanos - Muy raros",
+    "previousNames": [
+      "Arcana - Muy raras"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArmamentsComm",
+    "english": "Armaments - Common",
+    "name": "Armamento - Común",
+    "previousNames": [
+      "Armamentos - Frecuentes"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArmamentsLege",
+    "english": "Armaments - Legendary",
+    "name": "Armamento - Legendario",
+    "previousNames": [
+      "Armamentos - Legendario"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArmamentsRare",
+    "english": "Armaments - Rare",
+    "name": "Armamento - Raro",
+    "previousNames": [
+      "Armamentos - Raros"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArmamentsUnco",
+    "english": "Armaments - Uncommon",
+    "name": "Armamento - Infrecuente",
+    "previousNames": [
+      "Armamentos - Poco frecuentes"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArmamentsVery",
+    "english": "Armaments - Very Rare",
+    "name": "Armamento - Muy raro",
+    "previousNames": [
+      "Armamentos - Muy raros"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgArmorOfResist",
+    "english": "Armor of Resistance Type",
+    "name": "Armadura de resistencia: tipo",
+    "previousNames": [
+      "Armadura de resistencia: Tipo"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgAstralColorPo",
+    "english": "Astral Color Pools",
+    "name": "Estanques de color astrales",
+    "previousNames": [
+      "Piscinas de color astral"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgBagOfBeansEff",
+    "english": "Bag of Beans Effect",
+    "name": "Bolsa de judías: efecto",
+    "previousNames": [
+      "Bolsa de judías: Efecto"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgBastionEvents",
+    "english": "Bastion Events",
+    "name": "Sucesos del bastión",
+    "previousNames": [
+      "Eventos bastion"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgCandleOfInvoc",
+    "english": "Candle of Invocation: Outer Plane Destination",
+    "name": "Vela de invocación: destino en un Plano Exterior",
+    "previousNames": [
+      "Vela de invocación: Destino en Plano Exterior"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgCarpetOfFlyin",
+    "english": "Carpet of Flying: Size, Capacity, and Speed",
+    "name": "Alfombra voladora: tamaño, capacidad y velocidad",
+    "previousNames": [
+      "Alfombra voladora: Tamaño, capacidad y velocidad"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgClaimsToFame0",
+    "english": "Claims to Fame",
+    "name": "Motivos de fama",
+    "previousNames": [
+      "Alegaciones a la fama"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgDefiningTrait",
+    "english": "Defining Traits",
+    "name": "Rasgos distintivos",
+    "previousNames": [
+      "Definir rasgos"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgDungeonQuirks",
+    "english": "Dungeon Quirks",
+    "name": "Peculiaridades de mazmorras",
+    "previousNames": [
+      "Pañales de mazmorra"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgEtherCyclone0",
+    "english": "Ether Cyclone",
+    "name": "Ciclón de éter",
+    "previousNames": [
+      "Éter ciclón"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgHappenstanceH",
+    "english": "Happenstance Hooks",
+    "name": "Ganchos fortuitos",
+    "previousNames": [
+      "Ganchos de azar"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgHornOfValhall",
+    "english": "Horn of Valhalla: Type and Requirement",
+    "name": "Cuerno de Valhalla: tipo y requisito",
+    "previousNames": [
+      "Cuerno de Valhalla: Tipo y requisito"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgImplementsCom",
+    "english": "Implements - Common",
+    "name": "Instrumentos - Comunes",
+    "previousNames": [
+      "Implementaciones - Frecuentes"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgImplementsLeg",
+    "english": "Implements - Legendary",
+    "name": "Instrumentos - Legendarios",
+    "previousNames": [
+      "Implementos - Legendario"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgImplementsRar",
+    "english": "Implements - Rare",
+    "name": "Instrumentos - Raros",
+    "previousNames": [
+      "Implementos - Raros"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgImplementsUnc",
+    "english": "Implements - Uncommon",
+    "name": "Instrumentos - Infrecuentes",
+    "previousNames": [
+      "Implementos - Poco frecuentes"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgImplementsVer",
+    "english": "Implements - Very Rare",
+    "name": "Instrumentos - Muy raros",
+    "previousNames": [
+      "Implementos - Muy raros"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgLyricalNames0",
+    "english": "Lyrical Names",
+    "name": "Nombres poéticos",
+    "previousNames": [
+      "Nombres líricos"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgMajorBenefici",
+    "english": "Major Beneficial Properties",
+    "name": "Propiedades beneficiosas mayores",
+    "previousNames": [
+      "Principales propiedades beneficiosas"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgMajorDetrimen",
+    "english": "Major Detrimental Properties",
+    "name": "Propiedades perjudiciales mayores",
+    "previousNames": [
+      "Principales propiedades perjudiciales"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgMinorBenefici",
+    "english": "Minor Beneficial Properties",
+    "name": "Propiedades beneficiosas menores",
+    "previousNames": [
+      "Propiedades menos beneficiosas"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgMonsterRelati",
+    "english": "Monster Relationships",
+    "name": "Relaciones entre monstruos",
+    "previousNames": [
+      "Relaciones monstruosas"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgNpcSecrets000",
+    "english": "NPC Secrets",
+    "name": "Secretos de PNJ",
+    "previousNames": [
+      "Secretos de la PNJ"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgPatronHooks00",
+    "english": "Patron Hooks",
+    "name": "Ganchos de mecenas",
+    "previousNames": [
+      "Ganchos de patrón"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgPlanarAdventu",
+    "english": "Planar Adventure Situations",
+    "name": "Situaciones de aventura en los planos",
+    "previousNames": [
+      "Situaciones de aventura Planar"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgPsychicWindLo",
+    "english": "Psychic Wind Location Effects",
+    "name": "Viento psíquico: efectos sobre el destino",
+    "previousNames": [
+      "Efectos psíquicos de la ubicación del viento"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgPsychicWindPs",
+    "english": "Psychic Wind Psychic Effects",
+    "name": "Viento psíquico: efectos mentales",
+    "previousNames": [
+      "Efectos psíquicos del viento"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgQuaalsFeather",
+    "english": "Quaal's Feather Tokens",
+    "name": "Fichas de pluma de Quaal",
+    "previousNames": [
+      "Tokens de pluma de Quaal"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgRelicsCommon0",
+    "english": "Relics - Common",
+    "name": "Reliquias - Comunes",
+    "previousNames": [
+      "Reliquias - Frecuentes"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgRelicsLegenda",
+    "english": "Relics - Legendary",
+    "name": "Reliquias - Legendarias",
+    "previousNames": [
+      "Reliquias - Legendaria"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgRelicsUncommo",
+    "english": "Relics - Uncommon",
+    "name": "Reliquias - Infrecuentes",
+    "previousNames": [
+      "Reliquias - Poco frecuentes"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgScrollOfProte",
+    "english": "Scroll of Protection: Creature Type",
+    "name": "Pergamino de protección: tipo de criatura",
+    "previousNames": [
+      "Desplazamiento de protección: Tipo de criatura"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgScrollOfTitan",
+    "english": "Scroll of Titan Summoning: Titan",
+    "name": "Pergamino de invocación de titanes: titán",
+    "previousNames": [
+      "Desplazamiento de la Convocatoria de Titán: Titán"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgShadowfellDes",
+    "english": "Shadowfell Despair",
+    "name": "Desesperación del Páramo Sombrío",
+    "previousNames": [
+      "La desesperación de la sombra"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgSlayingAmmuni",
+    "english": "Ammunition of Slaying: Creature Type",
+    "name": "Munición de matanza: tipo de criatura",
+    "previousNames": [
+      "Munición de matanza: Tipo de criatura"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgTanBagOfTrick",
+    "english": "Tan Bag of Tricks",
+    "name": "Bolsa de trucos canela",
+    "previousNames": [
+      "Bolsa canela de trucos"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgWandOfWonderE",
+    "english": "Wand of Wonder Effects",
+    "name": "Efectos de la varita de maravillas",
+    "previousNames": [
+      "Efectos de la vara de maravillas"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgWeather000000",
+    "english": "Weather: Temperature",
+    "name": "Tiempo atmosférico: temperatura",
+    "previousNames": [
+      "Clima: Temperatura"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgWhimsicalName",
+    "english": "Whimsical Names",
+    "name": "Nombres extravagantes",
+    "previousNames": [
+      "Nombres whimsical"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgWildernessCha",
+    "english": "Wilderness Chase Complications",
+    "name": "Complicaciones de persecuciones en la naturaleza",
+    "previousNames": [
+      "Complicaciones de Wilderness Chase"
+    ]
+  },
+  {
+    "pack": "tables",
+    "id": "dmgWindprecipita",
+    "english": "Weather: Wind/Precipitation",
+    "name": "Tiempo atmosférico: viento y precipitaciones",
+    "previousNames": [
+      "Clima: Viento/Precipitación"
+    ]
+  }
+]

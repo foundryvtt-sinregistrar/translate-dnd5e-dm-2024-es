@@ -24,6 +24,10 @@ limitaciones y reproducción; [GLOSARIO.md](GLOSARIO.md) contiene los criterios.
 - `reviewed-actor-texts.json` y `apply_reviewed_actor_texts.py`: revisión de los
   606 campos de actores, identificada por huellas del original; previsualiza
   por defecto y escribe con `--apply`, validando cifras, referencias y HTML.
+- `reviewed-table-texts.json` y `apply_reviewed_table_texts.py`: decisiones para
+  los 1738 campos de tablas; misma validación con alcance explícito por documento.
+- `reviewed-names.json` y `apply_reviewed_names.py`: nombres revisados y etiquetas
+  completas de enlaces al mismo documento; previsualización y opción `--apply`.
 
 Las exportaciones, cachés, procedencia por campo y resultados de auditoría se
 guardan localmente en `../export/data/`, excluidos de Git. Conservarlos para

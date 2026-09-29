@@ -32,6 +32,9 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Revisados los 1738 campos de las 125 tablas: 803 correcciones en tablas y
+  29 campos de equipo y diarios para concordar nombres y enlaces. Documentado
+  el enlace erróneo del cuerno de bronce en la fuente oficial; se conserva su UUID.
 - Revisados los 606 campos de actores y los 142 de escenas. Segundo lote:
   253 correcciones en 58 actores y nueve notas de escenas; conservados HTML,
   cifras, fórmulas y referencias. Decisiones reproducibles por huellas del original.
