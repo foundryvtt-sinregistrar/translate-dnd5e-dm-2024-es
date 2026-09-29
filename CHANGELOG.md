@@ -36,6 +36,11 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ### Changed
 
+- Tercer lote de equipo: 182 correcciones en 96 objetos y concordancia de cinco
+  etiquetas de tablas/diarios. El registro alcanza 1561 campos revisados, con
+  257 descripciones completas. Corregidos tipos de daño, figurillas, explosivos,
+  lanzamiento de conjuros y notas de uso; la revisión restante sigue abierta.
+
 - Segundo lote de equipo: 183 correcciones en 80 objetos y concordancia de
   dos etiquetas en tablas/diarios. El registro alcanza 1171 campos revisados,
   incluidas 159 descripciones completas. Se corrigen cartas, invocaciones,

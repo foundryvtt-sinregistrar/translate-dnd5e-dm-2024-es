@@ -943,5 +943,68 @@
     "previousNames": [
       "Vacío"
     ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgEarthRingOfEl",
+    "english": "Earth Ring of Elemental Command",
+    "name": "Anillo de control de los elementales (tierra)",
+    "previousNames": [
+      "Anillo de control elemental (tierra)"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgFirePotionOfG",
+    "english": "Potion of Giant Strength (Fire)",
+    "name": "Poción de fuerza de gigante (fuego)",
+    "previousNames": [
+      "Poción de fuerza gigante (Fuego)"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgFireRingOfEle",
+    "english": "Fire Ring of Elemental Command",
+    "name": "Anillo de control de los elementales (fuego)",
+    "previousNames": [
+      "Anillo de control elemental (fuego)"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgFwpSerpentine",
+    "english": "Serpentine Owl",
+    "name": "Búho de serpentina",
+    "previousNames": [
+      "Búho serpentino"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgGemstone10GP0",
+    "english": "Gemstone (10 GP)",
+    "name": "Piedra preciosa (10 po)",
+    "previousNames": [
+      "Piedras preciosas (10 po)"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgGemstone5000G",
+    "english": "Gemstone (5,000 GP)",
+    "name": "Piedra preciosa (5.000 po)",
+    "previousNames": [
+      "Piedras preciosas (5.000 po)"
+    ]
+  },
+  {
+    "pack": "equipment",
+    "id": "dmgGrenadeFragme",
+    "english": "Grenade, Fragmentation",
+    "name": "Granada de fragmentación",
+    "previousNames": [
+      "Granada, fragmentación"
+    ]
   }
 ]

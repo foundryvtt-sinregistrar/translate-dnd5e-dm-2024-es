@@ -169,6 +169,28 @@ auditoría de originales pasan; los auxiliares de equipo, tablas y nombres
 previsualizan cero cambios. La última comprobación en Foundry corresponde al
 lote anterior de las 08:04:31 UTC; no se atribuye a estos cambios posteriores.
 
+## Equipo — sexto lote del 29 de septiembre
+
+El registro alcanza **1561 campos en 388 documentos**, incluidas **257
+descripciones completas**: 390 campos más que el lote anterior. Este lote
+cambia 182 campos de 96 objetos, tres etiquetas de tablas y dos de diarios.
+
+Incluye anillos elementales, objetos imbuidos, Ojo y Mano de Vecna, figurillas,
+guantes, granadas, pólvora, sombreros y yelmos. Se corrigen omisiones del tipo
+de daño, instrucciones de salvación, cargas, concentración, invocación y
+recuperación de usos. Los nombres Búho de serpentina y Cabra de trabajo se
+cotejaron con el OCR español; se mantiene la distinción entre el dragón de
+oropel y el metal latón.
+
+Las decisiones se registran por fuente completa y documento. Se conservan
+cifras, fórmulas, referencias y etiquetas HTML. Pasan las 25 pruebas Node y
+la auditoría de los siete compendios. Los auxiliares de nombres, tablas,
+etiquetas y equipo previsualizan cero cambios tras aplicar el lote.
+
+Foundry volvió a validar los 873 documentos a las **08:39:25 UTC**, con cero
+errores y cero enlaces pendientes. La evidencia local se conserva en
+`tmp/equipment-review-3-validation.json`. No se importaron documentos nuevos.
+
 ## Alcance pendiente
 
 Los lotes revisados **no acreditan la revisión íntegra de los 6021

@@ -161,7 +161,7 @@
     "reference": "DMG 2.0.0: tablas; revisión del original, OCR español selectivo, 2026-09-29"
   },
   "485ab76a5d7349ce0e6810b83a5ee840197f00705f6f219822232f30c5bd837d": {
-    "translation": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGemstone10GP0]{Piedras preciosas (10 po)}</em></p>",
+    "translation": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGemstone10GP0]{Piedra preciosa (10 po)}</em></p>",
     "documents": [
       "dmg10GpGemstones"
     ],
@@ -1077,7 +1077,7 @@
     "reference": "DMG 2.0.0: tablas; revisión del original, OCR español selectivo, 2026-09-29"
   },
   "2d6d7604ddf9c712787ee7b99b10e1c5614d5e25105dd2284972b9147ba970c5": {
-    "translation": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGemstone5000G]{Piedras preciosas (5.000 po)}</em></p>",
+    "translation": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGemstone5000G]{Piedra preciosa (5.000 po)}</em></p>",
     "documents": [
       "dmg5000GpGemston"
     ],
@@ -2508,7 +2508,7 @@
     "reference": "DMG 2.0.0: tablas; revisión del original, OCR español selectivo, 2026-09-29"
   },
   "b8343c95ac1aca3073c4e11c76bc62b6ed27e545b303cb6c4bdb3d477c4ecfef": {
-    "translation": "Figurilla de poder maravilloso (@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpBronzeGrif]{grifo de bronce}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpEbonyFlyRa]{mosca de ébano}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpGoldenLion]{leones de oro}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpIvoryGoats]{cabras de marfil}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpMarbleElep]{elefante de mármol}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpOnyxDogRar]{perro de ónice} o @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpSerpentine]{búho de serpentina})",
+    "translation": "Figurilla de poder maravilloso (@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpBronzeGrif]{grifo de bronce}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpEbonyFlyRa]{mosca de ébano}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpGoldenLion]{leones de oro}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpIvoryGoats]{cabras de marfil}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpMarbleElep]{elefante de mármol}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpOnyxDogRar]{perro de ónice} o @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpSerpentine]{Búho de serpentina})",
     "documents": [
       "dmgArcanaRare000"
     ],

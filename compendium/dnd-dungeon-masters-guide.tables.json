@@ -1383,7 +1383,7 @@
     },
     "dmg10GpGemstones": {
       "name": "Piedras preciosas de 10 po",
-      "description": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGemstone10GP0]{Piedras preciosas (10 po)}</em></p>",
+      "description": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGemstone10GP0]{Piedra preciosa (10 po)}</em></p>",
       "results": {
         "vjmimwy2JxqfnVvj": {
           "description": "Azurita (azul intenso moteado)"
@@ -1674,7 +1674,7 @@
     },
     "dmg5000GpGemston": {
       "name": "Piedras preciosas de 5.000 po",
-      "description": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGemstone5000G]{Piedras preciosas (5.000 po)}</em></p>",
+      "description": "<p><em>Véase: @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgGemstone5000G]{Piedra preciosa (5.000 po)}</em></p>",
       "results": {
         "LkYfLz4zqnpedZ5k": {
           "description": "Zafiro negro (negro lustroso con reflejos brillantes)"
@@ -2305,7 +2305,7 @@
           "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgEnspelledStaf]{Bastón lanzaconjuro} (conjuro de nivel 2 o 3)"
         },
         "A4wQ5JWmeitGIi5F": {
-          "description": "Figurilla de poder maravilloso (@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpBronzeGrif]{grifo de bronce}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpEbonyFlyRa]{mosca de ébano}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpGoldenLion]{leones de oro}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpIvoryGoats]{cabras de marfil}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpMarbleElep]{elefante de mármol}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpOnyxDogRar]{perro de ónice} o @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpSerpentine]{búho de serpentina})"
+          "description": "Figurilla de poder maravilloso (@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpBronzeGrif]{grifo de bronce}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpEbonyFlyRa]{mosca de ébano}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpGoldenLion]{leones de oro}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpIvoryGoats]{cabras de marfil}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpMarbleElep]{elefante de mármol}, @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpOnyxDogRar]{perro de ónice} o @UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgFwpSerpentine]{Búho de serpentina})"
         },
         "hYmUZX28j5iVs35A": {
           "description": "@UUID[Compendium.dnd-dungeon-masters-guide.equipment.Item.dmgHewardsHandyH]{Morral práctico de Heward}"

@@ -145,3 +145,13 @@ y las cuatro correcciones de acentos en tablas y bastiones. Evidencia local:
 `tmp/equipment-review-1-validation.json`. Las 25 pruebas Node y la auditoría de
 los siete compendios también pasaron. La revisión lingüística de equipo sigue
 siendo parcial; este resultado valida la aplicación del lote por Babele.
+
+## Revalidación del tercer lote amplio de equipo
+
+El **29 de septiembre de 2026, 08:39:25 UTC**, pasaron los 873 documentos,
+sin errores ni enlaces sin resolver, tras las 182 correcciones de equipo y
+cinco etiquetas de tablas/diarios. Evidencia local:
+`tmp/equipment-review-3-validation.json`. Pasan también las 25 pruebas Node y
+la auditoría de los siete compendios. Se restauró la macro original y se
+verificó el mundo en pausa con cero módulos activos. La revisión editorial
+sigue abierta; estas comprobaciones no certifican todos los textos del libro.
