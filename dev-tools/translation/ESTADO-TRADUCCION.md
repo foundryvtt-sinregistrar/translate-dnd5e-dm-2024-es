@@ -14,7 +14,7 @@ final ni interpretar la presencia de un campo como certificación de calidad.
 | Equipo | 548 | 2449 | Cotejo completo de los 2449 campos, incluidas 539 descripciones; contraste terminológico selectivo con el OCR español |
 | Tablas | 125 | 1738 | Revisadas contra el original; contraste español selectivo, nombres y limitaciones documentados |
 | Actores | 72 | 606 | Revisados contra el original; contraste terminológico selectivo con el OCR español |
-| Contenido | 46 | 949 | Borrador de 473 páginas; 923 campos cotejados, revisión parcial |
+| Contenido | 46 | 949 | Borrador de 473 páginas; 935 campos cotejados, revisión parcial |
 | Escenas | 24 | 142 | Textos revisados; no incluye texto incrustado en imágenes |
 | **Total** | **873** | **6021** | **Cobertura estructural, no aprobación lingüística** |
 
@@ -52,6 +52,11 @@ final. El cierre del lote completó los textos extensos 840 y 847: recursos para
 el DM, diálogo de ejemplo, anotaciones y regla de la diversión. La cobertura
 registrada asciende a **923/949 campos** y 852 textos fuente únicos. El diario
 *The Basics* queda revisado; la revisión del libro sigue parcial.
+
+El lote de *Tracking Sheets* revisó los índices 852–863. Se corrigieron las
+etiquetas de los formularios de asentamiento, expectativas, viaje, campaña y
+objetos mágicos, conservando HTML, cifras y estructura. La cobertura asciende
+a **935/949 campos**; solo queda por revisar el diario *Treasure*.
 
 ## Revisión de diarios — 30 de septiembre de 2026
 

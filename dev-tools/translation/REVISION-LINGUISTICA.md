@@ -550,3 +550,11 @@ Se conservaron los UUID, enlaces, HTML y cifras. La reaplicación termina sin
 cambios; la auditoría detecta cero errores y diferencias numéricas, las 25
 pruebas Node pasan y `git diff --check` no informa errores. Siguiente lote:
 índices 852–863 de *Tracking Sheets*.
+
+### Decimocuarto lote de diarios — hojas de seguimiento
+
+El registro alcanza **935 de 949 campos** y 864 huellas de texto fuente. Se
+cotejaron las hojas de asentamiento, expectativas de juego, viaje, campaña y
+objetos mágicos. Se conservaron HTML, cifras y la estructura de los formularios.
+La reaplicación no presenta cambios y la auditoría no detecta errores ni
+diferencias numéricas. Siguiente lote: índices 864–877 de *Treasure*.

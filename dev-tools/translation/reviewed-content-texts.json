@@ -6022,5 +6022,89 @@
       "dmgTheBasics0000"
     ],
     "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "066045d9bbb881f6d2c742a6f902cc31667d380abab16eabb64dd922b61cd176": {
+    "translation": "Hojas de seguimiento",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "e762c59b7d0f1ead953bf97afb171f6eb222fd0d8b881c93b937f3e9074be376": {
+    "translation": "Registro de asentamiento",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "d1d4db5b0b687435774b7173cb4104281a0b780ef8b12ce3ade4fa70631c2c29": {
+    "translation": "<div class=\"dmg-tracker\"><h1>Hoja de asentamiento</h1><div class=\"inline\"><h3 class=\"label\">Nombre del asentamiento</h3><div class=\"field\"><p></p></div></div><div class=\"settlement-size highlight\"><div class=\"inline\"><div class=\"field bubble\"><p></p></div><h5 class=\"label\">ALDEA<br />pob. hasta 500</h5></div><div class=\"inline\"><div class=\"field bubble\"><p></p></div><h5 class=\"label\">VILLA<br />pob. 501 a 5.000</h5></div><div class=\"inline\"><div class=\"field bubble\"><p></p></div><h5 class=\"label\">CIUDAD<br />pob. 5.001+</h5></div></div><div class=\"inline\"><h3 class=\"label\">Tamaño del asentamiento</h3><div class=\"field\"><p></p></div></div><h3>Rasgo definitorio</h3><div class=\"field block\"><p></p></div><h3>Motivo de fama</h3><div class=\"field block\"><p></p></div><h3>Calamidad actual</h3><div class=\"field block\"><p></p></div><h3>Líder local</h3><div class=\"field block\"><p></p></div><div class=\"flex-around\"><div class=\"col\"><h4>Personas notables</h4><div class=\"field block\"><p></p></div></div><div class=\"col\"><h4>Lugares destacados</h4><div class=\"field block\"><p></p></div></div></div><div class=\"inline\"><h5>Valor en po del objeto más caro a la venta:</h5><div class=\"field\"><p></p></div></div></div>",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "3286a6c010f2b0e71be55a90b689f62b220d91a114e35680f0ef3c96eeb448cf": {
+    "translation": "Expectativas de la partida",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "bd1c3ffbaa4369d125b8aea76950b6a18d6a2092ef6b07ea8a47e541293d02ac": {
+    "translation": "<div class=\"dmg-tracker\"><h1>Expectativas de juego</h1><div class=\"inline\"><h3 class=\"label\">Nombre del DM:</h3><div class=\"field\"><p></p></div></div><div class=\"inline\"><h3 class=\"label\">Nombre del jugador:</h3><div class=\"field\"><p></p></div></div><h3 style=\"text-align:center\">Tema y tono de la partida</h3><div class=\"field block\"><p></p></div><h3 style=\"text-align:center\">Elementos potencialmente sensibles</h3><p class=\"highlight\">Ejemplos: arañas, serpientes, demonios, romance, control mental</p><div class=\"field block\"><p></p></div><div class=\"highlight\"><p>X Límite estricto: no mencionar ni incluir</p><p>? Límite flexible: tratar con cuidado o fuera de escena</p></div><h3 style=\"text-align:center\">Esperanzas y expectativas de los jugadores</h3><p class=\"highlight\">¿Qué quieres ver en esta campaña?</p><div class=\"field block\"><p></p></div><h3 style=\"text-align:center\">Cuestiones en la mesa</h3><p class=\"highlight\">Ejemplos: gritar, palabrotas, alcohol, compartir dados</p><div class=\"field block\"><p></p></div></div>",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "1361258e39f1c5e5fc1f2caa3a6b48fd4758ecf525defd0be918f66418ede9d0": {
+    "translation": "Planificador de viajes",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "8fc76fc012f48b0a8faf0ad089f1a20161f1a9e1a091d8399a3b2e231c923787": {
+    "translation": "<div class=\"dmg-tracker\"><h1>Planificador de viajes</h1><div class=\"flex-around\"><div class=\"inline\"><h4>Origen</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Destino</h4><div class=\"field\"><p></p></div></div></div><h2 class=\"highlight\">Etapa 1</h2><div class=\"travel-info\"><div class=\"flex-around\"><div class=\"inline\"><h4>Inicio</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Fin</h4><div class=\"field\"><p></p></div></div></div><div class=\"flex-around\"><div class=\"inline\"><h4>Distancia</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Terreno</h4><div class=\"field\"><p></p></div></div></div><div class=\"inline\"><h4>Meteorología</h4><div class=\"field\"><p></p></div></div><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><h4>Rápido</h4><div class=\"field\"><p></p></div><h5>días/horas</h5></div><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><h4>Normal</h4><div class=\"field\"><p></p></div><h5>días/horas</h5></div><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><h4>Lento</h4><div class=\"field\"><p></p></div><h5>días/horas</h5></div></div><div class=\"flex-around\"><div class=\"col\" style=\"align-self:start\"><h3>Notas narrativas</h3><div class=\"field block\"><p></p></div></div><div class=\"col\" style=\"align-self:start\"><h3>Desafíos</h3><div class=\"field block\"><p></p></div><div class=\"inline\"><h5 class=\"label\">Tiempo transcurrido (días/horass)</h5><div class=\"field\"><p></p></div></div></div></div><h2 class=\"highlight\">Etapa 2</h2><div class=\"travel-info\"><div class=\"flex-around\"><div class=\"inline\"><h4>Inicio</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Fin</h4><div class=\"field\"><p></p></div></div></div><div class=\"flex-around\"><div class=\"inline\"><h4>Distancia</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Terreno</h4><div class=\"field\"><p></p></div></div></div><div class=\"inline\"><h4>Meteorología</h4><div class=\"field\"><p></p></div></div><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><h4>Rápido</h4><div class=\"field\"><p></p></div><h5>días/horas</h5></div><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><h4>Normal</h4><div class=\"field\"><p></p></div><h5>días/horas</h5></div><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><h4>Lento</h4><div class=\"field\"><p></p></div><h5>días/horas</h5></div></div><div class=\"flex-around\"><div class=\"col\" style=\"align-self:start\"><h3>Notas narrativas</h3><div class=\"field block\"><p></p></div></div><div class=\"col\" style=\"align-self:start\"><h3>Desafíos</h3><div class=\"field block\"><p></p></div><div class=\"inline\"><h5 class=\"label\">Tiempo transcurrido (días/horass)</h5><div class=\"field\"><p></p></div></div></div></div><h2 class=\"highlight\">Etapa 3</h2><div class=\"travel-info\"><div class=\"flex-around\"><div class=\"inline\"><h4>Inicio</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Fin</h4><div class=\"field\"><p></p></div></div></div><div class=\"flex-around\"><div class=\"inline\"><h4>Distancia</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4>Terreno</h4><div class=\"field\"><p></p></div></div></div><div class=\"inline\"><h4>Meteorología</h4><div class=\"field\"><p></p></div></div><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><h4>Rápido</h4><div class=\"field\"><p></p></div><h5>días/horas</h5></div><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><h4>Normal</h4><div class=\"field\"><p></p></div><h5>días/horas</h5></div><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><h4>Lento</h4><div class=\"field\"><p></p></div><h5>días/horas</h5></div></div><div class=\"flex-around\"><div class=\"col\" style=\"align-self:start\"><h3>Notas narrativas</h3><div class=\"field block\"><p></p></div></div><div class=\"col\" style=\"align-self:start\"><h3>Desafíos</h3><div class=\"field block\"><p></p></div><div class=\"inline\"><h5 class=\"label\">Tiempo transcurrido (días/horass)</h5><div class=\"field\"><p></p></div></div></div></div></div>",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "82770be017f33f045f1a8c7d2e1fc27845f6a746afde787344de56b7b9d0561f": {
+    "translation": "Diario de campaña",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "c9dfb4f0fa78aaa4fe1161fe80573a39afd8b67d95cf39cfe8cb3d1afab9dad2": {
+    "translation": "<div class=\"dmg-tracker\"><h1>Diario de campaña</h1><div class=\"flex-around\"><div class=\"inline\"><h4 class=\"label\">Número de sesión</h4><div class=\"field\"><p></p></div></div><div class=\"inline\"><h4 class=\"label\">Fecha de la sesión</h4><div class=\"field\"><p></p></div></div></div><div class=\"inline\"><h4 class=\"label\">Título de sesión/aventura</h4><div class=\"field\"><p></p></div></div><p class=\"highlight\">Eventos importantes de sesiones anteriores que podrían tener relación con esta sesión de juego:</p><div class=\"field block\"><p></p></div><p class=\"highlight\">Resumen breve de lo previsto para esta sesión de juego:</p><div class=\"field block\"><p></p></div><p class=\"highlight\">Notas adicionales:</p><div class=\"field block\"><p></p></div></div>",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "771daf31f9c5229d230a1dd9e1d000ba526be78c8d555f176260032ede424bac": {
+    "translation": "<div class=\"dmg-tracker\"><h1>Conflictos de campaña</h1><h2 class=\"label\">Conflicto 1</h2><p>Aventureros vs.</p><div class=\"field block\"><p></p></div><h2 class=\"label\">Conflicto 2</h2><p>Aventureros vs.</p><div class=\"field block\"><p></p></div><h2 class=\"label\">Conflicto 3</h2><p>Aventureros vs.</p><div class=\"field block\"><p></p></div></div>",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "af7dc5df2bbe8d2d014436968b6c1098677d5d40edf68fed4e9c8e6f092fcedc": {
+    "translation": "Seguimiento de objetos mágicos",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "7f1759219b2ec5336d2a1c90704bbdf18146d1e81069344ac98ca9218e2f60c5": {
+    "translation": "<div class=\"dmg-tracker\"><h1>Seguimiento de objetos mágicos</h1><table><caption>Niveles 1-4</caption><thead><tr><th>Raridades</th><th>Objetos</th></tr></thead><tbody><tr><td style=\"width:122px\">6 comunes</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">4 infrecuentes</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">1 raro</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div></div></td></tr></tbody></table><table><caption>Niveles 5-10</caption><thead><tr><th>Raridades</th><th>Objetos</th></tr></thead><tbody><tr><td style=\"width:122px\">10 comunes</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">17 infrecuentes</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">6 raros</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">1 muy raro</td><td><div class=\"field bubble\"><p></p></div></td></tr></tbody></table><table><caption>Niveles 11-16</caption><thead><tr><th>Raridades</th><th>Objetos</th></tr></thead><tbody><tr><td style=\"width:122px\">3 comunes</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">7 infrecuentes</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">11 raro</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">7 muy raros</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">2 legendarios</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr></tbody></table><table><caption>Niveles 17-20</caption><thead><tr><th>Raridades</th><th>Objetos</th></tr></thead><tbody><tr><td style=\"width:122px\">5 raros</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">11 muy raro</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr><tr><td style=\"width:122px\">9 legendarios</td><td><div class=\"inline flex-wrap\"><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div><div class=\"field bubble\"><p></p></div></div></td></tr></tbody></table></div>",
+    "documents": [
+      "dmgTrackingSheet"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
   }
 }
