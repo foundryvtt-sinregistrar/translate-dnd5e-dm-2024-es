@@ -524,3 +524,17 @@ sin cambios; la auditoría detecta cero errores y diferencias numéricas y pasan
 las 25 pruebas Node. `git diff --check` también pasa. Pendiente commit y CI.
 El sublote no acredita los índices 840–851, que siguen en revisión antes de
 continuar con el resto de *The Basics*.
+
+### Duodécimo lote de diarios — conceptos básicos, segunda parte
+
+El registro alcanza **920 de 949 campos**, 849 huellas de texto fuente, 333
+textos de página y **43 diarios completos**. Se cotejaron los índices
+841–846 y 848–851 de *The Basics*: presentación del capítulo, preparación y
+dirección de una sesión, ejemplo de partida, estilo de juego y el embed final.
+
+Se corrigieron seis destinos y se validaron los demás sin cambios de prosa.
+Se conservaron los UUID, enlaces, fórmulas, HTML y cifras. La reaplicación
+termina sin cambios; la auditoría detecta cero errores y diferencias numéricas
+y pasan las 25 pruebas Node. `git diff --check` también pasa. Pendiente commit
+y CI. Los dos textos extensos de los índices 840 y 847 quedan fuera de este
+sublote y siguen en revisión editorial.
