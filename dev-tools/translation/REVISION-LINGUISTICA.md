@@ -441,3 +441,19 @@ original inglés exportado; se conservan las unidades de Foundry.
 
 La publicación definitiva sigue condicionada a esa revisión. El canal preliminar
 existente no se convierte en estable por superar las comprobaciones técnicas.
+
+### Séptimo lote de diarios — resolución y combate
+
+El registro alcanza **864 de 949 campos**, 794 huellas de texto fuente, 299
+textos de página y **40 diarios completos**. Se revisan los índices 755–793 de
+la instantánea local: 39 campos de *Resolving Outcomes* y *Running Combat*.
+Se cotejaron los procedimientos de pruebas con d20, tiradas de ataque y
+salvación, consecuencias, improvisación, iniciativa, puntos de golpe, estados,
+terreno, ritmo y dificultad. Se conservaron fórmulas, dados, cifras y referencias.
+
+La reaplicación del registro no introduce cambios; la auditoría informa cero
+errores y cero diferencias numéricas pendientes, y pasan las 25 pruebas Node.
+Estos resultados verifican la estructura y el código, no sustituyen la
+validación funcional de Foundry. El lote está pendiente de confirmación y CI.
+Quedan **85 campos**, índices 794–877, además de la concordancia entre
+compendios y la validación final en Foundry.

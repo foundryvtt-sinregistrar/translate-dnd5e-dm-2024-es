@@ -14,7 +14,7 @@ final ni interpretar la presencia de un campo como certificación de calidad.
 | Equipo | 548 | 2449 | Cotejo completo de los 2449 campos, incluidas 539 descripciones; contraste terminológico selectivo con el OCR español |
 | Tablas | 125 | 1738 | Revisadas contra el original; contraste español selectivo, nombres y limitaciones documentados |
 | Actores | 72 | 606 | Revisados contra el original; contraste terminológico selectivo con el OCR español |
-| Contenido | 46 | 949 | Borrador de 473 páginas; revisión parcial |
+| Contenido | 46 | 949 | Borrador de 473 páginas; 864 campos cotejados, revisión parcial |
 | Escenas | 24 | 142 | Textos revisados; no incluye texto incrustado en imágenes |
 | **Total** | **873** | **6021** | **Cobertura estructural, no aprobación lingüística** |
 
@@ -22,6 +22,15 @@ El recuento incluye nombres propios sin cambios y campos que solo contienen
 referencias técnicas. Se traducen también carpetas, etiquetas de enlaces,
 actividades, efectos, objetos anidados, notas y regiones cuando existen.
 No se traduce texto incrustado en las ilustraciones ni se sustituyen sus recursos.
+
+## Revisión de diarios — 30 de septiembre de 2026
+
+El registro de textos revisados cubre **864 de 949 campos** (794 textos fuente
+únicos), incluidos **299 campos de página** y **40 diarios completos**. En este
+lote se revisaron 39 campos de *Resolving Outcomes* y *Running Combat*, índices
+755–793 de la instantánea local. Esta cobertura mide cotejo registrado; el
+contenido sigue en revisión y la validación de Foundry de las 10:16:12 UTC del
+29 de septiembre precede a estos cambios.
 
 ## Procedencia y generación
 
