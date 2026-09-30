@@ -558,3 +558,12 @@ cotejaron las hojas de asentamiento, expectativas de juego, viaje, campaña y
 objetos mágicos. Se conservaron HTML, cifras y la estructura de los formularios.
 La reaplicación no presenta cambios y la auditoría no detecta errores ni
 diferencias numéricas. Siguiente lote: índices 864–877 de *Treasure*.
+
+### Decimoquinto lote de diarios — tesoro
+
+El registro alcanza **949 de 949 campos** y 878 huellas de texto fuente. Se
+cotejaron temas de tesoro, monedas, lingotes, mercancías, gemas y objetos de
+arte; se conservaron UUID, HTML, cifras y unidades. La reaplicación no presenta
+cambios, la auditoría no detecta errores ni diferencias numéricas y pasan las
+25 pruebas Node. La revisión editorial de diarios queda completa; sigue T08,
+la concordancia entre compendios.

@@ -6106,5 +6106,103 @@
       "dmgTrackingSheet"
     ],
     "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "fbbbf4992fa5817c21497249ab1965d67e22c5486ad08d61373686821ea01e82": {
+    "translation": "Tesoro",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "02f33bba074bca351cb975c63d027868ff1142535ec6b50947e66afa268f8e5e": {
+    "translation": "<p>Los aventureros se esfuerzan por alcanzar muchas metas, entre ellas la gloria, el conocimiento y la justicia. Muchos aventureros también buscan algo más tangible: el tesoro. Este capítulo presenta el tesoro en todas sus formas, desde monedas hasta objetos mágicos.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh7ArtHandout.JournalEntryPage.G2g8KjUZGQTEj1Qf]</p>",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "74dfb3e4ed96161abf4b9244d556f692c8b657dda7502fdf9ffc61fdcb53a1ae": {
+    "translation": "Temas del tesoro",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "ac5778a383a22f38144ac66aa82a342792f9f51b68327d1df6036fa3065ac358": {
+    "translation": "<p>Los monstruos tienen preferencias de tesoro, como se explica en el <em>Manual de monstruos</em>. Estas preferencias se expresan mediante temas, que te ayudan a determinar qué tesoros aparecen en las reservas de los monstruos, como resume la tabla Temas de tesoro.</p><p>Para consejos sobre cómo incluir tesoro en una aventura, consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAdventureRewa]{Recompensas de aventuras}.</p><p>Para determinar al azar un objeto mágico hallado como tesoro, usa las tablas al final de este capítulo.</p><table><caption>Temas de tesoro</caption><thead><tr><th><p>Tema</p></th><th><p>Tesoro adecuado</p></th></tr></thead><tbody><tr><td><p>Arcana</p></td><td><p>Gemas y objetos mágicos de naturaleza <span>sobrenatural</span> o esotérica</p></td></tr><tr><td><p>Armamentos</p></td><td><p>Monedas o lingotes comerciales y objetos mágicos útiles en combate</p></td></tr><tr><td><p>Implementos</p></td><td><p>Monedas, lingotes comerciales o mercancías y objetos mágicos centrados en la utilidad</p></td></tr><tr><td><p>Reliquias</p></td><td><p>Objetos de arte y objetos mágicos de origen o propósito religioso</p></td></tr></tbody></table><p>@Embed[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCh7ArtHandout.JournalEntryPage.AqTo09QtbmdPWh2u caption=false]</p>",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "7ae57d9d0e8c44f9756c2b5531af3a47f624de1067be52dd373688ba7a8ab2a8": {
+    "translation": "Monedas",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "5432c1c74d2c4a7127bb52658498069888ca10c80d30f40c1706df2a218577c7": {
+    "translation": "<p>El tipo más básico de tesoro es el dinero, incluyendo piezas de cobre (pc), piezas de plata (pp), piezas de electro (pe), piezas de oro (po) y piezas de platino (ppt). Consulta el <em>Manual del jugador</em> para conocer su valor relativo. Cincuenta monedas de cualquier tipo pesan 1 libra.</p>",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "7a3eacb5867d2319dd1d7be73cfeedf83f3854f07f794a1f62cd2be7ebd01914": {
+    "translation": "Barras comerciales",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "27312193c49876f03b4abe5f38c85fa4c4e5aa91b977625ad84f6aa779997dba": {
+    "translation": "<p>Debido a que un gran número de monedas puede ser difícil de transportar y contabilizar, muchos comerciantes prefieren usar lingotes comerciales: lingotes de metales preciosos y aleaciones (normalmente plata). Estas barras se valoran por peso, como se muestra en la tabla Lingotes comerciales.</p><table><caption>Barras comerciales</caption><thead><tr><th><p>Lingote</p></th><th><p>Valor</p></th><th></th><th><p>Dimensiones</p></th></tr></thead><tbody><tr><td><p>Barra de plata de 2 libras</p></td><td><p>10 po</p></td><td></td><td><p>5 pulg. de largo × 2 pulg. de ancho × <span>1/2 pulg.</span> de grosor</p></td></tr><tr><td><p>Barra de plata de 5 libras</p></td><td><p>25 po</p></td><td></td><td><p>6 pulg. de largo × 2 pulg. de ancho × <span>1 pulg. de grosor</span></p></td></tr><tr><td><p>Barra de oro de 5 libras</p></td><td><p>250 po</p></td><td></td><td><p>5 pulg. de largo × 2 pulg. de ancho × <span>3/4 pulg.</span> de grosor</p></td></tr></tbody></table>",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "2f42c908dc9e6968a4dcfc96221d5971e55cbf50efecb01e51c470d47436140f": {
+    "translation": "Mercancías comerciales",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "c83465e07e20b48ac2b149f07c06dbba25fcf98ace40b112731c8fbfe5f09c6f": {
+    "translation": "<p>Los comerciantes suelen intercambiar bienes sin utilizar moneda. La tabla Mercancías comerciales muestra el valor de las mercancías que se intercambian habitualmente.</p><table><caption>Mercancías comerciales</caption><thead><tr><th><p>Costo</p></th><th></th><th><p>Mercancías</p></th></tr></thead><tbody><tr><td><p>1 pc</p></td><td></td><td><p>1 lb. de trigo</p></td></tr><tr><td><p>2 pc</p></td><td></td><td><p>2 lb. de harina o un pollo</p></td></tr><tr><td><p>5 pc</p></td><td></td><td><p>1 lb. de sal</p></td></tr><tr><td><p>1 pp</p></td><td></td><td><p>1 lb. de hierro o 1 yarda cuadrada de lona</p></td></tr><tr><td><p>5 pp</p></td><td></td><td><p>1 lb. de cobre o 1 yarda cuadrada de tela de algodón</p></td></tr><tr><td><p>1 po</p></td><td></td><td><p>1 libra de jengibre o una cabra</p></td></tr><tr><td><p>2 po</p></td><td></td><td><p>1 lb. de canela o pimienta, o una oveja</p></td></tr><tr><td><p>3 po</p></td><td></td><td><p>1 libra de clavo o un cerdo</p></td></tr><tr><td><p>5 po</p></td><td></td><td><p>1 libra de plata o 1 yarda cuadrada de lino</p></td></tr><tr><td><p>10 po</p></td><td></td><td><p>1 libra de seda o una vaca</p></td></tr><tr><td><p>15 po</p></td><td></td><td><p>1 libra de azafrán o un buey</p></td></tr><tr><td><p>50 po</p></td><td></td><td><p>1 libra de oro</p></td></tr><tr><td><p>500 po</p></td><td></td><td><p>1 lb. de platino</p></td></tr></tbody></table>",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "97417af2b2485d1558e61c3ba8c223eeef7aab204c2f4838265db21fec0cd50d": {
+    "translation": "Piedras preciosas",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "b7015814dbdb06ce2a553cb060a928cf506f71aa747d400ec4a8978f1be9a7c0": {
+    "translation": "<p>Las piedras preciosas son pequeñas, ligeras y fáciles de proteger en comparación con su valor equivalente en monedas.</p><p>Si un tesoro contiene piedras preciosas, puedes usar las siguientes tablas para determinar aleatoriamente el tipo de piedras preciosas encontradas, en función en su valor. Puedes tirar una vez y asumir que todas las gemas son iguales, o tirar varias veces para crear colecciones mixtas.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg10GpGemstones rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg50GpGemstones rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg100GpGemstone rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg500GpGemstone rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg1000GpGemston rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg5000GpGemston rollable]</p>",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "b02084ec8608654c144875beb1d68522dbcb7c95ce7ef4de1af0b8b7c5a82e23": {
+    "translation": "Objetos de arte",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "5f493abeeb5c68fcb4b9dd5b21652dcde674956a84a4c20096aca0fd4d4fb5e1": {
+    "translation": "<p>Ídolos de oro macizo, collares engastados con piedras preciosas, pinturas de reyes antiguos y vajillas enjoyadas: los objetos de arte incluyen todo eso y mucho más.</p><p>Si un tesoro contiene objetos de arte, puedes usar las siguientes tablas para determinar aleatoriamente qué objetos de arte se encuentran, en función de su valor. Tira en una tabla tantas veces como objetos de arte haya en la reserva. Puede haber más de un ejemplar de un objeto de arte concreto.</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg25GpArtObject rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg250GpArtObjec rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg750GpArtObjec rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg2500GpArtObje rollable]</p><p>@Embed[Compendium.dnd-dungeon-masters-guide.tables.RollTable.dmg7500GpArtObje rollable]</p>",
+    "documents": [
+      "dmgTreasure00000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
   }
 }
