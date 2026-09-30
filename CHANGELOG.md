@@ -4,6 +4,18 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
+## [0.2.0] - 2026-10-01
+
+### Changed
+
+- Completada la revisión editorial de los 949 campos de diarios: fundamentos,
+  hojas de seguimiento y tesoro; preservados UUID, HTML, cifras y mecánicas.
+- Revisada la concordancia de etiquetas y destinos entre los siete compendios.
+
+### Fixed
+
+- Corregidas la errata «dlos Parajes Feéricos» y la etiqueta «Bastón de golpeo».
+
 ### Added
 
 - Validación con una sesión real Player: objetos privados, observados y propios;
@@ -155,5 +167,6 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## Version Links
 
-[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v0.2.0
 [0.1.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v0.1.1
