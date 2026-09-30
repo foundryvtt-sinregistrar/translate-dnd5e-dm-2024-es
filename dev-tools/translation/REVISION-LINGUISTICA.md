@@ -489,5 +489,23 @@ y el OCR español de las páginas impresas 32–33.
 Se corrigieron calcos y errores de sentido, como «cheques Carisma», «juego
 pesado», «Retratos de PNJ» y «Controles de habilidad». La reaplicación termina
 sin cambios; la auditoría detecta cero errores y diferencias numéricas y pasan
-las 25 pruebas Node. El lote está pendiente de commit y CI. Quedan **61 campos**,
-índices 818–877, además de la concordancia y la validación final en Foundry.
+las 25 pruebas Node. El commit `6da79a3` se integró en `develop` y pasaron los CI de revisión y
+`develop`. En ese punto quedaban **61 campos**, índices 818–877, además de la
+concordancia y la validación final en Foundry.
+
+### Décimo lote de diarios — dirección de partidas
+
+El registro alcanza **906 de 949 campos**, 836 huellas de texto fuente, 320
+textos de página y **43 diarios completos**. Se cotejaron los 18 campos
+818–835 de *Running the Game* con el original inglés y el OCR español selectivo
+(páginas impresas 20–26). Se corrigieron 11 textos; siete títulos ya eran
+adecuados.
+
+Se revisaron las preferencias de los jugadores, el tamaño de grupo, las
+ausencias y las incorporaciones, el rol del DM y la narración. Se corrigieron
+calcos de interfaz y formulaciones que alteraban el sentido, conservando
+UUID, fórmulas, cifras, referencias, comandos y HTML. La reaplicación termina
+sin cambios; la auditoría detecta cero errores y diferencias numéricas y pasan
+las 25 pruebas Node. `git diff --check` también pasa. Pendiente commit y CI.
+Quedan **43 campos**, índices 836–877; la concordancia entre compendios y la
+validación final en Foundry siguen pendientes.

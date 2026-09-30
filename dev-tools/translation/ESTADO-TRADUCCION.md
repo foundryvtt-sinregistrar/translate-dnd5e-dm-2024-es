@@ -14,7 +14,7 @@ final ni interpretar la presencia de un campo como certificación de calidad.
 | Equipo | 548 | 2449 | Cotejo completo de los 2449 campos, incluidas 539 descripciones; contraste terminológico selectivo con el OCR español |
 | Tablas | 125 | 1738 | Revisadas contra el original; contraste español selectivo, nombres y limitaciones documentados |
 | Actores | 72 | 606 | Revisados contra el original; contraste terminológico selectivo con el OCR español |
-| Contenido | 46 | 949 | Borrador de 473 páginas; 888 campos cotejados, revisión parcial |
+| Contenido | 46 | 949 | Borrador de 473 páginas; 906 campos cotejados, revisión parcial |
 | Escenas | 24 | 142 | Textos revisados; no incluye texto incrustado en imágenes |
 | **Total** | **873** | **6021** | **Cobertura estructural, no aprobación lingüística** |
 
@@ -32,8 +32,13 @@ selectiva; no certifica el resto del libro.
 Después se revisaron seis campos, índices 812–817, de *Running Social
 Interaction*. Se corrigieron los tres párrafos; los tres títulos ya eran
 adecuados. La cobertura registrada asciende a **888/949 campos**, 311 textos
-de página y **42 diarios completos**. La revisión lingüística del libro sigue
-abierta.
+de página y **42 diarios completos**.
+
+El lote siguiente cotejó 18 campos, índices 818–835, de *Running the Game*. Se
+corrigieron 11 textos y siete títulos ya eran adecuados. La cobertura alcanza
+**906/949 campos**, 320 textos de página y **43 diarios completos**. Se
+contrastaron los pasajes con el original y el OCR español selectivo (páginas
+impresas 20–26); la revisión del libro sigue parcial.
 
 ## Revisión de diarios — 30 de septiembre de 2026
 
