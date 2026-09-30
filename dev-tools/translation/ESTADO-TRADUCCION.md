@@ -14,7 +14,7 @@ final ni interpretar la presencia de un campo como certificación de calidad.
 | Equipo | 548 | 2449 | Cotejo completo de los 2449 campos, incluidas 539 descripciones; contraste terminológico selectivo con el OCR español |
 | Tablas | 125 | 1738 | Revisadas contra el original; contraste español selectivo, nombres y limitaciones documentados |
 | Actores | 72 | 606 | Revisados contra el original; contraste terminológico selectivo con el OCR español |
-| Contenido | 46 | 949 | Borrador de 473 páginas; 864 campos cotejados, revisión parcial |
+| Contenido | 46 | 949 | Borrador de 473 páginas; 882 campos cotejados, revisión parcial |
 | Escenas | 24 | 142 | Textos revisados; no incluye texto incrustado en imágenes |
 | **Total** | **873** | **6021** | **Cobertura estructural, no aprobación lingüística** |
 
@@ -22,6 +22,12 @@ El recuento incluye nombres propios sin cambios y campos que solo contienen
 referencias técnicas. Se traducen también carpetas, etiquetas de enlaces,
 actividades, efectos, objetos anidados, notas y regiones cuando existen.
 No se traduce texto incrustado en las ilustraciones ni se sustituyen sus recursos.
+
+En el lote del 30 de septiembre se revisaron las 18 filas siguientes, índices
+794–811, del diario *Running Exploration*. Se corrigieron 14 campos; cuatro
+títulos ya eran adecuados. La cobertura registrada asciende a **882/949 campos**,
+308 textos de página y **41 diarios completos**. La revisión es editorial y
+selectiva; no certifica el resto del libro.
 
 ## Revisión de diarios — 30 de septiembre de 2026
 

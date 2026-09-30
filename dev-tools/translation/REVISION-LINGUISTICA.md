@@ -457,3 +457,20 @@ Estos resultados verifican la estructura y el código, no sustituyen la
 validación funcional de Foundry. El lote está pendiente de confirmación y CI.
 Quedan **85 campos**, índices 794–877, además de la concordancia entre
 compendios y la validación final en Foundry.
+
+### Octavo lote de diarios — exploración y viajes
+
+El registro alcanza **882 de 949 campos**, 812 huellas de texto fuente, 308
+textos de página y **41 diarios completos**. Se revisaron las 18 filas 794–811
+de *Running Exploration* y se corrigieron 14 campos; cuatro títulos ya eran
+adecuados. Se cotejaron exploración, mapas, tiempo, acciones, Percepción,
+viajes por etapas, desafíos, ritmo de viaje y clima con el original y el OCR
+español selectivo (páginas impresas 33–39).
+
+Se restituyeron términos y frases alterados, como «entorno natural»,
+«mazmorra», «Ciudad Libre de Falcongrís», «Apariencia» y «hexágonos»; se
+conservaron las unidades y cifras del compendio de Foundry, las fórmulas,
+tiradas, referencias, inclusiones y estructura HTML. La reaplicación termina
+sin cambios, la auditoría no detecta errores ni diferencias numéricas y pasan
+las 25 pruebas Node. El lote está pendiente de commit y CI. Quedan **67 campos**,
+índices 812–877, la concordancia entre compendios y la validación final en Foundry.
