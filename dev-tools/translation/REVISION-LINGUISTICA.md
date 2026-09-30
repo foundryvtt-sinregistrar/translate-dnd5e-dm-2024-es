@@ -567,3 +567,17 @@ arte; se conservaron UUID, HTML, cifras y unidades. La reaplicación no presenta
 cambios, la auditoría no detecta errores ni diferencias numéricas y pasan las
 25 pruebas Node. La revisión editorial de diarios queda completa; sigue T08,
 la concordancia entre compendios.
+
+### Concordancia entre compendios
+
+Se cotejaron los destinos y las etiquetas visibles de los enlaces de los siete
+compendios en los casos pendientes registrados. Se corrigieron «dlos Parajes
+Feéricos» y la etiqueta de UUID «Bastón de golpeo», que coincide ahora con el
+objeto destino «Bastón de golpe». Se mantuvieron las denominaciones coherentes:
+Flaenia/Falcongrís, Desierto Brillante, ramas marchitas, instrumentos, guantes
+para atrapar proyectiles y Derrumbe de rocas.
+
+Las menciones narrativas de los ríos Estigio y Estigia se conservan según su
+contexto editorial; no se modificó ningún UUID ni destino. La reaplicación no
+presenta cambios, la auditoría no informa errores ni diferencias numéricas y
+las 25 pruebas Node pasan.

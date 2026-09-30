@@ -60,8 +60,8 @@ a **935/949 campos**; solo queda por revisar el diario *Treasure*.
 
 El lote de *Treasure* revisó los índices 864–877, incluidos temas de tesoro,
 monedas, lingotes, mercancías, gemas y objetos de arte. La cobertura de diarios
-alcanza **949/949 campos** y 878 textos fuente únicos. Persisten la concordancia
-entre compendios y las validaciones funcionales de cierre.
+alcanza **949/949 campos** y 878 textos fuente únicos. La concordancia entre
+compendios queda revisada; persisten las validaciones funcionales de cierre.
 
 ## Revisión de diarios — 30 de septiembre de 2026
 
