@@ -509,3 +509,18 @@ sin cambios; la auditoría detecta cero errores y diferencias numéricas y pasan
 las 25 pruebas Node. `git diff --check` también pasa. Pendiente commit y CI.
 Quedan **43 campos**, índices 836–877; la concordancia entre compendios y la
 validación final en Foundry siguen pendientes.
+
+### Undécimo lote de diarios — conceptos básicos, primera parte
+
+El registro alcanza **911 de 949 campos**, 840 huellas de texto fuente, 324
+textos de página y **43 diarios completos**. Se revisaron los índices 836–839
+de *The Basics*: el título del diario, que también alimenta el título de su
+primera página, «Qué conlleva ser DM?», su contenido y «Qué necesitas».
+
+Se corrigieron los cinco destinos afectados, incluidos los papeles del DM, los
+consejos de dirección de partida y las etiquetas de capítulos y recursos. Se
+conservaron los UUID, enlaces externos, HTML y cifras. La reaplicación termina
+sin cambios; la auditoría detecta cero errores y diferencias numéricas y pasan
+las 25 pruebas Node. `git diff --check` también pasa. Pendiente commit y CI.
+El sublote no acredita los índices 840–851, que siguen en revisión antes de
+continuar con el resto de *The Basics*.

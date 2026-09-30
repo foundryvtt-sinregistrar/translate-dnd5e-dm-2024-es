@@ -5910,5 +5910,33 @@
       "dmgRunningTheGam"
     ],
     "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo, revision realizada el 2026-09-30."
+  },
+  "a5e729fb76c8c30039cbdb4c1a1f631f73d7ab50ff8ef6020e05dd5700f104f7": {
+    "translation": "Conceptos básicos",
+    "documents": [
+      "dmgTheBasics0000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "3f2de3e85efdba55ea451a0aadd9b8a870304691fc347ba0cbc72073c95bb04e": {
+    "translation": "¿Qué conlleva ser DM?",
+    "documents": [
+      "dmgTheBasics0000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "fdd9404edb62b660bac7f5b83e643e70192911264f7a91345d098a563d5a10a9": {
+    "translation": "<p>El DM desempeña muchos papeles divertidos:</p><p><strong>Intérprete.</strong> El DM interpreta a los monstruos, elige sus acciones y tira los dados para sus ataques. También da vida a todas las personas con las que se encuentran los personajes.</p><p><strong>Director.</strong> Como quien dirige una película, el DM decide y describe lo que encuentran los personajes de los jugadores durante una aventura. También marca el ritmo de la sesión y crea situaciones que hacen que la partida sea divertida.</p><p><strong>Improvisador.</strong> Ser DM implica decidir sobre la marcha cómo aplicar las reglas e imaginar las consecuencias de las acciones de los personajes para que todo el mundo se divierta.</p><p><strong>Árbitro.</strong> Cuando no está claro qué debería ocurrir, el DM decide cómo aplicar las reglas.</p><p><strong>Narrador.</strong> El DM crea aventuras y plantea situaciones que animan a los personajes a explorar e interactuar con el mundo de juego.</p><p><strong>Docente.</strong> A menudo, el DM también enseña a jugar a quienes se inician.</p><p><strong>Creador de mundos.</strong> El DM crea el mundo en el que transcurren las aventuras. Aunque uses un mundo publicado, puedes hacerlo tuyo.</p><h2>Consejos para el DM</h2><p>Lo más importante para ser un buen DM es conseguir que todos se diviertan en la mesa. Ten presentes estos consejos para que la partida fluya.</p><p><strong>Disfrutad de una historia compartida.</strong> D&amp;D consiste en contar una historia en grupo. Deja que los demás jugadores contribuyan con las palabras y acciones de sus personajes. Anímalos a participar preguntándoles qué hacen sus personajes.</p><p><strong>No es una competición.</strong> El DM no compite contra los demás jugadores. Tu tarea consiste en plantear desafíos divertidos y mantener la historia en marcha.</p><p><strong>Sé justo y flexible.</strong> Trata a los jugadores con imparcialidad. Las reglas te ayudan a hacerlo, pero, cuando tengas que arbitrar, procura tomar decisiones que permitan que todos se diviertan.</p><p><strong>Comunícate con los jugadores.</strong> Una comunicación sincera es esencial para que la partida salga bien. Muchas dificultades se pueden resolver, e incluso prevenir, hablando con franqueza. Haz preguntas y pide opiniones durante las sesiones o al terminar.</p><p><strong>No pasa nada por equivocarse.</strong> Si pasas algo por alto o lo representas de forma incorrecta, corrígelo y sigue adelante. Nadie espera que memorices todas las reglas y todos los detalles. Aunque no te des cuenta del error hasta después de la partida, puedes reconocerlo al principio de la siguiente sesión y hacer los ajustes necesarios.</p><aside class=\"notable\"><h3>¿Qué novedades incluye la versión de 2024?</h3><p>Esta es la versión de 2024 de la quinta edición de la <em>Guía del Dungeon Master</em>. El libro se ha reorganizado, ampliado y reescrito en gran parte con respecto a la edición de 2014. Esta versión sustituye a las de libros anteriores. Estas son algunas de sus novedades:</p><p><strong>Consejos útiles.</strong> Todos los capítulos, y en especial los capítulos 1, @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgRunningTheGam]{2}, @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCreatingAdven]{4} y @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgCreatingCampa]{5}, ofrecen nuevos consejos para <span>Dungeon</span> Masters de cualquier nivel de experiencia.</p><p><strong>Hojas de seguimiento.</strong> A lo largo del libro encontrarás hojas que te ayudarán a planificar la partida y llevar el seguimiento de la campaña. También están disponibles en DnDBeyond.com.</p><p><strong>Ayuda para crear encuentros.</strong> Las reglas para calcular la dificultad de los encuentros de combate han cambiado, como verás en @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgPlanEncounter.JournalEntryPage.WKL34lGhm9cZOavY#combat-encounter-difficulty]{el capítulo 4}.</p><p><strong>Recursos preparados.</strong> Las aventuras de ejemplo del @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgAdventureExam]{capítulo 4}, el @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgGreyhawk00000]{escenario de campaña} del capítulo 5 y los @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBMaps00000000]{nuevos mapas} del apéndice B te ayudarán a dirigir una partida de inmediato.</p><p><strong>Objetos mágicos ampliados y revisados.</strong> El @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgTreasure00000]{capítulo 7} está repleto de @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgMagicItems000]{objetos mágicos} nuevos y de otros ya existentes que se han revisado.</p><p><strong>Bastiones.</strong> El @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgBastions00000]{capítulo 8} contiene reglas para que los personajes jugadores construyan, mantengan y disfruten de sus propios bastiones.</p><p><strong>Glosario de conocimientos.</strong> En el @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgALoreGlossary]{apéndice A} encontrarás un glosario que explica quiénes son y dónde están muchos personajes y lugares emblemáticos del multiverso de D&amp;D.</p></aside>",
+    "documents": [
+      "dmgTheBasics0000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
+  },
+  "23bb63c32f46d9acc8b8d7fd6db140d956645044f5c50a4dd78db59a925dfa55": {
+    "translation": "Qué necesitas",
+    "documents": [
+      "dmgTheBasics0000"
+    ],
+    "reference": "Cotejo semantico completo con DMG 2.0.0 y OCR espanol selectivo; revision realizada el 2026-09-30."
   }
 }

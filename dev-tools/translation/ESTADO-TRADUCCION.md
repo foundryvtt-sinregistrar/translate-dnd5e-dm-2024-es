@@ -14,7 +14,7 @@ final ni interpretar la presencia de un campo como certificación de calidad.
 | Equipo | 548 | 2449 | Cotejo completo de los 2449 campos, incluidas 539 descripciones; contraste terminológico selectivo con el OCR español |
 | Tablas | 125 | 1738 | Revisadas contra el original; contraste español selectivo, nombres y limitaciones documentados |
 | Actores | 72 | 606 | Revisados contra el original; contraste terminológico selectivo con el OCR español |
-| Contenido | 46 | 949 | Borrador de 473 páginas; 906 campos cotejados, revisión parcial |
+| Contenido | 46 | 949 | Borrador de 473 páginas; 911 campos cotejados, revisión parcial |
 | Escenas | 24 | 142 | Textos revisados; no incluye texto incrustado en imágenes |
 | **Total** | **873** | **6021** | **Cobertura estructural, no aprobación lingüística** |
 
@@ -39,6 +39,12 @@ corrigieron 11 textos y siete títulos ya eran adecuados. La cobertura alcanza
 **906/949 campos**, 320 textos de página y **43 diarios completos**. Se
 contrastaron los pasajes con el original y el OCR español selectivo (páginas
 impresas 20–26); la revisión del libro sigue parcial.
+
+El primer sublote de *The Basics* revisó los índices 836–839: el título del
+diario se aplica también a su primera página. Se corrigieron cinco destinos
+(dos correspondientes a la misma fuente) y la cobertura alcanza **911/949
+campos**, 324 textos de página y **43 diarios completos**. Los diarios largos
+restantes del capítulo siguen pendientes de cotejo editorial.
 
 ## Revisión de diarios — 30 de septiembre de 2026
 
