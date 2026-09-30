@@ -472,5 +472,22 @@ Se restituyeron términos y frases alterados, como «entorno natural»,
 conservaron las unidades y cifras del compendio de Foundry, las fórmulas,
 tiradas, referencias, inclusiones y estructura HTML. La reaplicación termina
 sin cambios, la auditoría no detecta errores ni diferencias numéricas y pasan
-las 25 pruebas Node. El lote está pendiente de commit y CI. Quedan **67 campos**,
+las 25 pruebas Node. El lote se integró en `5a2ee7f`; los CI de revisión y
+`develop` pasaron. Quedan **67 campos**,
 índices 812–877, la concordancia entre compendios y la validación final en Foundry.
+
+### Noveno lote de diarios — interacción social
+
+El registro alcanza **888 de 949 campos**, 818 huellas de texto fuente, 311
+textos de página y **42 diarios completos**. Se revisaron los seis campos
+812–817 de *Running Social Interaction*; se corrigieron los tres párrafos y
+sus tres títulos ya eran adecuados. Se cotejaron la meta del encuentro, la
+interpretación y representación de PNJ, la participación de los jugadores,
+las actitudes, las pruebas de característica y la acción Ayudar con el original
+y el OCR español de las páginas impresas 32–33.
+
+Se corrigieron calcos y errores de sentido, como «cheques Carisma», «juego
+pesado», «Retratos de PNJ» y «Controles de habilidad». La reaplicación termina
+sin cambios; la auditoría detecta cero errores y diferencias numéricas y pasan
+las 25 pruebas Node. El lote está pendiente de commit y CI. Quedan **61 campos**,
+índices 818–877, además de la concordancia y la validación final en Foundry.

@@ -5742,5 +5742,47 @@
       "dmgRunningExplor"
     ],
     "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "34ec7aabc6b63955f3fddc593c0869e3a37a1c7fd4a8d81a851ceb1a9292e28f": {
+    "translation": "Dirigir la interacción social",
+    "documents": [
+      "dmgRunningSocial"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "3eb4d58f876c08cc70dec4c238cd1b9fa2f95c0a69f1ff0b29c104f4580617da": {
+    "translation": "<p>Durante una interacción social, los aventureros suelen perseguir un objetivo: obtener información o ayuda, ganarse la confianza de alguien, evitar un castigo o un combate, negociar un tratado o conseguir otra cosa. Completar el encuentro con éxito significa alcanzar ese objetivo.</p><p>Algunos DM plantean la interacción social como una oportunidad abierta para interpretar, en la que apenas se tiran dados. Otros resuelven estas interacciones pidiendo pruebas de Carisma a los personajes. La mayoría de las partidas se sitúa en un punto intermedio, donde se combina la interpretación con alguna prueba de característica ocasional.</p>",
+    "documents": [
+      "dmgRunningSocial"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "322dd4c99a12dc7de73237f81870f4cfc40388d00f68e2df4cdf6ef1c1eb2084": {
+    "translation": "Interpretación",
+    "documents": [
+      "dmgRunningSocial"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "ada66c48458f7ceb34db780a38b2feecd292e5a59dd962a6ee1261781a37f357": {
+    "translation": "<p>No hace falta ser actor ni cómico profesional para crear humor o drama mediante la interpretación. La clave está en fijarte en los elementos de la historia y en las personalidades que hacen reír o emocionan a tus jugadores, e incorporarlos a la interpretación.</p><h2>Representar a los PNJ</h2><p>Cuando pienses cómo interpretar a un PNJ o un monstruo, elige uno o dos adjetivos que describan mejor a la criatura. También puede ayudarte conocer su alineamiento. El consejo clásico para escritores sigue siendo válido: muestra, no cuentes. Por ejemplo, en vez de decir que un PNJ es jovial y honrado, haz que cuente juegos de palabras y comparta anécdotas personales.</p><p>Puedes enriquecer la interpretación de una criatura de estas maneras:</p><p><em><strong>Usa expresiones faciales.</strong></em> Tus expresiones ayudan a transmitir lo que siente la criatura. Sonríe, frunce el ceño, gruñe, bosteza o haz un mohín, según corresponda.</p><p><em><strong>Usa movimientos y posturas.</strong></em> Los movimientos y la postura ayudan a definir la personalidad de un PNJ. Puedes mostrar el desagrado de un archimago poniendo los ojos en blanco y masajeándote las sienes. Agachar la cabeza y mirar a los jugadores desde abajo transmite sumisión o miedo. Mantener la cabeza y la barbilla altas transmite confianza.</p><p><em><strong>Usa distintas voces.</strong></em> Cambiar el volumen y tomar prestados patrones del habla de la vida real, el cine o la televisión puede dar personalidad a los PNJ.</p><h2>Implicar a los jugadores</h2><p>Aunque algunos jugadores disfrutan más que otros con la interpretación, las interacciones sociales ayudan a todos a sumergirse en la partida. Prueba estos enfoques para que las sesiones con mucha interacción resulten atractivas para jugadores de distintos gustos.</p><p><em><strong>Adáptate a las preferencias de los jugadores. </strong></em>A quienes disfrutan actuando (consulta @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgRunningTheGam.JournalEntryPage.tiekOc44JRTfFZgS]{Conoce a tus jugadores}) se les suelen dar bien las interacciones sociales. Déjales ocupar el centro de atención y animar a los demás con su ejemplo, pero adapta también esas interacciones a los gustos del resto.</p><p><em><strong>Involucra a personajes concretos.</strong></em> Si algunos jugadores no suelen participar en las interacciones sociales, crea situaciones pensadas para sus personajes. Quizá el PNJ sea familiar o contacto de uno de los aventureros y centre la atención en él. Algunos PNJ también pueden sentirse afines a ciertos personajes.</p><p>Si un par de jugadores lleva casi toda la conversación, haz una pausa de vez en cuando para implicar a alguien más. El PNJ podría dirigirse directamente a otro personaje: «¿Y qué ofrece tu amigo grandullón a cambio de mi favor?». Si a un jugador le incomoda interpretar, pídele que describa lo que hace su personaje durante la conversación.</p><p><em><strong>Usa otras puntuaciones de característica.</strong></em> Estas opciones pueden dar ocasión de brillar a los personajes cuyo punto fuerte no sea el Carisma:</p><p><strong>Fuerza.</strong> Un PNJ se niega a hablar hasta que uno de los personajes acepta echar un pulso. O quizá un personaje fuerte tenga que impedir físicamente que el PNJ escape.</p><p><strong>Destreza. </strong>Un PNJ hostil a los intrusos obliga a los personajes a hablar desde un escondite. O la conversación sirve de distracción para que uno se acerque y robe algo de los bolsillos del PNJ.</p><p><strong>Inteligencia.</strong> El PNJ emplea tantas referencias crípticas a un campo de conocimiento que los personajes no pueden aprovechar la información hasta descifrarlas. O se niega a responder directamente y solo da pistas vagas que los personajes deben relacionar para conseguir la información que buscan.</p><p><strong>Sabiduría.</strong> El PNJ oculta algo importante y los personajes deben interpretar sus señales no verbales para distinguir la verdad del engaño. O la información clave está en detalles de la sala que puede advertir un personaje perspicaz.</p>",
+    "documents": [
+      "dmgRunningSocial"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "b43ccb6b3ea7dcb81d90c7510aa44d3e7782f77cabddf02b30c44edaeff708c2": {
+    "translation": "Actitud",
+    "documents": [
+      "dmgRunningSocial"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
+  },
+  "f1e986e5fb144be31a433b7e04b8038f2f1280f232439acc9b49abc963fe95bc": {
+    "translation": "<p>Cada criatura controlada por el DM tiene una de estas actitudes hacia los aventureros: amistosa, indiferente u hostil. La sección @UUID[Compendium.dnd-dungeon-masters-guide.content.JournalEntry.dmgPlanEncounter.JournalEntryPage.Qa7LIRWcz3vC9lVb]{Comportamiento de los monstruos} ofrece pautas para determinar la actitud inicial de una criatura.</p><p>Los personajes pueden cambiar la actitud de una criatura con sus palabras o acciones. Por ejemplo, invitar a unas bebidas a un grupo de mineros indiferentes podría volverlos amistosos. Cuando cambie la actitud, descríbeselo a los jugadores. Los mineros podrían mostrar su nueva simpatía compartiendo información útil, prometiendo devolver el gesto en el futuro o retando a los personajes a un concurso amistoso de bebida.</p><h2>Pruebas de característica en las interacciones sociales</h2><p>Tú decides hasta qué punto las pruebas de característica influyen en el resultado de una interacción social. Una interacción sencilla puede consistir en una breve conversación y una única prueba de Carisma; un encuentro más complejo puede requerir varias pruebas para orientar el curso de la conversación.</p><h2>Usar la acción Ayudar</h2><p>Cuando un personaje usa la acción Ayudar para que otro influya en un PNJ o un monstruo, anima al jugador del personaje que ayuda a participar en la conversación o, al menos, a describir qué hace o dice su personaje para contribuir al éxito del otro.</p>",
+    "documents": [
+      "dmgRunningSocial"
+    ],
+    "reference": "Cotejo semántico completo del campo con DMG 2.0.0; OCR español selectivo para terminología, 2026-09-29."
   }
 }
