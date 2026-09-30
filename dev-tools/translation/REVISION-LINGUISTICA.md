@@ -538,3 +538,15 @@ termina sin cambios; la auditoría detecta cero errores y diferencias numéricas
 y pasan las 25 pruebas Node. `git diff --check` también pasa. Pendiente commit
 y CI. Los dos textos extensos de los índices 840 y 847 quedan fuera de este
 sublote y siguen en revisión editorial.
+
+### Decimotercer lote de diarios — conceptos básicos, cierre
+
+El registro alcanza **923 de 949 campos** y 852 huellas de texto fuente. Se
+cotejaron los índices 840 y 847 de *The Basics* contra el original y el OCR
+español selectivo: recursos de mesa y virtuales, el ejemplo completo de juego,
+sus siete anotaciones y la regla de la diversión.
+
+Se conservaron los UUID, enlaces, HTML y cifras. La reaplicación termina sin
+cambios; la auditoría detecta cero errores y diferencias numéricas, las 25
+pruebas Node pasan y `git diff --check` no informa errores. Siguiente lote:
+índices 852–863 de *Tracking Sheets*.
