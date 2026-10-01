@@ -1,5 +1,13 @@
 # Guía del Dungeon Master (2024) — Traducción al español
 
+**Versión actual — Foundry v14**
+
+![Foundry v14](https://img.shields.io/badge/Foundry-v14-green)
+[![Release v1.14.0](https://img.shields.io/badge/release-v1.14.0-blue)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v1.14.0)
+![dnd5e 6.0.3](https://img.shields.io/badge/dnd5e-6.0.3-blue)
+![Babele 2.9.1 required](https://img.shields.io/badge/Babele-2.9.1_required-orange)
+![DMG 2024 required](https://img.shields.io/badge/DMG_2024-required-orange)
+
 **Español** | [English](README.en.md)
 
 Traducción para Foundry VTT mediante Babele. Identificador: `translate-dnd5e-dm-2024-es`.
