@@ -2,7 +2,7 @@
   "id": "translate-dnd5e-dm-2024-es",
   "title": "Translation: DnD5e DMG 2024 Spanish (Babele)",
   "description": "Traducción al español de la Guía del Dungeon Master 2024 mediante Babele. Cobertura completa de 873 documentos y revisión editorial de diarios completada. Versión preliminar.",
-  "version": "0.2.1",
+  "version": "1.14.0",
   "compatibility": {
     "minimum": "14.368",
     "verified": "14.368"
@@ -58,7 +58,7 @@
   ],
   "url": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es",
   "manifest": "https://raw.githubusercontent.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/main/module.json",
-  "download": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/download/v0.2.1/translate-dnd5e-dm-2024-es.zip",
+  "download": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/download/v1.14.0/translate-dnd5e-dm-2024-es.zip",
   "changelog": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases",
   "bugs": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/issues",
   "readme": "https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/blob/main/README.md",

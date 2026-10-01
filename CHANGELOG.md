@@ -4,7 +4,7 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
-## [0.2.1] - 2026-10-01
+## [1.14.0] - 2026-10-01
 
 ### Added
 
@@ -175,7 +175,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## Version Links
 
-[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/compare/v0.2.1...HEAD
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/compare/v1.14.0...HEAD
+[1.14.0]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v1.14.0
 [0.2.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v0.2.1
 [0.2.0]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v0.2.0
 [0.1.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v0.1.1
