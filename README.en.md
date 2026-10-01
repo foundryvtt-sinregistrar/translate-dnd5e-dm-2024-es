@@ -6,7 +6,7 @@ Translation for Foundry VTT using Babele. Module ID: `translate-dnd5e-dm-2024-es
 
 ## Status
 
-Version: **0.2.0**. Preliminary version. Includes seven compendiums, 873 documents and 6021 covered text fields according to the project inventory. Editorial review of all 949 journal fields and cross-compendium consistency are complete. Project records document validation in Foundry 14.368 and dnd5e 6.0.3.
+Version: **0.2.1**. Preliminary version. Includes seven compendiums, 873 documents and 6021 covered text fields according to the project inventory. Editorial review of all 949 journal fields and cross-compendium consistency are complete. Project records document validation in Foundry 14.368 and dnd5e 6.0.3.
 
 See [CHANGELOG.md](CHANGELOG.md).
 

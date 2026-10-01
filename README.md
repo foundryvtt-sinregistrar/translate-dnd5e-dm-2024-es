@@ -6,7 +6,7 @@ Traducción para Foundry VTT mediante Babele. Identificador: `translate-dnd5e-dm
 
 ## Estado
 
-Versión: **0.2.0**. Versión preliminar. Incluye siete compendios, 873 documentos y 6021 campos de texto cubiertos según el inventario del proyecto. La revisión editorial de los 949 campos de diarios y la concordancia entre compendios están completadas. El historial acredita validación en Foundry 14.368 y dnd5e 6.0.3.
+Versión: **0.2.1**. Versión preliminar. Incluye siete compendios, 873 documentos y 6021 campos de texto cubiertos según el inventario del proyecto. La revisión editorial de los 949 campos de diarios y la concordancia entre compendios están completadas. El historial acredita validación en Foundry 14.368 y dnd5e 6.0.3.
 
 Consulta [CHANGELOG.md](CHANGELOG.md).
 

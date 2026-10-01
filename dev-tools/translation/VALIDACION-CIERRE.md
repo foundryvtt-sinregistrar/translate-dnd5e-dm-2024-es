@@ -187,3 +187,23 @@ pendiente de confirmar su eliminación definitiva por la interfaz.
 
 Esta prueba acredita permisos NONE/OBSERVER/OWNER en esas muestras y un enlace
 de diario; no acredita todos los permisos de actores ni el combate como jugador.
+
+## Revalidación final de catálogo — 1 de octubre de 2026
+
+En el mundo `testing`, como GM, con Foundry 14.368, dnd5e 6.0.3 e idioma
+español, el commit de cierre se comprobó mediante
+`validatePilot({allEntries:true, importDocuments:false})`.
+
+- 873 documentos comprobados; cero errores y cero enlaces sin resolver.
+- La primera pasada señaló 42 enlaces externos: 30 a PHB y 12 a MM. Al activar
+  temporalmente los dos compendios oficiales, todos se resolvieron. No se
+  modificó ningún UUID ni destino de la traducción.
+- Se inspeccionaron las muestras QA existentes: una entrada de diario con tabla
+  embebida y enlace de compendio, la tabla «Clímax para aventuras» con una
+  tirada `1d10`, y Poción de curación y Daga de veneno con sus actividades,
+  recursos, CD y resultado en español.
+
+Evidencia local ignorada: `dev-tools/export/data/dmg-translation-validation.json`
+(2026-10-01T11:26:26.575Z). Tras la prueba se restauró el comando de la macro,
+la pausa, la escena y el reloj; los seis módulos temporales se desactivaron y
+el mundo se recargó con cero módulos activos.

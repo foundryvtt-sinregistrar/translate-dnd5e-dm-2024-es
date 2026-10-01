@@ -4,6 +4,14 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [Unreleased]
 
+## [0.2.1] - 2026-10-01
+
+### Added
+
+- Revalidación final del catálogo en Foundry 14.368 y dnd5e 6.0.3: 873
+  documentos, cero errores y cero enlaces sin resolver. Se registraron las
+  muestras de diario, tabla y objetos y se restauró el mundo Testing.
+
 ## [0.2.0] - 2026-10-01
 
 ### Changed
@@ -167,6 +175,7 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## Version Links
 
-[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/compare/v0.2.0...HEAD
+[Unreleased]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/compare/v0.2.1...HEAD
+[0.2.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v0.2.1
 [0.2.0]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v0.2.0
 [0.1.1]: https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v0.1.1
