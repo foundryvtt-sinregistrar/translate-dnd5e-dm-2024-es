@@ -1,29 +1,11 @@
-export function mergeById(source, translation) {
-  if (!source || typeof source !== "object" || !translation || typeof translation !== "object") {
-    return source;
-  }
+import { translateById, activityPaths, effectPaths, tablePaths, scenePaths } from "./text-only.js";
 
-  const out = foundry.utils.deepClone(source);
-  for (const [id, patch] of Object.entries(translation)) {
-    if (!patch || typeof patch !== "object") continue;
-
-    if (Array.isArray(out)) {
-      const target = out.find((row) => (row?._id ?? row?.id) === id);
-      if (target) foundry.utils.mergeObject(target, patch, { insertKeys: true, overwrite: true, inplace: true });
-      continue;
-    }
-
-    if (out[id]) {
-      foundry.utils.mergeObject(out[id], patch, { insertKeys: true, overwrite: true, inplace: true });
-    }
-  }
-  return out;
-}
-
-export const dmg2024ActivitiesById = mergeById;
-export const dmg2024EffectsById = mergeById;
-export const dmg2024AdvancementById = mergeById;
-export const dmg2024TableResultsById = mergeById;
+// Retained export for callers localizing general labels.
+export const mergeById = (source, translation) => translateById(source, translation, scenePaths);
+export const dmg2024ActivitiesById = (source, translation) => translateById(source, translation, activityPaths, "activity");
+export const dmg2024EffectsById = (source, translation) => translateById(source, translation, effectPaths);
+export const dmg2024AdvancementById = (source, translation) => translateById(source, translation, ["hint"], "advancement");
+export const dmg2024TableResultsById = (source, translation) => translateById(source, translation, tablePaths);
 export const dmg2024SceneTextById = mergeById;
 
 export function dmg2024JournalPagesById(source, translation) {
@@ -80,12 +62,12 @@ export function dmg2024ActorItemsById(source, translation) {
     }
     if (patch.activities) {
       item.system ??= {};
-      item.system.activities = mergeById(item.system.activities ?? {}, patch.activities);
+    item.system.activities = dmg2024ActivitiesById(item.system.activities ?? {}, patch.activities);
     }
-    if (patch.effects) item.effects = mergeById(item.effects ?? [], patch.effects);
+    if (patch.effects) item.effects = dmg2024EffectsById(item.effects ?? [], patch.effects);
     if (patch.advancement) {
       item.system ??= {};
-      item.system.advancement = mergeById(item.system.advancement ?? [], patch.advancement);
+    item.system.advancement = dmg2024AdvancementById(item.system.advancement ?? [], patch.advancement);
     }
   }
   return out;
