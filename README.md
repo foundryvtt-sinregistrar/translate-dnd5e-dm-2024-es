@@ -1,9 +1,10 @@
 # Guía del Dungeon Master (2024) — Traducción al español
 
+**Español** | [English](README.en.md)
+
 **Versión actual — Foundry v14**
 
 ![Foundry v14](https://img.shields.io/badge/Foundry-v14-green)
-[![Release v1.14.0](https://img.shields.io/badge/release-v1.14.0-blue)](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/tag/v1.14.0)
 ![dnd5e 6.0.3](https://img.shields.io/badge/dnd5e-6.0.3-blue)
 ![Babele 2.9.1 required](https://img.shields.io/badge/Babele-2.9.1_required-orange)
 ![DMG 2024 required](https://img.shields.io/badge/DMG_2024-required-orange)
@@ -46,7 +47,7 @@ Instala y activa las dependencias, adquiriendo por separado los productos oficia
 En la configuración de Foundry, abre **Add-on Modules → Install Module** y utiliza este manifiesto:
 
 ```text
-https://raw.githubusercontent.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/main/module.json
+https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases/latest/download/module.json
 ```
 
 Para instalar manualmente, descarga `translate-dnd5e-dm-2024-es.zip` de las [releases](https://github.com/foundryvtt-sinregistrar/translate-dnd5e-dm-2024-es/releases). Con Foundry detenido, extrae la carpeta `translate-dnd5e-dm-2024-es` en `Data/modules/`; el manifiesto debe quedar en `Data/modules/translate-dnd5e-dm-2024-es/module.json`.

@@ -166,6 +166,8 @@ Las nuevas entradas se redactan en español, bajo `[Unreleased]` y las categorí
 
 ## [0.1.0] - 2026-09-22 — Versión preliminar
 
+### Added
+
 - Primera publicación instalable, con manifiesto remoto y ZIP de distribución.
 - Cobertura completa de siete compendios: 873 documentos y 6021 campos de texto.
 - Glosario, 23 rasgos y 35 instalaciones de bastión revisados con fuentes españolas.
