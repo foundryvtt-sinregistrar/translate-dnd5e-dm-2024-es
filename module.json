@@ -47,10 +47,7 @@
       }
     ]
   },
-  "esmodules": [
-    "scripts/converters.js",
-    "scripts/babele-register.js"
-  ],
+  "esmodules": ["scripts/converters.js", "scripts/babele-register.js"],
   "authors": [
     {
       "name": "foundryvtt-sinregistrar"
