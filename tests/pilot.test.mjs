@@ -52,6 +52,19 @@ test("activities stored as a dictionary preserve formulas and activation", () =>
   assert.deepEqual(result, {heal: {...source.heal, name: "Consumir"}});
   assert.equal(source.heal.name, "Consume");
 });
+test("DMG 3.0.0 dragon scale armor uses the new activity labels", () => {
+  const translation = read("../compendium/dnd-dungeon-masters-guide.equipment.json");
+  const armor = translation.entries.dmgDragonScaleMa;
+  const activities = {
+    "3vLZtP5MLzk6zV1K": {name: "Discern Dragon", activation: {type: "action"}},
+    bBaVd9Qep4LlHLJc: {name: "Set Dragon Scale Type", type: "enchant"}
+  };
+  assert.deepEqual(converters.dmg2024ActivitiesById(activities, armor.activities), {
+    "3vLZtP5MLzk6zV1K": {...activities["3vLZtP5MLzk6zV1K"], name: "Detectar dragón"},
+    bBaVd9Qep4LlHLJc: {...activities.bBaVd9Qep4LlHLJc, name: "Seleccionar tipo de dragón"}
+  });
+  assert.match(translation.entries.dmgFirePotionOfG.description, /Fuerza pasa a ser 25/);
+});
 test("runtime validator tolerates HTML boundary whitespace but rejects untranslated text", () => {
   checkTranslation({system: {description: {value: "<p>Español</p>"}}}, {description: "<p>Español</p>\n"}, {description: "system.description.value"});
   assert.throws(() => checkTranslation({name: "English"}, {name: "Español"}, {}));
@@ -72,7 +85,17 @@ for (const pack of ["features", "equipment", "bastions", "tables", "actors", "co
   test(`complete pack ${pack}: original IDs, technical references and untouched mechanics`, {skip: !existsSync(sourcePath)}, () => {
     const source = JSON.parse(readFileSync(sourcePath, "utf8"));
     const translation = read(`../compendium/${filename}.json`);
-    for (const [id, entry] of Object.entries(translation.entries)) {
+    for (const [id, patchEntry] of Object.entries(translation.entries)) {
+      const entry = structuredClone(patchEntry);
+      if (id === "dmgDragonScaleMa") {
+        // The armor has a different set of activity IDs in the two supported source exports.
+        if (source.sourceVersion === "2.0.0") {
+          delete entry.activities["3vLZtP5MLzk6zV1K"];
+          delete entry.activities.bBaVd9Qep4LlHLJc;
+        } else {
+          delete entry.activities.bXwjIvHcsOYbGkj6;
+        }
+      }
       const original = source.documents.find(doc => doc._id === id);
       assert.ok(original, `Unknown source ${id}`);
       const before = structuredClone(original);
